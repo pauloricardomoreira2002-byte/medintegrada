@@ -1,0 +1,112 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 480" width="900" height="480">
+  <defs>
+    <linearGradient id="bgGrad10" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f8fafc"/>
+      <stop offset="100%" stop-color="#f1f5f9"/>
+    </linearGradient>
+    <filter id="shadow10" x="-5%" y="-5%" width="110%" height="110%">
+      <feDropShadow dx="2" dy="4" stdDeviation="4" flood-color="#64748b" flood-opacity="0.15"/>
+    </filter>
+  </defs>
+
+  <rect width="900" height="480" rx="16" fill="url(#bgGrad10)" stroke="#cbd5e1" stroke-width="2"/>
+
+  <!-- Cabeçalho -->
+  <rect x="25" y="18" width="850" height="55" rx="10" fill="#1e3a8a" filter="url(#shadow10)"/>
+  <text x="450" y="48" font-family="'Segoe UI', Roboto, sans-serif" font-size="19" font-weight="bold" fill="#ffffff" text-anchor="middle">
+    ALGORITMO TERAPÊUTICO INTEGRADO: ARTRITE SÉPTICA &amp; OSTEOMIELITE
+  </text>
+  <text x="450" y="65" font-family="'Segoe UI', Roboto, sans-serif" font-size="11.5" fill="#bfdbfe" text-anchor="middle">
+    Sequência de condutas: coleta de culturas, antibioticoterapia empírica imediata e drenagem obrigatória
+  </text>
+
+  <!-- Lado Esquerdo: Algoritmo da Artrite Séptica -->
+  <g transform="translate(30, 92)" filter="url(#shadow10)">
+    <rect width="405" height="365" rx="12" fill="#ffffff" stroke="#ef4444" stroke-width="2"/>
+    <rect x="0" y="0" width="405" height="40" rx="12" fill="#dc2626"/>
+    <text x="202" y="25" font-family="'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="bold" fill="#ffffff" text-anchor="middle">
+      ARTRITE SÉPTICA: A CONDUTA DE EMERGÊNCIA
+    </text>
+
+    <!-- Passo 1: Punção e Hemoculturas -->
+    <g transform="translate(15, 50)">
+      <rect width="375" height="55" rx="6" fill="#eff6ff" stroke="#3b82f6" stroke-width="1.5"/>
+      <text x="12" y="18" font-family="'Segoe UI', Roboto, sans-serif" font-size="10.5" font-weight="bold" fill="#1e40af">1º PASSO: Artrocentese + Hemoculturas IMEDIATAS</text>
+      <text x="12" y="32" font-family="'Segoe UI', Roboto, sans-serif" font-size="9" fill="#334155">• Coletar antes do antibiótico (não aguardar resultados para tratar!)</text>
+      <text x="12" y="46" font-family="'Segoe UI', Roboto, sans-serif" font-size="9" fill="#1e3a8a">• Enviar para: Gram urgente (30 min), Cultura, Contagem e Cristais.</text>
+    </g>
+
+    <!-- Passo 2: ATB Empírico Inicial -->
+    <g transform="translate(15, 115)">
+      <rect width="375" height="65" rx="6" fill="#fffbeb" stroke="#f59e0b" stroke-width="1.5"/>
+      <text x="12" y="18" font-family="'Segoe UI', Roboto, sans-serif" font-size="10.5" font-weight="bold" fill="#92400e">2º PASSO: Antibioticoterapia Empírica IV</text>
+      <text x="12" y="32" font-family="'Segoe UI', Roboto, sans-serif" font-size="9" fill="#334155">• <tspan font-weight="bold">Vancomicina EV</tspan> (15–20 mg/kg q12h) → cobertura mandatória para MRSA</text>
+      <text x="12" y="46" font-family="'Segoe UI', Roboto, sans-serif" font-size="9" fill="#334155">• <tspan font-weight="bold">+ Ceftriaxona EV</tspan> (1–2g q24h) → Gram-negativos e Gonococo</text>
+      <text x="12" y="58" font-family="'Segoe UI', Roboto, sans-serif" font-size="8.5" fill="#b45309">→ Ajustar conforme resultado do Gram e culturas definitivas.</text>
+    </g>
+
+    <!-- Passo 3: Drenagem Obrigatória -->
+    <g transform="translate(15, 190)">
+      <rect width="375" height="95" rx="6" fill="#fef2f2" stroke="#dc2626" stroke-width="2"/>
+      <text x="12" y="18" font-family="'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#991b1b">3º PASSO: DRENAGEM CIRÚRGICA MANDATÓRIA</text>
+      <text x="12" y="32" font-family="'Segoe UI', Roboto, sans-serif" font-size="9" font-weight="bold" fill="#dc2626">"ANTIBIÓTICO SOZINHO NÃO BASTA":</text>
+      <text x="12" y="46" font-family="'Segoe UI', Roboto, sans-serif" font-size="9" fill="#7f1d1d">• <tspan font-weight="bold">Artroscopia (1ª linha para Joelho):</tspan> visualização, lavagem abundante</text>
+      <text x="12" y="60" font-family="'Segoe UI', Roboto, sans-serif" font-size="9" fill="#7f1d1d">• <tspan font-weight="bold">Artrotomia aberta:</tspan> mandatória no quadril pediátrico ou coleções</text>
+      <text x="12" y="74" font-family="'Segoe UI', Roboto, sans-serif" font-size="9" fill="#7f1d1d">• <tspan font-weight="bold">Aspiração por agulha diária:</tspan> primeiros 5 dias se articulação rasa</text>
+      <text x="12" y="88" font-family="'Segoe UI', Roboto, sans-serif" font-size="8.5" fill="#991b1b">→ Alivia a pressão hidrostática e previne lise condral definitiva.</text>
+    </g>
+
+    <!-- Passo 4: Duração e Desmame -->
+    <g transform="translate(15, 295)">
+      <rect width="375" height="55" rx="6" fill="#f0fdf4" stroke="#16a34a" stroke-width="1.5"/>
+      <text x="12" y="18" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="bold" fill="#166534">4º PASSO: Duração do Tratamento</text>
+      <text x="12" y="32" font-family="'Segoe UI', Roboto, sans-serif" font-size="9" fill="#14532d">• Não-gonocócica: <tspan font-weight="bold">3 a 4 semanas</tspan> (transição oral após melhora e culturas)</text>
+      <text x="12" y="46" font-family="'Segoe UI', Roboto, sans-serif" font-size="9" fill="#14532d">• Gonocócica: <tspan font-weight="bold">7 a 14 dias</tspan> de Ceftriaxona EV/IM.</text>
+    </g>
+  </g>
+
+  <!-- Lado Direito: Algoritmo da Osteomielite -->
+  <g transform="translate(465, 92)" filter="url(#shadow10)">
+    <rect width="405" height="365" rx="12" fill="#ffffff" stroke="#2563eb" stroke-width="2"/>
+    <rect x="0" y="0" width="405" height="40" rx="12" fill="#1d4ed8"/>
+    <text x="202" y="25" font-family="'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="bold" fill="#ffffff" text-anchor="middle">
+      OSTEOMIELITE: O PILAR CLÍNICO-CIRÚRGICO
+    </text>
+
+    <!-- Passo 1: Diagnóstico Microbiológico -->
+    <g transform="translate(15, 50)">
+      <rect width="375" height="55" rx="6" fill="#eff6ff" stroke="#3b82f6" stroke-width="1.5"/>
+      <text x="12" y="18" font-family="'Segoe UI', Roboto, sans-serif" font-size="10.5" font-weight="bold" fill="#1e40af">1º PASSO: Biópsia Óssea / Hemoculturas</text>
+      <text x="12" y="32" font-family="'Segoe UI', Roboto, sans-serif" font-size="9" fill="#334155">• Biópsia ou aspiração óssea estéril antes do antibiótico.</text>
+      <text x="12" y="46" font-family="'Segoe UI', Roboto, sans-serif" font-size="9" font-weight="bold" fill="#dc2626">• PROIBIDO swab de fístula superficial (reflete apenas colonização cutânea!).</text>
+    </g>
+
+    <!-- Passo 2: Cirurgia / Sequestrectomia -->
+    <g transform="translate(15, 115)">
+      <rect width="375" height="70" rx="6" fill="#fef2f2" stroke="#ef4444" stroke-width="1.5"/>
+      <text x="12" y="18" font-family="'Segoe UI', Roboto, sans-serif" font-size="10.5" font-weight="bold" fill="#991b1b">2º PASSO: Desbridamento e Sequestrectomia</text>
+      <text x="12" y="32" font-family="'Segoe UI', Roboto, sans-serif" font-size="9" fill="#7f1d1d">• Remoção cirúrgica de todo o osso necrosado (sequestro).</text>
+      <text x="12" y="46" font-family="'Segoe UI', Roboto, sans-serif" font-size="9" fill="#7f1d1d">• Drenagem de abscessos subperiosteais e de partes moles.</text>
+      <text x="12" y="60" font-family="'Segoe UI', Roboto, sans-serif" font-size="8.5" fill="#b91c1c">→ Ressecção até encontrar o osso sangrante ("paprika sign").</text>
+    </g>
+
+    <!-- Passo 3: Antibioticoterapia Prolongada -->
+    <g transform="translate(15, 195)">
+      <rect width="375" height="90" rx="6" fill="#fffbeb" stroke="#f59e0b" stroke-width="1.5"/>
+      <text x="12" y="18" font-family="'Segoe UI', Roboto, sans-serif" font-size="10.5" font-weight="bold" fill="#92400e">3º PASSO: Antibioticoterapia Prolongada (4 a 6 sem)</text>
+      <text x="12" y="32" font-family="'Segoe UI', Roboto, sans-serif" font-size="9" fill="#334155">• <tspan font-weight="bold">Fase IV inicial:</tspan> Cefazolina/Oxacilina (MSSA) ou Vancomicina (MRSA)</text>
+      <text x="12" y="46" font-family="'Segoe UI', Roboto, sans-serif" font-size="9" fill="#334155">• <tspan font-weight="bold">Transição Oral:</tspan> segura e eficaz se paciente afebril e com PCR em queda</text>
+      <text x="12" y="60" font-family="'Segoe UI', Roboto, sans-serif" font-size="9" fill="#334155">• Drogas de alta penetração óssea: Ciprofloxacino, Levofloxacino,</text>
+      <text x="12" y="74" font-family="'Segoe UI', Roboto, sans-serif" font-size="9" fill="#334155">Clindamicina, TMP-SMX ou Doxiciclina.</text>
+      <text x="12" y="86" font-family="'Segoe UI', Roboto, sans-serif" font-size="8.5" font-weight="bold" fill="#047857">+ Rifampicina se presença de biofilme ou material de síntese!</text>
+    </g>
+
+    <!-- Passo 4: Monitoramento de Cura -->
+    <g transform="translate(15, 295)">
+      <rect width="375" height="55" rx="6" fill="#f0fdf4" stroke="#16a34a" stroke-width="1.5"/>
+      <text x="12" y="18" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="bold" fill="#166534">4º PASSO: Critérios de Monitoramento e Cura</text>
+      <text x="12" y="32" font-family="'Segoe UI', Roboto, sans-serif" font-size="9" fill="#14532d">• <tspan font-weight="bold">PCR:</tspan> avalia resposta rápida de curto prazo (queda esperada em 48-72h).</text>
+      <text x="12" y="46" font-family="'Segoe UI', Roboto, sans-serif" font-size="9" fill="#14532d">• <tspan font-weight="bold">VHS:</tspan> <tspan font-weight="bold">Normalização do VHS = Critério Laboratorial de Cura Definitiva!</tspan></text>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 480" width="900" height="480">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f8fafc"/>
+      <stop offset="100%" stop-color="#edf2f7"/>
+    </linearGradient>
+    <filter id="dropShadow" x="-5%" y="-5%" width="110%" height="115%" filterUnits="userSpaceOnUse">
+      <feDropShadow dx="0" dy="4" stdDeviation="6" flood-color="#0f172a" flood-opacity="0.08"/>
+    </filter>
+    <linearGradient id="headerGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#1e3a8a"/>
+      <stop offset="100%" stop-color="#2563eb"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="900" height="480" rx="16" fill="url(#bgGrad)"/>
+  <rect x="1" y="1" width="898" height="478" rx="15" fill="none" stroke="#cbd5e1" stroke-width="1.5"/>
+
+  <!-- Cabeçalho -->
+  <rect x="0" y="0" width="900" height="60" rx="16" fill="url(#headerGrad)"/>
+  <rect x="0" y="44" width="900" height="16" fill="#2563eb"/>
+  <text x="30" y="38" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#ffffff">
+    FARMACOLOGIA DAS COMORBIDADES: QUEM PIORA &amp; QUEM PROTEGE NA GOTA
+  </text>
+
+  <!-- Painel Esquerdo: Fármacos que Aumentam o Urato Sérico -->
+  <g transform="translate(30, 80)">
+    <rect width="405" height="375" rx="12" fill="#ffffff" stroke="#ef4444" stroke-width="1.8" filter="url(#dropShadow)"/>
+    <rect width="405" height="38" rx="12" fill="#dc2626"/>
+    <rect y="26" width="405" height="12" fill="#dc2626"/>
+    <text x="202" y="25" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#ffffff" text-anchor="middle">
+      FÁRMACOS QUE ELEVAM O ÁCIDO ÚRICO (PIORAM A GOTA)
+    </text>
+
+    <!-- Diuréticos -->
+    <rect x="16" y="52" width="373" height="82" rx="8" fill="#fef2f2" stroke="#fca5a5" stroke-width="1.2"/>
+    <text x="28" y="72" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#991b1b">1. Diuréticos Tiazídicos &amp; de Alça</text>
+    <text x="28" y="90" font-family="Arial, sans-serif" font-size="10.5" fill="#7f1d1d">• <tspan font-weight="bold">Hidroclorotiazida (HCTZ) e Clortalidona</tspan> (caso do Joaquim!).</text>
+    <text x="28" y="106" font-family="Arial, sans-serif" font-size="10.5" fill="#7f1d1d">• <tspan font-weight="bold">Furosemida:</tspan> depleção de volume ➔ ↑ reabsorção proximal</text>
+    <text x="28" y="122" font-family="Arial, sans-serif" font-size="10.5" fill="#7f1d1d">de sódio e urato + competição com a secreção tubular.</text>
+
+    <!-- AAS Baixa Dose -->
+    <rect x="16" y="142" width="373" height="72" rx="8" fill="#fef2f2" stroke="#fca5a5" stroke-width="1.2"/>
+    <text x="28" y="162" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#991b1b">2. Ácido Acetilsalicílico (AAS) em Baixa Dose</text>
+    <text x="28" y="180" font-family="Arial, sans-serif" font-size="10.5" fill="#7f1d1d">• Doses cardioprotetoras (75 a 100 mg/dia) inibem a secreção.</text>
+    <text x="28" y="196" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#b91c1c">⚠️ Conduta: NÃO suspender se indicado para prevenção cardiovascular!</text>
+
+    <!-- Imunossupressores e Tuberculostáticos -->
+    <rect x="16" y="222" width="373" height="74" rx="8" fill="#fef2f2" stroke="#fca5a5" stroke-width="1.2"/>
+    <text x="28" y="242" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#991b1b">3. Outras Classes Críticas</text>
+    <text x="28" y="260" font-family="Arial, sans-serif" font-size="10.5" fill="#7f1d1d">• <tspan font-weight="bold">Ciclosporina e Tacrolimo:</tspan> reduzem filtração e clearance de urato.</text>
+    <text x="28" y="276" font-family="Arial, sans-serif" font-size="10.5" fill="#7f1d1d">• <tspan font-weight="bold">Pirazinamida e Etambutol:</tspan> potentes inibidores da excreção renal.</text>
+
+    <!-- Resumo Vermelho -->
+    <rect x="16" y="304" width="373" height="56" rx="8" fill="#fee2e2" stroke="#dc2626" stroke-width="1.2"/>
+    <text x="202" y="326" font-family="Arial, sans-serif" font-size="10.5" font-weight="bold" fill="#991b1b" text-anchor="middle">MANEJO NO PACIENTE HIPERTENSO COM GOTA:</text>
+    <text x="202" y="344" font-family="Arial, sans-serif" font-size="10" fill="#7f1d1d" text-anchor="middle">Descontinuar o tiazídico quando clinicamente possível!</text>
+  </g>
+
+  <!-- Painel Direito: Fármacos Benéficos e Protetores -->
+  <g transform="translate(465, 80)">
+    <rect width="405" height="375" rx="12" fill="#ffffff" stroke="#10b981" stroke-width="1.8" filter="url(#dropShadow)"/>
+    <rect width="405" height="38" rx="12" fill="#059669"/>
+    <rect y="26" width="405" height="12" fill="#059669"/>
+    <text x="202" y="25" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#ffffff" text-anchor="middle">
+      FÁRMACOS BENÉFICOS / URICOSÚRICOS (PREFERENCIAIS)
+    </text>
+
+    <!-- Losartana -->
+    <rect x="16" y="52" width="373" height="98" rx="8" fill="#ecfdf5" stroke="#6ee7b7" stroke-width="1.5"/>
+    <text x="28" y="74" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#065f46">1. LOSARTANA (A Estrela das Provas!)</text>
+    <text x="28" y="94" font-family="Arial, sans-serif" font-size="10.5" fill="#047857">• <tspan font-weight="bold">Efeito de Classe Único:</tspan> É o ÚNICO BRA que inibe o URAT1.</text>
+    <text x="28" y="110" font-family="Arial, sans-serif" font-size="10.5" fill="#047857">• Aumenta a excreção urinária de ácido úrico (efeito uricosúrico).</text>
+    <text x="28" y="126" font-family="Arial, sans-serif" font-size="10.5" fill="#047857">• Reduz o urato sérico de forma dose-dependente.</text>
+    <text x="28" y="142" font-family="Arial, sans-serif" font-size="10.5" font-weight="bold" fill="#059669">➔ Anti-hipertensivo de 1ª ESCOLHA no hipertenso com gota!</text>
+
+    <!-- Bloqueadores dos Canais de Cálcio -->
+    <rect x="16" y="158" width="373" height="66" rx="8" fill="#f0fdf4" stroke="#86efac" stroke-width="1.2"/>
+    <text x="28" y="178" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#065f46">2. Bloqueadores de Canais de Cálcio (BCC)</text>
+    <text x="28" y="196" font-family="Arial, sans-serif" font-size="10.5" fill="#14532d">• <tspan font-weight="bold">Anlodipino:</tspan> efeito uricosúrico discreto e vasodilatação renal.</text>
+    <text x="28" y="212" font-family="Arial, sans-serif" font-size="10.5" fill="#14532d">• Excelente opção associada ou alternativa para controle da PA.</text>
+
+    <!-- Fenofibrato e iSGLT2 -->
+    <rect x="16" y="232" width="373" height="74" rx="8" fill="#f0fdf4" stroke="#86efac" stroke-width="1.2"/>
+    <text x="28" y="252" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#065f46">3. Fenofibrato &amp; Inibidores de SGLT2</text>
+    <text x="28" y="270" font-family="Arial, sans-serif" font-size="10.5" fill="#14532d">• <tspan font-weight="bold">Fenofibrato:</tspan> potente inibidor do URAT1 na dislipidemia mista.</text>
+    <text x="28" y="286" font-family="Arial, sans-serif" font-size="10.5" fill="#14532d">• <tspan font-weight="bold">Dapagliflozina / Empagliflozina:</tspan> uricosúricos secundários no DM2.</text>
+
+    <!-- Resumo Verde -->
+    <rect x="16" y="314" width="373" height="48" rx="8" fill="#d1fae5"/>
+    <text x="202" y="334" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#065f46" text-anchor="middle">PRESCRIÇÃO INTELIGENTE NO CASO DO JOAQUIM:</text>
+    <text x="202" y="350" font-family="Arial, sans-serif" font-size="10" fill="#047857" text-anchor="middle">Trocar Hidroclorotiazida (HCTZ) por LOSARTANA 50 mg/dia!</text>
+  </g>
+</svg>

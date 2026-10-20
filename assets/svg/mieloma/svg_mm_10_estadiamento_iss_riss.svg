@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 480" width="900" height="480">
+  <defs>
+    <linearGradient id="bgGrad10" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f8fafc"/>
+      <stop offset="100%" stop-color="#edf2f7"/>
+    </linearGradient>
+    <filter id="shadow10" x="-5%" y="-5%" width="110%" height="115%">
+      <feDropShadow dx="0" dy="4" stdDeviation="5" flood-color="#0f172a" flood-opacity="0.08"/>
+    </filter>
+  </defs>
+
+  <rect width="900" height="480" rx="16" fill="url(#bgGrad10)"/>
+  <rect x="1" y="1" width="898" height="478" rx="15" fill="none" stroke="#cbd5e1" stroke-width="1.5"/>
+
+  <!-- Cabeçalho -->
+  <rect width="900" height="60" rx="16" fill="#1e3a8a"/>
+  <rect y="44" width="900" height="16" fill="#2563eb"/>
+  <text x="30" y="38" font-family="Arial, sans-serif" font-size="19" font-weight="bold" fill="#ffffff">
+    ESTADIAMENTO ISS / R-ISS E BIOLOGIA DA BETA-2-MICROGLOBULINA
+  </text>
+
+  <!-- Painel Superior: Os 3 Estágios do ISS -->
+  <g transform="translate(30, 80)">
+    <!-- Estágio I -->
+    <rect x="0" y="0" width="265" height="180" rx="10" fill="#ffffff" stroke="#10b981" stroke-width="2" filter="url(#shadow10)"/>
+    <rect x="0" y="0" width="265" height="34" rx="10" fill="#10b981"/>
+    <rect x="0" y="22" width="265" height="12" fill="#10b981"/>
+    <text x="132" y="23" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#ffffff" text-anchor="middle">ESTÁGIO I (BAIXO RISCO)</text>
+    
+    <text x="15" y="58" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#065f46">Critérios Obrigatórios:</text>
+    <text x="15" y="78" font-family="Arial, sans-serif" font-size="11" fill="#334155">• <tspan font-weight="bold">β2-microglobulina &lt; 3,5 mg/L</tspan></text>
+    <text x="15" y="96" font-family="Arial, sans-serif" font-size="11" fill="#334155">• <tspan font-weight="bold">Albumina sérica ≥ 3,5 g/dL</tspan></text>
+
+    <rect x="15" y="115" width="235" height="50" rx="6" fill="#ecfdf5" stroke="#a7f3d0"/>
+    <text x="132" y="134" font-family="Arial, sans-serif" font-size="10.5" fill="#047857" text-anchor="middle">Sobrevida Mediana Histórica:</text>
+    <text x="132" y="153" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#065f46" text-anchor="middle">~62 meses (5,2 anos)</text>
+  </g>
+
+  <g transform="translate(315, 80)">
+    <!-- Estágio II -->
+    <rect x="0" y="0" width="265" height="180" rx="10" fill="#ffffff" stroke="#f59e0b" stroke-width="2" filter="url(#shadow10)"/>
+    <rect x="0" y="0" width="265" height="34" rx="10" fill="#f59e0b"/>
+    <rect x="0" y="22" width="265" height="12" fill="#f59e0b"/>
+    <text x="132" y="23" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#ffffff" text-anchor="middle">ESTÁGIO II (INTERMEDIÁRIO)</text>
+    
+    <text x="15" y="58" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#b45309">Critérios:</text>
+    <text x="15" y="78" font-family="Arial, sans-serif" font-size="11" fill="#334155">• Nem Estágio I nem III</text>
+    <text x="15" y="96" font-family="Arial, sans-serif" font-size="10.5" fill="#475569">(β2M &lt; 3,5 e Alb &lt; 3,5; ou β2M 3,5-5,5)</text>
+
+    <rect x="15" y="115" width="235" height="50" rx="6" fill="#fffbeb" stroke="#fde68a"/>
+    <text x="132" y="134" font-family="Arial, sans-serif" font-size="10.5" fill="#92400e" text-anchor="middle">Sobrevida Mediana Histórica:</text>
+    <text x="132" y="153" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#b45309" text-anchor="middle">~44 meses (3,7 anos)</text>
+  </g>
+
+  <g transform="translate(605, 80)">
+    <!-- Estágio III -->
+    <rect x="0" y="0" width="265" height="180" rx="10" fill="#ffffff" stroke="#ef4444" stroke-width="2" filter="url(#shadow10)"/>
+    <rect x="0" y="0" width="265" height="34" rx="10" fill="#dc2626"/>
+    <rect x="0" y="22" width="265" height="12" fill="#dc2626"/>
+    <text x="132" y="23" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#ffffff" text-anchor="middle">ESTÁGIO III (ALTO RISCO)</text>
+    
+    <text x="15" y="58" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#991b1b">Critério Único Suficiente:</text>
+    <text x="15" y="78" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#b91c1c">• β2-microglobulina ≥ 5,5 mg/L</text>
+    <text x="15" y="96" font-family="Arial, sans-serif" font-size="10.5" fill="#475569">(Independentemente da albumina)</text>
+
+    <rect x="15" y="115" width="235" height="50" rx="6" fill="#fef2f2" stroke="#fca5a5"/>
+    <text x="132" y="134" font-family="Arial, sans-serif" font-size="10.5" fill="#7f1d1d" text-anchor="middle">Sobrevida Mediana Histórica:</text>
+    <text x="132" y="153" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#b91c1c" text-anchor="middle">~29 meses (2,4 anos)</text>
+  </g>
+
+  <!-- Painel Inferior: R-ISS e Citogenética de Alto Risco -->
+  <g transform="translate(30, 280)">
+    <rect width="840" height="180" rx="12" fill="#ffffff" stroke="#64748b" stroke-width="1.5" filter="url(#shadow10)"/>
+    <text x="25" y="28" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#1e3a8a">
+      O R-ISS (REVISED ISS) E CITOGENÉTICA MOLECULAR POR FISH
+    </text>
+    <line x1="25" y1="38" x2="815" y2="38" stroke="#cbd5e1" stroke-width="1"/>
+
+    <g transform="translate(25, 50)">
+      <rect width="380" height="110" rx="8" fill="#fef2f2" stroke="#fca5a5"/>
+      <text x="15" y="24" font-family="Arial, sans-serif" font-size="11.5" font-weight="bold" fill="#b91c1c">ANORMALIDADES CITOGENÉTICAS DE ALTO RISCO:</text>
+      <text x="15" y="45" font-family="Arial, sans-serif" font-size="11" fill="#7f1d1d">• <tspan font-weight="bold">del(17p)</tspan> ➔ Perda do gene supressor tumoral p53 (pior prognóstico).</text>
+      <text x="15" y="65" font-family="Arial, sans-serif" font-size="11" fill="#7f1d1d">• <tspan font-weight="bold">t(4;14)</tspan> ➔ Super-expressão de FGFR3 e MMSET.</text>
+      <text x="15" y="85" font-family="Arial, sans-serif" font-size="11" fill="#7f1d1d">• <tspan font-weight="bold">t(14;16)</tspan> ➔ Super-expressão do oncogene c-MAF.</text>
+      <text x="15" y="103" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#991b1b">Reduzem a sobrevida mediana para cerca de 25 meses.</text>
+    </g>
+
+    <g transform="translate(435, 50)">
+      <rect width="380" height="110" rx="8" fill="#f8fafc" stroke="#94a3b8"/>
+      <text x="15" y="24" font-family="Arial, sans-serif" font-size="11.5" font-weight="bold" fill="#0f172a">BIOLOGIA DA BETA-2-MICROGLOBULINA (β2M):</text>
+      <text x="15" y="45" font-family="Arial, sans-serif" font-size="10.5" fill="#334155">• É a cadeia leve invariável do <tspan font-weight="bold">MHC Classe I</tspan> celular.</text>
+      <text x="15" y="65" font-family="Arial, sans-serif" font-size="10.5" fill="#334155">• Secretada continuamente por células nucleadas.</text>
+      <text x="15" y="85" font-family="Arial, sans-serif" font-size="10.5" fill="#334155">• Reflete diretamente a <tspan font-weight="bold">MASSA TUMORAL</tspan> dos plasmócitos e</text>
+      <text x="15" y="102" font-family="Arial, sans-serif" font-size="10.5" fill="#334155">  a taxa de depuração renal (sobe muito na insuf. renal).</text>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,1251 @@
+{
+  "id": "simulado_gota_hiperuricemia",
+  "title": "Simulado Comentado • Hiperuricemia e Gota",
+  "subtitle": "40 Questões no Padrão ENAMED/INEP com Raio-X Cognitivo dos Distratores",
+  "badge": "ENAMED / Residência Médica • Nível Avançado",
+  "theme": "Hiperuricemia e Artrite Gotosa",
+  "area": "Clínica Médica • Reumatologia",
+  "total_questions": 40,
+  "questions": [
+    {
+      "id": 1,
+      "tag": "Bioquímica Clínica • Catabolismo das Purinas",
+      "stem": "Um médico residente de Clínica Médica revisa a via metabólica hepática de degradação dos nucleotídeos de purina com os internos da enfermaria. Ele discute as etapas sequenciais em que o monofosfato de adenosina (AMP), o monofosfato de guanosina (GMP) e o monofosfato de inosina (IMP) convergem para a produção hepática de ácido úrico antes de sua eliminação renal e digestiva.<br><br>Considerando as reações enzimáticas terminais do catabolismo purínico descritas na literatura de base, qual sequência e enzima são responsáveis pelas duas últimas etapas de conversão que originam o ácido úrico?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A clivagem de adenina e guanina diretamente em ácido úrico é realizada pela urato oxidase peroxissomal."
+        },
+        {
+          "letter": "B",
+          "text": "A conversão sequencial de hipoxantina em xantina e desta em ácido úrico é catalisada pela xantina oxidase."
+        },
+        {
+          "letter": "C",
+          "text": "A transformação de guanina em ácido úrico ocorre por transaminação direta catalisada pela hipoxantina redutase."
+        },
+        {
+          "letter": "D",
+          "text": "A conversão direta de inosina em ácido úrico é mediada pela enzima adenosina deaminase hepática tecidual."
+        }
+      ],
+      "answer": "B",
+      "rationale": "O ácido úrico é o produto final do catabolismo dos nucleotídeos de purina (AMP, GMP e IMP). No fígado, o catabolismo gera inosina, que é convertida em hipoxantina. As etapas sequenciais finais consistem na oxidação de <strong>hipoxantina &rarr; xantina</strong> e de <strong>xantina &rarr; ácido úrico</strong>, ambas catalisadas pela enzima <strong>xantina oxidase / xantina oxidoredutase</strong>.",
+      "distractors": [
+        "<strong>A está incorreta [Vetor 1 - Micro-inversão Fisiológica]:</strong> A urato oxidase (uricase) catalisaria a conversão do ácido úrico em alantoína, mas a espécie humana não possui essa enzima funcional, sendo o ácido úrico o produto terminal. <em>(Ímã cognitivo: uso do nome de enzima filogeneticamente ausente em humanos).</em>",
+        "<strong>C está incorreta [Vetor 1 - Micro-inversão Conceitual]:</strong> A guanina é desaminada em xantina (pela guanase) antes de virar ácido úrico, e a enzima hipoxantina redutase inexiste nessa etapa terminal. <em>(Ímã cognitivo: confunde a desaminação da guanina com uma reação fictícia de transaminação).</em>",
+        "<strong>D está incorreta [Vetor 2 - Janela Biológica e Salto de Etapa]:</strong> A inosina não é convertida diretamente em ácido úrico; ela precisa ser convertida primeiramente em hipoxantina para depois ingressar na oxidação pela xantina oxidase. <em>(Ímã cognitivo: induz o candidato a ignorar os intermediários obrigatórios da via).</em>"
+      ],
+      "pearl": "Via das purinas: AMP/GMP/IMP &rarr; inosina &rarr; hipoxantina &rarr; xantina &rarr; ácido úrico. Ambas as etapas finais são catalisadas pela Xantina Oxidase (alvo do alopurinol)."
+    },
+    {
+      "id": 2,
+      "tag": "Fisiologia Humana • Ausência de Uricase",
+      "stem": "Durante uma discussão sobre as particularidades evolutivas do metabolismo humano e sua predisposição ao desenvolvimento de hiperuricemia e gota em comparação a outros mamíferos domésticos, foi destacado que a maioria dos mamíferos apresenta concentrações séricas basais de ácido úrico muito inferiores às humanas.<br><br>Qual alteração filogenética específica justifica o fato de o ácido úrico ser o metabólito terminal inevitável das purinas na espécie humana?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A incapacidade constitucional dos hepatócitos humanos de expressar a hipoxantina-guanina fosforribosiltransferase (HGPRT)."
+        },
+        {
+          "letter": "B",
+          "text": "A ausência congênita e evolutiva da enzima uricase (urato oxidase), que impediu a oxidação do urato em alantoína solúvel."
+        },
+        {
+          "letter": "C",
+          "text": "A deficiência primária de fosforribosil pirofosfato (PRPP) sintetase, que acelera a degradação de bases nitrogenadas hepáticas."
+        },
+        {
+          "letter": "D",
+          "text": "A superexpressão de transportadores renais do ducto coletor que reabsorvem avidamente a alantoína filtrada no glomérulo."
+        }
+      ],
+      "answer": "B",
+      "rationale": "Nos seres humanos, o ácido úrico permanece como produto terminal obrigatório do metabolismo das purinas devido à <strong>ausência funcional da enzima uricase (urato oxidase)</strong> decorrente de mutações evolutivas. Em outros mamíferos não primatas, a uricase oxida o ácido úrico em alantoína, uma substância altamente solúvel em água que é prontamente excretada pelos rins sem risco de cristalização.",
+      "distractors": [
+        "<strong>A está incorreta [Vetor 4 - Mimetismo Clínico / Síndrome Vizinha]:</strong> A ausência completa de HGPRT não é fisiológica nem evolutiva da espécie, mas sim uma mutação rara causadora da Síndrome de Lesch-Nyhan, associada a automutilação e coreoatetose. <em>(Ímã cognitivo: confunde uma síndrome genética patológica com uma característica filogenética normal).</em>",
+        "<strong>C está incorreta [Vetor 1 - Micro-inversão Bioquímica]:</strong> A hiperatividade (e não a deficiência) da PRPP sintetase aumentaria a síntese de novo de purinas. <em>(Ímã cognitivo: inverte a direção do efeito enzimático na produção de ácido úrico).</em>",
+        "<strong>D está incorreta [Vetor 1 - Micro-inversão Conceitual]:</strong> Humanos não produzem alantoína porque não possuem uricase; logo, não há reabsorção renal de alantoína no ducto coletor. <em>(Ímã cognitivo: inventa uma etapa de transporte tubular para uma molécula inexistente no metabolismo humano).</em>"
+      ],
+      "pearl": "Humanos NÃO possuem Uricase. O ácido úrico é, portanto, o metabólito terminal das purinas, predispondo a espécie humana ao acúmulo de urato monossódico."
+    },
+    {
+      "id": 3,
+      "tag": "Fisiopatologia Clínica • Mecanismo do Álcool",
+      "stem": "Joaquim, 44 anos, hipertenso em uso crônico de hidroclorotiazida, comparece à unidade de saúde relatando dor articular excruciante no joelho direito com início súbito após um jantar festivo regado a grande quantidade de vinho e cerveja. Ao ser questionado sobre seus hábitos, confirmou ingestão frequente de bebidas alcoólicas nos finais de semana.<br><br>Qual alteração bioquímica celular provocada pelo metabolismo do etanol justifica o incremento direto na síntese de ácido úrico?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A oxidação do etanol consome todo o AMP hepático, impedindo a fosforilação oxidativa e gerando alcalose tubular."
+        },
+        {
+          "letter": "B",
+          "text": "O álcool estimula a expressão da uricase renal, acelerando a conversão retrógrada de alantoína em ácido úrico sérico."
+        },
+        {
+          "letter": "C",
+          "text": "O etanol incrementa a degradação intracelular de trifosfato de adenosina (ATP) em monofosfato de adenosina (AMP)."
+        },
+        {
+          "letter": "D",
+          "text": "O metabolismo do álcool inibe a enzima xantina oxidase hepática, gerando acúmulo de xantina que precipita em urato."
+        }
+      ],
+      "answer": "C",
+      "rationale": "O consumo de álcool acelera a renovação e degradação de nucleotídeos de adenina: o etanol <strong>incrementa a degradação do ATP em monofosfato de adenosina (AMP)</strong>, fornecendo substrato abundante para a cascata catabólica hepática que culmina em ácido úrico. Além disso, bebidas fermentadas como a cerveja contêm leveduras ricas em purinas, associando maior síntese endógena ao aporte exógeno.",
+      "distractors": [
+        "<strong>A está incorreta [Vetor 1 - Micro-inversão Fisiopatológica]:</strong> A oxidação do etanol gera ácido lático (acidose láctica transitória) e eleva a oferta de AMP para degradação, em vez de consumi-lo sem gerar urato. <em>(Ímã cognitivo: inverte a direção do balanço de AMP).</em>",
+        "<strong>B está incorreta [Vetor 1 - Micro-inversão Conceitual]:</strong> Humanos não expressam uricase e não há conversão retrógrada de alantoína para urato. <em>(Ímã cognitivo: uso incorreto da nomenclatura enzimática).</em>",
+        "<strong>D está incorreta [Vetor 1 - Micro-inversão]:</strong> O álcool não inibe a xantina oxidase; se o fizesse, reduziria a síntese de urato (como faz o alopurinol). <em>(Ímã cognitivo: confunde inibição enzimática terapêutica com efeito fisiopatológico do etanol).</em>"
+      ],
+      "pearl": "Álcool &rarr; acelera degradação de ATP em AMP &rarr; sobrecarrega catabolismo hepático de purinas &rarr; &uarr; Ácido Úrico. A cerveja agrega o aporte de purinas pelas leveduras."
+    },
+    {
+      "id": 4,
+      "tag": "Metabolismo e Nutrição • Frutose e Hiperuricemia",
+      "stem": "Um homem de 32 anos procura o ambulatório de nutrição e metabologia para avaliação de exames de rotina. Ele é assintomático, não consome bebidas alcoólicas, mas ingere diariamente grandes volumes de refrigerantes comuns e sucos industrializados adoçados com xarope de milho com alto teor de frutose. Seu ácido úrico sérico veio dosado em 8,4 mg/dL (VR homens: 3,4 a 7,0 mg/dL).<br><br>Qual o mecanismo metabólico que vincula a ingestão excessiva de frutose à hiperprodução de ácido úrico?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A frutose atua como agonista do transportador URAT1, quadruplicando a absorção intestinal de ácido úrico das carnes."
+        },
+        {
+          "letter": "B",
+          "text": "O metabolismo da frutose inibe a xantina oxidase tecidual, levando ao acúmulo renal de nucleotídeos de guanina insolúveis."
+        },
+        {
+          "letter": "C",
+          "text": "A fosforilação hepática rápida da frutose consome ATP e acumula AMP, que ingressa na via catabólica das purinas."
+        },
+        {
+          "letter": "D",
+          "text": "A frutose reduz a síntese hepática de PRPP, desviando a via de biossíntese de pirimidinas para a síntese renal de urato."
+        }
+      ],
+      "answer": "C",
+      "rationale": "A frutose é fosforilada no fígado pela frutoquinase a frutose-1-fosfato, uma reação rápida que não possui freio de feedback negativo dependente de ATP. Isso consome intensamente o fosfato intracelular e o ATP, convertendo-o em ADP e <strong>monofosfato de adenosina (AMP)</strong>. O acúmulo intracelular de AMP desvia-se para a via de degradação das purinas, resultando em acentuada hiperprodução de ácido úrico.",
+      "distractors": [
+        "<strong>A está incorreta [Vetor 4 - Mimetismo / Inversão de Mecanismo]:</strong> O URAT1 é um transportador tubular renal (e não intestinal de carnes), e o efeito principal da frutose é hepático na produção de urato, não na absorção intestinal via URAT1. <em>(Ímã cognitivo: mistura transportadores renais com transporte intestinal de alimentos).</em>",
+        "<strong>B está incorreta [Vetor 1 - Micro-inversão]:</strong> A frutose não inibe a xantina oxidase; ela estimula a produção a montante fornecendo substrato (AMP e inosina). <em>(Ímã cognitivo: confunde ativação de via com inibição enzimática).</em>",
+        "<strong>D está incorreta [Vetor 1 - Micro-inversão Bioquímica]:</strong> O urato provém do catabolismo de purinas e não de pirimidinas, e o estresse energético da frutose ativa o catabolismo purínico. <em>(Ímã cognitivo: confunde purinas com pirimidinas).</em>"
+      ],
+      "pearl": "Frutose &rarr; fosforilação rápida consome ATP hepático &rarr; acúmulo de AMP &rarr; substrato imediato para xantina oxidase &rarr; hiperuricemia."
+    },
+    {
+      "id": 5,
+      "tag": "Fisiopatologia Cardiovascular • Comportamento Dual do Urato",
+      "stem": "Em uma conferência sobre risco cardiometabólico, o palestrante expôs o conceito do 'comportamento dual do ácido úrico', destacando que o urato não é meramente um resíduo inerte ou nocivo, mas possui ações radicalmente opostas a depender de suas concentrações sistêmicas.<br><br>Assinale a alternativa que descreve com precisão a ação do urato em níveis fisiológicos em contraste com seu papel na hiperuricemia sustentada.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Em níveis fisiológicos ativa o inflamassoma NLRP3; na hiperuricemia promove a proliferação protetora de sinoviócitos tipo A."
+        },
+        {
+          "letter": "B",
+          "text": "Em níveis fisiológicos estimula a secreção intrarrenal de renina; na hiperuricemia atua como protetor primário contra aterosclerose."
+        },
+        {
+          "letter": "C",
+          "text": "Em níveis fisiológicos inibe a enzima eNOS endotelial; na hiperuricemia neutraliza radicais peroxinitritos e induz vasodilatação."
+        },
+        {
+          "letter": "D",
+          "text": "Em níveis fisiológicos atua como antioxidante e preserva o NO; na hiperuricemia ativa a NADPH oxidase e reduz o NO."
+        }
+      ],
+      "answer": "D",
+      "rationale": "Conforme destacado nas aulas, o ácido úrico apresenta comportamento dual: <strong>em níveis fisiológicos</strong>, funciona como um antioxidante natural hidrossolúvel, neutralizando espécies reativas de oxigênio (ROS) e peroxinitrito, protegendo a biodisponibilidade de óxido nítrico (NO) e favorecendo a vasodilatação. <strong>Na hiperuricemia</strong>, torna-se pró-oxidante e pró-inflamatório: ativa a NADPH oxidase, gera estresse oxidativo intracelular, reduz a expressão de eNOS e a síntese de NO (promovendo disfunção endotelial e vasoconstrição) e estimula o sistema renina-angiotensina-aldosterona (SRAA).",
+      "distractors": [
+        "<strong>A está incorreta [Vetor 2 - Janela e Causalidade Patológica]:</strong> A ativação do complexo inflamassoma NLRP3 ocorre apenas quando cristais de urato precipitam na hiperuricemia, e não em concentrações fisiológicas. <em>(Ímã cognitivo: projeta inflamação sobre a homeostase normal).</em>",
+        "<strong>B está incorreta [Vetor 1 - Micro-Inversão]:</strong> O estímulo à renina e ao SRAA intrarrenal é efeito deletério da hiperuricemia e não condição fisiológica basal. <em>(Ímã cognitivo: troca o efeito benéfico pelo deletério).</em>",
+        "<strong>C está incorreta [Vetor 1 - Micro-Inversão Conceitual Total]:</strong> Inverteu com precisão os dois papéis: o urato protege o NO em níveis fisiológicos e inibe a eNOS na hiperuricemia. <em>(Ímã cognitivo: atrai o leitor que não repara na inversão das frases fisiológicas e patológicas).</em>"
+      ],
+      "pearl": "Urato Fisiológico = Antioxidante natural + protege NO + vasodilatação. Hiperuricemia = Ativa NADPH oxidase + pró-oxidante + reduz NO + ativa SRAA + inflamação."
+    },
+    {
+      "id": 6,
+      "tag": "Fisiologia Renal • Excreção e Reabsorção de Urato",
+      "stem": "Um médico nefrologista avalia o manejo corporal de ácido úrico em um paciente de 52 anos em investigação de cálculos renais de repetição. Durante a consulta, ele explica o balanço entre os órgãos responsáveis pela eliminação do urato e o que ocorre após a filtração glomerular no néfron íntegro.<br><br>De acordo com a fisiologia descrita nos documentos de referência, quais são as frações de excreção de ácido úrico pelos rins e intestino, e qual o percentual de urato filtrado que é reabsorvido no túbulo proximal?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Exatamente 50% é excretado por via renal e 50% por via biliar; no néfron, 90% do urato é secretado ativamente no ducto coletor."
+        },
+        {
+          "letter": "B",
+          "text": "Aproximadamente 35% é excretado pelos rins e 65% pelo intestino; no néfron, 50% do urato filtrado sofre excreção na alça de Henle."
+        },
+        {
+          "letter": "C",
+          "text": "Aproximadamente 65% é excretado pelos rins e 35% pelo intestino; no néfron, cerca de 90% do urato filtrado é reabsorvido."
+        },
+        {
+          "letter": "D",
+          "text": "Cerca de 90% é excretado pelos rins e 10% pelo intestino; no néfron, apenas 35% do urato filtrado é reabsorvido proximalmente."
+        }
+      ],
+      "answer": "C",
+      "rationale": "O ácido úrico é filtrado livremente pelos glomérulos. No manejo orgânico global, <strong>65% é excretado pelos rins e 35% é eliminado principalmente pelo trato gastrointestinal</strong>. No néfron, cerca de <strong>90% do urato filtrado é reabsorvido</strong> predominantemente no túbulo proximal através de transportadores específicos (como URAT1 e GLUT9), sendo o restante secretado e ajustado tubularmente.",
+      "distractors": [
+        "<strong>A está incorreta [Vetor 1 - Micro-inversão Anatômica]:</strong> A maior parte do urato é reabsorvida no túbulo proximal e não secretada ativamente no ducto coletor. <em>(Ímã cognitivo: confunde segmentos do néfron).</em>",
+        "<strong>B está incorreta [Vetor 1 - Micro-inversão]:</strong> Inverteu as proporções de excreção renal e intestinal (atribuiu 35% ao rim e 65% ao intestino). <em>(Ímã cognitivo: inversão das vias principais de depuração).</em>",
+        "<strong>D está incorreta [Vetor 1 - Micro-inversão Numérica]:</strong> Confunde a taxa de reabsorção tubular (90%) com a fração de excreção renal (que é de 65%, e não 90%). <em>(Ímã cognitivo: troca os percentuais consagrados de 90% e 65%).</em>"
+      ],
+      "pearl": "Excreção de Ácido Úrico: 65% Rins | 35% Intestino. Reabsorção tubular proximal: 90% do filtrado é reabsorvido!"
+    },
+    {
+      "id": 7,
+      "tag": "Fisiologia Renal e Genética • Transportadores de Urato",
+      "stem": "Estudos genéticos recentes associaram variantes nos genes <em>SLC22A12</em> e <em>SLC2A9</em> a alterações importantes nas concentrações plasmáticas de urato e suscetibilidade à gota primária por hipoexcreção tubular.<br><br>Quais proteínas transportadoras expressas no túbulo contorcido proximal são codificadas por esses respectivos genes e atuam diretamente na reabsorção de urato do lúmen para o interstício renal?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Os carreadores ABCG2 (codificado por SLC22A12) e NBCe1 (codificado por SLC2A9)."
+        },
+        {
+          "letter": "B",
+          "text": "Os canais epiteliais ENaC (codificado por SLC22A12) e ROMK (codificado por SLC2A9)."
+        },
+        {
+          "letter": "C",
+          "text": "Os transportadores SGLT2 (codificado por SLC22A12) e OAT1 (codificado por SLC2A9)."
+        },
+        {
+          "letter": "D",
+          "text": "Os transportadores URAT1 (codificado por SLC22A12) e GLUT9 (codificado por SLC2A9)."
+        }
+      ],
+      "answer": "D",
+      "rationale": "A reabsorção de cerca de 90% do urato filtrado no túbulo proximal é mediada por transportadores especializados: o <strong>URAT1 (codificado pelo gene SLC22A12)</strong>, localizado na membrana apical voltada ao lúmen tubular, e o <strong>GLUT9 (codificado pelo gene SLC2A9)</strong>, localizado na membrana basolateral (e apical em isoformas específicas). Junto ao ABCG2 (transportador secretor intestinal e renal), variantes nesses transportadores determinam variações genéticas marcantes na excreção de ácido úrico.",
+      "distractors": [
+        "<strong>A está incorreta [Vetor 1 - Micro-inversão Genética]:</strong> O ABCG2 é codificado pelo gene ABCG2 (e não SLC22A12) e atua na secreção/excreção, não sendo o equivalente ao URAT1. <em>(Ímã cognitivo: mistura os genes citados no material).</em>",
+        "<strong>B está incorreta [Vetor 4 - Mimetismo de Fisiologia Renal]:</strong> ENaC e ROMK são canais de sódio e potássio situados no túbulo distal e ducto coletor, sem relação com o transporte de urato. <em>(Ímã cognitivo: termos clássicos de fisiologia do néfron distal).</em>",
+        "<strong>C está incorreta [Vetor 4 - Mimetismo Clínico / Farmacológico]:</strong> O SGLT2 transporta glicose e sódio, e o OAT1 é um transportador de ânions orgânicos com outro perfil genético. <em>(Ímã cognitivo: atrai candidatos familiarizados com inibidores de SGLT2).</em>"
+      ],
+      "pearl": "Transportadores de reabsorção de urato no túbulo proximal: URAT1 (SLC22A12) na membrana apical e GLUT9 (SLC2A9) na basolateral."
+    },
+    {
+      "id": 8,
+      "tag": "Farmacologia Clínica • Diuréticos e Hiperuricemia",
+      "stem": "Joaquim, 44 anos, hipertenso, encontra-se em uso diário de hidroclorotiazida (HCTZ) 25 mg há 3 anos. Ele foi admitido com monoartrite aguda de joelho direito desencadeada por hiperuricemia. Durante a discussão do caso, os alunos indagam por que os diuréticos tiazídicos e de alça aumentam de forma tão consistente a concentração sérica de ácido úrico.<br><br>Qual o mecanismo fisiopatológico primário pelo qual os diuréticos tiazídicos e de alça favorecem a hiperuricemia?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aumentam a reabsorção proximal de sódio e água por contração volêmica, promovendo reabsorção acoplada de urato e reduzindo sua excreção."
+        },
+        {
+          "letter": "B",
+          "text": "Bloqueiam permanentemente os glomérulos renais por vasoconstrição na arteríola aferente mediada por tromboxano A2."
+        },
+        {
+          "letter": "C",
+          "text": "Degradam quimicamente os transportadores URAT1 e GLUT9 na borda em escova do túbulo contorcido distal."
+        },
+        {
+          "letter": "D",
+          "text": "Estimulam a transcrição gênica da xantina oxidase hepática, induzindo hiperprodução primária descontrolada de ácido úrico."
+        }
+      ],
+      "answer": "A",
+      "rationale": "Os diuréticos tiazídicos e de alça promovem perda renal de sódio e água, gerando leve depleção de volume extracelular. Em resposta compensatória, o néfron proximal <strong>aumenta a reabsorção tubular proximal de sódio e água</strong>. Como o urato é reabsorvido passiva e ativamente em associação a esses solutos no túbulo proximal, há um aumento acentuado da reabsorção de urato e diminuição de sua excreção renal. Além disso, esses fármacos competem com o ácido úrico pelos sistemas de secreção de ânions tubulares.",
+      "distractors": [
+        "<strong>B está incorreta [Vetor 1 - Micro-inversão Mecanística]:</strong> Os diuréticos não causam vasoconstrição glomerular obstrutiva mediada por tromboxano para reter urato. <em>(Ímã cognitivo: jargão hemodinâmico renal convincente, porém falso).</em>",
+        "<strong>C está incorreta [Vetor 1 - Micro-inversão Anatômica]:</strong> Os transportadores URAT1 e GLUT9 estão localizados no túbulo proximal (e não distal) e sua atividade de reabsorção é favorecida, não degradada. <em>(Ímã cognitivo: erro de segmento anatômico do néfron).</em>",
+        "<strong>D está incorreta [Vetor 1 - Micro-inversão Fisiopatológica]:</strong> Os tiazídicos não aumentam a síntese hepática de urato (hiperprodução); eles reduzem a excreção renal (hipoexcreção). <em>(Ímã cognitivo: confunde defeito de excreção com defeito de produção).</em>"
+      ],
+      "pearl": "Tiazídicos e diuréticos de alça &rarr; hipovolemia leve &rarr; &uarr; reabsorção proximal de Na+ e água &rarr; &uarr; reabsorção acoplada de urato &rarr; hiperuricemia (hipoexcreção)."
+    },
+    {
+      "id": 9,
+      "tag": "Metabologia Clínica • Limite Físico-Químico de Solubilidade",
+      "stem": "Em uma discussão sobre valores laboratoriais, um estudante de medicina questiona por que a literatura médica define hiperuricemia estrita a partir de 6,8 mg/dL, embora algumas tabelas de referência para homens apresentem limites superiores de até 7,0 ou 7,2 mg/dL.<br><br>Qual o fundamento biológico e físico-químico do ponto de corte de 6,8 mg/dL para o ácido úrico?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Representa o limite de solubilidade físico-química do urato monossódico no plasma em condições fisiológicas de pH e temperatura."
+        },
+        {
+          "letter": "B",
+          "text": "Corresponde à concentração plasmática em que a enzima xantina oxidase atinge sua velocidade máxima de saturação (Vmáx)."
+        },
+        {
+          "letter": "C",
+          "text": "Indica o limiar renal absoluto a partir do qual a filtração glomerular do urato é bloqueada por precipitação nos podócitos."
+        },
+        {
+          "letter": "D",
+          "text": "Determina o nível sérico acima do qual 100% dos pacientes desenvolvem necessariamente artrite gotosa aguda em 24 horas."
+        }
+      ],
+      "answer": "A",
+      "rationale": "O valor de <strong>6,8 mg/dL</strong> é o <strong>limite de solubilidade do urato monossódico no plasma humano</strong> a 37 °C e pH de 7,4. Acima dessa concentração sérica, o líquido extracelular torna-se supersaturado com urato, criando a pré-condição físico-química necessária para a precipitação de cristais de urato monossódico nos tecidos e articulações.",
+      "distractors": [
+        "<strong>B está incorreta [Vetor 4 - Mimetismo Bioquímico]:</strong> O ponto de corte reflete solubilidade extracelular e não cinética enzimática (Km ou Vmáx) da xantina oxidase hepática. <em>(Ímã cognitivo: usa conceitos de cinética enzimática de forma descontextualizada).</em>",
+        "<strong>C está incorreta [Vetor 1 - Micro-inversão]:</strong> O urato continua sendo livremente filtrado no glomérulo mesmo acima de 6,8 mg/dL, sem bloquear podócitos. <em>(Ímã cognitivo: inventa uma barreira glomerular mecânica para o urato livre).</em>",
+        "<strong>D está incorreta [Vetor 1 - Termo Absoluto e Epidemiologia]:</strong> Ter ácido úrico > 6,8 mg/dL é condição necessária, mas não suficiente: apenas 5% a 20% dos indivíduos com hiperuricemia desenvolvem gota. <em>(Ímã cognitivo: generalização absoluta falsa).</em>"
+      ],
+      "pearl": "6,8 mg/dL = Limite de solubilidade do urato monossódico no plasma a 37°C e pH 7,4. Acima deste valor, o plasma está supersaturado."
+    },
+    {
+      "id": 10,
+      "tag": "Propedêutica Médica • Relação Uricemia vs Uricosúria",
+      "stem": "Um médico plantonista atende um paciente com quadro de gota intercrítica cujo ácido úrico sérico recente encontra-se em 9,2 mg/dL. O médico afirma aos familiares que, devido a essa dosagem plasmática marcadamente elevada, o paciente certamente apresentará uma uricosúria de 24 horas excessiva (hiperuricosúria grave).<br><br>À luz dos princípios descritos na propedêutica nefrológica e reumatológica dos documentos de referência, qual a veracidade da afirmação médica?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Correta, pois níveis séricos superiores a 7,0 mg/dL saturam os transportadores URAT1, desviando todo o urato para a urina."
+        },
+        {
+          "letter": "B",
+          "text": "Incorreta, pois pacientes com hiperuricemia sérica são invariavelmente anúricos para o ácido úrico, excretando-o somente na saliva."
+        },
+        {
+          "letter": "C",
+          "text": "Correta, pois a excreção tubular de urato aumenta de forma proporcional e linear à concentração de urato no sangue periférico."
+        },
+        {
+          "letter": "D",
+          "text": "Incorreta, pois não há correlação entre o nível sérico e o nível urinário de ácido úrico, sendo cerca de 90% dos casos devidos à hipoexcreção."
+        }
+      ],
+      "answer": "D",
+      "rationale": "Como enfatizado textualmente no documento de aula (página 11): <strong>'Não há correlação entre o nível sérico e o nível urinário de ácido úrico'</strong>. Na patogenia da gota, cerca de 90% dos pacientes desenvolvem hiperuricemia por <strong>hipoexcreção renal</strong> (reter urato nos túbulos renais), o que significa que o paciente pode ter níveis séricos extremamente elevados com uricosúria normal ou até reduzida.",
+      "distractors": [
+        "<strong>A está incorreta [Vetor 1 - Micro-inversão]:</strong> A saturação ou hiperfunção de URAT1 aumenta a reabsorção de urato para o sangue, diminuindo a uricosúria e não aumentando-a. <em>(Ímã cognitivo: inverte o sentido do fluxo mediado pelo URAT1).</em>",
+        "<strong>B está incorreta [Vetor 1 - Absurdo Fisiológico]:</strong> O ácido úrico continua sendo excretado pelos rins (65%) e intestino (35%), não havendo excreção salivar exclusiva. <em>(Ímã cognitivo: proposta biologicamente inverossímil).</em>",
+        "<strong>C está incorreta [Vetor 1 - Micro-inversão Conceitual]:</strong> Assume uma correlação linear inexistente na fisiopatologia da gota, ignorando o mecanismo de retenção proximal. <em>(Ímã cognitivo: raciocínio intuitivo superficial de que 'mais no sangue = mais na urina').</em>"
+      ],
+      "pearl": "'Não há correlação entre o nível sérico e o nível urinário de ácido úrico.' ~90% dos gotosos são hipoexcretores renais!"
+    },
+    {
+      "id": 11,
+      "tag": "Epidemiologia Clínica • Distribuição por Sexo e Idade",
+      "stem": "Durante a aula de introdução às artropatias microcristalinas na Faculdade de Medicina, a docente apresentou os dados epidemiológicos clássicos da gota na população adulta e idosa.<br><br>De acordo com os dados epidemiológicos apresentados nos documentos de referência, qual é a distribuição típica da gota quanto ao sexo e à faixa etária de maior incidência?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Apresenta nítido predomínio no sexo feminino durante a menacme (relação de 5 mulheres para 1 homem), com declínio abrupto na pós-menopausa."
+        },
+        {
+          "letter": "B",
+          "text": "Ocorre com frequência uniforme em crianças e adolescentes escolares, atingindo igualmente 50% dos indivíduos de ambos os sexos."
+        },
+        {
+          "letter": "C",
+          "text": "Predomina amplamente em homens (cerca de 95% dos casos; proporção de 7 a 9 homens para 1 mulher), com pico de incidência entre 30 e 60 anos."
+        },
+        {
+          "letter": "D",
+          "text": "Acomete homens e mulheres em proporções rigorosamente idênticas (1:1), concentrando 90% dos casos antes dos 25 anos de idade."
+        }
+      ],
+      "answer": "C",
+      "rationale": "A gota é a artrite inflamatória mais comum em homens. Cerca de <strong>95% dos casos ocorrem no sexo masculino</strong> (proporção descrita de <strong>7–9 homens para 1 mulher</strong>), com a faixa etária mais frequente situando-se entre <strong>30 e 60 anos</strong>, apresentando pico de incidência aos 40 anos de idade.",
+      "distractors": [
+        "<strong>A está incorreta [Vetor 1 - Micro-inversão de Sexo e Idade]:</strong> As mulheres em idade fértil raramente desenvolvem gota devido à proteção hormonal uricosúrica do estrogênio. <em>(Ímã cognitivo: confunde com o perfil epidemiológico do lúpus ou artrite reumatoide).</em>",
+        "<strong>B está incorreta [Vetor 2 - Faixa Etária Incompatível]:</strong> A gota é excepcional na infância e adolescência, salvo em raros erros inatos graves do metabolismo de purinas como a síndrome de Lesch-Nyhan. <em>(Ímã cognitivo: desconsidera a faixa etária de instalação da doença).</em>",
+        "<strong>D está incorreta [Vetor 1 - Micro-inversão Epidemiológica]:</strong> A gota não é paritária entre os sexos nem acomete jovens antes dos 25 anos em 90% dos casos. <em>(Ímã cognitivo: igualdade de gênero irreal para esta patologia).</em>"
+      ],
+      "pearl": "Epidemiologia da Gota: 95% Homens (7-9 : 1) | Faixa 30–60 anos (Pico aos 40 anos). Mulheres jovens são amplamente poupadas."
+    },
+    {
+      "id": 12,
+      "tag": "Endocrinologia e Fisiologia • Estrogênio e Menopausa",
+      "stem": "Dona Maria, 67 anos, hipertensa em uso de enalapril, comparece à consulta com primeiro episódio de artrite aguda no tornozelo direito. A paciente questiona o médico sobre a razão de nunca ter apresentado problemas com ácido úrico durante a juventude, enquanto seu irmão sofria com crises de gota desde os 42 anos.<br><br>Qual fator fisiológico explica o aumento substancial da incidência de hiperuricemia e crises de gota em mulheres após a menopausa?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A elevação abrupta do hormônio luteinizante (LH) estimula diretamente a síntese hepática descontrolada de xantina oxidase."
+        },
+        {
+          "letter": "B",
+          "text": "A perda de progesterona inibe permanentemente a secreção intestinal de urato mediada pelo transportador de efluxo ABCG2."
+        },
+        {
+          "letter": "C",
+          "text": "A queda nos níveis de estrogênio na pós-menopausa cessa o efeito uricosúrico desse hormônio, reduzindo a excreção renal de urato."
+        },
+        {
+          "letter": "D",
+          "text": "A menopausa induz necrose isquêmica dos glomérulos renais, impedindo a filtração de qualquer soluto livre de purina."
+        }
+      ],
+      "answer": "C",
+      "rationale": "Nas mulheres em idade reprodutiva, os hormônios estrogênicos promovem um <strong>efeito uricosúrico natural</strong>, estimulando uma maior fração de excreção renal de ácido úrico e mantendo níveis séricos basais mais baixos (2,6 a 6,0 mg/dL). Com a menopausa e a consequente <strong>queda do estrogênio</strong>, esse efeito uricosúrico é perdido, ocorrendo elevação da uricemia plasmática e aproximação gradual da prevalência de gota à observada no sexo masculino (cerca de 3% das mulheres > 85 anos são afetadas).",
+      "distractors": [
+        "<strong>A está incorreta [Vetor 4 - Mimetismo Fisiológico]:</strong> O aumento do LH é secundário ao feedback gonadal e não possui ação catalisadora sobre a xantina oxidase hepática. <em>(Ímã cognitivo: termo endocrinológico de menopausa sem nexo causal).</em>",
+        "<strong>B está incorreta [Vetor 1 - Micro-inversão]:</strong> A progesterona não é a reguladora do ABCG2 intestinal no modelo de proteção feminina da gota; o hormônio chave comprovado é o estrogênio a nível renal. <em>(Ímã cognitivo: substituição de hormônios ovarianos).</em>",
+        "<strong>D está incorreta [Vetor 1 - Absurdo Anátomo-Patológico]:</strong> A menopausa fisiológica não provoca necrose de glomérulos renais. <em>(Ímã cognitivo: gravidade clínica excessiva desvinculada da fisiologia do climatério).</em>"
+      ],
+      "pearl": "Estrogênio = Efeito Uricosúrico natural. Na pós-menopausa, a perda do estrogênio reduz a excreção renal de ácido úrico, elevando o risco de gota nas mulheres."
+    },
+    {
+      "id": 13,
+      "tag": "Reumatologia Clínica • Hiperuricemia Assintomática vs Gota",
+      "stem": "Um homem de 48 anos, completamente assintomático, realiza exames admissionais na empresa que revelam ácido úrico sérico de 8,0 mg/dL (limite de solubilidade: 6,8 mg/dL). Preocupado, ele procura o médico do trabalho perguntando se necessariamente sofrerá de artrite gotosa e se deve tomar medicamentos imediatamente.<br><br>Com base nas informações epidemiológicas e clínicas dos documentos de estudo, qual a relação entre ter hiperuricemia sérica e desenvolver gota?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Apenas 5% a 20% dos pacientes com hiperuricemia desenvolvem gota clínica, sendo a hiperuricemia necessária, mas não suficiente."
+        },
+        {
+          "letter": "B",
+          "text": "Mais de 80% das pessoas com hiperuricemia desenvolvem tofos viscerais silenciosos no parênquima cerebral nos primeiros 6 meses."
+        },
+        {
+          "letter": "C",
+          "text": "A presença de hiperuricemia sérica exclui formalmente o diagnóstico de gota, uma vez que a artrite gotosa só ocorre em hipouricêmicos."
+        },
+        {
+          "letter": "D",
+          "text": "Exatamente 100% dos indivíduos com ácido úrico sérico superior a 7,0 mg/dL desenvolvem crises agudas de podagra no prazo de 1 ano."
+        }
+      ],
+      "answer": "A",
+      "rationale": "A hiperuricemia é uma pré-condição biológica necessária para o surgimento da gota, porém <strong>não é suficiente por si só</strong>. Conforme destacado nos documentos, <strong>apenas 5% a 20% dos pacientes com hiperuricemia desenvolvem gota clínica</strong> ao longo da vida. A imensa maioria dos indivíduos permanece com hiperuricemia assintomática indefinidamente, dependendo de outros fatores locais e sistêmicos (temperatura articular, trauma, nucleação de cristais e resposta do sistema imune inato) para manifestar a doença.",
+      "distractors": [
+        "<strong>B está incorreta [Vetor 4 - Mimetismo e Exagero Clínico]:</strong> O urato deposita-se em articulações e tecidos moles superficiais (e rins), não formando tofos viscerais cerebrais em 80% dos casos. <em>(Ímã cognitivo: falsa gravidade sistêmica).</em>",
+        "<strong>C está incorreta [Vetor 1 - Micro-inversão Conceitual]:</strong> A gota requer hiperuricemia para a formação de cristais de urato monossódico; não ocorre em indivíduos constitutivamente hipouricêmicos. <em>(Ímã cognitivo: inversão patológica bizarra).</em>",
+        "<strong>D está incorreta [Vetor 1 - Termo Absoluto e Superestimação]:</strong> A imensa maioria dos hiperuricêmicos não terá crises agudas, sendo incorreto afirmar que 100% desenvolverão podagra. <em>(Ímã cognitivo: armadilha de certeza absoluta e relação causa-efeito simplista).</em>"
+      ],
+      "pearl": "Hiperuricemia é necessária, mas NÃO suficiente para a gota! Apenas 5% a 20% dos pacientes com ácido úrico > 7 mg/dL desenvolvem a doença clínica."
+    },
+    {
+      "id": 14,
+      "tag": "Genética Médica • Hiperuricemia Primária",
+      "stem": "Um médico de família atende um jovem de 36 anos com o segundo episódio de monoartrite gotosa no hálux direito. O paciente relata que seu pai e dois tios paternos têm gota crônica e cálculos renais. Ele não faz uso de medicações, não é hipertenso e pratica atividades físicas regulares.<br><br>Considerando a classificação etiopatogênica da gota descrita nos materiais didáticos, qual característica define a hiperuricemia primária e sua taxa de agregação familiar?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Decorre exclusivamente de insuficiência renal crônica adquirida por exposição ocupacional a chumbo e mercúrio inorgânico."
+        },
+        {
+          "letter": "B",
+          "text": "É causada necessariamente por desnutrição proteico-calórica grave com consumo de massas musculares e catabolismo mitocondrial."
+        },
+        {
+          "letter": "C",
+          "text": "Possui herança monogênica recessiva ligada ao cromossomo Y, afetando obrigatoriamente 100% dos descendentes do sexo masculino."
+        },
+        {
+          "letter": "D",
+          "text": "Possui origem genética de caráter autossômico dominante, sendo que cerca de 25% dos familiares de pacientes gotosos apresentam hiperuricemia."
+        }
+      ],
+      "answer": "D",
+      "rationale": "A hiperuricemia primária decorre de base genética poligênica com <strong>caráter autossômico dominante</strong>, associando-se tanto a defeitos de hipoexcreção tubular renal quanto a defeitos enzimáticos hiperprodutores. Estudos epidemiológicos e genéticos demonstram que <strong>cerca de 25% dos familiares de pacientes gotosos apresentam hiperuricemia</strong>.",
+      "distractors": [
+        "<strong>A está incorreta [Vetor 4 - Mimetismo de Causa Secundária]:</strong> Insuficiência renal por nefrite túbulo-intersticial por chumbo ('gota saturnina') é classificada como hiperuricemia secundária e não primária. <em>(Ímã cognitivo: confunde causa primária genética com secundária toxicológica).</em>",
+        "<strong>B está incorreta [Vetor 1 - Micro-inversão Dietética]:</strong> O excesso de proteínas e purinas (e não a desnutrição proteica) está classicamente associado à hiperuricemia. <em>(Ímã cognitivo: inverte a relação nutricional).</em>",
+        "<strong>C está incorreta [Vetor 1 - Micro-inversão no Padrão de Herança]:</strong> Não se trata de herança ligada ao Y com penetrância de 100%. A gota primária tem padrão poligênico com transmissão autossômica dominante. <em>(Ímã cognitivo: atrai quem associa o predomínio masculino a uma ligação direta com o cromossomo Y).</em>"
+      ],
+      "pearl": "Hiperuricemia Primária: Base genética (caráter autossômico dominante). Cerca de 25% dos familiares de primeiro grau apresentam hiperuricemia!"
+    },
+    {
+      "id": 15,
+      "tag": "Hematologia e Oncologia • Hiperuricemia Secundária",
+      "stem": "Um homem de 54 anos com leucemia mieloide aguda é internado para início de protocolo de quimioterapia de indução. Doze horas após as primeiras infusões, os exames laboratoriais revelam elevação abrupta do ácido úrico sérico de 5,8 para 15,2 mg/dL, hipercalemia, hiperfosfatemia e aumento progressivo de escórias nitrogenadas com oligúria acentuada.<br><br>Qual o mecanismo etiopatogênico da hiperuricemia secundária neste cenário e a qual grupo de causas ela pertence?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Superprodução de ácido úrico decorrente de acentuada lise celular tumoral e degradação maciça de ácidos nucleicos no fígado."
+        },
+        {
+          "letter": "B",
+          "text": "Diminuição primária da conversão hepática de xantina oxidase em hipoxantina redutase citoplasmática."
+        },
+        {
+          "letter": "C",
+          "text": "Deficiência congênita na síntese de fosforribosilpirofosfato que bloqueia a absorção intestinal de purinas."
+        },
+        {
+          "letter": "D",
+          "text": "Hipoexcreção tubular renal isolada motivada por mutação espontânea e súbita no gene do transportador URAT1."
+        }
+      ],
+      "answer": "A",
+      "rationale": "A hiperuricemia secundária pode decorrer de <strong>superprodução</strong> ou de redução da excreção. As causas de superprodução incluem doenças com intensa renovação celular e lise celular maciça, como <strong>leucemias, linfomas, policitemia e mieloma múltiplo</strong> (especialmente durante quimioterapia citotóxica na Síndrome de Lise Tumoral). A destruição em massa de células neoplásicas libera quantidades imensas de ácidos nucleicos, que são convertidos no fígado em urato, superando a solubilidade plasmática e a capacidade excretora.",
+      "distractors": [
+        "<strong>B está incorreta [Vetor 1 - Micro-inversão Bioquímica]:</strong> A xantina oxidase oxida hipoxantina em xantina e xantina em urato; não há conversão de enzima em enzima citoplasmática. <em>(Ímã cognitivo: formulação enzimática confusa e incorreta).</em>",
+        "<strong>C está incorreta [Vetor 4 - Mimetismo de Erro Inato]:</strong> A lise tumoral é adquirida e decorre da destruição de leucócitos, não de deficiência congênita na síntese de PRPP. <em>(Ímã cognitivo: confunde patologia onco-hematológica adquirida com erro inato do metabolismo).</em>",
+        "<strong>D está incorreta [Vetor 1 - Micro-inversão Mecanística]:</strong> O mecanismo desencadeador na lise tumoral é a sobrecarga massiva de produção (superprodução) e não uma mutação gênica aguda no transportador URAT1. <em>(Ímã cognitivo: atribui fenômeno metabólico agudo a mutação de novo).</em>"
+      ],
+      "pearl": "Hiperuricemia Secundária por Superprodução: Neoplasias hematológicas (leucemia, linfoma, mieloma, policitemia), síndrome de lise tumoral e psoríase grave."
+    },
+    {
+      "id": 16,
+      "tag": "Fisiopatologia Articular • Predileção Anatômica Distal",
+      "stem": "Um médico reumatologista discute com os acadêmicos por que as crises agudas de gota iniciam predominantemente nas articulações distais das extremidades inferiores — em especial a 1ª articulação metatarsofalangeana (podagra) e os tornozelos —, poupando inicialmente articulações centrais e axiais como ombros e quadris.<br><br>Quais fatores microambientais locais justificam essa predileção anatômica pela deposição de cristais de urato monossódico?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A vascularização terminal do pé é imune ao sistema imune inato, impedindo a quimiotaxia de macrófagos e neutrófilos."
+        },
+        {
+          "letter": "B",
+          "text": "As articulações distais possuem concentração dez vezes maior de estrogênio protetor que retém água na cavidade sinovial."
+        },
+        {
+          "letter": "C",
+          "text": "O pH sinovial no hálux é hiperalcalino (> 8,5), o que acelera a oxidação do ácido úrico pela uricase tecidual periférica."
+        },
+        {
+          "letter": "D",
+          "text": "O líquido sinovial é um solvente inadequado para o urato e as temperaturas mais baixas nas extremidades reduzem a solubilidade do urato."
+        }
+      ],
+      "answer": "D",
+      "rationale": "Dois fatores biofísicos centrais justificam a precipitação nas articulações distais: 1) <strong>O líquido sinovial é um solvente inadequado para o urato monossódico</strong> em comparação ao soro sanguíneo; 2) <strong>Temperaturas teciduais mais baixas reduzem substancialmente a solubilidade do urato</strong>. Como as extremidades periféricas (pés, dedos e tornozelos) operam em temperaturas fisiológicas mais frias (frequentemente < 32–34 °C), o limiar de supersaturação é atingido em níveis menores de ácido úrico, favorecendo a nucleação dos cristais na 1ª articulação metatarsofalangeana.",
+      "distractors": [
+        "<strong>A está incorreta [Vetor 1 - Micro-inversão Imunológica]:</strong> A crise de gota caracteriza-se precisamente pela intensa e descontrolada quimiotaxia de neutrófilos e macrófagos no sítio distal. <em>(Ímã cognitivo: inverte a presença da inflamação local).</em>",
+        "<strong>B está incorreta [Vetor 1 - Inversão Fisiológica]:</strong> As articulações periféricas não concentram estrogênio e os homens são os mais acometidos. <em>(Ímã cognitivo: uso do estrogênio fora de contexto biológico).</em>",
+        "<strong>C está incorreta [Vetor 1 - Micro-inversão de pH e Ausência de Uricase]:</strong> A solubilidade do urato diminui em pH mais ácido, e a espécie humana não possui uricase tecidual funcional. <em>(Ímã cognitivo: erro de pH e menção a enzima ausente).</em>"
+      ],
+      "pearl": "Predileção por Extremidades (Pés/Hálux): Líquido sinovial = mau solvente + Temperatura periférica mais baixa = menor solubilidade do urato &rarr; cristalização."
+    },
+    {
+      "id": 17,
+      "tag": "Imunologia Celular • Ativação do Inflamassoma NLRP3",
+      "stem": "Ao investigar a resposta inflamatória articular desencadeada por microcristais de urato monossódico (MSU), a equipe de pesquisa clínica observa que a deposição tecidual ativa prontamente o sistema imune inato local.<br><br>Qual complexo molecular intracelular presente nos macrófagos sinoviais é ativado pela fagocitose dos cristais de MSU e qual via enzimática é deflagrada para dar início à inflamação gotosa?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "O inflamassoma NLRP3, que ativa a via da caspase-1, promovendo a clivagem e secreção da citocina ativa IL-1β."
+        },
+        {
+          "letter": "B",
+          "text": "O complexo proteassoma 26S, que ativa a ciclo-oxigenase-1, promovendo a síntese de prostaciclina antiagregante."
+        },
+        {
+          "letter": "C",
+          "text": "A via das integrinas beta-2, que induz apoptose silenciosa dos macrófagos sem liberação de qualquer citocina flogística."
+        },
+        {
+          "letter": "D",
+          "text": "O receptor TLR9 intranuclear, que ativa a via da caspase-8 com clivagem direta de interferon-gama monossódico."
+        }
+      ],
+      "answer": "A",
+      "rationale": "Os cristais de urato monossódico atuam como sinais de perigo endógeno (DAMPs) e são reconhecidos por receptores da imunidade inata (TLR2 e TLR4) e fagocitados por macrófagos sinoviais. No citoplasma, desestabilizam o lisossomo e ativam o <strong>inflamassoma NLRP3</strong>, que recruta e cliva a pró-caspase-1 na enzima <strong>caspase-1 ativa</strong>. Esta cliva a pró-IL-1β na forma biologicamente ativa da <strong>interleucina-1β (IL-1β)</strong>, a principal responsável pelo início da inflamação na gota.",
+      "distractors": [
+        "<strong>B está incorreta [Vetor 4 - Mimetismo Bioquímico]:</strong> O proteassoma 26S degrada proteínas ubiquitinadas e não é o ativador primário da crise de gota; a COX-1 sintetiza prostaglandinas mas não é ativada pelo proteassoma para liberar IL-1β. <em>(Ímã cognitivo: confunde organelas e vias enzimáticas).</em>",
+        "<strong>C está incorreta [Vetor 1 - Micro-inversão Imunológica]:</strong> A fagocitose dos cristais desencadeia inflamação exuberante e piroptose/necrose, e não tolerância ou apoptose silenciosa. <em>(Ímã cognitivo: supõe erroneamente ausência de resposta imune).</em>",
+        "<strong>D está incorreta [Vetor 4 - Mimetismo de Imunologia Inata]:</strong> O TLR9 reconhece DNA viral/bacteriano não metilado em endossomos, não sendo o complexo inflamassoma NLRP3 que cliva IL-1β na gota. <em>(Ímã cognitivo: termos técnicos de receptores toll-like).</em>"
+      ],
+      "pearl": "Cristais de MSU &rarr; Macrófagos fagocitam &rarr; Ativação do Inflamassoma NLRP3 &rarr; Caspase-1 &rarr; Clivagem e liberação de IL-1&beta; (Início da inflamação)."
+    },
+    {
+      "id": 18,
+      "tag": "Fisiopatologia e Terapia Alvo • Papel da Interleucina-1β",
+      "stem": "Em uma sessão clínica sobre novos tratamentos biológicos em reumatologia, discute-se o uso de bloqueadores específicos de citocinas (como anakinra e canaquinumabe) para o tratamento de crises agudas de gota refratárias às terapias usuais em pacientes com múltiplas contraindicações clínicas.<br><br>Qual o papel biológico desempenhado pela Interleucina-1β (IL-1β) na fisiopatologia da crise aguda de gota?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Inibe a quimiotaxia de fagócitos e bloqueia a síntese de leucotrienos endoteliais para encerrar a fase exsudativa articular."
+        },
+        {
+          "letter": "B",
+          "text": "É a principal citocina responsável pelo início da inflamação na gota, ativando o endotélio vascular e desencadeando a cascata pró-inflamatória."
+        },
+        {
+          "letter": "C",
+          "text": "Atua como potente analgésico endógeno, estimulando receptores opioides na sinóvia e promovendo a remissão espontânea da crise."
+        },
+        {
+          "letter": "D",
+          "text": "Exerce função quelante direta sobre os cristais de urato, convertendo-os espontaneamente em cristais solúveis de citrato de sódio."
+        }
+      ],
+      "answer": "B",
+      "rationale": "Nos materiais didáticos, a pergunta chave da aula é explicitada: <em>'Qual a principal responsável pela inflamação da gota?'</em> A resposta é o <strong>inflamassoma NLRP3 com a liberação de IL-1β</strong>. A IL-1β é o mediador mestre que inicia a resposta: ativa as células endoteliais da sinóvia, induz a expressão de moléculas de adesão, estimula a produção de quimiocinas e promove o recrutamento em massa de neutrófilos para o espaço articular.",
+      "distractors": [
+        "<strong>A está incorreta [Vetor 1 - Micro-inversão]:</strong> A IL-1β estimula fortemente a quimiotaxia e a migração celular, e não a sua inibição. <em>(Ímã cognitivo: inverte a ação pró-inflamatória em anti-inflamatória).</em>",
+        "<strong>C está incorreta [Vetor 1 - Micro-inversão Funcional]:</strong> A IL-1β não é analgésica; pelo contrário, amplifica a inflamação e a dor ao sensibilizar terminações nociceptivas e induzir mediadores secundários. <em>(Ímã cognitivo: confunde com mecanismos de regulação analgésica tardia).</em>",
+        "<strong>D está incorreta [Vetor 1 - Absurdo Bioquímico]:</strong> Citocinas não funcionam como quelantes de cristais que os transformam em citrato. <em>(Ímã cognitivo: atribui propriedades enzimático-químicas fantasiosas a uma interleucina).</em>"
+      ],
+      "pearl": "IL-1&beta; = Citocina central que INICIA e orquestra a inflamação da gota. Alvo biológico de anakinra e canaquinumabe nas crises refratárias."
+    },
+    {
+      "id": 19,
+      "tag": "Fisiopatologia Articular • LTB4 e Recrutamento Neutrofílico",
+      "stem": "Durante a fase de amplificação do ataque agudo de gota, observa-se migração em massa de neutrófilos para o espaço articular, os quais tentam fagocitar avidamente os cristais de urato de formato afiado, culminando em lise celular neutrofílica e liberação de enzimas lisossômicas no líquido sinovial.<br><br>Qual mediador lipídico derivado da via da 5-lipoxigenase atua sinergicamente com a IL-1β para amplificar a quimiotaxia e o recrutamento de neutrófilos, mantendo a crise aguda ativa?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Prostaglandina F2-alfa (PGF2a)."
+        },
+        {
+          "letter": "B",
+          "text": "Tromboxano B2 (TXB2)."
+        },
+        {
+          "letter": "C",
+          "text": "Lipoxina A4 (LXA4)."
+        },
+        {
+          "letter": "D",
+          "text": "Leucotrieno B4 (LTB4)."
+        }
+      ],
+      "answer": "D",
+      "rationale": "Conforme demonstrado nos esquemas da aula (página 24 da aula da Profa. Paula Assis Queiroz): o <strong>Leucotrieno B4 (LTB4)</strong> e a IL-1β são os fatores primordiais responsáveis pela quimiotaxia, recrutamento massivo de neutrófilos e manutenção da crise ativa. Os neutrófilos recrutados tentam fagocitar os cristais, sofrem lise (morte neutrofílica) e liberam mais enzimas hidrolíticas e mediadores, gerando um ciclo de retroalimentação positiva característico do flare gotoso.",
+      "distractors": [
+        "<strong>A está incorreta [Vetor 4 - Mimetismo Farmacológico]:</strong> A PGF2a atua principalmente na contratilidade miometrial e vascular, sem papel proeminente de quimiotaxia na sinóvia gotosa. <em>(Ímã cognitivo: eicosanoide clássico de ginecologia e oftalmologia).</em>",
+        "<strong>B está incorreta [Vetor 4 - Mimetismo de Eicosanoides]:</strong> O tromboxano B2 é um metabólito inativo do tromboxano A2 relacionado à agregação plaquetária, sem atividade de quimiotaxia neutrofílica primária na gota. <em>(Ímã cognitivo: atrai quem reconhece o radical B2 e confunde com eicosanoides plaquetários).</em>",
+        "<strong>C está incorreta [Vetor 1 - Micro-inversão Funcional]:</strong> A lipoxina A4 é um mediador lipídico pró-resolução que inibe a migração neutrofílica e encerra a inflamação, agindo de forma oposta ao LTB4. <em>(Ímã cognitivo: confunde mediador inflamatório com mediador de resolução).</em>"
+      ],
+      "pearl": "LTB4 (Leucotrieno B4) = Potente quimiotaxia e recrutamento de neutrófilos. Mantém e amplifica a crise de gota articular."
+    },
+    {
+      "id": 20,
+      "tag": "Fisiopatologia da Dor e Inflamação • Bradicinina",
+      "stem": "Em um caso clássico apresentado em aula (Joaquim, 44 anos), o paciente apresentava dor articular extrema e edema marcante com calor e rubor no joelho acometido após ingesta alcoólica.<br><br>Segundo destacado expressamente na sintomatologia e na pergunta de prova dos materiais didáticos (<em>'Resumo dos mediadores inflamatórios'</em>), qual mediador inflamatório derivado da ativação do sistema de quininas é o principal responsável direto pela DOR INTENSA e pelo EDEMA observados na crise de gota?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Interleucina-10 (IL-10)."
+        },
+        {
+          "letter": "B",
+          "text": "Fator de Necrose Tumoral Alfa (TNF-α)."
+        },
+        {
+          "letter": "C",
+          "text": "Bradicinina."
+        },
+        {
+          "letter": "D",
+          "text": "Fator Transformador de Crescimento Beta (TGF-β)."
+        }
+      ],
+      "answer": "C",
+      "rationale": "Conforme destacado no quiz e no resumo da aula (páginas 28, 29 e 30 da aula da Profa. Paula Assis Queiroz): a <strong>Bradicinina</strong> (gerada pela conversão de cininogênio em quinina &rarr; bradicinina na cascata inflamatória) é a <strong>responsável direta pela DOR INTENSA e pelo EDEMA</strong> marcante da crise. Enquanto a IL-1β inicia a inflamação e o LTB4 recruta os neutrófilos, a bradicinina ativa e sensibiliza profundamente os nociceptores e induz aumento dramático da permeabilidade capilar.",
+      "distractors": [
+        "<strong>A está incorreta [Vetor 1 - Micro-inversão Funcional]:</strong> A IL-10 é uma citocina marcadamente anti-inflamatória e imunossupressora, que não medeia dor extrema nem edema inflamatório. <em>(Ímã cognitivo: citocina com efeito contrário ao flogístico).</em>",
+        "<strong>B está incorreta [Vetor 4 - Mimetismo de Citocinas Pró-Inflamatórias]:</strong> Embora o TNF-α participe do ambiente pró-inflamatório geral, o documento oficial de estudo destaca a bradicinina como o mediador específico diretamente responsável pela dor extrema e edema exuberante. <em>(Ímã cognitivo: citocina pró-inflamatória muito conhecida em artrite reumatoide).</em>",
+        "<strong>D está incorreta [Vetor 1 - Micro-inversão]:</strong> O TGF-β atua no reparo tecidual, fibrose e desativação de macrófagos, não sendo o gerador primário de dor e vasodilatação aguda. <em>(Ímã cognitivo: fator de crescimento e cicatrização).</em>"
+      ],
+      "pearl": "Tríade de Mediadores da Gota: IL-1&beta; = Inicia a inflamação | LTB4 = Recruta neutrófilos | Bradicinina = Responsável pela dor intensa e edema!"
+    },
+    {
+      "id": 21,
+      "tag": "Clínica Médica • Curso Temporal da Crise Aguda",
+      "stem": "Um homem de 46 anos é atendido em uma Unidade de Pronto Atendimento (UPA) referindo dor excruciante no primeiro dedo do pé direito, com início súbito durante a madrugada. Ao exame, a articulação está intensamente eritematosa, quente e edemaciada, com hipersensibilidade extrema até mesmo ao toque do lençol.<br><br>Considerando as características clínicas e a cronologia típica do ataque agudo de gota (flare) descritas na literatura de referência, qual é o padrão temporal de instalação, duração e resolução da crise não tratada?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Instalação restrita ao período vespertino pós-prandial imediato, com resolução completa e garantida em menos de 15 minutos sem analgesia."
+        },
+        {
+          "letter": "B",
+          "text": "Instalação rápida com pico de dor em menos de 24 horas (frequentemente noturno) e duração de 3 a 7 dias, com resolução espontânea."
+        },
+        {
+          "letter": "C",
+          "text": "Início insidioso e progressivo ao longo de 6 meses, com rigidez matinal fixa superior a 3 horas e incapacidade de resolução sem cirurgia."
+        },
+        {
+          "letter": "D",
+          "text": "Início hiperagudo que atinge o pico em 3 semanas, mantendo sinovite purulenta erosiva contínua que nunca remite espontaneamente."
+        }
+      ],
+      "answer": "B",
+      "rationale": "A crise aguda de gota (gout flare) caracteriza-se por instalação rápida e dramática, atingindo o <strong>pico de intensidade em menos de 24 horas</strong> (muitas vezes nas primeiras horas da madrugada, acordando o paciente). A dor é descrita como insuportável, acompanhada de calor, rubor e edema. Na história natural sem tratamento medicamentoso, a crise é autolimitada, com <strong>duração típica de 3 a 7 dias</strong> (podendo estender-se por dias a semanas), apresentando <strong>resolução espontânea completa</strong>.",
+      "distractors": [
+        "<strong>A está incorreta [Vetor 2 - Janela Temporal Incompatível]:</strong> A crise não se resolve em 15 minutos; dura de 3 a 7 dias na maioria dos pacientes. <em>(Ímã cognitivo: subestimação grotesca da duração do ataque agudo).</em>",
+        "<strong>C está incorreta [Vetor 4 - Mimetismo Clínico]:</strong> Início insidioso ao longo de meses com rigidez matinal prolongada caracteriza artropatias inflamatórias crônicas (como artrite reumatoide), e não a crise gotosa aguda. <em>(Ímã cognitivo: confunde artrite microcristalina aguda com reumatismo crônico desmielinizante/autoimune).</em>",
+        "<strong>D está incorreta [Vetor 2 - Cronologia Invertida e Gravidade]:</strong> O pico ocorre em < 24 horas (e não 3 semanas) e a crise gotosa clássica resolve-se espontaneamente. <em>(Ímã cognitivo: confunde gota com artrite infecciosa crônica destrutiva).</em>"
+      ],
+      "pearl": "Crise Aguda de Gota: Início súbito noturno &rarr; Pico de dor < 24 horas &rarr; Duração de 3 a 7 dias &rarr; Resolução espontânea mesmo sem tratamento!"
+    },
+    {
+      "id": 22,
+      "tag": "Semiologia Reumatológica • Nomenclatura Topográfica Clássica",
+      "stem": "Durante a discussão semiológica de um caso de artropatia microcristalina no ambulatório de especialidades, o preceptor destaca que a gota possui termos clássicos históricos (de origem grega e latina) para designar as crises de acordo com o sítio anatômico articular especificamente acometido.<br><br>Assinale a alternativa que correlaciona corretamente os termos clássicos <em>podagra</em>, <em>gonagra</em> e <em>quiragra</em> com suas respectivas articulações.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Podagra: 1ª articulação metatarsofalangeana; Gonagra: articulação do joelho; Quiragra: articulações das mãos."
+        },
+        {
+          "letter": "B",
+          "text": "Podagra: articulação do ombro glenoumeral; Gonagra: articulações dos dedos dos pés; Quiragra: articulação do joelho."
+        },
+        {
+          "letter": "C",
+          "text": "Podagra: articulação temporomandibular; Gonagra: articulações das mãos; Quiragra: articulação coxofemoral."
+        },
+        {
+          "letter": "D",
+          "text": "Podagra: articulações dos punhos; Gonagra: coluna vertebral lombar; Quiragra: 1ª articulação metatarsofalangeana."
+        }
+      ],
+      "answer": "A",
+      "rationale": "Conforme explicitado nas aulas da disciplina (aula da Profa. Paula Assis Queiroz, página 26):<br>• <strong>Podagra</strong>: acometimento da 1ª articulação metatarsofalangeana (o quadro clássico mais frequente da primeira crise);<br>• <strong>Gonagra</strong>: acometimento da articulação do joelho (como no Caso Clínico de Joaquim);<br>• <strong>Quiragra</strong>: acometimento inflamatório agudo das articulações das mãos.",
+      "distractors": [
+        "<strong>B está incorreta [Vetor 1 - Micro-inversão]:</strong> O termo podagra refere-se ao pé (1ª MTF) e não ao ombro, e gonagra é o joelho. <em>(Ímã cognitivo: confusão anatômica de prefixos semiológicos).</em>",
+        "<strong>C está incorreta [Vetor 1 - Micro-inversão]:</strong> A ATM e o quadril não são sedes típicas descritas por esses termos clássicos. <em>(Ímã cognitivo: termos incompatíveis com a semiótica médica reumatológica).</em>",
+        "<strong>D está incorreta [Vetor 1 - Micro-inversão Topográfica]:</strong> Inverteu podagra com punhos e situou gonagra na coluna lombar (a gota axial na coluna lombar é excepcional). <em>(Ímã cognitivo: troca os radicais gregos/latinos clássicos).</em>"
+      ],
+      "pearl": "Topografia Clássica da Gota: Podagra = 1ª Metatarsofalangeana (Pé) | Gonagra = Joelho | Quiragra = Mãos."
+    },
+    {
+      "id": 23,
+      "tag": "História Natural da Doença • Fases Evolutivas da Gota",
+      "stem": "Um paciente de 55 anos é acompanhado na Atenção Primária à Saúde para manejo de doença metabólica. O médico de família explica ao paciente que a história natural da gota é dividida classicamente em quatro estágios evolutivos cronológicos bem delimitados, cada qual com características fisiopatológicas e clínicas próprias.<br><br>Qual a ordem cronológica correta dessas quatro fases descritas na literatura médica de base?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1. Gota tofácea congênita &rarr; 2. Artrite gotosa aguda &rarr; 3. Hiperuricemia assintomática &rarr; 4. Cura biológica definitiva."
+        },
+        {
+          "letter": "B",
+          "text": "1. Hiperuricemia assintomática &rarr; 2. Artrite gotosa aguda &rarr; 3. Período intercrítico (intercrise) &rarr; 4. Gota tofácea crônica."
+        },
+        {
+          "letter": "C",
+          "text": "1. Artrite gotosa aguda &rarr; 2. Gota tofácea fulminante &rarr; 3. Hiperuricemia assintomática &rarr; 4. Período intercrítico."
+        },
+        {
+          "letter": "D",
+          "text": "1. Período intercrítico &rarr; 2. Hiperuricemia assintomática &rarr; 3. Artrite tofácea aguda &rarr; 4. Síndrome nefrótica lúpica."
+        }
+      ],
+      "answer": "B",
+      "rationale": "A evolução clássica da gota percorre quatro estágios cronológicos consecutivos:<br>1. <strong>Hiperuricemia assintomática:</strong> nível sérico > 6,8 mg/dL sem sintomas articulares ou tofos;<br>2. <strong>Artrite gotosa aguda:</strong> primeiro ataque súbito e inflamatório, tipicamente monoarticular periférico;<br>3. <strong>Período intercrítico (intercrise):</strong> intervalos completamente assintomáticos entre os episódios agudos;<br>4. <strong>Gota tofácea crônica:</strong> estágio avançado com persistência de dor, rigidez, deformidade, crises poliarticulares e depósitos de tofos teciduais.",
+      "distractors": [
+        "<strong>A está incorreta [Vetor 2 - Cronologia Invertida]:</strong> Os tofos são manifestações crônicas tardias decorrentes de anos de hiperuricemia não tratada e não constituem fase congênita inicial. <em>(Ímã cognitivo: ordem cronológica invertida).</em>",
+        "<strong>C está incorreta [Vetor 2 - Inversão de Fases]:</strong> A hiperuricemia assintomática sempre precede a primeira crise aguda de artrite. <em>(Ímã cognitivo: coloca a crise antes da elevação metabólica inicial).</em>",
+        "<strong>D está incorreta [Vetor 4 - Mistura Sindrômica]:</strong> A intercrise pressupõe a existência de crises prévias, e a síndrome nefrótica lúpica não faz parte das fases evolutivas da gota. <em>(Ímã cognitivo: inclusão indevida de doença glomerular autoimune).</em>"
+      ],
+      "pearl": "Fases da Gota: 1. Hiperuricemia assintomática &rarr; 2. Artrite gotosa aguda &rarr; 3. Intercrise &rarr; 4. Gota tofácea crônica."
+    },
+    {
+      "id": 24,
+      "tag": "Reumatologia Clínica • Cronologia da Gota Tofácea Crônica",
+      "stem": "Um homem de 58 anos é encaminhado ao ambulatório de reumatologia apresentando poliartrite crônica deformante e múltiplos nódulos subcutâneos endurecidos nos cotovelos, joelhos e pés. O paciente relata que seu primeiro ataque de podagra ocorreu há pouco mais de uma década, mas ele nunca manteve uso contínuo de medicações preventivas.<br><br>Segundo os dados clínicos apresentados nos materiais didáticos, qual é o tempo médio decorrido entre a primeira crise aguda de artrite e a instalação da fase de gota tofácea crônica em pacientes não tratados adequadamente?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Exatamente 48 horas após a primeira crise, caso o paciente consuma alimentos derivados de soja na mesma semana."
+        },
+        {
+          "letter": "B",
+          "text": "A fase tofácea crônica é obrigatória e imediata em 100% dos indivíduos nas primeiras 2 semanas da infância."
+        },
+        {
+          "letter": "C",
+          "text": "Cerca de 40 a 50 anos de crises contínuas diárias ininterruptas, ocorrendo apenas em pacientes centenários."
+        },
+        {
+          "letter": "D",
+          "text": "Em média 12 anos após o primeiro ataque agudo de artrite (geralmente com mais de 5 a 10 anos de evolução clínica)."
+        }
+      ],
+      "answer": "D",
+      "rationale": "O tempo médio para o desenvolvimento da <strong>Gota Tofácea Crônica</strong> é de aproximadamente <strong>12 anos após a primeira crise aguda de artrite</strong> (conforme apontado na aula da Profa. Paula Assis Queiroz, página 31; e aula da Profa. Ana Caroline, página 14: <em>'geralmente com mais de 5 anos de evolução'</em>). Trata-se de uma complicação tardia que resulta da deposição cumulativa e lenta de urato monossódico nos tecidos ao longo de anos sem controle dos níveis séricos de ácido úrico.",
+      "distractors": [
+        "<strong>A está incorreta [Vetor 2 - Janela Temporal Incompatível]:</strong> Tofos não se formam em 48 horas; exigem anos de supersaturação contínua e nucleação cumulativa. <em>(Ímã cognitivo: precipitação temporal absurda).</em>",
+        "<strong>B está incorreta [Vetor 2 - Faixa Etária Incompatível]:</strong> Tofos não surgem na infância em 2 semanas em pacientes com gota comum do adulto. <em>(Ímã cognitivo: generalização absoluta falsa).</em>",
+        "<strong>C está incorreta [Vetor 2 - Cronologia Excessivamente Dilatada]:</strong> Não requer 40 a 50 anos; o tempo médio é de 12 anos, ocorrendo comumente na 5ª ou 6ª década de vida. <em>(Ímã cognitivo: superestimação da janela cronológica).</em>"
+      ],
+      "pearl": "Gota Tofácea Crônica: Instala-se em média 12 anos após o 1º ataque agudo de artrite (geralmente > 5 anos de crises recorrentes sem tratamento)."
+    },
+    {
+      "id": 25,
+      "tag": "Patologia Médica • Histopatologia do Tofo Gotoso",
+      "stem": "Um paciente de 60 anos com diagnóstico prévio de gota apresenta nódulos endurecidos, amarelados e indolores na hélice de ambos os pavilhões auriculares e na face dorsal da primeira articulação metatarsofalangeana esquerda. Um dos nódulos auriculares ulcerou levemente, drenando secreção espessa e esbranquiçada com aspecto de giz ou pasta de dente, sendo submetido a biópsia excisional diagnóstica.<br><br>Qual é o achado histopatológico clássico que caracteriza a formação do tofo gotoso no tecido conjuntivo?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Depósitos centrais de cristais de urato de sódio circundados por reação inflamatória granulomatosa e envolvidos por cápsula fibrosa."
+        },
+        {
+          "letter": "B",
+          "text": "Tecido conjuntivo hialino completamente acelular, desprovido de qualquer reação celular imune, corpo estranho ou cristais."
+        },
+        {
+          "letter": "C",
+          "text": "Vasculite necrosante transmural com proliferação de células neoplásicas epiteliais atípicas e pérolas córneas córtex-dependentes."
+        },
+        {
+          "letter": "D",
+          "text": "Acúmulo maciço de bactérias gram-positivas intracelulares envoltas por infiltrado plasmocitário com necrose caseosa liquefativa."
+        }
+      ],
+      "answer": "A",
+      "rationale": "A histopatologia do tofo gotoso (documento da Profa. Paula Assis Queiroz, página 34) revela: <strong>depósitos de cristais de urato de sódio circundados por uma reação inflamatória granulomatosa do tipo corpo estranho</strong> (com macrófagos e células gigantes multinucleadas) e <strong>uma cápsula fibrosa envolvendo o material cristalino</strong>. Os sítios clássicos mais comumente afetados por tofos são os pavilhões auriculares e as articulações dos pés (1º dedo).",
+      "distractors": [
+        "<strong>B está incorreta [Vetor 1 - Micro-inversão]:</strong> O tofo possui rica reação inflamatória granulomatosa com células inflamatórias e histiócitos fagocitando os cristais, não sendo acelular. <em>(Ímã cognitivo: inverte a celularidade do tofo).</em>",
+        "<strong>C está incorreta [Vetor 4 - Mimetismo Neoplásico]:</strong> Tofos são lesões inflamatórias benignas secundárias a depósito de microcristais, sem características de malignidade epitelial ou vasculite necrosante. <em>(Ímã cognitivo: jargão anatomopatológico de neoplasia).</em>",
+        "<strong>D está incorreta [Vetor 4 - Mimetismo de Infecção/Tuberculose]:</strong> Tofos não contêm bactérias (são estéreis) nem apresentam necrose caseosa tuberculosa; o material leitoso calcáreo é composto por urato monossódico. <em>(Ímã cognitivo: confunde aspecto leitoso/pastoso com exsudato purulento infeccioso).</em>"
+      ],
+      "pearl": "Histologia do Tofo: Centro de cristais de urato monossódico + Reação inflamatória granulomatosa de corpo estranho + Cápsula fibrosa circundante."
+    },
+    {
+      "id": 26,
+      "tag": "Propedêutica Reumatológica • Padrão-Ouro Diagnóstico",
+      "stem": "Joaquim, 44 anos, procura atendimento com monoartrite aguda de joelho direito após consumo de vinho tinto, estando em uso de diurético tiazídico. O hemograma demonstra 10.900 leucócitos/mm³ e a temperatura axilar é de 36,6 °C. Os médicos discutem qual procedimento propedêutico deve ser realizado para fechar de forma definitiva e incontestável o diagnóstico da patologia articular.<br><br>Qual é o exame considerado padrão-ouro indispensável para o diagnóstico definitivo de gota?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Radiografia simples contrastada da articulação que evidencie sinovite difusa desprovida de erosões."
+        },
+        {
+          "letter": "B",
+          "text": "Artrocentese com análise do líquido sinovial demonstrando a presença de cristais de urato monossódico."
+        },
+        {
+          "letter": "C",
+          "text": "Cintilografia óssea de corpo inteiro com tecnécio-99m para mapeamento de pontos de osteomielite latente."
+        },
+        {
+          "letter": "D",
+          "text": "Dosagem isolada de ácido úrico sérico durante a crise com valor estritamente superior a 15 mg/dL."
+        }
+      ],
+      "answer": "B",
+      "rationale": "Conforme destacado expressamente no documento da aula (páginas 38 e 40 da Profa. Paula Assis Queiroz): <strong>'O líquido sinovial é o único exame que comprova a existência de gota'</strong> e a presença de <strong>'cristais de urato monossódico no líquido sinovial é considerada padrão-ouro para o diagnóstico definitivo de gota'</strong>. Sinais clínicos, sintomas e exames séricos apenas geram diagnóstico de presunção ou suspeita.",
+      "distractors": [
+        "<strong>A está incorreta [Vetor 2 - Cronologia]:</strong> A radiografia simples costuma ser normal nas fases iniciais da gota (artrite aguda), mostrando apenas aumento de partes moles, não fechando diagnóstico etiológico. <em>(Ímã cognitivo: exame de imagem amplamente disponível mas inespecífico na crise).</em>",
+        "<strong>C está incorreta [Vetor 3 - Precipitação / Superintervenção]:</strong> A cintilografia óssea não identifica o tipo de cristal e não é padrão-ouro para gota. <em>(Ímã cognitivo: método avançado porém inadequado e desnecessário).</em>",
+        "<strong>D está incorreta [Vetor 1 - Micro-inversão Propedêutica]:</strong> O ácido úrico sérico isolado não comprova gota e pode até estar normal durante uma crise aguda em até 10% ou mais dos pacientes. <em>(Ímã cognitivo: confiar cegamente no exame de sangue periférico para diagnosticar artropatia).</em>"
+      ],
+      "pearl": "Padrão-Ouro na Gota: Análise do líquido sinovial (artrocentese) identificando cristais de urato monossódico. É o ÚNICO exame confirmatório definitivo!"
+    },
+    {
+      "id": 27,
+      "tag": "Patologia Clínica • Microscopia de Luz Polarizada do Urato",
+      "stem": "O líquido sinovial obtido por punção articular de um paciente com artrite gotosa aguda em atividade é enviado ao laboratório de patologia clínica para avaliação sob microscópio de luz polarizada compensada (com filtro vermelho de primeira ordem).<br><br>Quais características morfológicas e ópticas dos cristais de urato monossódico confirmam o diagnóstico de gota?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cristais finos em formato de agulhas afiladas exibindo birrefringência fortemente negativa."
+        },
+        {
+          "letter": "B",
+          "text": "Formações esferoidais em alvo sem birrefringência detectável à luz polarizada."
+        },
+        {
+          "letter": "C",
+          "text": "Estruturas prismáticas hexagonais semelhantes a envelopes de carta com birrefringência nula."
+        },
+        {
+          "letter": "D",
+          "text": "Cristais romboides com extremidades rombas exibindo birrefringência fracamente positiva."
+        }
+      ],
+      "answer": "A",
+      "rationale": "Os cristais de <strong>urato monossódico (MSU)</strong> possuem morfologia altamente característica: são <strong>finos, com formato de agulhas e extremidades afiladas</strong>, e exibem <strong>forte birrefringência negativa</strong> sob microscopia de luz polarizada compensada (ficam com cor amarela brilhante quando orientados paralelamente ao eixo óptico do compensador vermelho, e azuis quando perpendiculares).",
+      "distractors": [
+        "<strong>B está incorreta [Vetor 4 - Mimetismo de Sedimento Urinário]:</strong> Corpos graxos ou amido exibem padrões esféricos com cruzes de Malta, sem relação com cristais de urato articular. <em>(Ímã cognitivo: termos de microscopia de sedimento urinário).</em>",
+        "<strong>C está incorreta [Vetor 4 - Mimetismo]:</strong> Cristais em 'envelope de carta' correspondem a oxalato de cálcio urinário, e prismas hexagonais referem-se à cistina. <em>(Ímã cognitivo: morfologia de cristais de nefrolitíase).</em>",
+        "<strong>D está incorreta [Vetor 1 - Micro-inversão Óptica / Mimetismo]:</strong> Cristais romboides com birrefringência positiva fraca são característicos do pirofosfato de cálcio (CPPD / pseudogota). <em>(Ímã cognitivo: a principal pegadinha entre gota e pseudogota em bancas médicas).</em>"
+      ],
+      "pearl": "Cristais de Urato (Gota): Formato de AGULHAS + Birrefringência fortemente NEGATIVA. Cristais de CPPD (Pseudogota): ROMBOIDES + Birrefringência POSITIVA fraca."
+    },
+    {
+      "id": 28,
+      "tag": "Diagnóstico Diferencial • Gota vs Pseudogota (CPPD)",
+      "stem": "Um idoso de 74 anos é atendido com quadro agudo de monoartrite inflamatória no joelho direito. Não há relato prévio de dor no hálux. A artrocentese revela líquido túrbido com 35.000 leucócitos/mm³. À microscopia de luz polarizada, foram identificados cristais intracelulares de formato romboide apresentando birrefringência positiva fraca.<br><br>Considerando o diagnóstico diferencial exposto nas aulas de referência, qual é a patologia apresentada e a composição dos cristais identificados?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Artrite séptica bacteriana fulminante por Staphylococcus aureus com precipitação de biofilme bacteriano estéril."
+        },
+        {
+          "letter": "B",
+          "text": "Pseudogota (Doença por Depósito de Pirofosfato de Cálcio - CPPD), caracterizada por cristais de pirofosfato de cálcio."
+        },
+        {
+          "letter": "C",
+          "text": "Gota articular primária típica, caracterizada por deposição de cristais puros de urato monossódico desidratado."
+        },
+        {
+          "letter": "D",
+          "text": "Osteoartrite nodular erosiva não-inflamatória com fragmentação mecânica de cristais de hidroxiapatita amorfa."
+        }
+      ],
+      "answer": "B",
+      "rationale": "A presença de cristais com <strong>formato romboide</strong> e <strong>birrefringência positiva fraca</strong> sob luz polarizada é patognomônica da <strong>Doença por Depósito de Pirofosfato de Cálcio (CPPD)</strong>, comumente conhecida como <strong>pseudogota</strong>. Diferencia-se da gota pela composição do cristal (pirofosfato de cálcio di-hidratado vs urato monossódico), faixa etária (rara antes dos 60 anos) e sítio articular de maior acometimento (joelho é a articulação típica na pseudogota, sendo o acometimento no metatarso raro).",
+      "distractors": [
+        "<strong>A está incorreta [Vetor 4 - Mimetismo Clínico / Síndrome Vizinha]:</strong> A presença de cristais romboides birrefringentes positivos fecha CPPD; na artrite séptica comum há bactérias e ausência desses cristais específicos. <em>(Ímã cognitivo: confunde contagem leucocitária alta com infecção bacteriana pura).</em>",
+        "<strong>C está incorreta [Vetor 1 - Micro-inversão Conceitual]:</strong> Gota verdadeira apresenta cristais em agulha com birrefringência fortemente negativa e preferência pela 1ª MTF. <em>(Ímã cognitivo: erro comum por desatenção à morfologia e birrefringência).</em>",
+        "<strong>D está incorreta [Vetor 4 - Mimetismo]:</strong> Osteoartrite não-inflamatória apresenta leucócitos sinoviais < 2.000/mm³ e não se manifesta tipicamente com cristais romboides de CPPD intracelulares abundantes em crise aguda. <em>(Ímã cognitivo: doença degenerativa comum em idosos).</em>"
+      ],
+      "pearl": "Pseudogota (CPPD): Idosos (> 60 anos) | Predileção por Joelho | Cristais Romboides | Birrefringência Positiva Fraca."
+    },
+    {
+      "id": 29,
+      "tag": "Endocrinologia e Metabologia • Condições Associadas à Pseudogota",
+      "stem": "Um médico reumatologista atende uma paciente de 62 anos com crises recorrentes de artrite por deposição de cristais de pirofosfato de cálcio (CPPD/pseudogota) em ambos os joelhos. Ele decide solicitar exames laboratoriais complementares para rastrear distúrbios endócrino-metabólicos que sabidamente predispõem à ocorrência de pseudogota secundária.<br><br>De acordo com a lista de condições associadas destacada nas aulas de referência, quais distúrbios metabólicos estão classicamente vinculados à pseudogota?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hemocromatose, hipoparatireoidismo, hipofosfatasia e hipomagnesemia."
+        },
+        {
+          "letter": "B",
+          "text": "Fenilcetonúria clássica, hipotireoidismo congênito, hiperfosfatemia e escorbuto."
+        },
+        {
+          "letter": "C",
+          "text": "Doença de Wilson, hipertireoidismo primário, hipermagnesemia grave e beribéri."
+        },
+        {
+          "letter": "D",
+          "text": "Galactosemia neonatal, hipocalcemia tetânica idiopática e doença de Gaucher tipo II."
+        }
+      ],
+      "answer": "A",
+      "rationale": "Conforme destacado expressamente no slide de diagnóstico diferencial da Profa. Paula Assis Queiroz (página 42): as condições metabólicas associadas ao desenvolvimento de <strong>Pseudogota (CPPD)</strong> são: <strong>Hemocromatose, hipoparatireoidismo, hipofosfatasia e hipomagnesemia</strong> (além de hiperparatireoidismo em séries clínicas).",
+      "distractors": [
+        "<strong>B está incorreta [Vetor 4 - Erros Inatos Descontextualizados]:</strong> Fenilcetonúria e escorbuto não são causas de CPPD articular em adultos. <em>(Ímã cognitivo: lista de doenças metabólicas pediátricas e nutricionais).</em>",
+        "<strong>C está incorreta [Vetor 1 - Micro-inversão Metabólica]:</strong> A pseudogota associa-se a hipomagnesemia (e não hipermagnesemia) e hemocromatose (e não Wilson com cobre). <em>(Ímã cognitivo: troca metais e níveis eletrolíticos).</em>",
+        "<strong>D está incorreta [Vetor 4 - Mimetismo de Doenças de Depósito]:</strong> A doença de Gaucher e galactosemia não compõem as etiologias de pseudogota por pirofosfato de cálcio. <em>(Ímã cognitivo: mistura de doenças lisossômicas).</em>"
+      ],
+      "pearl": "Quadro Metabólico da Pseudogota (CPPD): Hemocromatose, Hipoparatireoidismo, Hipofosfatasia e Hipomagnesemia."
+    },
+    {
+      "id": 30,
+      "tag": "Propedêutica Médica • Paradoxo da Uricemia Normal na Crise",
+      "stem": "No caso clínico de Joaquim (44 anos), a artrocentese do joelho acometido evidenciou líquido sinovial com presença abundante de cristais de urato monossódico (+++) e 30.000 leucócitos/mm³. No entanto, a dosagem concomitante de ácido úrico sérico no momento da crise aguda revelou um valor de 5,4 mg/dL (VR homens: 3,5 a 7,2 mg/dL).<br><br>Qual a interpretação clínica e fisiopatológica correta para o achado de ácido úrico sérico normal durante o ataque agudo de gota?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "O valor de 5,4 mg/dL descarta categoricamente gota, devendo o laudo sinovial de cristais ser considerado erro laboratorial de contaminação."
+        },
+        {
+          "letter": "B",
+          "text": "A crise de gota só se manifesta quando o ácido úrico sérico ultrapassa 20 mg/dL, indicando remissão espontânea completa."
+        },
+        {
+          "letter": "C",
+          "text": "Cerca de 10% (ou mais) dos pacientes gotosos têm ácido úrico sérico normal no flare; a presença de cristais confirma o diagnóstico."
+        },
+        {
+          "letter": "D",
+          "text": "O paciente possui hipouricemia letal congênita, devendo receber infusão imediata de purinas venosas e carne vermelha crua."
+        }
+      ],
+      "answer": "C",
+      "rationale": "Conforme destacado nos materiais de aula (aula da Profa. Paula Assis Queiroz, páginas 20 e 39; aula da Profa. Ana Caroline, páginas 11 e 20): <strong>'Cerca de 10% dos pacientes com gota têm ácido úrico sérico normal no momento dos primeiros sintomas'</strong> e <em>'A presença de cristais de urato confirma o diagnóstico de gota — mesmo com ácido úrico sérico dentro da normalidade durante a crise'</em>. Isso ocorre porque as citocinas inflamatórias liberadas na crise (como IL-1 e IL-6) exercem efeito uricosúrico renal transitório, além de parte do urato ter se depositado nas articulações.",
+      "distractors": [
+        "<strong>A está incorreta [Vetor 1 - Micro-inversão Propedêutica Clássica]:</strong> O diagnóstico padrão-ouro é a presença de cristais no líquido sinovial; um ácido úrico sérico normal NUNCA descarta gota se cristais de urato monossódico foram identificados. <em>(Ímã cognitivo: armadilha número um em provas de residência médica).</em>",
+        "<strong>B está incorreta [Vetor 1 - Inversão de Valores de Corte]:</strong> O limiar é 6,8 mg/dL e não 20 mg/dL, e a presença de sinovite aguda não é remissão. <em>(Ímã cognitivo: distorção de pontos de corte).</em>",
+        "<strong>D está incorreta [Vetor 3 - Precipitação e Conduta Descabida]:</strong> 5,4 mg/dL é um valor plenamente normal para o sexo masculino, sem relação com hipouricemia letal. <em>(Ímã cognitivo: conduta absurda).</em>"
+      ],
+      "pearl": "Pegadinha clássica de prova: Ácido úrico sérico pode estar NORMAL na crise aguda de gota (ocorre em ~10% a 30% dos flares). O que dá o diagnóstico definitivo é a presença de cristais no líquido sinovial!"
+    },
+    {
+      "id": 31,
+      "tag": "Patologia Clínica • Citologia e Características do Líquido Sinovial",
+      "stem": "No caso clínico de Joaquim (44 anos), a punção do joelho direito edemaciado e doloroso após consumo de vinho revelou líquido sinovial com coloração amarelo-pálida e aspecto turvo. A análise citológica e microbiológica revelou 30.000 leucócitos/mm³ com marcante predomínio de neutrófilos, glicose preservada e ausência de bactérias na bacterioscopia.<br><br>Qual o padrão citológico e diferencial leucocitário característico do líquido sinovial na crise inflamatória de gota?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Líquido purulento marrom com mais de 250.000 leucócitos/mm³, predomínio de eosinófilos e visualização direta de fungos filamentosos."
+        },
+        {
+          "letter": "B",
+          "text": "Líquido inflamatório túrbido com leucocitose acentuada e predomínio acentuado de polimorfonucleares (> 60% a 80% de neutrófilos)."
+        },
+        {
+          "letter": "C",
+          "text": "Líquido não-inflamatório límpido e transparente com contagem de leucócitos inferior a 200/mm³ e predomínio de 98% de hemácias íntegras."
+        },
+        {
+          "letter": "D",
+          "text": "Líquido leitoso quiloso desprovido de neutrófilos com predomínio absoluto de plasmócitos atípicos secretores de imunoglobulina A."
+        }
+      ],
+      "answer": "B",
+      "rationale": "Conforme os dados laboratoriais apresentados (aula da Profa. Paula Assis Queiroz, página 39; aula da Profa. Ana Caroline, página 15): o líquido sinovial na crise gotosa aguda é classicamente <strong>inflamatório, de aspecto turvo e amarelo-pálido</strong>, com contagem leucocitária variando habitualmente entre 2.000 e 50.000/mm³ (no caso, 30.000/mm³), apresentando <strong>predomínio marcante de polimorfonucleares (neutrófilos representando > 60% a mais de 80% das células)</strong>, bacterioscopia negativa e presença de cristais de urato intra e extracelulares.",
+      "distractors": [
+        "<strong>A está incorreta [Vetor 1 - Exagero e Inversão Etiológica]:</strong> A gota é uma artrite por cristais estéril e o predomínio celular é de neutrófilos, não de eosinófilos com fungos filamentosos. <em>(Ímã cognitivo: confunde artrite microcristalina com artrite fúngica crônica grave).</em>",
+        "<strong>C está incorreta [Vetor 4 - Mimetismo de Líquido Mecânico/Normal]:</strong> Líquido transparente com < 200 leucócitos/mm³ é normal ou mecânico (osteoartrite), incompatível com a intensa sinovite gotosa aguda. <em>(Ímã cognitivo: confunde padrão inflamatório com líquido sinovial normal).</em>",
+        "<strong>D está incorreta [Vetor 4 - Mimetismo]:</strong> O líquido não é quiloso plasmocitário; é inflamatório rico em neutrófilos que foram quimiotaxiados pelo LTB4 e IL-1β. <em>(Ímã cognitivo: termos de citologia onco-hematológica).</em>"
+      ],
+      "pearl": "Líquido Sinovial na Gota: Turvo, Amarelo-pálido | Leucócitos inflamatórios (habitualmente 10.000 a 50.000/mm³) | Predomínio de Neutrófilos/PMN (> 60% a 80%) | Cristais de MSU."
+    },
+    {
+      "id": 32,
+      "tag": "Propedêutica Reumatológica • Indicações da Uricosúria de 24 Horas",
+      "stem": "A dosagem da excreção urinária de ácido úrico na urina de 24 horas (uricosúria de 24h) é um exame propedêutico especializado utilizado para classificar os indivíduos em hipoexcretores, normoexcretores ou hiperexcretores, auxiliando na escolha e monitoramento terapêutico.<br><br>De acordo com os critérios clínicos destacados expressamente nas aulas de referência, quando está indicada a realização da uricosúria de 24 horas?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Apenas em mulheres octogenárias pós-menopausadas que apresentem níveis plasmáticos de ácido úrico estritamente inferiores a 2,0 mg/dL."
+        },
+        {
+          "letter": "B",
+          "text": "Exclusivamente em recém-nascidos prematuros assintomáticos com icterícia fisiológica neonatal desprovidos de história familiar."
+        },
+        {
+          "letter": "C",
+          "text": "Rotineiramente em todo paciente diabético tipo 2 antes de iniciar metformina, dispensando qualquer indicação em pacientes com gota."
+        },
+        {
+          "letter": "D",
+          "text": "Homens jovens com hiperuricemia, mulheres na pré-menopausa com hiperuricemia, ácido úrico sérico > 11 mg/dL e pacientes com gota já diagnosticada."
+        }
+      ],
+      "answer": "D",
+      "rationale": "Conforme estabelecido no slide de propedêutica da Profa. Paula Assis Queiroz (página 21) e reiterado pela Profa. Ana Caroline (página 15): a uricosúria de 24 horas está indicada formalmente nas seguintes situações:<br>1. <strong>Homens jovens com hiperuricemia</strong> (suspeita de defeito enzimático primário);<br>2. <strong>Mulheres no período pré-menopausa com hiperuricemia</strong> (população atípica pela proteção estrogênica);<br>3. <strong>Pessoas com ácido úrico sérico marcadamente elevado (> 11 mg/dL)</strong>;<br>4. <strong>Pacientes já diagnosticados com gota</strong> (para definir hipo vs hiperprodução e balizar a terapia redutora de urato).",
+      "distractors": [
+        "<strong>A está incorreta [Vetor 1 - Micro-inversão]:</strong> A indicação em mulheres aplica-se no período pré-menopausa (quando hiperuricemia é anômala), e os níveis que motivam a coleta são elevados (> 11 mg/dL) e não inferiores a 2,0 mg/dL. <em>(Ímã cognitivo: inverte a fase hormonal e o nível sérico).</em>",
+        "<strong>B está incorreta [Vetor 2 - Faixa Etária Incompatível]:</strong> A uricosúria de 24h não é indicada rotineiramente em neonatos saudáveis para icterícia fisiológica. <em>(Ímã cognitivo: desvio pediátrico sem nexo com metabolismo de urato).</em>",
+        "<strong>C está incorreta [Vetor 5 - Indicação Extrapolada]:</strong> Não há indicação de dosar uricosúria de 24h para introdução de metformina, e a gota é a principal indicação do teste. <em>(Ímã cognitivo: associa uso de metformina em diabetes à avaliação de urato).</em>"
+      ],
+      "pearl": "Indicações da Uricosúria de 24h: 1. Homens jovens com hiperuricemia | 2. Mulheres na pré-menopausa | 3. Ácido úrico sérico > 11 mg/dL | 4. Pacientes com gota diagnosticada."
+    },
+    {
+      "id": 33,
+      "tag": "Patologia Clínica • Condições Pré-Analíticas na Dosagem de Ácido Úrico",
+      "stem": "Um médico residente solicita dosagem de ácido úrico sérico e uricosúria de 24 horas para investigação de um paciente com sospeita de gota. O paciente pergunta no laboratório sobre o tempo necessário de jejum e quais cuidados técnicos especiais são necessários para a coleta adequada da urina de 24 horas.<br><br>Quais são as condições técnicas pré-analíticas descritas nos materiais didáticos de referência para a realização desses exames laboratoriais?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Exige jejum hídrico e alimentar absoluto de 48 horas para o sangue; a urina de 24 horas deve ser acidificada imediatamente com ácido muriático."
+        },
+        {
+          "letter": "B",
+          "text": "A dosagem só é válida se a urina for colhida por cateterismo vesical direto e o sangue for coletado exclusivamente de veia jugular interna."
+        },
+        {
+          "letter": "C",
+          "text": "Amostras séricas livres de hemólise ou lipemia dispensam jejum obrigatório; a urina de 24 horas deve ser colhida com conservante alcalino."
+        },
+        {
+          "letter": "D",
+          "text": "O sangue pode apresentar hemólise franca sem interferência analítica; a urina deve ser congelada a -80 °C sem qualquer aditivo químico."
+        }
+      ],
+      "answer": "C",
+      "rationale": "Conforme a propedêutica laboratorial da aula da Profa. Paula Assis Queiroz (página 18):<br>• <strong>Amostras de sangue (soro ou plasma):</strong> devem estar em condição <strong>sem hemólise ou lipemia</strong>. O <strong>jejum NÃO é necessário</strong> para a coleta de ácido úrico sérico;<br>• <strong>Amostra urinária de 24 horas:</strong> deve ser coletada em frasco contendo <strong>conservante alcalino</strong> (como carbonato de sódio ou hidróxido de sódio), para manter o pH elevado e impedir que o ácido úrico se precipite em cristais no fundo do frasco, o que subestimaria a dosagem analítica.",
+      "distractors": [
+        "<strong>A está incorreta [Vetor 1 - Micro-inversão de pH e Jejum]:</strong> O jejum não é necessário, e acidificar a urina precipitaria o ácido úrico imediatamente no frasco tornando a análise impossível (o conservante deve ser alcalino). <em>(Ímã cognitivo: inverte alcalino por ácido e exige jejum exagerado).</em>",
+        "<strong>B está incorreta [Vetor 3 - Precipitação e Superintervenção]:</strong> A coleta do sangue é periférica e a urina de 24 horas é colhida por micção espontânea com frasco padronizado. <em>(Ímã cognitivo: métodos invasivos descabidos).</em>",
+        "<strong>D está incorreta [Vetor 1 - Micro-inversão de Interferência]:</strong> A hemólise e a lipemia liberam cromógenos e enzimas que interferem na dosagem espectrofotométrica do ácido úrico. <em>(Ímã cognitivo: tolera interferentes pré-analíticos relevantes).</em>"
+      ],
+      "pearl": "Coleta do Ácido Úrico: Jejum NÃO é necessário | Amostra sem hemólise ou lipemia | Urina de 24h exige conservante ALCALINO (evita precipitação in vitro)."
+    },
+    {
+      "id": 34,
+      "tag": "Radiologia Reumatológica • Alterações Ósseas da Gota Crônica",
+      "stem": "Um homem de 63 anos com história de gota de longa data e crises recorrentes mal controladas realiza radiografias simples convencionais dos pés e tornozelos para avaliação de queixas de deformidade e dor crônica.<br><br>Considerando as alterações radiológicas descritas no material didático (aula da Profa. Paula Assis Queiroz, página 36, e Profa. Ana Caroline, páginas 16 e 17), quais achados radiográficos caracterizam a gota avançada?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Calcificação laminar linear radiodensa exclusiva na linha média articular dos meniscos, sem qualquer acometimento cortical ósseo."
+        },
+        {
+          "letter": "B",
+          "text": "Múltiplas erosões ósseas em 'saca-bocado' (punched-out) com bordos escleróticos e espiculados em valvas de concha e osso circundante mais denso."
+        },
+        {
+          "letter": "C",
+          "text": "Ausência completa de qualquer anormalidade radiológica, sendo a radiografia absolutamente normal em 100% dos pacientes com tofos ósseos crônicos."
+        },
+        {
+          "letter": "D",
+          "text": "Desmineralização óssea periarticular difusa precoce com erosões marginais sem halo esclerótico e anquilose simétrica em 2 semanas."
+        }
+      ],
+      "answer": "B",
+      "rationale": "Nas radiografias da gota crônica (páginas 16 e 17 da aula da Profa. Ana Caroline e página 36 da Profa. Paula Assis Queiroz), observam-se: <strong>múltiplas erosões ósseas periarticulares em saca-bocado ('punched-out') com bordos escleróticos e espiculados como se fossem as valvas de uma concha (imagem em 'concha')</strong>. Habitualmente o osso afetado adjacente é <strong>mais denso</strong>. Os tofos podem ser visualizados como opacificações tênues de tecidos moles e raramente calcificados. Com a evolução, surgem perda do espaço articular e osteófitos, culminando em fases terminais com anquilose.",
+      "distractors": [
+        "<strong>A está incorreta [Vetor 4 - Mimetismo de Condrocalcinose / CPPD]:</strong> Calcificação de fibrocartilagem (meniscos) define condrocalcinose radiológica por pirofosfato de cálcio (pseudogota) e não a imagem em concha/saca-bocado da gota. <em>(Ímã cognitivo: achado radiológico patognomônico de CPPD).</em>",
+        "<strong>C está incorreta [Vetor 1 - Micro-inversão]:</strong> Pacientes com gota crônica tofácea avançada apresentam alterações radiológicas ricas e destrutivas, não sendo o exame 100% normal. <em>(Ímã cognitivo: negação do valor da imagem na doença crônica).</em>",
+        "<strong>D está incorreta [Vetor 4 - Mimetismo de Artrite Reumatoide]:</strong> Osteopenia justarticular difusa precoce com erosões marginais não escleróticas é o padrão típico da artrite reumatoide (na gota o osso adjacente é tipicamente denso e esclerótico). <em>(Ímã cognitivo: confunde padrão de artrite reumatoide com artropatia microcristalina).</em>"
+      ],
+      "pearl": "Radiografia na Gota Crônica: Erosões em 'saca-bocado' (punched-out) com bordos escleróticos espiculados (imagem em concha) + Osso adjacente mais denso!"
+    },
+    {
+      "id": 35,
+      "tag": "Farmacologia Clínica • Mecanismo da Colchicina na Crise",
+      "stem": "Um homem de 43 anos apresenta crise aguda de gota na primeira articulação metatarsofalangeana direita há 8 horas. O médico prescreve colchicina por via oral, explicando que este é o fármaco de primeira escolha para conter rapidamente a cascata celular inflamatória que mantém a dor e o edema.<br><br>De acordo com a base farmacológica detalhada na aula da Profa. Ana Caroline (página 22), por qual mecanismo molecular a colchicina atua como medicamento de primeira escolha na CRISE aguda de gota?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Atua como inibidor irreversível da enzima xantina oxidase hepática, reduzindo a zero a produção de ácido úrico no plasma em 30 minutos."
+        },
+        {
+          "letter": "B",
+          "text": "Liga-se à β-tubulina impedindo sua polimerização em microtúbulos, bloqueando a migração e degranulação neutrofílica e a ativação da IL-1β no inflamassoma."
+        },
+        {
+          "letter": "C",
+          "text": "Estimula a síntese de ácido araquidônico no endotélio sinovial, promovendo vasodilatação e hipertermia para dissolver termicamente os tofos."
+        },
+        {
+          "letter": "D",
+          "text": "Bloqueia competitivamente os receptores de bradicinina B1 e B2, acelerando a recaptação de urato monossódico pelos podócitos glomerulares."
+        }
+      ],
+      "answer": "B",
+      "rationale": "A colchicina é a primeira escolha na crise porque <strong>bloqueia a resposta inflamatória mediada por neutrófilos</strong>: ela se liga à <strong>β-tubulina e impede sua polimerização em microtúbulos</strong>, o que inibe a ativação, degranulação e quimiotaxia/migração dos neutrófilos para a articulação inflamada. Adicionalmente, a colchicina <strong>interfere no complexo do inflamassoma</strong> presente em neutrófilos e monócitos, inibindo a clivagem e ativação da <strong>interleucina-1β (IL-1β)</strong>, a citocina central da crise.",
+      "distractors": [
+        "<strong>A está incorreta [Vetor 1 - Micro-inversão Farmacológica]:</strong> A inibição da xantina oxidase é o mecanismo do alopurinol (droga de manutenção), e não da colchicina. <em>(Ímã cognitivo: confunde mecanismo de droga da crise com droga de prevenção).</em>",
+        "<strong>C está incorreta [Vetor 1 - Micro-inversão]:</strong> A colchicina suprime a inflamação e a vasodilatação excessiva, e não promove inflamação intencional para 'dissolver termicamente tofos'. <em>(Ímã cognitivo: mecanismo biologicamente descabido).</em>",
+        "<strong>D está incorreta [Vetor 4 - Mimetismo de Receptores]:</strong> A colchicina não é um antagonista direto de receptores de bradicinina nem atua em podócitos glomerulares. <em>(Ímã cognitivo: mistura farmacologia de receptores de quininas com fisiologia renal).</em>"
+      ],
+      "pearl": "Mecanismo da Colchicina: Liga-se à &beta;-tubulina &rarr; impede polimerização dos microtúbulos &rarr; bloqueia ativação e migração dos neutrófilos + inibe IL-1&beta; no inflamassoma!"
+    },
+    {
+      "id": 36,
+      "tag": "Conduta Terapêutica • Manejo da Terapia Redutora de Urato na Crise",
+      "stem": "Na sala de emergência são atendidos dois pacientes com podagra aguda em início há 12 horas:<br>• <strong>Paciente A:</strong> usa regularmente alopurinol 300 mg/dia há 2 anos para profilaxia de crises e controle de ácido úrico;<br>• <strong>Paciente B:</strong> nunca fez tratamento prévio com hipouricemiantes e encontra-se na primeira crise aguda de artrite da vida.<br><br>De acordo com as diretrizes e os princípios farmacológicos expressos nas aulas de referência (aula da Profa. Ana Caroline, páginas 22 e 25), qual a conduta correta em relação ao alopurinol para esses dois pacientes?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No Paciente A, deve-se suspender imediatamente o alopurinol; no Paciente B, deve-se iniciar alopurinol em dose dobrada de ataque."
+        },
+        {
+          "letter": "B",
+          "text": "Em ambos os pacientes, deve-se prescrever alopurinol 900 mg/dia por via venosa para forçar a solubilização rápida dos tofos articulares."
+        },
+        {
+          "letter": "C",
+          "text": "Em ambos os pacientes, deve-se proibir qualquer analgésico e aguardar 6 semanas sem medicação para titular o hipouricemiante."
+        },
+        {
+          "letter": "D",
+          "text": "No Paciente A, deve-se MANTER o alopurinol na mesma dose; no Paciente B, NÃO se deve iniciar o alopurinol durante a crise aguda."
+        }
+      ],
+      "answer": "D",
+      "rationale": "O manejo da terapia redutora de urato durante o flare agudo obedece a duas regras pétreas:<br>1. <strong>Se o paciente já usa alopurinol previamente: DEVE-SE MANTER A MEDICAÇÃO DURANTE A CRISE</strong> (suspender o alopurinol altera abruptamente os níveis séricos e piora ou prolonga a crise);<br>2. <strong>Se o paciente NUNCA usou alopurinol: NÃO SE DEVE INICIAR ALOPURINOL NA CRISE AGUDA</strong>. O início precoce reduz rapidamente o ácido úrico plasmático e mobiliza cristais, prolongando e intensificando o flare. Deve-se tratar a crise exclusivamente com anti-inflamatórios (colchicina, AINE ou corticoide) e introduzir o alopurinol apenas após a resolução completa da crise (com cobertura profilática).",
+      "distractors": [
+        "<strong>A está incorreta [Vetor 1 - Micro-inversão de Conduta Total]:</strong> Inverteu com perfeição as duas condutas (suspendeu de quem usava e iniciou em quem não usava). <em>(Ímã cognitivo: erro gravíssimo e frequente em plantões desavisados).</em>",
+        "<strong>B está incorreta [Vetor 3 - Precipitação]:</strong> Iniciar dose alta de alopurinol na crise provoca crises de mobilização graves e alopurinol não é administrado como ataque venoso em artrite aguda comum. <em>(Ímã cognitivo: tentativa errônea de agir rápido na causa de base).</em>",
+        "<strong>C está incorreta [Vetor 3 - Omissão Terapêutica]:</strong> O alívio da dor na crise aguda é prioridade absoluta e deve ser iniciado em poucas horas com colchicina, AINE ou corticoide. <em>(Ímã cognitivo: postura niilista prejudicial).</em>"
+      ],
+      "pearl": "Regra de Ouro do Alopurinol no Flare: Se já usava &rarr; MANTÉM! Se nunca usou &rarr; NÃO INICIA NA CRISE (espera a crise resolver completamente)."
+    },
+    {
+      "id": 37,
+      "tag": "Farmacologia e Fisiopatologia • Crises de Mobilização pelo Alopurinol",
+      "stem": "Um paciente de 50 anos com diagnóstico de gota crônica retorna ao ambulatório duas semanas após iniciar alopurinol 100 mg/dia. Ele queixa-se irritado de que, logo após começar o novo remédio, sentiu fortes dores articulares e uma crise inflamatória no tornozelo, questionando se o medicamento 'piorou a doença'.<br><br>De acordo com a explicação fisiopatológica detalhada no documento de aula (Profa. Ana Caroline, página 22), qual fenômeno paradoxal justifica a ocorrência de crises agudas após a introdução de alopurinol?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A queda rápida do ácido úrico sérico promove a mobilização e dissolução parcial de cristais de urato nos tecidos, deflagrando inflamação aguda."
+        },
+        {
+          "letter": "B",
+          "text": "O fármaco reage com o colágeno tipo II da cartilagem articular, desnaturando os condrócitos por precipitação de oxalato de sódio."
+        },
+        {
+          "letter": "C",
+          "text": "O alopurinol é convertido em endotoxina pelos neutrófilos da medula óssea, estimulando a síntese renal descontrolada de bradicinina."
+        },
+        {
+          "letter": "D",
+          "text": "A droga induz alcalose tubular proximal seletiva, impedindo a excreção intestinal de urato e quadruplicando os tofos cutâneos."
+        }
+      ],
+      "answer": "A",
+      "rationale": "Conforme explicitado na página 22: <em>'O alopurinol não causa a crise aguda por piorar a inflamação diretamente, mas por reduzir rapidamente o ácido úrico sérico, o que promove a mobilização e dissolução de cristais de urato monossódico (MSU) depositados nas articulações — essas interações entre cristais e sinoviócitos residentes desencadeiam a resposta inflamatória aguda (\"crises de mobilização\"). Esse fenômeno paradoxal — piora transitória seguida de benefício a longo prazo'</em>.",
+      "distractors": [
+        "<strong>B está incorreta [Vetor 4 - Mimetismo de Depósito]:</strong> A gota e o alopurinol relacionam-se a cristais de urato e não de oxalato de sódio ou desnaturação de condrócitos. <em>(Ímã cognitivo: jargão de patologia articular degenerativa).</em>",
+        "<strong>C está incorreta [Vetor 1 - Micro-inversão Biológica]:</strong> O alopurinol não gera endotoxinas nem atua na medula óssea como toxina indutora de quininas. <em>(Ímã cognitivo: termo imunológico com conotação de toxidade).</em>",
+        "<strong>D está incorreta [Vetor 1 - Micro-inversão Fisiológica]:</strong> O alopurinol reduz a uricemia por inibir a síntese hepática e não por induzir alcalose que aumenta tofos. <em>(Ímã cognitivo: mistura de nefrologia e efeitos sistêmicos inexistentes).</em>"
+      ],
+      "pearl": "Crise de Mobilização do Alopurinol: A queda rápida do ácido úrico sérico desestabiliza e dissolve a superfície dos cristais teciduais, ativando os sinoviócitos e gerando crise paradoxal transitória."
+    },
+    {
+      "id": 38,
+      "tag": "Terapêutica em Populações Especiais • Insuficiência Renal e Idosos",
+      "stem": "Um homem de 79 anos com doença renal crônica avançada em estágio 4 (Ritmo de Filtração Glomerular estimado de 22 mL/min/1,73 m²), insuficiência cardíaca e antecedente de úlcera péptica hemorrágica dá entrada na UPA com crise aguda exuberante de podagra. A equipe assistente discute qual opção anti-inflamatória deve ser selecionada para o controle do flare agudo.<br><br>De acordo com as recomendações para populações especiais descritas nos materiais didáticos (aula da Profa. Ana Caroline, página 26), qual é a conduta farmacológica de escolha para este paciente?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Encaminhar o paciente para hemodiálise de urgência diária como única forma eficaz de remover o ácido úrico do espaço articular."
+        },
+        {
+          "letter": "B",
+          "text": "Administrar indometacina venosa em dose máxima associada a cetoprofeno por 14 dias para rápida desinflamação glomerular."
+        },
+        {
+          "letter": "C",
+          "text": "Prescrever glicocorticoides orais (ou intra-articulares), evitando AINEs (risco de lesão renal e sangramento) e colchicina (toxicidade na DRC avançada)."
+        },
+        {
+          "letter": "D",
+          "text": "Prescrever colchicina em dose plena de ataque sem ajuste renal, associada a heparina plena profilática por via subcutânea."
+        }
+      ],
+      "answer": "C",
+      "rationale": "Conforme as diretrizes para populações especiais (página 26 da aula da Profa. Ana Caroline):<br>• <strong>Em idosos e doentes renais crônicos avançados: DEVE-SE PREFERIR GLICOCORTICOIDES</strong> (orais ou infiltração intra-articular em mono/oligoartrite de fácil acesso);<br>• <strong>AINEs devem ser formalmente evitados</strong> pelo elevado risco de agudização de disfunção renal, hipercalemia, retenção de sódio e sangramento digestivo;<br>• <strong>A colchicina deve ser evitada em DRC avançada / terminal</strong> devido ao risco iminente de toxicidade cumulativa grave (neuromiopatia e mielossupressão potencialmente fatal).",
+      "distractors": [
+        "<strong>A está incorreta [Vetor 3 - Precipitação / Superintervenção]:</strong> A artrite gotosa em paciente estável não é indicação de hemodiálise de emergência; o tratamento é farmacológico com corticoide. <em>(Ímã cognitivo: conduta desproporcional).</em>",
+        "<strong>B está incorreta [Vetor 5 - Protocolo vs Vício de Plantão / Risco Crítico]:</strong> Prescrever AINEs em DRC estágio 4 e histórico de úlcera hemorrágica é contraindicação absoluta pelo risco iminente de diálise e hemorragia digestiva. <em>(Ímã cognitivo: uso costumeiro de AINEs em jovens transposto perigosamente para idosos).</em>",
+        "<strong>D está incorreta [Vetor 1 - Risco Farmacológico Fatal]:</strong> A colchicina em DRC avançada sem redução drástica ou na fase terminal é tóxica e contraindicada. <em>(Ímã cognitivo: ignorar a depuração da colchicina).</em>"
+      ],
+      "pearl": "Crise de Gota no Idoso ou DRC Avançada: PREFERIR GLICOCORTICOIDES (orais ou intra-articulares)! Evitar AINEs (risco renal/gástrico) e evitar colchicina (risco de neuro/mielotoxicidade na DRT)."
+    },
+    {
+      "id": 39,
+      "tag": "Farmacologia Clínica • Anti-hipertensivos e Manejo do Risco de Gota",
+      "stem": "Um médico da Unidade Básica de Saúde atende um homem de 56 anos com crises repetidas de gota (três episódios no último ano) e hipertensão arterial estágio 2. O paciente encontra-se em uso de hidroclorotiazida 25 mg/dia, atenolol 50 mg/dia e ácido acetilsalicílico (AAS) 100 mg/dia prescrito após colocação de stent coronariano há 2 anos.<br><br>Considerando o impacto dos fármacos sobre os níveis de ácido úrico descritos na aula da Profa. Ana Caroline (página 23), qual a estratégia medicamentosa recomendada para otimizar o controle da gota e da hipertensão?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Suspender imediatamente o AAS 100 mg/dia mesmo com stent coronariano recente e dobrar a dose de hidroclorotiazida para aumentar a diurese."
+        },
+        {
+          "letter": "B",
+          "text": "Substituir toda a medicação anti-hipertensiva por ciclosporina e pirazinamida, por apresentarem efeito uricosúrico acentuado."
+        },
+        {
+          "letter": "C",
+          "text": "Associar furosemida em alta dose ao atenolol para forçar a excreção do ácido úrico pelos túbulos coletores renais."
+        },
+        {
+          "letter": "D",
+          "text": "Substituir o diurético/betabloqueador por Losartana e/ou Bloqueador de Canal de Cálcio (anlodipino), mantendo o AAS 100 mg/dia para proteção cardiovascular."
+        }
+      ],
+      "answer": "D",
+      "rationale": "Na avaliação dos medicamentos que influenciam a gota (página 23 da aula da Profa. Ana Caroline):<br>1. Diuréticos (tiazídicos e de alça) e betabloqueadores reduzem a excreção renal de urato e elevam o ácido úrico sérico;<br>2. <strong>Fármacos preferidos no hipertenso com gota: Losartana</strong> (possui exclusivo efeito uricosúrico comprovado) e <strong>Bloqueadores dos canais de cálcio (como anlodipino)</strong>, associados a menor risco de gota;<br>3. <strong>AAS em baixa dose (75–100 mg/dia):</strong> embora reduza discretamente a excreção de urato, <strong>NÃO DEVE SER SUSPENSO quando indicado para prevenção cardiovascular</strong> (ex.: paciente coronariopata com stent).",
+      "distractors": [
+        "<strong>A está incorreta [Vetor 5 - Diretriz de Segurança Cardiovascular vs Vício de Conduta]:</strong> Suspender AAS em paciente com stent coronariano eleva drasticamente o risco de trombose de stent e infarto, sendo formalmente contraindicado nos consensos. <em>(Ímã cognitivo: tentar eliminar qualquer fármaco hiperuricemiante à custa da vida do paciente).</em>",
+        "<strong>B está incorreta [Vetor 1 - Micro-inversão Total]:</strong> Ciclosporina e pirazinamida são causas clássicas de hiperuricemia secundária por redução da excreção de urato. <em>(Ímã cognitivo: uso de fármacos nefrotóxicos e hiperuricemiantes como se fossem protetores).</em>",
+        "<strong>C está incorreta [Vetor 1 - Micro-inversão]:</strong> A furosemida é um diurético de alça que reduz a excreção renal de urato, piorando a gota em vez de melhorá-la. <em>(Ímã cognitivo: confunde aumento de volume urinário com aumento de excreção de urato).</em>"
+      ],
+      "pearl": "Hipertenso com Gota: Preferir LOSARTANA (uricosúrico) e ANLODIPINO (BCC). Trocar tiazídicos. NUNCA suspender AAS cardioprotetor por causa do ácido úrico!"
+    },
+    {
+      "id": 40,
+      "tag": "Clínica Médica e Diretrizes • Manejo da Hiperuricemia Assintomática",
+      "stem": "Um executivo de 49 anos, assintomático, realiza check-up executivo anual na clínica privada. Apresenta IMC 26 kg/m², PA 124/82 mmHg, creatinina sérica 0,9 mg/dL e ácido úrico sérico de 7,8 mg/dL. Não há qualquer relato prévio de artrite inflamatória, dor articular, tofos subcutâneos ou litíase renal confirmada em ultrassonografia.<br><br>De acordo com as diretrizes e consensos sobre Hiperuricemia Assintomática apresentados nas aulas de referência (aula da Profa. Ana Caroline, páginas 20 e 21; aula da Profa. Paula Assis Queiroz, página 8), qual é a conduta preconizada?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Internação hospitalar imediata para infusão contínua de bicarbonato de sódio venoso com o objetivo de alcalinizar a urina."
+        },
+        {
+          "letter": "B",
+          "text": "Realização de artroscopia diagnóstica preventiva bilateral de ambos os joelhos para curetagem de microcristais cartilaginosos."
+        },
+        {
+          "letter": "C",
+          "text": "Acompanhamento clínico com orientações sobre estilo de vida e dieta, sem indicação de tratamento farmacológico hipouricemiante."
+        },
+        {
+          "letter": "D",
+          "text": "Prescrição imediata de alopurinol 300 mg/dia associado a colchicina contínua por 5 anos para profilaxia primária obrigatória de podagra."
+        }
+      ],
+      "answer": "C",
+      "rationale": "Conforme destacado expressamente no quadro comparativo e nas diretrizes de manejo da aula da Profa. Ana Caroline (páginas 20 e 21) e da Profa. Paula Assis Queiroz: <strong>A Hiperuricemia Assintomática com risco de gota e urolitíase DEVE SER ACOMPANHADA SEM TRATAMENTO FARMACOLÓGICO</strong>. O uso de alopurinol ou uricosúricos não está indicado rotineiramente apenas para prevenir um primeiro episódio de gota ou cálculo renal em indivíduos saudáveis (o risco cardiovascular associado segue em discussão sem indicação formal mandatória de drogas preventivas). A conduta correta é o seguimento clínico, redução do consumo de álcool e controle ponderal/dietético.",
+      "distractors": [
+        "<strong>A está incorreta [Vetor 3 - Precipitação Extrema]:</strong> Não há indicação de internação nem de bicarbonato venoso em paciente assintomático ambulatorial hígido. <em>(Ímã cognitivo: terapêutica emergencial despropositada).</em>",
+        "<strong>B está incorreta [Vetor 3 - Superintervenção Cirúrgica Absurda]:</strong> Procedimentos cirúrgicos articulares profiláticos são contraindicados e inexistem na prática reumatológica. <em>(Ímã cognitivo: conduta invasiva estapafúrdia).</em>",
+        "<strong>D está incorreta [Vetor 3 - Precipitação / Superintervenção Farmacológica]:</strong> Tratar hiperuricemia assintomática com alopurinol e colchicina é conduta errônea que expõe o indivíduo a efeitos adversos sérios (síndrome de hipersensibilidade ao alopurinol) sem benefício comprovado. <em>(Ímã cognitivo: tratar o exame laboratorial em vez do paciente).</em>"
+      ],
+      "pearl": "Hiperuricemia Assintomática: Acompanhar clinicamente + orientações dietéticas e de estilo de vida. NÃO TRATAR com medicamentos redutores de urato apenas para prevenir gota ou litíase!"
+    }
+  ]
+}

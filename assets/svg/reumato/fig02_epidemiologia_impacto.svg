@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 380" width="900" height="380">
+  <defs>
+    <linearGradient id="bgGrad2" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f8fafc"/>
+      <stop offset="100%" stop-color="#f1f5f9"/>
+    </linearGradient>
+    <filter id="shadow2" x="-5%" y="-5%" width="110%" height="110%">
+      <feDropShadow dx="2" dy="4" stdDeviation="3" flood-color="#64748b" flood-opacity="0.12"/>
+    </filter>
+  </defs>
+
+  <rect width="900" height="380" rx="16" fill="url(#bgGrad2)" stroke="#cbd5e1" stroke-width="2"/>
+
+  <!-- Título -->
+  <rect x="30" y="20" width="840" height="50" rx="10" fill="#1e3a8a" filter="url(#shadow2)"/>
+  <text x="450" y="52" font-family="'Segoe UI', Roboto, sans-serif" font-size="19" font-weight="bold" fill="#ffffff" text-anchor="middle">
+    EPIDEMIOLOGIA E IMPACTO SISTÊMICO DA ARTRITE REUMATOIDE
+  </text>
+
+  <!-- 4 Cartões Principais -->
+  <!-- Card 1: Prevalência -->
+  <g transform="translate(45, 90)" filter="url(#shadow2)">
+    <rect width="185" height="190" rx="12" fill="#ffffff" stroke="#3b82f6" stroke-width="2"/>
+    <rect x="0" y="0" width="185" height="40" rx="12" fill="#2563eb"/>
+    <text x="92" y="26" font-family="'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="bold" fill="#ffffff" text-anchor="middle">PREVALÊNCIA</text>
+    <circle cx="92" cy="80" r="30" fill="#eff6ff" stroke="#3b82f6" stroke-width="2"/>
+    <text x="92" y="88" font-family="'Segoe UI', Roboto, sans-serif" font-size="22" font-weight="bold" fill="#1e40af" text-anchor="middle">~1%</text>
+    <text x="92" y="130" font-family="'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="bold" fill="#1e293b" text-anchor="middle">População Mundial</text>
+    <text x="92" y="150" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" fill="#64748b" text-anchor="middle">Acomete todos os grupos</text>
+    <text x="92" y="165" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" fill="#64748b" text-anchor="middle">étnicos globalmente</text>
+  </g>
+
+  <!-- Card 2: Sexo -->
+  <g transform="translate(255, 90)" filter="url(#shadow2)">
+    <rect width="185" height="190" rx="12" fill="#ffffff" stroke="#ec4899" stroke-width="2"/>
+    <rect x="0" y="0" width="185" height="40" rx="12" fill="#db2777"/>
+    <text x="92" y="26" font-family="'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="bold" fill="#ffffff" text-anchor="middle">PREDOMÍNIO SEXUAL</text>
+    <circle cx="92" cy="80" r="30" fill="#fdf2f8" stroke="#ec4899" stroke-width="2"/>
+    <text x="92" y="88" font-family="'Segoe UI', Roboto, sans-serif" font-size="22" font-weight="bold" fill="#be185d" text-anchor="middle">3 : 1</text>
+    <text x="92" y="130" font-family="'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="bold" fill="#1e293b" text-anchor="middle">Mulheres : Homens</text>
+    <text x="92" y="150" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" fill="#64748b" text-anchor="middle">Influência estrogênica</text>
+    <text x="92" y="165" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" fill="#64748b" text-anchor="middle">e imunomoduladora</text>
+  </g>
+
+  <!-- Card 3: Faixa Etária -->
+  <g transform="translate(465, 90)" filter="url(#shadow2)">
+    <rect width="185" height="190" rx="12" fill="#ffffff" stroke="#f59e0b" stroke-width="2"/>
+    <rect x="0" y="0" width="185" height="40" rx="12" fill="#d97706"/>
+    <text x="92" y="26" font-family="'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="bold" fill="#ffffff" text-anchor="middle">PICO DE INÍCIO</text>
+    <circle cx="92" cy="80" r="30" fill="#fffbeb" stroke="#f59e0b" stroke-width="2"/>
+    <text x="92" y="87" font-family="'Segoe UI', Roboto, sans-serif" font-size="16" font-weight="bold" fill="#b45309" text-anchor="middle">30 - 50</text>
+    <text x="92" y="130" font-family="'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="bold" fill="#1e293b" text-anchor="middle">Anos de Idade</text>
+    <text x="92" y="150" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" fill="#64748b" text-anchor="middle">Fase mais produtiva</text>
+    <text x="92" y="165" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" fill="#64748b" text-anchor="middle">Elevado impacto socioeconômico</text>
+  </g>
+
+  <!-- Card 4: Expectativa de Vida e CV -->
+  <g transform="translate(675, 90)" filter="url(#shadow2)">
+    <rect width="185" height="190" rx="12" fill="#ffffff" stroke="#ef4444" stroke-width="2"/>
+    <rect x="0" y="0" width="185" height="40" rx="12" fill="#dc2626"/>
+    <text x="92" y="26" font-family="'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="bold" fill="#ffffff" text-anchor="middle">MORBIMORTALIDADE</text>
+    <circle cx="92" cy="80" r="30" fill="#fef2f2" stroke="#ef4444" stroke-width="2"/>
+    <text x="92" y="87" font-family="'Segoe UI', Roboto, sans-serif" font-size="16" font-weight="bold" fill="#b91c1c" text-anchor="middle">- 3 a 10</text>
+    <text x="92" y="130" font-family="'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="bold" fill="#1e293b" text-anchor="middle">Anos de Vida</text>
+    <text x="92" y="150" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" fill="#64748b" text-anchor="middle">Risco Cardiovascular ↑↑</text>
+    <text x="92" y="165" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" fill="#64748b" text-anchor="middle">Aterosclerose acelerada</text>
+  </g>
+
+  <!-- Banner Inferior de Atenção para Prova -->
+  <rect x="45" y="300" width="815" height="55" rx="10" fill="#fff7ed" stroke="#f97316" stroke-width="1.5"/>
+  <text x="65" y="323" font-family="'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="bold" fill="#c2410c">
+    Destaque de Prova: Risco Cardiovascular na AR
+  </text>
+  <text x="65" y="342" font-family="'Segoe UI', Roboto, sans-serif" font-size="11" fill="#7c2d12">
+    A inflamação sistêmica persistente mediada por citocinas (TNF, IL-1, IL-6) acelera a disfunção endotelial e aterogênese coronariana, sendo o infarto agudo a maior causa de óbito precoce.
+  </text>
+</svg>

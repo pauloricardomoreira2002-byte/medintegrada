@@ -1,0 +1,102 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 480" width="900" height="480">
+  <defs>
+    <linearGradient id="bgGrad3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f8fafc"/>
+      <stop offset="100%" stop-color="#edf2f7"/>
+    </linearGradient>
+    <filter id="shadow3" x="-5%" y="-5%" width="110%" height="115%">
+      <feDropShadow dx="0" dy="4" stdDeviation="5" flood-color="#0f172a" flood-opacity="0.08"/>
+    </filter>
+  </defs>
+
+  <rect width="900" height="480" rx="16" fill="url(#bgGrad3)"/>
+  <rect x="1" y="1" width="898" height="478" rx="15" fill="none" stroke="#cbd5e1" stroke-width="1.5"/>
+
+  <!-- Cabeçalho -->
+  <rect width="900" height="60" rx="16" fill="#1e3a8a"/>
+  <rect y="44" width="900" height="16" fill="#2563eb"/>
+  <text x="30" y="38" font-family="Arial, sans-serif" font-size="19" font-weight="bold" fill="#ffffff">
+    ESTRUTURA DA IMUNOGLOBULINA E A PROTEÍNA DE BENCE JONES
+  </text>
+
+  <!-- Lado Esquerdo: Molécula de Anticorpo Completa -->
+  <g transform="translate(30, 80)">
+    <rect width="405" height="375" rx="12" fill="#ffffff" stroke="#94a3b8" stroke-width="1.5" filter="url(#shadow3)"/>
+    <rect width="405" height="36" rx="12" fill="#1e3a8a"/>
+    <rect y="24" width="405" height="12" fill="#1e3a8a"/>
+    <text x="202" y="24" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#ffffff" text-anchor="middle">
+      IMUNOGLOBULINA ÍNTEGRA (~150-160 kDa)
+    </text>
+
+    <!-- Esquema do Anticorpo em Y -->
+    <!-- Cadeias Pesadas (Azul Escuro) -->
+    <path d="M 175 180 L 175 250" stroke="#1d4ed8" stroke-width="14" stroke-linecap="round"/>
+    <path d="M 225 180 L 225 250" stroke="#1d4ed8" stroke-width="14" stroke-linecap="round"/>
+    <path d="M 175 180 L 125 100" stroke="#1d4ed8" stroke-width="14" stroke-linecap="round"/>
+    <path d="M 225 180 L 275 100" stroke="#1d4ed8" stroke-width="14" stroke-linecap="round"/>
+    <!-- Pontes Dissulfeto -->
+    <line x1="182" y1="200" x2="218" y2="200" stroke="#f59e0b" stroke-width="3"/>
+    <line x1="182" y1="220" x2="218" y2="220" stroke="#f59e0b" stroke-width="3"/>
+
+    <!-- Cadeias Leves (Laranja) -->
+    <path d="M 105 115 L 145 180" stroke="#ea580c" stroke-width="10" stroke-linecap="round"/>
+    <path d="M 295 115 L 255 180" stroke="#ea580c" stroke-width="10" stroke-linecap="round"/>
+    <!-- Pontes Leve-Pesada -->
+    <line x1="120" y1="140" x2="135" y2="130" stroke="#f59e0b" stroke-width="3"/>
+    <line x1="280" y1="140" x2="265" y2="130" stroke="#f59e0b" stroke-width="3"/>
+
+    <!-- Rótulos -->
+    <rect x="25" y="55" width="105" height="26" rx="4" fill="#eff6ff" stroke="#3b82f6"/>
+    <text x="77" y="72" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#1e40af" text-anchor="middle">Região Fab (Antígeno)</text>
+
+    <rect x="270" y="225" width="115" height="26" rx="4" fill="#eff6ff" stroke="#3b82f6"/>
+    <text x="327" y="242" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#1e40af" text-anchor="middle">Região Fc (CH2 / CH3)</text>
+
+    <!-- Legenda de Filtração Glomerular -->
+    <rect x="20" y="275" width="365" height="85" rx="8" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1"/>
+    <text x="35" y="297" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#0f172a">COMPORTAMENTO NA BARREIRA GLOMERULAR:</text>
+    <text x="35" y="316" font-family="Arial, sans-serif" font-size="11" fill="#334155">• Molécula muito grande: <tspan font-weight="bold" fill="#dc2626">NÃO é filtrada</tspan> pelo glomérulo normal.</text>
+    <text x="35" y="333" font-family="Arial, sans-serif" font-size="11" fill="#334155">• Permanece no sangue causando hiperviscosidade quando &gt; 5g/dL.</text>
+    <text x="35" y="350" font-family="Arial, sans-serif" font-size="11" fill="#334155">• Detectada como pico na eletroforese de proteínas séricas (EPS).</text>
+  </g>
+
+  <!-- Lado Direito: Cadeias Leves Livres e Bence Jones -->
+  <g transform="translate(465, 80)">
+    <rect width="405" height="375" rx="12" fill="#ffffff" stroke="#ea580c" stroke-width="1.5" filter="url(#shadow3)"/>
+    <rect width="405" height="36" rx="12" fill="#ea580c"/>
+    <rect y="24" width="405" height="12" fill="#ea580c"/>
+    <text x="202" y="24" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#ffffff" text-anchor="middle">
+      CADEIAS LEVES LIVRES KAPPA (κ) / LAMBDA (λ)
+    </text>
+
+    <!-- Desenho de Cadeias Leves Livres -->
+    <g transform="translate(60, 55)">
+      <path d="M 40 40 L 70 85" stroke="#ea580c" stroke-width="12" stroke-linecap="round"/>
+      <rect x="20" y="95" width="70" height="22" rx="4" fill="#fff7ed" stroke="#ea580c"/>
+      <text x="55" y="110" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#c2410c" text-anchor="middle">Monômero κ</text>
+      <text x="55" y="130" font-family="Arial, sans-serif" font-size="10" fill="#475569" text-anchor="middle">~22-25 kDa</text>
+
+      <path d="M 180 35 L 210 80" stroke="#ea580c" stroke-width="12" stroke-linecap="round"/>
+      <path d="M 215 35 L 245 80" stroke="#ea580c" stroke-width="12" stroke-linecap="round"/>
+      <line x1="200" y1="58" x2="225" y2="58" stroke="#f59e0b" stroke-width="2.5"/>
+      <rect x="175" y="95" width="80" height="22" rx="4" fill="#fff7ed" stroke="#ea580c"/>
+      <text x="215" y="110" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#c2410c" text-anchor="middle">Dímero λ</text>
+      <text x="215" y="130" font-family="Arial, sans-serif" font-size="10" fill="#475569" text-anchor="middle">~45-50 kDa</text>
+    </g>
+
+    <!-- Fisiopatologia de Bence Jones -->
+    <rect x="20" y="160" width="365" height="95" rx="8" fill="#fff7ed" stroke="#fdba74" stroke-width="1"/>
+    <text x="35" y="180" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#9a3412">O QUE É A PROTEÍNA DE BENCE JONES?</text>
+    <text x="35" y="198" font-family="Arial, sans-serif" font-size="11" fill="#431407">• São cadeias leves monoclonais livres (κ ou λ) secretadas em excesso.</text>
+    <text x="35" y="215" font-family="Arial, sans-serif" font-size="11" fill="#431407">• Por serem de baixo peso molecular, <tspan font-weight="bold" fill="#059669">PASSAM pelo glomérulo</tspan>.</text>
+    <text x="35" y="232" font-family="Arial, sans-serif" font-size="11" fill="#431407">• São detectadas na urina de 24h por eletroforese/imunofixação urinária.</text>
+    <text x="35" y="248" font-family="Arial, sans-serif" font-size="11" fill="#431407">• Presente em 40% de todos os mielomas (e 100% dos mielomas micromoleculares).</text>
+
+    <!-- Alerta de Urina de Fita Reagente -->
+    <rect x="20" y="265" width="365" height="95" rx="8" fill="#fef2f2" stroke="#ef4444" stroke-width="1.5"/>
+    <text x="35" y="286" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#b91c1c">PEGADINHA DO DIPSTICK (FITA DE URINA):</text>
+    <text x="35" y="305" font-family="Arial, sans-serif" font-size="10.5" fill="#7f1d1d">• O exame de urina em fita (EAS/dipstick) reage <tspan font-weight="bold">apenas à ALBUMINA</tspan>!</text>
+    <text x="35" y="322" font-family="Arial, sans-serif" font-size="10.5" fill="#7f1d1d">• Paciente com Bence Jones maciça tem <tspan font-weight="bold">FITA NEGATIVA</tspan> para proteínas!</text>
+    <text x="35" y="340" font-family="Arial, sans-serif" font-size="10.5" font-weight="bold" fill="#dc2626">• O diagnóstico EXIGE dosagem química em Urina de 24h ou Freelite sérico!</text>
+  </g>
+</svg>

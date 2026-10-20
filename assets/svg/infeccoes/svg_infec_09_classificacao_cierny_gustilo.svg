@@ -1,0 +1,108 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 480" width="900" height="480">
+  <defs>
+    <linearGradient id="bgGrad9" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f8fafc"/>
+      <stop offset="100%" stop-color="#f1f5f9"/>
+    </linearGradient>
+    <filter id="shadow9" x="-5%" y="-5%" width="110%" height="110%">
+      <feDropShadow dx="2" dy="4" stdDeviation="4" flood-color="#64748b" flood-opacity="0.15"/>
+    </filter>
+  </defs>
+
+  <rect width="900" height="480" rx="16" fill="url(#bgGrad9)" stroke="#cbd5e1" stroke-width="2"/>
+
+  <!-- Cabeçalho -->
+  <rect x="25" y="18" width="850" height="55" rx="10" fill="#1e3a8a" filter="url(#shadow9)"/>
+  <text x="450" y="48" font-family="'Segoe UI', Roboto, sans-serif" font-size="19" font-weight="bold" fill="#ffffff" text-anchor="middle">
+    CLASSIFICAÇÕES ESSENCIAIS: CIERNY-MADER &amp; GUSTILO-ANDERSON
+  </text>
+  <text x="450" y="65" font-family="'Segoe UI', Roboto, sans-serif" font-size="11.5" fill="#bfdbfe" text-anchor="middle">
+    Estadiamento anatômico da osteomielite em adultos e a estratificação de risco em fraturas expostas
+  </text>
+
+  <!-- Lado Esquerdo: Cierny-Mader (Osteomielite no Adulto) -->
+  <g transform="translate(30, 92)" filter="url(#shadow9)">
+    <rect width="405" height="365" rx="12" fill="#ffffff" stroke="#3b82f6" stroke-width="1.5"/>
+    <rect x="0" y="0" width="405" height="42" rx="12" fill="#2563eb"/>
+    <text x="202" y="26" font-family="'Segoe UI', Roboto, sans-serif" font-size="13.5" font-weight="bold" fill="#ffffff" text-anchor="middle">
+      CIERNY-MADER (ESTADIAMENTO ANATÔMICO)
+    </text>
+
+    <!-- Tipo 1 -->
+    <g transform="translate(15, 52)">
+      <rect width="375" height="60" rx="8" fill="#eff6ff" stroke="#bfdbfe" stroke-width="1"/>
+      <text x="12" y="18" font-family="'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#1e40af">Tipo 1: Medular (Osso Estável)</text>
+      <text x="12" y="34" font-family="'Segoe UI', Roboto, sans-serif" font-size="9.5" fill="#334155">• Lesão confinada à cavidade medular interna.</text>
+      <text x="12" y="48" font-family="'Segoe UI', Roboto, sans-serif" font-size="9.5" fill="#475569">• Exemplo: osteomielite hematogênica inicial ou por haste intramedular.</text>
+    </g>
+
+    <!-- Tipo 2 -->
+    <g transform="translate(15, 120)">
+      <rect width="375" height="60" rx="8" fill="#eff6ff" stroke="#bfdbfe" stroke-width="1"/>
+      <text x="12" y="18" font-family="'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#1e40af">Tipo 2: Superficial (Osso Estável)</text>
+      <text x="12" y="34" font-family="'Segoe UI', Roboto, sans-serif" font-size="9.5" fill="#334155">• Infecção restrita à superfície cortical óssea externa exposta.</text>
+      <text x="12" y="48" font-family="'Segoe UI', Roboto, sans-serif" font-size="9.5" fill="#475569">• Decorrente de úlceras crônicas ou necrose de tecidos moles.</text>
+    </g>
+
+    <!-- Tipo 3 -->
+    <g transform="translate(15, 188)">
+      <rect width="375" height="65" rx="8" fill="#fffbeb" stroke="#fde68a" stroke-width="1"/>
+      <text x="12" y="18" font-family="'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#92400e">Tipo 3: Localizada (Osso Estável)</text>
+      <text x="12" y="34" font-family="'Segoe UI', Roboto, sans-serif" font-size="9.5" fill="#334155">• Acometimento de espessura total (córtex + medula), porém bem delimitada.</text>
+      <text x="12" y="48" font-family="'Segoe UI', Roboto, sans-serif" font-size="9.5" fill="#334155">• Permite desbridamento cirúrgico sem gerar instabilidade mecânica.</text>
+    </g>
+
+    <!-- Tipo 4 -->
+    <g transform="translate(15, 260)">
+      <rect width="375" height="85" rx="8" fill="#fef2f2" stroke="#fca5a5" stroke-width="1.5"/>
+      <text x="12" y="18" font-family="'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#991b1b">Tipo 4: Difusa (Osso INSTÁVEL)</text>
+      <text x="12" y="34" font-family="'Segoe UI', Roboto, sans-serif" font-size="9.5" fill="#7f1d1d">• Envolvimento circunferencial complexo com perda estrutural total.</text>
+      <text x="12" y="48" font-family="'Segoe UI', Roboto, sans-serif" font-size="9.5" fill="#7f1d1d">• Presença de fratura patológica ou instabilidade pós-desbridamento.</text>
+      <text x="12" y="62" font-family="'Segoe UI', Roboto, sans-serif" font-size="9.5" font-weight="bold" fill="#b91c1c">• Requer fixação externa complexa e reconstrução óssea.</text>
+    </g>
+  </g>
+
+  <!-- Lado Direito: Gustilo e Anderson (Fraturas Expostas) -->
+  <g transform="translate(465, 92)" filter="url(#shadow9)">
+    <rect width="405" height="365" rx="12" fill="#ffffff" stroke="#f59e0b" stroke-width="1.5"/>
+    <rect x="0" y="0" width="405" height="42" rx="12" fill="#d97706"/>
+    <text x="202" y="26" font-family="'Segoe UI', Roboto, sans-serif" font-size="13.5" font-weight="bold" fill="#ffffff" text-anchor="middle">
+      GUSTILO &amp; ANDERSON (FRATURAS EXPOSTAS)
+    </text>
+
+    <!-- Grau I -->
+    <g transform="translate(15, 52)">
+      <rect width="375" height="50" rx="8" fill="#f0fdf4" stroke="#bbf7d0" stroke-width="1"/>
+      <text x="12" y="18" font-family="'Segoe UI', Roboto, sans-serif" font-size="10.5" font-weight="bold" fill="#166534">Grau I: Ferida &lt; 1 cm, limpa</text>
+      <text x="12" y="32" font-family="'Segoe UI', Roboto, sans-serif" font-size="9" fill="#1e293b">• Mínimo dano a partes moles; baixo trauma | Risco infecção: 0–2%</text>
+      <text x="12" y="44" font-family="'Segoe UI', Roboto, sans-serif" font-size="9" fill="#047857">• Profilaxia: Cefalosporina 1ª ger. (Cefazolina 2g EV)</text>
+    </g>
+
+    <!-- Grau II -->
+    <g transform="translate(15, 108)">
+      <rect width="375" height="50" rx="8" fill="#eff6ff" stroke="#bfdbfe" stroke-width="1"/>
+      <text x="12" y="18" font-family="'Segoe UI', Roboto, sans-serif" font-size="10.5" font-weight="bold" fill="#1e40af">Grau II: Ferida &gt; 1 cm a 10 cm</text>
+      <text x="12" y="32" font-family="'Segoe UI', Roboto, sans-serif" font-size="9" fill="#1e293b">• Trauma moderado sem avulsão extensa de retalho | Risco: 2–7%</text>
+      <text x="12" y="44" font-family="'Segoe UI', Roboto, sans-serif" font-size="9" fill="#1d4ed8">• Profilaxia: Cefazolina 2g EV por 24 horas</text>
+    </g>
+
+    <!-- Grau III Subdivisões -->
+    <g transform="translate(15, 164)">
+      <rect width="375" height="180" rx="8" fill="#fef2f2" stroke="#fca5a5" stroke-width="1.5"/>
+      <text x="12" y="18" font-family="'Segoe UI', Roboto, sans-serif" font-size="10.5" font-weight="bold" fill="#991b1b">Grau III: Alta Energia / Lesão Extensa (&gt; 10 cm)</text>
+      
+      <text x="12" y="36" font-family="'Segoe UI', Roboto, sans-serif" font-size="9.5" font-weight="bold" fill="#b91c1c">Subtipo IIIA:</text>
+      <text x="20" y="50" font-family="'Segoe UI', Roboto, sans-serif" font-size="9" fill="#334155">• Cobertura óssea possível com tecidos moles locais preservados.</text>
+
+      <text x="12" y="68" font-family="'Segoe UI', Roboto, sans-serif" font-size="9.5" font-weight="bold" fill="#b91c1c">Subtipo IIIB:</text>
+      <text x="20" y="82" font-family="'Segoe UI', Roboto, sans-serif" font-size="9" fill="#334155">• Perda extensa de periósteo e partes moles; exige retalho cirúrgico.</text>
+
+      <text x="12" y="100" font-family="'Segoe UI', Roboto, sans-serif" font-size="9.5" font-weight="bold" fill="#b91c1c">Subtipo IIIC:</text>
+      <text x="20" y="114" font-family="'Segoe UI', Roboto, sans-serif" font-size="9" fill="#7f1d1d">• <tspan font-weight="bold">Lesão arterial grave</tspan> com necessidade de reparo vascular urgente.</text>
+
+      <rect x="8" y="128" width="355" height="45" rx="6" fill="#ffffff" stroke="#ef4444" stroke-width="1"/>
+      <text x="185" y="144" font-family="'Segoe UI', Roboto, sans-serif" font-size="9" font-weight="bold" fill="#991b1b" text-anchor="middle">CONDUTA ANTIMICROBIANA GRAU III:</text>
+      <text x="185" y="158" font-family="'Segoe UI', Roboto, sans-serif" font-size="8.5" fill="#7f1d1d" text-anchor="middle">Cefazolina + Aminoglicosídeo (Gentamicina) (+ Penicilina se terra/lama)</text>
+    </g>
+  </g>
+</svg>

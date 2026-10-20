@@ -1,0 +1,172 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 480" width="900" height="480">
+  <defs>
+    <linearGradient id="bgGrad2" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f8fafc"/>
+      <stop offset="100%" stop-color="#f1f5f9"/>
+    </linearGradient>
+    <filter id="shadow2" x="-5%" y="-5%" width="110%" height="110%">
+      <feDropShadow dx="2" dy="3" stdDeviation="3" flood-color="#64748b" flood-opacity="0.15"/>
+    </filter>
+  </defs>
+
+  <rect width="900" height="480" rx="16" fill="url(#bgGrad2)" stroke="#cbd5e1" stroke-width="2"/>
+
+  <!-- Cabeçalho -->
+  <rect x="25" y="18" width="850" height="55" rx="10" fill="#1e3a8a" filter="url(#shadow2)"/>
+  <text x="450" y="48" font-family="'Segoe UI', Roboto, sans-serif" font-size="19" font-weight="bold" fill="#ffffff" text-anchor="middle">
+    CLASSIFICAÇÃO DO LÍQUIDO SINOVIAL (GRUPOS I A V)
+  </text>
+  <text x="450" y="65" font-family="'Segoe UI', Roboto, sans-serif" font-size="11.5" fill="#bfdbfe" text-anchor="middle">
+    Diferenciação macroscópica, celular e bioquímica segundo Ropes &amp; Bauer / UpToDate
+  </text>
+
+  <!-- 5 Colunas dos Grupos -->
+  <!-- Coluna 1: Normal -->
+  <g transform="translate(25, 88)" filter="url(#shadow2)">
+    <rect width="160" height="280" rx="10" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.5"/>
+    <rect x="0" y="0" width="160" height="38" rx="10" fill="#64748b"/>
+    <text x="80" y="24" font-family="'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="bold" fill="#ffffff" text-anchor="middle">NORMAL</text>
+    
+    <!-- Amostra Visual -->
+    <rect x="20" y="48" width="120" height="28" rx="6" fill="#f8fafc" stroke="#94a3b8" stroke-width="1"/>
+    <text x="80" y="66" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" fill="#334155" text-anchor="middle">Incolor / Palha Límpido</text>
+    
+    <!-- Dados -->
+    <text x="12" y="98" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="bold" fill="#1e293b">Viscosidade:</text>
+    <text x="12" y="112" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" fill="#475569">Alta (filante &gt; 3cm)</text>
+    
+    <text x="12" y="132" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="bold" fill="#1e293b">Leucócitos:</text>
+    <text x="12" y="146" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" fill="#059669">&lt; 150 - 200 /µL</text>
+    
+    <text x="12" y="166" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="bold" fill="#1e293b">% PMN:</text>
+    <text x="12" y="180" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" fill="#059669">&lt; 25%</text>
+    
+    <text x="12" y="200" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="bold" fill="#1e293b">Glicose:</text>
+    <text x="12" y="214" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" fill="#475569">Normal (= plasma)</text>
+
+    <rect x="8" y="228" width="144" height="42" rx="6" fill="#f1f5f9"/>
+    <text x="80" y="244" font-family="'Segoe UI', Roboto, sans-serif" font-size="9" font-weight="bold" fill="#334155" text-anchor="middle">Exemplo Clínico:</text>
+    <text x="80" y="258" font-family="'Segoe UI', Roboto, sans-serif" font-size="9" fill="#475569" text-anchor="middle">Articulação hígida</text>
+  </g>
+
+  <!-- Coluna 2: Grupo I (Não Inflamatório) -->
+  <g transform="translate(197, 88)" filter="url(#shadow2)">
+    <rect width="160" height="280" rx="10" fill="#ffffff" stroke="#93c5fd" stroke-width="1.5"/>
+    <rect x="0" y="0" width="160" height="38" rx="10" fill="#0284c7"/>
+    <text x="80" y="18" font-family="'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#ffffff" text-anchor="middle">GRUPO I</text>
+    <text x="80" y="32" font-family="'Segoe UI', Roboto, sans-serif" font-size="9.5" fill="#e0f2fe" text-anchor="middle">NÃO INFLAMATÓRIO</text>
+    
+    <rect x="20" y="48" width="120" height="28" rx="6" fill="#fef9c3" stroke="#eab308" stroke-width="1"/>
+    <text x="80" y="66" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" fill="#854d0e" text-anchor="middle">Amarelo Translúcido</text>
+    
+    <text x="12" y="98" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="bold" fill="#1e293b">Viscosidade:</text>
+    <text x="12" y="112" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" fill="#475569">Alta (preservada)</text>
+    
+    <text x="12" y="132" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="bold" fill="#1e293b">Leucócitos:</text>
+    <text x="12" y="146" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" fill="#0284c7">200 a 2.000 /µL</text>
+    
+    <text x="12" y="166" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="bold" fill="#1e293b">% PMN:</text>
+    <text x="12" y="180" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" fill="#0284c7">&lt; 25 - 30%</text>
+    
+    <text x="12" y="200" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="bold" fill="#1e293b">Glicose:</text>
+    <text x="12" y="214" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" fill="#475569">Normal (= plasma)</text>
+
+    <rect x="8" y="228" width="144" height="42" rx="6" fill="#f0f9ff"/>
+    <text x="80" y="244" font-family="'Segoe UI', Roboto, sans-serif" font-size="9" font-weight="bold" fill="#0369a1" text-anchor="middle">Exemplo Clínico:</text>
+    <text x="80" y="258" font-family="'Segoe UI', Roboto, sans-serif" font-size="9" fill="#0c4a6e" text-anchor="middle">Osteoartrite, Trauma</text>
+  </g>
+
+  <!-- Coluna 3: Grupo II (Inflamatório) -->
+  <g transform="translate(370, 88)" filter="url(#shadow2)">
+    <rect width="160" height="280" rx="10" fill="#ffffff" stroke="#fcd34d" stroke-width="1.5"/>
+    <rect x="0" y="0" width="160" height="38" rx="10" fill="#d97706"/>
+    <text x="80" y="18" font-family="'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#ffffff" text-anchor="middle">GRUPO II</text>
+    <text x="80" y="32" font-family="'Segoe UI', Roboto, sans-serif" font-size="9.5" fill="#fef3c7" text-anchor="middle">INFLAMATÓRIO</text>
+    
+    <rect x="20" y="48" width="120" height="28" rx="6" fill="#fef08a" stroke="#ca8a04" stroke-width="1"/>
+    <text x="80" y="66" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" fill="#713f12" text-anchor="middle">Amarelo / Turvo</text>
+    
+    <text x="12" y="98" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="bold" fill="#1e293b">Viscosidade:</text>
+    <text x="12" y="112" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" fill="#b45309">Baixa (quebradiço)</text>
+    
+    <text x="12" y="132" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="bold" fill="#1e293b">Leucócitos:</text>
+    <text x="12" y="146" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" fill="#b45309">2.000 a 50.000 /µL</text>
+    
+    <text x="12" y="166" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="bold" fill="#1e293b">% PMN:</text>
+    <text x="12" y="180" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" fill="#b45309">&gt; 50% (50 - 75%)</text>
+    
+    <text x="12" y="200" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="bold" fill="#1e293b">Glicose:</text>
+    <text x="12" y="214" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" fill="#475569">Leve queda / Normal</text>
+
+    <rect x="8" y="228" width="144" height="42" rx="6" fill="#fffbeb"/>
+    <text x="80" y="244" font-family="'Segoe UI', Roboto, sans-serif" font-size="9" font-weight="bold" fill="#92400e" text-anchor="middle">Exemplo Clínico:</text>
+    <text x="80" y="258" font-family="'Segoe UI', Roboto, sans-serif" font-size="9" fill="#78350f" text-anchor="middle">AR, Gota, Espondilite</text>
+  </g>
+
+  <!-- Coluna 4: Grupo III / Séptico (Destaque Vermelho) -->
+  <g transform="translate(542, 88)" filter="url(#shadow2)">
+    <rect width="160" height="280" rx="10" fill="#fef2f2" stroke="#dc2626" stroke-width="2.5"/>
+    <rect x="0" y="0" width="160" height="38" rx="10" fill="#dc2626"/>
+    <text x="80" y="18" font-family="'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#ffffff" text-anchor="middle">GRUPO III (SÉPTICO)</text>
+    <text x="80" y="32" font-family="'Segoe UI', Roboto, sans-serif" font-size="9.5" fill="#fee2e2" text-anchor="middle">INFECCIOSO PURULENTO</text>
+    
+    <rect x="20" y="48" width="120" height="28" rx="6" fill="#bbf7d0" stroke="#16a34a" stroke-width="1"/>
+    <text x="80" y="66" font-family="'Segoe UI', Roboto, sans-serif" font-size="9.5" font-weight="bold" fill="#14532d" text-anchor="middle">Opaco / Purulento / Verde</text>
+    
+    <text x="12" y="98" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="bold" fill="#991b1b">Viscosidade:</text>
+    <text x="12" y="112" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" fill="#b91c1c">Muito baixa (aquoso)</text>
+    
+    <text x="12" y="132" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="bold" fill="#991b1b">Leucócitos:</text>
+    <text x="12" y="146" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="bold" fill="#b91c1c">&gt; 50.000 /µL</text>
+    <text x="12" y="158" font-family="'Segoe UI', Roboto, sans-serif" font-size="9" fill="#7f1d1d">(comum 100k-200k)</text>
+    
+    <text x="12" y="174" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="bold" fill="#991b1b">% PMN:</text>
+    <text x="12" y="188" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="bold" fill="#b91c1c">&gt; 85 a 90%</text>
+    
+    <text x="12" y="204" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="bold" fill="#991b1b">Glicose:</text>
+    <text x="12" y="218" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" fill="#b91c1c">Muito reduzida (&lt;50%)</text>
+
+    <rect x="8" y="228" width="144" height="42" rx="6" fill="#fee2e2"/>
+    <text x="80" y="244" font-family="'Segoe UI', Roboto, sans-serif" font-size="9" font-weight="bold" fill="#991b1b" text-anchor="middle">Exemplo Clínico:</text>
+    <text x="80" y="258" font-family="'Segoe UI', Roboto, sans-serif" font-size="9" font-weight="bold" fill="#7f1d1d" text-anchor="middle">Artrite Séptica Aguda</text>
+  </g>
+
+  <!-- Coluna 5: Grupo IV/V (Hemorrágico) -->
+  <g transform="translate(715, 88)" filter="url(#shadow2)">
+    <rect width="160" height="280" rx="10" fill="#ffffff" stroke="#f87171" stroke-width="1.5"/>
+    <rect x="0" y="0" width="160" height="38" rx="10" fill="#991b1b"/>
+    <text x="80" y="18" font-family="'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#ffffff" text-anchor="middle">GRUPO IV / V</text>
+    <text x="80" y="32" font-family="'Segoe UI', Roboto, sans-serif" font-size="9.5" fill="#fecaca" text-anchor="middle">HEMORRÁGICO</text>
+    
+    <rect x="20" y="48" width="120" height="28" rx="6" fill="#fee2e2" stroke="#ef4444" stroke-width="1"/>
+    <text x="80" y="66" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" fill="#991b1b" text-anchor="middle">Sanguíneo / Xantocrômico</text>
+    
+    <text x="12" y="98" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="bold" fill="#1e293b">Viscosidade:</text>
+    <text x="12" y="112" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" fill="#475569">Variável (sem coágulo)</text>
+    
+    <text x="12" y="132" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="bold" fill="#1e293b">Leucócitos:</text>
+    <text x="12" y="146" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" fill="#475569">Variável (hemácias)</text>
+    
+    <text x="12" y="166" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="bold" fill="#1e293b">% PMN:</text>
+    <text x="12" y="180" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" fill="#475569">&lt; 50% (proporcional)</text>
+    
+    <text x="12" y="200" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="bold" fill="#1e293b">Glicose:</text>
+    <text x="12" y="214" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" fill="#475569">Semelhante ao plasma</text>
+
+    <rect x="8" y="228" width="144" height="42" rx="6" fill="#fef2f2"/>
+    <text x="80" y="244" font-family="'Segoe UI', Roboto, sans-serif" font-size="9" font-weight="bold" fill="#991b1b" text-anchor="middle">Exemplo Clínico:</text>
+    <text x="80" y="258" font-family="'Segoe UI', Roboto, sans-serif" font-size="9" fill="#7f1d1d" text-anchor="middle">Trauma, Hemofilia, PVNS</text>
+  </g>
+
+  <!-- Rodapé: Pérolas de Avaliação e Pegadinhas Clínicas -->
+  <g transform="translate(25, 380)" filter="url(#shadow2)">
+    <rect width="850" height="85" rx="10" fill="#eff6ff" stroke="#3b82f6" stroke-width="2"/>
+    <circle cx="35" cy="42" r="18" fill="#1d4ed8"/>
+    <text x="35" y="47" font-family="'Segoe UI', Roboto, sans-serif" font-size="18" font-weight="bold" fill="#ffffff" text-anchor="middle">!</text>
+    
+    <text x="65" y="26" font-family="'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="bold" fill="#1e3a8a">PEGADINHAS CRÍTICAS DE PROVA (RACIONAL DIAGNÓSTICO):</text>
+    <text x="65" y="44" font-family="'Segoe UI', Roboto, sans-serif" font-size="10.5" fill="#1e40af">• <tspan font-weight="bold">"Leucócito alto ajuda, mas leucócito baixo NÃO inocenta":</tspan> 15 a 25% dos casos de artrite séptica cursam com &lt; 50.000 leucócitos (ex: gonococo, imunodeprimidos ou ATB prévio!).</text>
+    <text x="65" y="60" font-family="'Segoe UI', Roboto, sans-serif" font-size="10.5" fill="#1e40af">• <tspan font-weight="bold">Cristais NÃO excluem infecção:</tspan> Artrite séptica e gota/pseudogota podem COEXISTIR na mesma articulação (a sepse induz precipitação cristalina).</text>
+    <text x="65" y="74" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" fill="#dc2626">• <tspan font-weight="bold">Atraso de 24-48 horas:</tspan> O atraso diagnóstico e terapêutico acarreta dano condral definitivo e perda funcional irreversível!</text>
+  </g>
+</svg>

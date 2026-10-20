@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 480" width="900" height="480">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f8fafc"/>
+      <stop offset="100%" stop-color="#edf2f7"/>
+    </linearGradient>
+    <filter id="dropShadow" x="-5%" y="-5%" width="110%" height="115%" filterUnits="userSpaceOnUse">
+      <feDropShadow dx="0" dy="4" stdDeviation="6" flood-color="#0f172a" flood-opacity="0.08"/>
+    </filter>
+    <linearGradient id="headerGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#1e3a8a"/>
+      <stop offset="100%" stop-color="#2563eb"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="900" height="480" rx="16" fill="url(#bgGrad)"/>
+  <rect x="1" y="1" width="898" height="478" rx="15" fill="none" stroke="#cbd5e1" stroke-width="1.5"/>
+
+  <!-- Cabeçalho -->
+  <rect x="0" y="0" width="900" height="60" rx="16" fill="url(#headerGrad)"/>
+  <rect x="0" y="44" width="900" height="16" fill="#2563eb"/>
+  <text x="30" y="38" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#ffffff">
+    ACHADOS RADIOGRÁFICOS: O SINAL EM SACA-BOCADO &amp; A IMAGEM EM CONCHA
+  </text>
+
+  <!-- Painel Esquerdo: Esquema Visual do Sinal Radiológico -->
+  <g transform="translate(30, 80)">
+    <rect width="380" height="375" rx="12" fill="#0f172a" stroke="#475569" stroke-width="1.8" filter="url(#dropShadow)"/>
+    <rect width="380" height="36" rx="12" fill="#1e293b"/>
+    <rect y="24" width="380" height="12" fill="#1e293b"/>
+    <text x="190" y="24" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#38bdf8" text-anchor="middle">
+      SIMULAÇÃO RADIOLÓGICA CONVENCIONAL
+    </text>
+
+    <!-- Estrutura Óssea e Articulação Simula Raio X -->
+    <!-- Osso Normal Radiopaco -->
+    <path d="M 60 70 L 150 70 Q 180 70 190 90 L 190 220 Q 180 240 150 240 L 60 240 Z" fill="#94a3b8" opacity="0.8"/>
+    <!-- Erosão em Saca-bocado com Borda em Concha -->
+    <path d="M 190 120 C 130 120 130 180 190 180" fill="#0f172a" stroke="#f8fafc" stroke-width="2.5"/>
+    <!-- Borda Esclerótica Saliente (Overhanging Margin) -->
+    <path d="M 190 115 Q 215 110 205 125" fill="none" stroke="#f8fafc" stroke-width="3"/>
+    <path d="M 190 185 Q 215 190 205 175" fill="none" stroke="#f8fafc" stroke-width="3"/>
+
+    <!-- Tofo em Partes Moles -->
+    <ellipse cx="230" cy="150" rx="35" ry="45" fill="#64748b" opacity="0.4" stroke="#94a3b8" stroke-dasharray="3,3"/>
+
+    <!-- Linhas Guia e Apontadores -->
+    <line x1="205" y1="110" x2="270" y2="85" stroke="#38bdf8" stroke-width="1.5"/>
+    <text x="275" y="88" font-family="Arial, sans-serif" font-size="10.5" font-weight="bold" fill="#38bdf8">Bordo Esclerótico em "Concha"</text>
+    <text x="275" y="102" font-family="Arial, sans-serif" font-size="9" fill="#cbd5e1">(Overhanging Edge)</text>
+
+    <line x1="150" y1="150" x2="70" y2="150" stroke="#f87171" stroke-width="1.5"/>
+    <text x="65" y="146" font-family="Arial, sans-serif" font-size="10.5" font-weight="bold" fill="#f87171" text-anchor="end">Erosão Justarticular</text>
+    <text x="65" y="160" font-family="Arial, sans-serif" font-size="9" fill="#fca5a5" text-anchor="end">"Saca-bocado" (Punched-Out)</text>
+
+    <line x1="245" y1="170" x2="270" y2="205" stroke="#facc15" stroke-width="1.5"/>
+    <text x="275" y="208" font-family="Arial, sans-serif" font-size="10.5" font-weight="bold" fill="#facc15">Tofo Periarticular</text>
+    <text x="275" y="222" font-family="Arial, sans-serif" font-size="9" fill="#fef08a">(Opacificação tênue)</text>
+
+    <!-- Legenda Inferior do Card -->
+    <rect x="20" y="270" width="340" height="85" rx="8" fill="#1e293b"/>
+    <text x="30" y="292" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#f8fafc">Preservação Esquelética Marcante:</text>
+    <text x="30" y="310" font-family="Arial, sans-serif" font-size="10" fill="#94a3b8">• O osso afetado NÃO apresenta osteopenia inicial.</text>
+    <text x="30" y="326" font-family="Arial, sans-serif" font-size="10" fill="#94a3b8">• O espaço articular permanece PRESERVADO até</text>
+    <text x="30" y="342" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#38bdf8">fases avançadas (ao contrário da Artrite Reumatoide!).</text>
+  </g>
+
+  <!-- Painel Direito: Descrição Textual de Prova e Cronologia -->
+  <g transform="translate(435, 80)">
+    <rect width="435" height="375" rx="12" fill="#ffffff" stroke="#2563eb" stroke-width="1.8" filter="url(#dropShadow)"/>
+    <rect width="435" height="38" rx="12" fill="#1e3a8a"/>
+    <rect y="26" width="435" height="12" fill="#1e3a8a"/>
+    <text x="217" y="25" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#ffffff" text-anchor="middle">
+      CRONOLOGIA &amp; ACHADOS DE PROVA (TEXTO DA DOCENTE)
+    </text>
+
+    <!-- Card 1: Fase Inicial -->
+    <rect x="18" y="52" width="400" height="60" rx="8" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.2"/>
+    <text x="28" y="72" font-family="Arial, sans-serif" font-size="11.5" font-weight="bold" fill="#1e293b">1. Fase Inicial (Crise Aguda Isolada):</text>
+    <text x="28" y="90" font-family="Arial, sans-serif" font-size="10.5" fill="#475569">• Raio-X habitualmente NORMAL no tecido ósseo.</text>
+    <text x="28" y="104" font-family="Arial, sans-serif" font-size="10.5" fill="#475569">• Evidencia apenas aumento de volume e edema de tecidos moles.</text>
+
+    <!-- Card 2: Fase Crônica Tofácea -->
+    <rect x="18" y="122" width="400" height="142" rx="8" fill="#eff6ff" stroke="#3b82f6" stroke-width="1.2"/>
+    <text x="28" y="142" font-family="Arial, sans-serif" font-size="11.5" font-weight="bold" fill="#1e3a8a">2. Fase Crônica Tofácea (Após Anos de Doença):</text>
+    <text x="28" y="160" font-family="Arial, sans-serif" font-size="10.5" fill="#1e40af"><tspan font-weight="bold">• Erosões em "Saca-Bocado":</tspan> Margens bem definidas e escleróticas.</text>
+    <text x="28" y="176" font-family="Arial, sans-serif" font-size="10.5" fill="#1e40af"><tspan font-weight="bold">• Sinal da "Concha" (Overhanging Margin):</tspan> Bordas ósseas</text>
+    <text x="38" y="190" font-family="Arial, sans-serif" font-size="10" fill="#1e40af">espiculadas que se projetam sobre o tofo como valvas de concha.</text>
+    <text x="28" y="208" font-family="Arial, sans-serif" font-size="10.5" fill="#1e40af"><tspan font-weight="bold">• Tofos de Tecidos Moles:</tspan> Opacificação tênue ao raio-X</text>
+    <text x="38" y="222" font-family="Arial, sans-serif" font-size="10" fill="#1e40af">(muito raramente se calcificam, exceto se hiperparatireoidismo).</text>
+    <text x="28" y="240" font-family="Arial, sans-serif" font-size="10.5" fill="#1e40af"><tspan font-weight="bold">• Fase Terminal:</tspan> Lesões líticas confluentes, perda do espaço,</text>
+    <text x="38" y="254" font-family="Arial, sans-serif" font-size="10" fill="#1e40af">osteófitos secundários e anquilose tardia.</text>
+
+    <!-- Comparação com Artrite Reumatoide -->
+    <rect x="18" y="274" width="400" height="88" rx="8" fill="#fef2f2" stroke="#dc2626" stroke-width="1.5"/>
+    <text x="217" y="294" font-family="Arial, sans-serif" font-size="11.5" font-weight="bold" fill="#991b1b" text-anchor="middle">⚠️ PEGADINHA CLÁSSICA: GOTA vs. ARTRITE REUMATOIDE</text>
+    <text x="28" y="314" font-family="Arial, sans-serif" font-size="10" fill="#7f1d1d">• <tspan font-weight="bold">Artrite Reumatoide:</tspan> Osteopenia periarticular precoce + pinçamento difuso precoce.</text>
+    <text x="28" y="332" font-family="Arial, sans-serif" font-size="10" fill="#7f1d1d">• <tspan font-weight="bold">Gota:</tspan> Osso com densidade NORMAL (ou esclerótico) + espaço preservado!</text>
+    <text x="28" y="350" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#dc2626">• As erosões na gota podem ser extra-articulares, distantes da sinóvia.</text>
+  </g>
+</svg>

@@ -1,0 +1,156 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 500" width="900" height="500">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f8fafc"/>
+      <stop offset="100%" stop-color="#edf2f7"/>
+    </linearGradient>
+    <filter id="dropShadow" x="-5%" y="-5%" width="110%" height="115%" filterUnits="userSpaceOnUse">
+      <feDropShadow dx="0" dy="4" stdDeviation="6" flood-color="#0f172a" flood-opacity="0.08"/>
+    </filter>
+    <linearGradient id="headerGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#1e3a8a"/>
+      <stop offset="100%" stop-color="#2563eb"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="900" height="500" rx="16" fill="url(#bgGrad)"/>
+  <rect x="1" y="1" width="898" height="498" rx="15" fill="none" stroke="#cbd5e1" stroke-width="1.5"/>
+
+  <!-- Cabeçalho -->
+  <rect x="0" y="0" width="900" height="60" rx="16" fill="url(#headerGrad)"/>
+  <rect x="0" y="44" width="900" height="16" fill="#2563eb"/>
+  <text x="30" y="38" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#ffffff">
+    FISIOPATOLOGIA DA CRISE AGUDA: DO CRISTAL MSU À BRADICININA
+  </text>
+
+  <!-- Cascata em 4 Etapas Horizontais Consecutivas -->
+  <g transform="translate(25, 78)">
+    <!-- Etapa 1: Precipitação e Fagocitose -->
+    <g transform="translate(0, 0)">
+      <rect width="195" height="260" rx="10" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.5" filter="url(#dropShadow)"/>
+      <rect width="195" height="32" rx="10" fill="#3b82f6"/>
+      <rect y="22" width="195" height="10" fill="#3b82f6"/>
+      <text x="97" y="21" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#ffffff" text-anchor="middle">
+        1. PRECIPITAÇÃO ARTICULAR
+      </text>
+
+      <path d="M 30 65 L 70 85 L 50 115 Z" fill="#93c5fd" stroke="#2563eb" stroke-width="1.5"/>
+      <line x1="85" y1="65" x2="145" y2="105" stroke="#2563eb" stroke-width="3" stroke-linecap="round"/>
+      <line x1="100" y1="110" x2="160" y2="70" stroke="#2563eb" stroke-width="3" stroke-linecap="round"/>
+      <text x="97" y="132" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#1e3a8a" text-anchor="middle">Cristais de MSU</text>
+      <text x="97" y="148" font-family="Arial, sans-serif" font-size="10" fill="#475569" text-anchor="middle">Sobressaturação no líquido</text>
+      <text x="97" y="162" font-family="Arial, sans-serif" font-size="10" fill="#475569" text-anchor="middle">sinovial + frio periférico</text>
+
+      <rect x="12" y="178" width="171" height="68" rx="6" fill="#eff6ff" stroke="#93c5fd" stroke-width="1"/>
+      <text x="97" y="196" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#1e40af" text-anchor="middle">Opsonização Proteica:</text>
+      <text x="97" y="212" font-family="Arial, sans-serif" font-size="9.5" fill="#334155" text-anchor="middle">IgG reveste os cristais.</text>
+      <text x="97" y="226" font-family="Arial, sans-serif" font-size="9.5" fill="#334155" text-anchor="middle">Fagocitose por macrófagos</text>
+      <text x="97" y="240" font-family="Arial, sans-serif" font-size="9.5" fill="#334155" text-anchor="middle">e sinoviócitos tipo A.</text>
+    </g>
+
+    <!-- Seta 1 -> 2 -->
+    <path d="M 200 130 L 218 130" stroke="#2563eb" stroke-width="2.5"/>
+    <polygon points="216,126 224,130 216,134" fill="#2563eb"/>
+
+    <!-- Etapa 2: Inflamassoma NLRP3 -->
+    <g transform="translate(225, 0)">
+      <rect width="200" height="260" rx="10" fill="#ffffff" stroke="#f59e0b" stroke-width="1.8" filter="url(#dropShadow)"/>
+      <rect width="200" height="32" rx="10" fill="#d97706"/>
+      <rect y="22" width="200" height="10" fill="#d97706"/>
+      <text x="100" y="21" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#ffffff" text-anchor="middle">
+        2. INFLAMASSOMA NLRP3
+      </text>
+
+      <rect x="25" y="55" width="150" height="60" rx="8" fill="#fef3c7" stroke="#f59e0b" stroke-width="1.2"/>
+      <text x="100" y="75" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#92400e" text-anchor="middle">Complexo NLRP3</text>
+      <text x="100" y="92" font-family="Arial, sans-serif" font-size="9.5" fill="#b45309" text-anchor="middle">Ativa Pró-Caspase-1 ➔</text>
+      <text x="100" y="106" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#b45309" text-anchor="middle">CASPASE-1 ATIVA</text>
+
+      <path d="M 100 118 L 100 138" stroke="#d97706" stroke-width="2"/>
+      <polygon points="96,136 100,142 104,136" fill="#d97706"/>
+
+      <rect x="15" y="146" width="170" height="100" rx="6" fill="#fffbeb" stroke="#f59e0b" stroke-width="1"/>
+      <text x="100" y="166" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#b45309" text-anchor="middle">Clivagem de Citocinas:</text>
+      <text x="100" y="184" font-family="Arial, sans-serif" font-size="10" fill="#78350f" text-anchor="middle">Pró-IL-1β ➔ <tspan font-weight="bold" fill="#dc2626">IL-1β ATIVA</tspan></text>
+      <text x="100" y="200" font-family="Arial, sans-serif" font-size="9.5" fill="#78350f" text-anchor="middle">Pró-IL-18 ➔ IL-18 ATIVA</text>
+      <text x="100" y="222" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#b91c1c" text-anchor="middle">★ O GATILHO DA CRISE</text>
+      <text x="100" y="238" font-family="Arial, sans-serif" font-size="9" fill="#991b1b" text-anchor="middle">(Alvo da Colchicina e Anakinra)</text>
+    </g>
+
+    <!-- Seta 2 -> 3 -->
+    <path d="M 430 130 L 448 130" stroke="#d97706" stroke-width="2.5"/>
+    <polygon points="446,126 454,130 446,134" fill="#d97706"/>
+
+    <!-- Etapa 3: Recrutamento e Lise de Neutrófilos -->
+    <g transform="translate(455, 0)">
+      <rect width="195" height="260" rx="10" fill="#ffffff" stroke="#ef4444" stroke-width="1.8" filter="url(#dropShadow)"/>
+      <rect width="195" height="32" rx="10" fill="#dc2626"/>
+      <rect y="22" width="195" height="10" fill="#dc2626"/>
+      <text x="97" y="21" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#ffffff" text-anchor="middle">
+        3. QUIMIOTAXIA &amp; LISE
+      </text>
+
+      <rect x="15" y="52" width="165" height="65" rx="6" fill="#fee2e2" stroke="#f87171" stroke-width="1"/>
+      <text x="97" y="70" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#991b1b" text-anchor="middle">Mediadores Quimiotáticos:</text>
+      <text x="97" y="88" font-family="Arial, sans-serif" font-size="10.5" font-weight="bold" fill="#b91c1c">LTB4 (Leucotrieno B4)</text>
+      <text x="97" y="104" font-family="Arial, sans-serif" font-size="10" fill="#7f1d1d">e Quimiocinas (IL-8 / CXCL8)</text>
+
+      <path d="M 97 120 L 97 138" stroke="#dc2626" stroke-width="2"/>
+      <polygon points="93,136 97,142 101,136" fill="#dc2626"/>
+
+      <rect x="15" y="146" width="165" height="100" rx="6" fill="#fef2f2" stroke="#ef4444" stroke-width="1"/>
+      <text x="97" y="165" font-family="Arial, sans-serif" font-size="10.5" font-weight="bold" fill="#991b1b" text-anchor="middle">Infiltração de Neutrófilos</text>
+      <text x="97" y="182" font-family="Arial, sans-serif" font-size="9.5" fill="#7f1d1d" text-anchor="middle">Fagocitam cristais pontiagudos</text>
+      <text x="97" y="198" font-family="Arial, sans-serif" font-size="9.5" fill="#7f1d1d" text-anchor="middle">➔ Rompimento de lisossomos</text>
+      <text x="97" y="214" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#b91c1c" text-anchor="middle">LISE DOS NEUTRÓFILOS</text>
+      <text x="97" y="234" font-family="Arial, sans-serif" font-size="9.5" fill="#7f1d1d" text-anchor="middle">Liberação de NETs e proteases</text>
+    </g>
+
+    <!-- Seta 3 -> 4 -->
+    <path d="M 655 130 L 673 130" stroke="#dc2626" stroke-width="2.5"/>
+    <polygon points="671,126 679,130 671,134" fill="#dc2626"/>
+
+    <!-- Etapa 4: Bradicinina e Expressão Flogística -->
+    <g transform="translate(680, 0)">
+      <rect width="170" height="260" rx="10" fill="#ffffff" stroke="#991b1b" stroke-width="2" filter="url(#dropShadow)"/>
+      <rect width="170" height="32" rx="10" fill="#991b1b"/>
+      <rect y="22" width="170" height="10" fill="#991b1b"/>
+      <text x="85" y="21" font-family="Arial, sans-serif" font-size="10.5" font-weight="bold" fill="#ffffff" text-anchor="middle">
+        4. O CLÍMAX DA DOR
+      </text>
+
+      <rect x="12" y="52" width="146" height="75" rx="6" fill="#fef2f2" stroke="#ef4444" stroke-width="1.2"/>
+      <text x="85" y="70" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#991b1b" text-anchor="middle">Sistema Calicreína:</text>
+      <text x="85" y="90" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#dc2626" text-anchor="middle">BRADICININA</text>
+      <text x="85" y="108" font-family="Arial, sans-serif" font-size="9.5" fill="#7f1d1d" text-anchor="middle">Estímulo nociceptivo</text>
+      <text x="85" y="120" font-family="Arial, sans-serif" font-size="9.5" fill="#7f1d1d" text-anchor="middle">direto nas fibras C.</text>
+
+      <rect x="12" y="136" width="146" height="110" rx="6" fill="#7f1d1d"/>
+      <text x="85" y="156" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#ffffff" text-anchor="middle">SINAIS CARDEAIS:</text>
+      <text x="85" y="176" font-family="Arial, sans-serif" font-size="10.5" font-weight="bold" fill="#fca5a5" text-anchor="middle">💥 DOR INTENSA</text>
+      <text x="85" y="196" font-family="Arial, sans-serif" font-size="10.5" font-weight="bold" fill="#fca5a5" text-anchor="middle">💧 EDEMA GRAVE</text>
+      <text x="85" y="216" font-family="Arial, sans-serif" font-size="10" fill="#ffffff" text-anchor="middle">🔥 CALOR &amp; RUBOR</text>
+      <text x="85" y="234" font-family="Arial, sans-serif" font-size="9" fill="#fecaca" text-anchor="middle">(Pico em &lt; 24 horas)</text>
+    </g>
+  </g>
+
+  <!-- Rodapé Didático: Resumo de Prova Docente (Paula Assis) -->
+  <g transform="translate(25, 355)">
+    <rect width="850" height="125" rx="10" fill="#eff6ff" stroke="#2563eb" stroke-width="1.5" filter="url(#dropShadow)"/>
+    <text x="25" y="26" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#1e3a8a">
+      📌 SÍNTESE MANDATÓRIA DE AVALIAÇÃO (AULA PROFA. PAULA ASSIS QUEIROZ):
+    </text>
+    <text x="25" y="52" font-family="Arial, sans-serif" font-size="11" fill="#1e40af">
+      • <tspan font-weight="bold">Inflamassoma NLRP3 &amp; IL-1β:</tspan> Responsáveis pelo <tspan font-weight="bold">INÍCIO</tspan> da cascata inflamatória celular.
+    </text>
+    <text x="25" y="74" font-family="Arial, sans-serif" font-size="11" fill="#1e40af">
+      • <tspan font-weight="bold">Leucotrieno B4 (LTB4):</tspan> Responsável pelo recrutamento contínuo e quimiotaxia dos neutrófilos, mantendo a crise ativa.
+    </text>
+    <text x="25" y="96" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#dc2626">
+      • <tspan font-weight="bold">Bradicinina (Gabarito Oficial do Quiz Docente):</tspan> Principal mediador diretamente responsável pela DOR INTENSA e EDEMA exuberante!
+    </text>
+    <text x="25" y="114" font-family="Arial, sans-serif" font-size="10" fill="#475569">
+      • <tspan font-style="italic">Mecanismo da Colchicina:</tspan> Liga-se à β-tubulina impedindo a montagem dos microtúbulos, paralisando neutrófilos e o NLRP3.
+    </text>
+  </g>
+</svg>

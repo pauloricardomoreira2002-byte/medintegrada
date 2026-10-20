@@ -1,0 +1,122 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 480" width="900" height="480">
+  <defs>
+    <linearGradient id="bgGrad7" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f8fafc"/>
+      <stop offset="100%" stop-color="#f1f5f9"/>
+    </linearGradient>
+    <filter id="shadow7" x="-5%" y="-5%" width="110%" height="115%">
+      <feDropShadow dx="0" dy="4" stdDeviation="5" flood-color="#0f172a" flood-opacity="0.08"/>
+    </filter>
+  </defs>
+
+  <rect width="900" height="480" rx="16" fill="url(#bgGrad7)"/>
+  <rect x="1" y="1" width="898" height="478" rx="15" fill="none" stroke="#cbd5e1" stroke-width="1.5"/>
+
+  <!-- Cabeçalho -->
+  <rect width="900" height="60" rx="16" fill="#1e3a8a"/>
+  <rect y="44" width="900" height="16" fill="#dc2626"/>
+  <text x="30" y="38" font-family="Arial, sans-serif" font-size="19" font-weight="bold" fill="#ffffff">
+    CRITÉRIOS CRAB: DANO DE ÓRGÃO-ALVO NO MIELOMA MÚLTIPLO
+  </text>
+
+  <!-- 4 Cartões CRAB -->
+  <!-- C - Cálcio -->
+  <g transform="translate(30, 80)">
+    <rect width="195" height="260" rx="10" fill="#ffffff" stroke="#ef4444" stroke-width="2" filter="url(#shadow7)"/>
+    <rect width="195" height="45" rx="10" fill="#dc2626"/>
+    <rect y="33" width="195" height="12" fill="#dc2626"/>
+    <text x="97" y="30" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#ffffff" text-anchor="middle">C</text>
+    
+    <text x="15" y="68" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#991b1b">HIPERCALCEMIA</text>
+    <text x="15" y="90" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#b91c1c">Cálcio &gt; 11 mg/dL</text>
+    <text x="15" y="106" font-family="Arial, sans-serif" font-size="10" fill="#64748b">(ou &gt; 1 mg/dL acima LSN)</text>
+
+    <line x1="15" y1="118" x2="180" y2="118" stroke="#fee2e2" stroke-width="1.5"/>
+
+    <text x="15" y="136" font-family="Arial, sans-serif" font-size="10.5" font-weight="bold" fill="#334155">Sintomas Típicos:</text>
+    <text x="15" y="154" font-family="Arial, sans-serif" font-size="10" fill="#475569">• Poliúria e polidipsia</text>
+    <text x="15" y="170" font-family="Arial, sans-serif" font-size="10" fill="#475569">• Constipação severa</text>
+    <text x="15" y="186" font-family="Arial, sans-serif" font-size="10" fill="#475569">• Náuseas / vômitos</text>
+    <text x="15" y="202" font-family="Arial, sans-serif" font-size="10" fill="#475569">• Confusão / coma</text>
+    <text x="15" y="222" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#dc2626">Encurta intervalo QT</text>
+  </g>
+
+  <!-- R - Renal -->
+  <g transform="translate(245, 80)">
+    <rect width="195" height="260" rx="10" fill="#ffffff" stroke="#f59e0b" stroke-width="2" filter="url(#shadow7)"/>
+    <rect width="195" height="45" rx="10" fill="#d97706"/>
+    <rect y="33" width="195" height="12" fill="#d97706"/>
+    <text x="97" y="30" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#ffffff" text-anchor="middle">R</text>
+    
+    <text x="15" y="68" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#b45309">INSUF. RENAL</text>
+    <text x="15" y="90" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#d97706">Cr &gt; 2,0 mg/dL</text>
+    <text x="15" y="106" font-family="Arial, sans-serif" font-size="10" fill="#64748b">(ou ClCr &lt; 40 mL/min)</text>
+
+    <line x1="15" y1="118" x2="180" y2="118" stroke="#fef3c7" stroke-width="1.5"/>
+
+    <text x="15" y="136" font-family="Arial, sans-serif" font-size="10.5" font-weight="bold" fill="#334155">Mecanismos:</text>
+    <text x="15" y="154" font-family="Arial, sans-serif" font-size="10" fill="#475569">• Cilindros cadeias leves</text>
+    <text x="15" y="170" font-family="Arial, sans-serif" font-size="10" fill="#475569">  (Rim do Mieloma)</text>
+    <text x="15" y="186" font-family="Arial, sans-serif" font-size="10" fill="#475569">• Nefrocalcinose (Ca²⁺)</text>
+    <text x="15" y="202" font-family="Arial, sans-serif" font-size="10" fill="#475569">• Ácido úrico e Amiloidose</text>
+    <text x="15" y="222" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#b45309">Fita dipstick: negativa!</text>
+  </g>
+
+  <!-- A - Anemia -->
+  <g transform="translate(460, 80)">
+    <rect width="195" height="260" rx="10" fill="#ffffff" stroke="#3b82f6" stroke-width="2" filter="url(#shadow7)"/>
+    <rect width="195" height="45" rx="10" fill="#2563eb"/>
+    <rect y="33" width="195" height="12" fill="#2563eb"/>
+    <text x="97" y="30" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#ffffff" text-anchor="middle">A</text>
+    
+    <text x="15" y="68" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1e40af">ANEMIA</text>
+    <text x="15" y="90" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#2563eb">Hb &lt; 10 g/dL</text>
+    <text x="15" y="106" font-family="Arial, sans-serif" font-size="10" fill="#64748b">(ou queda &gt; 2 g/dL do basal)</text>
+
+    <line x1="15" y1="118" x2="180" y2="118" stroke="#dbeafe" stroke-width="1.5"/>
+
+    <text x="15" y="136" font-family="Arial, sans-serif" font-size="10.5" font-weight="bold" fill="#334155">Características:</text>
+    <text x="15" y="154" font-family="Arial, sans-serif" font-size="10" fill="#475569">• Normo/normo (80%)</text>
+    <text x="15" y="170" font-family="Arial, sans-serif" font-size="10" fill="#475569">• Infiltração medular</text>
+    <text x="15" y="186" font-family="Arial, sans-serif" font-size="10" fill="#475569">• Queda de EPO renal</text>
+    <text x="15" y="202" font-family="Arial, sans-serif" font-size="10" fill="#475569">• Doença crônica (hepcidina)</text>
+    <text x="15" y="222" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#1d4ed8">Rouleaux + VHS &gt; 100</text>
+  </g>
+
+  <!-- B - Bone -->
+  <g transform="translate(675, 80)">
+    <rect width="195" height="260" rx="10" fill="#ffffff" stroke="#10b981" stroke-width="2" filter="url(#shadow7)"/>
+    <rect width="195" height="45" rx="10" fill="#059669"/>
+    <rect y="33" width="195" height="12" fill="#059669"/>
+    <text x="97" y="30" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#ffffff" text-anchor="middle">B</text>
+    
+    <text x="15" y="68" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#065f46">BONE (OSSO)</text>
+    <text x="15" y="90" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#059669">≥ 1 Lesão Lítica</text>
+    <text x="15" y="106" font-family="Arial, sans-serif" font-size="10" fill="#64748b">(≥ 5 mm em RX, TC ou PET)</text>
+
+    <line x1="15" y1="118" x2="180" y2="118" stroke="#d1fae5" stroke-width="1.5"/>
+
+    <text x="15" y="136" font-family="Arial, sans-serif" font-size="10.5" font-weight="bold" fill="#334155">Locais Prediletos:</text>
+    <text x="15" y="154" font-family="Arial, sans-serif" font-size="10" fill="#475569">• Coluna vertebral (dor)</text>
+    <text x="15" y="170" font-family="Arial, sans-serif" font-size="10" fill="#475569">• Arcos costais / pelve</text>
+    <text x="15" y="186" font-family="Arial, sans-serif" font-size="10" fill="#475569">• Crânio ("sal e pimenta")</text>
+    <text x="15" y="202" font-family="Arial, sans-serif" font-size="10" fill="#475569">• Fêmur e úmero proximais</text>
+    <text x="15" y="222" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#059669">Fraturas patológicas</text>
+  </g>
+
+  <!-- Barra Inferior: Critérios SLiM (IMWG 2014) -->
+  <rect x="30" y="355" width="840" height="110" rx="10" fill="#f8fafc" stroke="#64748b" stroke-width="1.5"/>
+  <text x="45" y="378" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1e3a8a">CRITÉRIOS SLiM (BIOMARCADORES DE MALIGNIDADE - IMWG 2014):</text>
+  <text x="45" y="398" font-family="Arial, sans-serif" font-size="11" fill="#0f172a">
+    Mesmo na ausência de sintomas CRAB, a presença de <tspan font-weight="bold" fill="#dc2626">QUALQUER UM</tspan> dos 3 critérios abaixo define Mieloma Ativo e indica tratamento:
+  </text>
+  <text x="55" y="418" font-family="Arial, sans-serif" font-size="11" fill="#334155">
+    • <tspan font-weight="bold" fill="#dc2626">S (Sixty):</tspan> Plasmócitos clonais na medula óssea <tspan font-weight="bold">≥ 60%</tspan>.
+  </text>
+  <text x="55" y="436" font-family="Arial, sans-serif" font-size="11" fill="#334155">
+    • <tspan font-weight="bold" fill="#dc2626">Li (Light Chain Ratio):</tspan> Relação de cadeias leves livres séricas (FLC envolvida / não envolvida) <tspan font-weight="bold">≥ 100</tspan>.
+  </text>
+  <text x="55" y="454" font-family="Arial, sans-serif" font-size="11" fill="#334155">
+    • <tspan font-weight="bold" fill="#dc2626">M (MRI):</tspan> Mais de 1 lesão focal na Ressonância Magnética (tamanho <tspan font-weight="bold">≥ 5 mm</tspan>).
+  </text>
+</svg>

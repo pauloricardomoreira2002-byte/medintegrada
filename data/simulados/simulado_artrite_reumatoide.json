@@ -1,0 +1,1251 @@
+{
+  "id": "simulado_artrite_reumatoide",
+  "title": "Simulado Comentado • Artrite Reumatoide",
+  "subtitle": "40 Questões no Padrão ENAMED/INEP com Raio-X Cognitivo dos Distratores",
+  "badge": "ENAMED / Residência Médica • Nível Avançado",
+  "theme": "Artrite Reumatoide",
+  "area": "Clínica Médica • Reumatologia",
+  "total_questions": 40,
+  "questions": [
+    {
+      "id": 1,
+      "tag": "Clínica Médica • Imunologia e Tolerância",
+      "stem": "Uma mulher de 38 anos comparece à Unidade Básica de Saúde para investigação de poliartralgia crônica. Durante a discussão clínica sobre a base imunológica das doenças autoimunes, o preceptor enfatiza os mecanismos que mantêm a homeostase fisiológica do sistema imune e evitam respostas lesivas contra o organismo. Considerando os conceitos fundamentais de regulação imunológica apresentados no módulo morfofuncional, o estado de <strong>tolerância imunológica</strong> é definido como:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A incapacidade transitória de produzir imunoglobulinas da classe IgG em resposta a infecções virais agudas."
+        },
+        {
+          "letter": "B",
+          "text": "A ausência congênita de receptores de reconhecimento de padrões em monócitos e macrófagos teciduais maduros."
+        },
+        {
+          "letter": "C",
+          "text": "A não responsividade aos autoantígenos com preservação da reatividade a uma ampla variedade de microrganismos."
+        },
+        {
+          "letter": "D",
+          "text": "A supressão farmacológica inespecífica de clones de linfócitos B autorreativos após exposição a citocinas inflamatórias."
+        }
+      ],
+      "answer": "C",
+      "rationale": "Segundo os fundamentos de imunologia celular contidos no documento (pág. 2), a tolerância imunológica é definida como a não responsividade funcional aos autoantígenos (antígenos próprios), permitindo que o organismo mantenha a capacidade de reagir ativamente contra uma enorme variedade de microrganismos patogênicos sem deflagrar agressão contra seus próprios tecidos. A falência desse mecanismo homeostático caracteriza a autoimunidade e o desenvolvimento das doenças autoimunes, como a artrite reumatoide.",
+      "distractors": [
+        "<strong>A está incorreta [Vetor 1 - Micro-Inversão Conceitual]:</strong> Confunde tolerância imunológica ativa com imunodeficiência humoral adquirida ou hipogamaglobulinemia transitória. <em>(Ímã cognitivo: atrai quem associa o termo tolerância a uma carência quantitativa de anticorpos circulantes).</em>",
+        "<strong>B está incorreta [Vetor 4 - Mimetismo Clínico]:</strong> Descreve uma imunodeficiência inata primária por ausência de TLRs/PRRs, mecanismo patológico oposto à preservação e regulação da resposta imune adaptativa. <em>(Ímã cognitivo: usa termos técnicos sofisticados de imunologia para induzir o candidato desatento ao erro).</em>",
+        "<strong>D está incorreta [Vetor 3 - Precipitação Conceitual]:</strong> Mistura imunossupressão iatrogênica pós-tratamento com o estado fisiológico intrínseco de autotolerância imune descrita nas ciências básicas. <em>(Ímã cognitivo: confunde tolerância natural fisiológica com tolerância induzida por agentes farmacológicos).</em>"
+      ],
+      "pearl": "Tolerância imunológica = Não responsividade aos autoantígenos mantendo plena capacidade de defesa contra microrganismos."
+    },
+    {
+      "id": 2,
+      "tag": "Clínica Médica • Imunologia Celular",
+      "stem": "No estudo da perda de autotolerância que deflagra doenças como a artrite reumatoide, analisa-se a distinção funcional entre os tipos de antígenos com os quais o sistema imune interage continuamente. Conforme estabelecido no documento morfofuncional sobre os antígenos próprios e os antígenos microbianos, assinale a correlação fisiológica <strong>correta</strong>:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Os antígenos próprios comportam-se fisiologicamente como tolerogênicos, enquanto os microrganismos são imunogênicos."
+        },
+        {
+          "letter": "B",
+          "text": "Os antígenos microbianos induzem anergia clonal obrigatória, enquanto as proteínas autólogas geram proliferação de clones T."
+        },
+        {
+          "letter": "C",
+          "text": "Os antígenos imunogênicos suprimem a ativação de macrófagos, enquanto os tolerogênicos ativam a secreção de interferon-gama."
+        },
+        {
+          "letter": "D",
+          "text": "Os antígenos próprios são sempre degradados por neutrófilos, enquanto os microrganismos se ligam à região Fc de imunoglobulinas."
+        }
+      ],
+      "answer": "A",
+      "rationale": "O documento estabelece claramente (pág. 2) que os antígenos próprios atuam sob condições normais como tolerogênicos (mantendo a anergia e a não responsividade do sistema imune), ao passo que os antígenos microbianos são imunogênicos (capazes de estimular e deflagrar uma resposta imune adaptativa protetora vigorosa). A quebra desse equilíbrio resulta em autoimunidade.",
+      "distractors": [
+        "<strong>B está incorreta [Vetor 1 - Micro-Inversão Conceitual]:</strong> Inverteu com precisão a relação biológica: são os microrganismos que deflagram imunogenicidade e os antígenos próprios que geram tolerância/anergia. <em>(Ímã cognitivo: o candidato em leitura superficial troca a ordem dos termos antígenos próprios e microrganismos).</em>",
+        "<strong>C está incorreta [Vetor 1 - Micro-Inversão Farmaco/Fisiológica]:</strong> Inverte as consequências: imunogênicos promovem ativação de macrófagos e secreção de citocinas (como IFN-γ), enquanto tolerogênicos mantêm o silenciamento. <em>(Ímã cognitivo: termos sofisticados misturados para simular um processo fisiopatológico plausível).</em>",
+        "<strong>D está incorreta [Vetor 4 - Mimetismo Falso]:</strong> Inventa uma distinção mecanicista descabida para desviar da classificação imunogênico vs. tolerogênico expressa no material didático. <em>(Ímã cognitivo: atrai o aluno que tenta lembrar o papel da porção Fc discutido em outros tópicos do slide).</em>"
+      ],
+      "pearl": "Antígenos próprios = tolerogênicos (mantêm o silêncio imune); Antígenos microbianos = imunogênicos (ativam resposta de defesa)."
+    },
+    {
+      "id": 3,
+      "tag": "Clínica Médica • Conceituação Morfofuncional",
+      "stem": "Uma mulher de 42 anos é atendida no ambulatório de Reumatologia com queixas de dor articular há 6 meses. Ao formular a hipótese diagnóstica de Artrite Reumatoide (AR), o médico assistente explica a natureza fisiopatológica da lesão tecidual primária observada na articulação sinovial. De acordo com a definição formal apresentada no documento, a artrite reumatoide caracteriza-se como um:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Processo degenerativo articular primário e não inflamatório, mediado pela sobrecarga mecânica na cartilagem hialina."
+        },
+        {
+          "letter": "B",
+          "text": "Quadro infeccioso piogênico agudo da membrana sinovial, caracterizado por infiltrado neutrofílico purulento maciço."
+        },
+        {
+          "letter": "C",
+          "text": "Distúrbio microcristalino metabólico restrito à cápsula articular, secundário ao depósito de cristais de pirofosfato de cálcio."
+        },
+        {
+          "letter": "D",
+          "text": "Distúrbio inflamatório crônico autoimune e sistêmico, que produz sinovite inflamatória proliferativa e não supurativa."
+        }
+      ],
+      "answer": "D",
+      "rationale": "Conforme a definição textual do slide (pág. 5): 'Distúrbio inflamatório crônico de origem autoimune, SISTÊMICA, cujo principal local de acometimento são as articulações, produzindo sinovite inflamatória proliferativa e não supurativa'. Esse processo pode evoluir para a destruição progressiva da cartilagem articular e anquilose.",
+      "distractors": [
+        "<strong>A está incorreta [Vetor 4 - Mimetismo Clínico]:</strong> Define a osteoartrite/artrose primária (doença degenerativa/mecânica), e não a artrite reumatoide (doença inflamatória autoimune sistêmica). <em>(Ímã cognitivo: induz ao erro o aluno que não domina a diferença entre artrite inflamatória crônica e degeneração articular).</em>",
+        "<strong>B está incorreta [Vetor 1 - Micro-Inversão Conceitual]:</strong> Descreve a artrite séptica bacteriana (infecciosa e supurativa), enquanto a AR é estritamente não infecciosa e não supurativa. <em>(Ímã cognitivo: explora o termo 'sinovite' isolado, invertendo a característica de ser 'não supurativa').</em>",
+        "<strong>C está incorreta [Vetor 4 - Mimetismo Clínico]:</strong> Descreve a pseudogota / artropatia por pirofosfato de cálcio (deposição de microcristais), omitindo a natureza autoimune e sinovite proliferativa da AR. <em>(Ímã cognitivo: atrai estudantes que confundem artropatias inflamatórias microcristalinas com autoimunes).</em>"
+      ],
+      "pearl": "Artrite Reumatoide = Doença inflamatória crônica, autoimune e SISTÊMICA, com sinovite proliferativa e NÃO SUPURATIVA."
+    },
+    {
+      "id": 4,
+      "tag": "Medicina Preventiva • Epidemiologia",
+      "stem": "Durante uma conferência de planejamento em saúde na Atenção Primária, discute-se o impacto socioeconômico e a carga de morbidade das doenças reumatológicas na população adulta. Considerando os dados epidemiológicos universais consolidados no documento da disciplina para a Artrite Reumatoide, assinale a afirmativa <strong>correta</strong> quanto à sua prevalência e perfil de acometimento demográfico:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Apresenta prevalência de aproximadamente 10% da população mundial, ocorrendo predominantemente em homens idosos (4:1)."
+        },
+        {
+          "letter": "B",
+          "text": "Possui prevalência global de cerca de 1%, acometendo três vezes mais mulheres (3:1), com pico clínico entre 30 e 50 anos."
+        },
+        {
+          "letter": "C",
+          "text": "Exibe prevalência estimada de 0,01%, distribuindo-se igualmente entre os sexos (1:1), com início restrito à infância precoce."
+        },
+        {
+          "letter": "D",
+          "text": "Tem prevalência de 5% no mundo, apresentando razão de 1:3 desfavorável aos homens e pico na segunda década de vida."
+        }
+      ],
+      "answer": "B",
+      "rationale": "Os dados epidemiológicos explicitados na página 6 indicam: Prevalência de 1% da população mundial; acomete mais mulheres na proporção de 3:1 em relação aos homens; e as manifestações clínicas surgem tipicamente entre 30 e 50 anos de idade.",
+      "distractors": [
+        "<strong>A está incorreta [Vetor 1 - Micro-Inversão Numérica]:</strong> Superestima a prevalência em 10 vezes (10% em vez de 1%) e inverte a predominância de sexo (colocando predomínio masculino). <em>(Ímã cognitivo: confunde com prevalência de osteoartrite na terceira idade).</em>",
+        "<strong>C está incorreta [Vetor 1 - Micro-Inversão Epidemiológica]:</strong> Subestima drasticamente a prevalência e define o perfil etário da artrite idiopática juvenil. <em>(Ímã cognitivo: induz o candidato a pensar em doenças raras genéticas puras da infância).</em>",
+        "<strong>D está incorreta [Vetor 1 - Micro-Inversão da Razão de Sexo]:</strong> Inverte a razão de sexo (1:3 mulher:homem em vez de 3:1) e antecipa a faixa etária para a adolescência. <em>(Ímã cognitivo: induz ao erro pela proximidade fonética dos numerais 1 e 3).</em>"
+      ],
+      "pearl": "Epidemiologia da AR: Prevalência de 1% mundial, sexo feminino 3:1, pico etário clássico de 30 a 50 anos."
+    },
+    {
+      "id": 5,
+      "tag": "Clínica Médica • Epidemiologia e Prognóstico",
+      "stem": "Uma paciente de 46 anos recém-diagnosticada com artrite reumatoide expressa preocupação quanto ao impacto da doença no seu futuro e na sua longevidade. O médico explica que a AR não se limita a sintomas articulares locais, mas carrega repercussões sistêmicas a longo prazo. Segundo os dados epidemiológicos destacados no material didático, a artrite reumatoide atua como fator de risco para:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Neoplasia colorretal hereditária, sem causar qualquer modificação na expectativa global de vida da paciente."
+        },
+        {
+          "letter": "B",
+          "text": "Doença cardiovascular, promovendo uma redução na expectativa média de vida de 3 a 10 anos."
+        },
+        {
+          "letter": "C",
+          "text": "Hipertensão portal esquistossomótica isolada, ampliando a expectativa de vida devido à menor coagulabilidade."
+        },
+        {
+          "letter": "D",
+          "text": "Insuficiência adrenal primária autoimune exclusiva, reduzindo a expectativa de vida em exatamente 25 a 30 anos."
+        }
+      ],
+      "answer": "B",
+      "rationale": "Na página 6 do documento, destaca-se que a Artrite Reumatoide é um importante 'Fator de risco para doença cardiovascular' e que a doença 'Reduz a expectativa de vida de 3 a 10 anos', reforçando seu caráter inflamatório sistêmico e aterogênico.",
+      "distractors": [
+        "<strong>A está incorreta [Vetor 4 - Mimetismo Falso]:</strong> Cria uma falsa associação oncogenética inexistente e nega o impacto prognóstico da AR na mortalidade. <em>(Ímã cognitivo: atrai quem acredita que a AR seja estritamente benigna quanto à mortalidade).</em>",
+        "<strong>C está incorreta [Vetor 1 - Micro-Inversão]:</strong> Associa a AR a doença infecciosa parasitária e alega de forma absurda um aumento da sobrevida. <em>(Ímã cognitivo: alternativa desestabilizadora para quem não lembra as comorbidades cardiovasculares).</em>",
+        "<strong>D está incorreta [Vetor 1 - Exagero Numérico]:</strong> Hipertrofia desmedidamente a redução de sobrevida (25-30 anos em vez de 3-10 anos) e associa à síndrome monogênica adrenal. <em>(Ímã cognitivo: atrai quem memorizou apenas que a expectativa de vida é reduzida, mas erra a magnitude numérica).</em>"
+      ],
+      "pearl": "A AR é fator de risco independente para DOENÇA CARDIOVASCULAR e reduz a expectativa de vida em 3 a 10 anos."
+    },
+    {
+      "id": 6,
+      "tag": "Clínica Médica • Patologia Articular",
+      "stem": "Um homem de 58 anos com história de artrite reumatoide grave e sem acompanhamento regular por 15 anos apresenta perda completa da mobilidade em punhos e articulações interfalangeanas proximais. A radiografia confirma o desaparecimento dos espaços articulares com união óssea contínua entre as falanges. De acordo com a evolução anatomopatológica detalhada no material didático da disciplina, a progressão do dano articular que culmina na fusão óssea completa ocorre pela transição sequencial de:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sinovite supurativa bacteriana aguda evoluindo para esclerose subcondral e formação de osteófitos marginais."
+        },
+        {
+          "letter": "B",
+          "text": "Depósito de microcristais de monourato de sódio na cápsula articular culminando em fibrose reativa reversível."
+        },
+        {
+          "letter": "C",
+          "text": "Necrose avascular asséptica primária da epífise seguida por proliferação hipertrófica de cartilagem hialina."
+        },
+        {
+          "letter": "D",
+          "text": "Destruição da cartilagem articular com desenvolvimento de anquilose fibrosa que progride para anquilose óssea."
+        }
+      ],
+      "answer": "D",
+      "rationale": "Nas páginas 7, 17 e 18 do documento, a evolução da lesão articular é descrita como destruição da cartilagem articular que, em alguns casos, evolui para a fusão das articulações (anquilose), progredindo classicamente da 'Anquilose fibrosa → Anquilose óssea', devido à invasão agressiva do pannus e à destruição da matriz óssea e cartilaginosa.",
+      "distractors": [
+        "<strong>A está incorreta [Vetor 4 - Mimetismo Clínico]:</strong> Mistura a patogenia da artrite séptica com achados radiológicos clássicos de osteoartrite (osteófitos e esclerose), que não definem a anquilose reumatoide. <em>(Ímã cognitivo: induz ao erro o aluno que associa dano avançado a osteófitos).</em>",
+        "<strong>B está incorreta [Vetor 4 - Mimetismo de Doença Vizinha]:</strong> Descreve a fisiopatologia da gota tofácea crônica (cristais de monourato), patologia discutida em outros módulos, e afirma errônea reversibilidade. <em>(Ímã cognitivo: confunde a anquilose da AR com o tofo gotoso).</em>",
+        "<strong>C está incorreta [Vetor 1 - Micro-Inversão Patológica]:</strong> Aponta osteonecrose primária com proliferação cartilaginosa, quando na AR ocorre destruição e lise da cartilagem hialina, e não proliferação. <em>(Ímã cognitivo: atrai quem lembra de necrose óssea no contexto articular).</em>"
+      ],
+      "pearl": "Evolução do dano articular na AR: Destruição da cartilagem → Anquilose fibrosa → Anquilose óssea (fusão articular)."
+    },
+    {
+      "id": 7,
+      "tag": "Clínica Médica • Manifestações Sistêmicas",
+      "stem": "Durante a anamnese de um paciente de 50 anos com artrite reumatoide ativa, o residente investiga alterações sistêmicas além das queixas articulares. O paciente relata tosse seca esporádica e surgimento de lesões nodulares no antebraço. Considerando o caráter sistêmico da AR e as manifestações extra-articulares descritas no documento institucional, assinale os órgãos frequentemente envolvidos e os distúrbios autoimunes com os quais a AR pode apresentar sobreposição clínica:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pele, coração, vasos sanguíneos e pulmões; sobrepondo-se clinicamente a lúpus eritematoso sistêmico e esclerodermia."
+        },
+        {
+          "letter": "B",
+          "text": "Fígado, pâncreas endócrino e mucosa gástrica; sobrepondo-se a hepatite autoimune e gastrite atrófica metaplásica."
+        },
+        {
+          "letter": "C",
+          "text": "Tireoide, paratireoide e córtex adrenal; sobrepondo-se a tireoidite de Hashimoto e doença de Addison poliglandular."
+        },
+        {
+          "letter": "D",
+          "text": "Rim, baço e medula óssea exclusivamente; sobrepondo-se clinicamente à policitemia vera e mielofibrose primária."
+        }
+      ],
+      "answer": "A",
+      "rationale": "Conforme consta textualmente no slide (pág. 7): 'Lesões extra-articulares: pele, o coração, os vasos sanguíneos e os pulmões → manifestações clínicas que se sobrepõem a outros distúrbios autoimunes, incluindo lúpus eritematoso sistêmico e esclerodermia'.",
+      "distractors": [
+        "<strong>B está incorreta [Vetor 4 - Mimetismo Clínico]:</strong> Cita órgãos do trato digestivo e doenças autoimunes gastrointestinais que não constituem as lesões extra-articulares clássicas citadas no texto base. <em>(Ímã cognitivo: confunde manifestações de toxicidade medicamentosa hepática com o espectro extra-articular direto).</em>",
+        "<strong>C está incorreta [Vetor 4 - Mimetismo de Síndrome Vizinha]:</strong> Lista endocrinopatias autoimunes pertencentes às síndromes poliglandulares autoimunes (SPA). <em>(Ímã cognitivo: atrai quem memoriza que doenças autoimunes frequentemente se associam a tireoidites).</em>",
+        "<strong>D está incorreta [Vetor 1 - Micro-Inversão Conceitual]:</strong> Restringe o envolvimento a órgãos hematopoieticos e cita neoplasias mieloproliferativas crônicas em vez de colagenoses. <em>(Ímã cognitivo: induz ao erro ao usar termos de hematologia).</em>"
+      ],
+      "pearl": "Manifestações extra-articulares da AR: Pele, coração, vasos e pulmões; sobrepõe-se a LES e Esclerodermia."
+    },
+    {
+      "id": 8,
+      "tag": "Clínica Médica • Fisiopatologia Geral",
+      "stem": "Na tutoria de patologia sobre doenças reumáticas, os acadêmicos devem esquematizar a linha cronológica dos eventos que transformam um indivíduo assintomático em um paciente com sinovite proliferativa erosiva grave. De acordo com o fluxograma da patogenia da artrite reumatoide explicitado no documento da disciplina, a sequência correta de eventos fisiopatológicos é:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Autoimunidade primária → Infiltração neutrofílica aguda → Gatilho infeccioso articular → Apoptose celular → Predisposição genética."
+        },
+        {
+          "letter": "B",
+          "text": "Anquilose óssea → Deposição de imunocomplexos → Liberação de IgE tecidual → Formação de pannus → Citrulinização tardia."
+        },
+        {
+          "letter": "C",
+          "text": "Genética (HLA) → Gatilho ambiental → Perda da autotolerância → Reação inflamatória crônica / Autoanticorpos → Destruição articular."
+        },
+        {
+          "letter": "D",
+          "text": "Gatilho ambiental → Mielodisplasia secundária → Ativação de osteoblastos → Síntese de colágeno periarticular → Sinovite crônica."
+        }
+      ],
+      "answer": "C",
+      "rationale": "Nas páginas 8 e 20, o documento resume a cadeia patogenética central: 'Indivíduo geneticamente susceptível' + 'Agente Artritogênico' → 'Perda da autotolerância' → 'Reação inflamatória crônica' → 'Produção de autoanticorpos (FR, anti-CCP)' → 'Liberação de citocinas e formação de pannus' → 'Destruição articular'. O resumo sintético do slide afirma expressamente: 'Genética → Gatilho → Autoimunidade → Inflamação → Destruição'.",
+      "distractors": [
+        "<strong>A está incorreta [Vetor 2 - Inversão Cronológica]:</strong> Inverte a linha do tempo, colocando a autoimunidade antes da genética e dos gatilhos ambientais. <em>(Ímã cognitivo: induz o candidato que desconsidera a suscetibilidade prévia indispensável).</em>",
+        "<strong>B está incorreta [Vetor 2 - Inversão Cronológica / Vetor 1]:</strong> Coloca a anquilose (etapa final) como evento desencadeador e introduz IgE (alergia tipo I) em vez de imunidade tipo III/IV. <em>(Ímã cognitivo: atrai quem lê rapidamente sem notar a incongruência do evento inicial).</em>",
+        "<strong>D está incorreta [Vetor 1 - Micro-Inversão Fisiopatológica]:</strong> Refere ativação de osteoblastos com síntese óssea, quando a AR promove ativação osteoclástica com erosão e destruição tecidual. <em>(Ímã cognitivo: confunde esclerose óssea reparadora com erosão reumatológica).</em>"
+      ],
+      "pearl": "Linha temporal da AR: Genética (HLA-DRB1) → Gatilho (Tabagismo/Microbioma) → Autoimunidade → Inflamação crônica → Destruição."
+    },
+    {
+      "id": 9,
+      "tag": "Clínica Médica • Imunogenética",
+      "stem": "Em uma consulta ambulatorial, uma paciente expressa receio de que sua filha também desenvolva artrite reumatoide, indagando qual o papel da herança familiar no surgimento da enfermidade. Com base nos dados de genética e imunogenética apresentados no documento institucional da disciplina, assinale a afirmação <strong>correta</strong> sobre a suscetibilidade hereditária na AR:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cerca de 50% do risco de desenvolvimento de AR está relacionado com suscetibilidade genética herdada, destacando-se o gene HLA-DRB1."
+        },
+        {
+          "letter": "B",
+          "text": "O componente genético é desprezível (<1%), sendo a doença transmitida de modo monogênico mendeliano recessivo ligado ao cromossomo Y."
+        },
+        {
+          "letter": "C",
+          "text": "O risco genético aproxima-se de 99%, decorrendo da mutação pontual do receptor de calcitonina presente em todas as células osteolíticas."
+        },
+        {
+          "letter": "D",
+          "text": "A suscetibilidade genética herdada é atribuível exclusivamente a genes do complexo HLA classe I, como o alelo HLA-B27."
+        }
+      ],
+      "answer": "A",
+      "rationale": "Na página 9, o documento registra explicitamente: '50% do risco de desenvolvimento de AR → relacionado com uma suscetibilidade genética herdada', sendo o principal gene envolvido o 'HLA-DRB1 contendo o epítopo compartilhado'.",
+      "distractors": [
+        "<strong>B está incorreta [Vetor 1 - Micro-Inversão Genética]:</strong> Nega a hereditariedade e inventa padrão ligado ao cromossomo Y, o que colide com a prevalência feminina (3:1). <em>(Ímã cognitivo: o candidato que não recorda porcentagens é tentado a achar que a AR é estritamente ambiental).</em>",
+        "<strong>C está incorreta [Vetor 1 - Exagero Numérico]:</strong> Superestima o papel genético para 99% e inventa etiologia monogênica envolvendo calcitonina. <em>(Ímã cognitivo: atrai quem supervaloriza determinismos biológicos absolutos).</em>",
+        "<strong>D está incorreta [Vetor 4 - Mimetismo com Espondiloartropatias]:</strong> Cita o HLA-B27 (classe I), associado às espondiloartropatias soronegativas (espondilite anquilosante), enquanto a AR associa-se ao HLA classe II (HLA-DRB1). <em>(Ímã cognitivo: confunde antígenos leucocitários humanos clássicos de provas de reumatologia).</em>"
+      ],
+      "pearl": "Suscetibilidade genética da AR: Responde por 50% do risco; gene principal = HLA-DRB1 (epítopo compartilhado)."
+    },
+    {
+      "id": 10,
+      "tag": "Clínica Médica • Genética Molecular",
+      "stem": "Durante a correlação clínico-molecular de uma paciente com artrite reumatoide erosiva e agressiva, o laudo de genotipagem relata positividade para alelos do grupo HLA-DR4. Ao ser questionado sobre a diferença conceitual entre o gene HLA-DRB1 e o HLA-DR4, conforme ressaltado na observação didática do material do módulo, o estudante deve esclarecer que:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "HLA-DRB1 é uma imunoglobulina secretada por macrófagos, enquanto HLA-DR4 é uma protease degradadora da cartilagem hialina."
+        },
+        {
+          "letter": "B",
+          "text": "HLA-DR4 é um anticorpo monoclonal circulante anti-TNF, enquanto HLA-DRB1 representa uma enzima citrulinadora sinovial."
+        },
+        {
+          "letter": "C",
+          "text": "HLA-DRB1 é o gene codificador da proteína imune, enquanto HLA-DR4 é um subtipo/grupo alélico específico desse gene ligado à AR."
+        },
+        {
+          "letter": "D",
+          "text": "HLA-DRB1 confere resistência absoluta contra a doença, enquanto HLA-DR4 é um antígeno bacteriano da flora subgengival."
+        }
+      ],
+      "answer": "C",
+      "rationale": "No slide 9, há uma nota de destaque expressa: 'Obs: HLA-DRB1 é o gene que codifica a proteína do sistema imune, enquanto o HLA-DR4 é um subtipo específico (um sorotipo/grupo de alelos) desse mesmo gene fortemente ligado à artrite reumatoide'. Além disso, a página 10 ressalta que genes HLA podem conferir predisposição genética ou proteção.",
+      "distractors": [
+        "<strong>A está incorreta [Vetor 1 - Micro-Inversão Categórica]:</strong> Confunde genes do complexo de histocompatibilidade com anticorpos ou enzimas proteolíticas. <em>(Ímã cognitivo: mistura conceitos de produtos biológicos citados no texto).</em>",
+        "<strong>B está incorreta [Vetor 4 - Mimetismo Farmacológico]:</strong> Confunde o alelo genético com os imunobiológicos anti-TNF (como adalimumabe e infliximabe). <em>(Ímã cognitivo: atrai o aluno que lembra de termos farmacológicos do mesmo slide).</em>",
+        "<strong>D está incorreta [Vetor 4 - Mimetismo Microbiológico]:</strong> Rotula erroneamente o HLA-DR4 como antígeno bacteriano exógeno e inverte o papel de risco do HLA-DRB1. <em>(Ímã cognitivo: confunde predisposição genética com infecções periodontais).</em>"
+      ],
+      "pearl": "HLA-DRB1 = gene do complexo imune; HLA-DR4 = sorotipo / grupo de alelos específico desse gene fortemente ligado à AR."
+    },
+    {
+      "id": 11,
+      "tag": "Clínica Médica • Fatores de Risco e Gatilhos",
+      "stem": "Durante a consulta de seguimento de uma paciente com queixas articulares iniciais e histórico familiar de AR, o médico assistente aborda a importância da modificação de hábitos de vida e o controle de fatores ambientais reconhecidos como gatilhos para a quebra de tolerância imune. De acordo com o material didático da disciplina, embora o agente exato ainda seja incerto, são fatores <strong>fortemente associados</strong> ao desencadeamento da Artrite Reumatoide:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Exposição crônica à radiação ultravioleta B isolada, dieta rica em glúten e hipovitaminose A primária."
+        },
+        {
+          "letter": "B",
+          "text": "Tabagismo, infecções (notadamente periodontites), obesidade e alterações no microbioma."
+        },
+        {
+          "letter": "C",
+          "text": "Consumo elevado de laticínios pasteurizados, desidratação crônica leve e atividade física de alta intensidade."
+        },
+        {
+          "letter": "D",
+          "text": "Infecção prévia por helmintos intestinais, uso de anti-inflamatórios não hormonais e hipotiroidismo congênito."
+        }
+      ],
+      "answer": "B",
+      "rationale": "Na página 11 do documento, sob o tópico 'Quem são os agentes artritogênicos? Ainda é incerto!!!', listam-se expressamente como fatores fortemente associados à AR: 'Tabagismo', 'Infecções' (com ênfase destacada para '*periodontites'), 'Obesidade' e 'Microbioma', fatores que deflagram a citrulinização tecidual e a perda de tolerância.",
+      "distractors": [
+        "<strong>A está incorreta [Vetor 4 - Mimetismo com LES/Celíaca]:</strong> Radiação UVB é o gatilho clássico do lúpus eritematoso sistêmico (LES) e glúten é o antígeno da doença celíaca. <em>(Ímã cognitivo: confunde os gatilhos ambientais do LES com os gatilhos da AR).</em>",
+        "<strong>C está incorreta [Vetor 5 - Crença Informal / Falso Risco]:</strong> Mistura mitos dietéticos populares sobre laticínios sem qualquer fundamentação na fisiopatologia da AR apresentada. <em>(Ímã cognitivo: atrai quem confunde inflamação articular com restrições alimentares genéricas).</em>",
+        "<strong>D está incorreta [Vetor 4 - Mimetismo Falso]:</strong> Parasitoses por helmintos classicamente induzem resposta imune tipo Th2/Treg protetora contra autoimunidade, não sendo gatilho da AR. <em>(Ímã cognitivo: atrai quem associa qualquer infecção a autoimunidade).</em>"
+      ],
+      "pearl": "Gatilhos da AR: Tabagismo, Infecções (notadamente periodontites), Obesidade e Microbioma."
+    },
+    {
+      "id": 12,
+      "tag": "Clínica Médica • Bioquímica e Patologia Molecular",
+      "stem": "A citrulinização de proteínas representa um elo fisiopatológico indispensável na patogenia da artrite reumatoide, pois transforma proteínas fisiológicas em estruturas antigênicas anômalas reconhecidas pelo sistema imune. Considerando as bases químicas e moleculares desse processo descritas no documento de estudo, a citrulinização consiste especificamente na conversão do aminoácido:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fenilalanina em tirosina por oxidação enzimática mediada pelo citocromo P450."
+        },
+        {
+          "letter": "B",
+          "text": "Triptofano em serotonina através de descarboxilação dependente de vitamina B6."
+        },
+        {
+          "letter": "C",
+          "text": "Glutamina em glutamato pela ação lítica de proteases lisossômicas de neutrófilos."
+        },
+        {
+          "letter": "D",
+          "text": "Arginina em citrulina, promovendo modificação pós-traducional de proteínas locais."
+        }
+      ],
+      "answer": "D",
+      "rationale": "Nas páginas 11 e 12 do documento, a citrulinização é definida com precisão química: 'Citrulinização de proteínas: Arginina → citrulina (Aminoácido)', um processo de modificação pós-traducional que converte a arginina no aminoácido citrulina.",
+      "distractors": [
+        "<strong>A está incorreta [Vetor 4 - Mimetismo Bioquímico]:</strong> Descreve a rota fisiológica hepática da fenilalanina hidroxilase relacionada à fenilcetonúria. <em>(Ímã cognitivo: usa terminologia bioquímica rigorosa para enganar o aluno que lembra de oxidação).</em>",
+        "<strong>B está incorreta [Vetor 4 - Mimetismo com Neurotransmissores]:</strong> Descreve a via clássica de biossíntese da serotonina a partir do triptofano. <em>(Ímã cognitivo: atrai quem recorda vagamente reações de aminoácidos essenciais).</em>",
+        "<strong>C está incorreta [Vetor 1 - Micro-Inversão de Substrato]:</strong> Cita a reação catalisada pela glutaminase no metabolismo renal/cerebral, trocando os aminoácidos envolvidos na AR. <em>(Ímã cognitivo: simula um processo proteolítico inflamatório).</em>"
+      ],
+      "pearl": "Citrulinização = conversão do aminoácido ARGININA em CITRULINA (modificação pós-traducional)."
+    },
+    {
+      "id": 13,
+      "tag": "Clínica Médica • Fisiopatologia Molecular",
+      "stem": "Durante a investigação dos eventos moleculares que ocorrem no microambiente da membrana sinovial na fase inicial da AR, estuda-se a classe de enzimas intracelulares cuja expressão e atividade desregulada deflagram a modificação de peptídeos teciduais. De acordo com o material didático, a enzima ativada pela inflamação na sinóvia responsável pela citrulinização proteica é a:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ciclo-oxigenase 2 (COX-2), que catalisa a transformação de fosfolipídios em tromboxano A2."
+        },
+        {
+          "letter": "B",
+          "text": "Mieloperoxidase neutrofílica, responsável pela síntese de ácido hipocloroso tecidual."
+        },
+        {
+          "letter": "C",
+          "text": "PAD (peptidil-arginina deiminase), que promove a conversão de resíduos de arginina em citrulina."
+        },
+        {
+          "letter": "D",
+          "text": "Fosfatase ácida resistente ao tartarato, que induz a precipitação mineral de hidroxiapatita."
+        }
+      ],
+      "answer": "C",
+      "rationale": "Na página 12 do documento, detalha-se o passo a passo: '1. Inflamação na sinóvia ativa enzimas PAD; 2. Proteínas locais sofrem citrulinização; PADs (peptidil-arginina deiminases): Arginina → citrulina'.",
+      "distractors": [
+        "<strong>A está incorreta [Vetor 4 - Mimetismo Farmacológico]:</strong> COX-2 é a enzima da cascata do ácido araquidônico responsável pela síntese de prostanoides e alvo de AINEs, sem relação com citrulinização. <em>(Ímã cognitivo: atrai quem lembra de mediadores inflamatórios das articulações).</em>",
+        "<strong>B está incorreta [Vetor 4 - Mimetismo com Mecanismo Microbicida]:</strong> Descreve a enzima de grânulos primários de neutrófilos na imunidade inata, sem relação com a geração de antígenos citrulinados. <em>(Ímã cognitivo: termos sofisticados de inflamação e neutrófilos).</em>",
+        "<strong>D está incorreta [Vetor 1 - Micro-Inversão Funcional]:</strong> A fosfatase ácida (TRAP) é marcador osteoclástico de reabsorção, não atuando na citrulinização sinovial nem na precipitação de hidroxiapatita. <em>(Ímã cognitivo: atrai quem lembra do envolvimento ósseo).</em>"
+      ],
+      "pearl": "Enzima-chave da citrulinização na AR = PAD (Peptidil-Arginina Deiminase)."
+    },
+    {
+      "id": 14,
+      "tag": "Clínica Médica • Imunopatologia",
+      "stem": "Na patogênese da artrite reumatoide, a geração de proteínas modificadas pela citrulinização desempenha um papel crítico na ruptura do silêncio imunológico. Quando os resíduos de arginina são convertidos em citrulina no ambiente sinovial, o impacto biológico imediato gerado sobre o sistema imunológico adaptativo, segundo o documento morfofuncional, é a:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Transformação dessas proteínas modificadas em neoantígenos, levando à produção de autoanticorpos (anti-CCP) e imunocomplexos."
+        },
+        {
+          "letter": "B",
+          "text": "Destruição apoptótica imediata de todas as células dendríticas, cessando a apresentação de qualquer antígeno."
+        },
+        {
+          "letter": "C",
+          "text": "Neutralização de citocinas macrofágicas como o TNF e a interleucina-1, resultando em remissão clínica espontânea."
+        },
+        {
+          "letter": "D",
+          "text": "Conversão de macrófagos pró-inflamatórios em osteoblastos maduros capazes de reconstituir a cartilagem hialina."
+        }
+      ],
+      "answer": "A",
+      "rationale": "Conforme estruturado nas páginas 12, 20 e 23 do documento: a citrulinização de proteínas faz com que essas moléculas modificadas virem 'neoantígenos' (autoantígenos). Diante disso, o sistema imune perde a autotolerância e produz autoanticorpos anti-proteínas citrulinadas (anti-CCP), culminando na formação de imunocomplexos, inflamação crônica e destruição articular.",
+      "distractors": [
+        "<strong>B está incorreta [Vetor 1 - Micro-Inversão Imunológica]:</strong> Afirma supressão da apresentação antigênica, quando na verdade há intensificação da apresentação de neoantígenos via HLA-DRB1. <em>(Ímã cognitivo: atrai o candidato que confunde quebra de tolerância com deleção imune).</em>",
+        "<strong>C está incorreta [Vetor 1 - Micro-Inversão]:</strong> Alega efeito anti-inflamatório protetor espontâneo, quando a citrulinização é justamente o gatilho da tempestade de citocinas e cronicidade. <em>(Ímã cognitivo: induz ao erro quem não compreendeu o sentido patológico do evento).</em>",
+        "<strong>D está incorreta [Vetor 1 - Micro-Inversão Celular]:</strong> Inventa diferenciação de macrófagos em osteoblastos reparadores, quando na AR ocorre ativação de osteoclastos destrutivos via RANKL. <em>(Ímã cognitivo: apelo à ideia intuitiva de cicatrização tecidual).</em>"
+      ],
+      "pearl": "Proteínas citrulinadas → Neoantígenos (autoantígenos) → Produção de anti-CCP → Imunocomplexos e inflamação crônica."
+    },
+    {
+      "id": 15,
+      "tag": "Clínica Médica • Propedêutica Laboratorial",
+      "stem": "Uma mulher de 45 anos com quadro clínico de poliartrite simétrica de mãos e punhos há 8 meses apresenta positividade sorológica para anticorpos antipeptídeo citrulinado (anti-CCP). Ao avaliar a acurácia diagnóstica desse exame com base na tabela comparativa e nos dados do material da disciplina, o médico assistente conclui que o anticorpo anti-CCP apresenta:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sensibilidade de 100% em todos os portadores de AR, porém especificidade muito baixa devido à reação cruzada viral."
+        },
+        {
+          "letter": "B",
+          "text": "Especificidade nula para AR, sendo utilizado unicamente como marcador prognóstico de necrose tubular renal aguda."
+        },
+        {
+          "letter": "C",
+          "text": "Indicação restrita ao diagnóstico diferencial de gota tofácea aguda, sendo indetectável no soro de portadores de sinovite crônica."
+        },
+        {
+          "letter": "D",
+          "text": "Sensibilidade moderada (60-80%) e alta especificidade (~95%), cuja positividade confere forte evidência diagnóstica de AR."
+        }
+      ],
+      "answer": "D",
+      "rationale": "Na página 14 (e sintetizado na pág. 35), o documento destaca para os anticorpos antipeptídeo citrulinado (ACPAs / anti-CCP): 'Sensibilidade: 60-80% dos pacientes com AR', 'Alta especificidade (~95%)', 'Quando positivo → forte evidência de AR (confirma AR)' e 'NÃO aparecem em todos os pacientes' (ou seja, sensibilidade não é 100%).",
+      "distractors": [
+        "<strong>A está incorreta [Vetor 1 - Micro-Inversão Psicométrica]:</strong> Inverteu os parâmetros: o anti-CCP tem especificidade muito alta (~95%) e sensibilidade moderada (60-80%), não aparecendo em todos os doentes. <em>(Ímã cognitivo: candidatos costumam assumir falsamente que testes confirmatórios têm sensibilidade de 100%).</em>",
+        "<strong>B está incorreta [Vetor 1 - Negação Absoluta]:</strong> Afirma especificidade nula e inventa utilidade em patologia renal aguda, desconsiderando a definição clássica do biomarcador. <em>(Ímã cognitivo: alternativa de exclusão com jargão nefrológico).</em>",
+        "<strong>C está incorreta [Vetor 4 - Mimetismo com Doença Metabólica]:</strong> Confunde indicação com gota (que se baseia em urato sérico e pesquisa de cristais de monourato), negando a presença de anti-CCP na AR. <em>(Ímã cognitivo: confunde artrite reumatológica com artropatia microcristalina).</em>"
+      ],
+      "pearl": "Anti-CCP: Sensibilidade moderada (60-80%), alta especificidade (~95%) e valor confirmatório para Artrite Reumatoide."
+    },
+    {
+      "id": 16,
+      "tag": "Clínica Médica • Imunologia e Sorologia",
+      "stem": "No laboratório de imunologia clínica, um residente revisa a base fisiopatológica do Fator Reumatoide (FR), o autoanticorpo historicamente mais utilizado na avaliação de pacientes com suspeita de artrite inflamatória. Considerando a definição e a composição molecular do Fator Reumatoide apresentadas no documento de estudo, o FR é caracterizado como:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Uma citocina inflamatória da família das quimiocinas que se liga a receptores transmembrana de condrócitos."
+        },
+        {
+          "letter": "B",
+          "text": "Autoanticorpos das classes IgM e IgA que se ligam às regiões Fc de moléculas de IgG, formando imunocomplexos."
+        },
+        {
+          "letter": "C",
+          "text": "Uma enzima da família das integrinas que catalisa a quebra de cristais de hidroxiapatita na matriz subcondral."
+        },
+        {
+          "letter": "D",
+          "text": "Autoanticorpos da classe IgE específicos contra a cadeia alfa da albumina sérica que ativam mastócitos articulares."
+        }
+      ],
+      "answer": "B",
+      "rationale": "Na página 14 do documento, define-se textualmente o Fator Reumatoide: 'Autoanticorpos IgM e IgA, que se ligam às regiões Fc da IgG → imunocomplexos'. Esses imunocomplexos depositam-se na membrana sinovial e amplificam a cascata inflamatória.",
+      "distractors": [
+        "<strong>A está incorreta [Vetor 1 - Micro-Inversão Categórica]:</strong> Classifica o FR como citocina/quimiocina, quando se trata inequivocamente de um autoanticorpo (imunoglobulina). <em>(Ímã cognitivo: induz ao erro quem memorizou nomes de mediadores sem atentar para a classe biológica).</em>",
+        "<strong>C está incorreta [Vetor 1 - Micro-Inversão]:</strong> Confunde anticorpos com enzimas osteoclásticas ou moléculas de adesão (integrinas). <em>(Ímã cognitivo: atrai quem lembra vagamente dos mecanismos de reabsorção óssea descritos no slide seguinte).</em>",
+        "<strong>D está incorreta [Vetor 1 - Micro-Inversão de Isotipo]:</strong> Substitui IgM/IgA por IgE e inventa alvo contra albumina sérica com ativação anafilática. <em>(Ímã cognitivo: o slide 22 cita expressamente IgE em distratores conceituais de prova).</em>"
+      ],
+      "pearl": "Fator Reumatoide = autoanticorpos IgM e IgA direcionados contra a porção Fc da IgG humana → formam imunocomplexos."
+    },
+    {
+      "id": 17,
+      "tag": "Clínica Médica • Raciocínio Diagnóstico e Sorologia",
+      "stem": "Um homem assintomático de 60 anos realiza exames admissionais de rotina por solicitação médica informal, trazendo resultado de Fator Reumatoide positivo em títulos baixos, sem qualquer sintoma osteoarticular ou rigidez. Ao analisar o resultado à luz da comparação formal entre o Fator Reumatoide e o Anti-CCP descrita na disciplina, o médico assistente deve considerar que:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "O resultado confirma artrite reumatoide estágio IV imediatamente, exigindo início imediato de imunobiológico venoso."
+        },
+        {
+          "letter": "B",
+          "text": "O FR é estritamente específico para AR, sendo patognomônico da doença e nunca detectado na ausência de sintomas clínicos."
+        },
+        {
+          "letter": "C",
+          "text": "A presença de FR positivo em baixos títulos substitui a necessidade de manifestação clínica para preenchimento dos critérios diagnósticos."
+        },
+        {
+          "letter": "D",
+          "text": "O FR possui maior sensibilidade (~80%), porém baixa especificidade, podendo ser detectado como falso-positivo em indivíduos sem AR."
+        }
+      ],
+      "answer": "D",
+      "rationale": "Na página 14 do documento, a tabela comparativa destaca que o Fator Reumatoide possui: 'Sensibilidade ~80% dos pacientes com AR (Maior)', porém 'Baixa especificidade (Pode ser falso positivo)', acompanhado da nota explícita: '*podem ser detectados em alguns indivíduos sem AR'. Logo, não é patognomônico e exige quadro clínico compatível para interpretação adequada.",
+      "distractors": [
+        "<strong>A está incorreta [Vetor 3 - Precipitação / Salto de Etapa]:</strong> Prescreve terapia avançada com biológicos para paciente hígido assintomático sem critérios clínicos de AR. <em>(Ímã cognitivo: induz ao erro por precipitação terapêutica em paciente que apenas porta anticorpo).</em>",
+        "<strong>B está incorreta [Vetor 1 - Micro-Inversão Psicométrica]:</strong> Afirma falsamente que o FR é patognomônico e de alta especificidade, quando o documento ressalta sua baixa especificidade e risco de falso-positivos. <em>(Ímã cognitivo: confunde a alta sensibilidade do FR com alta especificidade).</em>",
+        "<strong>C está incorreta [Vetor 5 - Quebra de Critério Diagnóstico]:</strong> Viola a regra fundamental expressa nos critérios do ACR/EULAR, que exigem a presença de sinovite clínica em pelo menos uma articulação para aplicar pontuação. <em>(Ímã cognitivo: confunde exame positivo isolado com doença confirmada).</em>"
+      ],
+      "pearl": "Fator Reumatoide: Maior sensibilidade (~80%), mas BAIXA especificidade (risco de falsos-positivos em idosos e infecções)."
+    },
+    {
+      "id": 18,
+      "tag": "Clínica Médica • Imunologia Celular",
+      "stem": "Na fisiopatologia da membrana sinovial na artrite reumatoide, a diferenciação e o recrutamento de linhagens de linfócitos T auxiliares (CD4+) modulam a atividade das células teciduais residentes. Conforme estabelecido no documento morfofuncional sobre o papel dos clones de células Th1 na sinóvia reumatoide, o <strong>Interferon-gama (IFN-γ)</strong> atua primariamente:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Inibindo a síntese de imunoglobulinas por plasmócitos e promovendo a remielinização do nervo mediano no túnel carpiano."
+        },
+        {
+          "letter": "B",
+          "text": "Ativando os macrófagos e as células sinoviais residentes a perpetuarem a resposta inflamatória tecidual local."
+        },
+        {
+          "letter": "C",
+          "text": "Bloqueando a transcrição de RANKL em osteoblastos, impedindo a diferenciação de células da linhagem osteoclástica."
+        },
+        {
+          "letter": "D",
+          "text": "Neutralizando as enzimas PAD na sinóvia e revertendo resíduos de citrulina de volta ao aminoácido arginina nativo."
+        }
+      ],
+      "answer": "B",
+      "rationale": "Na página 13 do documento, consta expressamente no tópico 'Respostas de células T e B': 'Th1 → IFN-γ : ativa os macrófagos e as células sinoviais residentes', estabelecendo o papel central dessa citocina no estímulo à ativação macrofágica e amplificação da sinovite crônica.",
+      "distractors": [
+        "<strong>A está incorreta [Vetor 1 - Micro-Inversão Funcional]:</strong> Sugere efeito inibitório e reparador neurológico, quando o IFN-γ é potente citocina pró-inflamatória ativadora de fagócitos. <em>(Ímã cognitivo: atrai quem busca benefícios teciduais inexistentes).</em>",
+        "<strong>C está incorreta [Vetor 1 - Micro-Inversão]:</strong> O estímulo osteoclástico é mediado por RANKL (induzido por células T e macrófagos ativados), e não inibido pelo processo inflamatório sinovial. <em>(Ímã cognitivo: confunde a ação de RANKL descrita na mesma página).</em>",
+        "<strong>D está incorreta [Vetor 1 - Invenção Bioquímica]:</strong> Sugere reversibilidade química da citrulinização pelo IFN-γ, o que é biologicamente incorreto. <em>(Ímã cognitivo: atrai quem procura um suposto mecanismo de autocura molecular).</em>"
+      ],
+      "pearl": "Perfil Th1 na AR: secreta IFN-γ → ativa MACRÓFAGOS e CÉLULAS SINOVIAIS RESIDENTES."
+    },
+    {
+      "id": 19,
+      "tag": "Clínica Médica • Imunologia Celular",
+      "stem": "Além do perfil Th1, a subpopulação de linfócitos Th17 exerce uma influência decisiva na sustentação do ambiente articular inflamatório proliferativo da artrite reumatoide. De acordo com a descrição das respostas de células T apresentada no material da disciplina, a citocina <strong>Interleucina-17 (IL-17)</strong> tem como função biológica central:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Estimular a secreção de ácido hialurônico de alta viscosidade pelos condrócitos profundos da matriz."
+        },
+        {
+          "letter": "B",
+          "text": "Promover a degradação exclusiva de imunocomplexos solúveis por meio da ativação seletiva da cascata de coagulação."
+        },
+        {
+          "letter": "C",
+          "text": "Recrutar neutrófilos e monócitos para o tecido sinovial e para a cavidade articular inflamada."
+        },
+        {
+          "letter": "D",
+          "text": "Induzir anergia clonal permanente em linfócitos B autorreativos específicos para proteínas citrulinadas."
+        }
+      ],
+      "answer": "C",
+      "rationale": "Na página 13 do documento de estudo, no tópico 'Respostas de células T e B', está destacado com clareza: 'Th17 → IL-17: recruta neutrófilos e monócitos', células inflamatórias que infiltram o tecido sinovial e o líquido sinovial.",
+      "distractors": [
+        "<strong>A está incorreta [Vetor 1 - Micro-Inversão Funcional]:</strong> Atribui à IL-17 uma função protetora/viscosuplementar de produção de ácido hialurônico, contrariando sua ação patológica lesiva. <em>(Ímã cognitivo: induz ao erro quem confunde citocinas com fatores tróficos articulares).</em>",
+        "<strong>B está incorreta [Vetor 4 - Mimetismo]:</strong> Mistura depuração de imunocomplexos com coagulação, sem relação com a quimiotaxia leucocitária da IL-17. <em>(Ímã cognitivo: jargão hematológico fora de contexto).</em>",
+        "<strong>D está incorreta [Vetor 1 - Micro-Inversão Imunológica]:</strong> Anergia clonal é mecanismo de tolerância, e não produto da ação pró-inflamatória da IL-17. <em>(Ímã cognitivo: confunde tolerância com dano inflamatório).</em>"
+      ],
+      "pearl": "Perfil Th17 na AR: secreta IL-17 → recruta NEUTRÓFILOS e MONÓCITOS para a articulação."
+    },
+    {
+      "id": 20,
+      "tag": "Clínica Médica • Fisiopatologia da Lesão Cartilaginosa",
+      "stem": "Durante a sinovite proliferativa crônica na artrite reumatoide, macrófagos ativados no tecido subsinovial liberam grandes quantidades de citocinas pró-inflamatórias solúveis. Conforme explicitado no esquema de resposta imune do documento institucional (páginas 13 e 18), a secreção macrofágica de <strong>TNF e IL-1</strong> atua sobre as células sinoviais residentes estimulando a:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Secreção de proteases e RANKL, promovendo a destruição progressiva da cartilagem hialina articular."
+        },
+        {
+          "letter": "B",
+          "text": "Síntese acentuada de colágeno tipo II e agrecano, restabelecendo a superfície cartilaginosa lisa original."
+        },
+        {
+          "letter": "C",
+          "text": "Conversão do tecido conjuntivo sinovial em tecido adiposo unilocular livre de mediadores vasoativos."
+        },
+        {
+          "letter": "D",
+          "text": "Inativação completa de osteoclastos e fixação excessiva de fosfato de cálcio na cartilagem marginal."
+        }
+      ],
+      "answer": "A",
+      "rationale": "Nas páginas 13 e 18 do documento, a ação dessas citocinas é sintetizada: 'TNF e IL-1 de macrófagos → estimulam as células sinoviais residentes a secretar proteases, RANKL → destruição da cartilagem hialina'. As proteases atacam a matriz da cartilagem enquanto o RANKL recruta e estimula os osteoclastos a promoverem a reabsorção óssea.",
+      "distractors": [
+        "<strong>B está incorreta [Vetor 1 - Micro-Inversão de Dano vs Reparo]:</strong> Descreve reparação e anabolismo cartilaginoso (colágeno II e agrecano), oposto da destruição lítica mediada por proteases descrita no texto. <em>(Ímã cognitivo: atrai quem pensa que inflamação estimula síntese compensatória eficaz).</em>",
+        "<strong>C está incorreta [Vetor 4 - Mimetismo Falso]:</strong> Inventa metaplasia adiposa sinovial protetora, quando o que ocorre é hipertrofia vilositária e infiltração linfoide densa. <em>(Ímã cognitivo: usa terminologia histológica para iludir).</em>",
+        "<strong>D está incorreta [Vetor 1 - Micro-Inversão]:</strong> Afirma inativação de osteoclastos, quando o TNF e IL-1 estimulam o RANKL que hiperativa os osteoclastos. <em>(Ímã cognitivo: inverte a polaridade da reabsorção óssea).</em>"
+      ],
+      "pearl": "Macrófagos liberam TNF e IL-1 → estimulam sinoviócitos a secretar PROTEASES e RANKL → destruição da cartilagem hialina."
+    },
+    {
+      "id": 21,
+      "tag": "Clínica Médica • Biologia Óssea e Reabsorção",
+      "stem": "Uma paciente de 45 anos com artrite reumatoide há 8 meses apresenta radiografias de mãos evidenciando as primeiras erosões ósseas marginais justarticulares. Ao discutir com os internos o mecanismo molecular responsável pela perda de substância óssea na AR, o preceptor destaca a via de sinalização expressa em células T ativadas e células sinoviais residentes. Conforme estabelecido no documento institucional, a molécula mediadora responsável por estimular diretamente a diferenciação e a atividade dos osteoclastos é:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "O RANKL (ligante do receptor ativador do fator nuclear κB), que estimula a reabsorção óssea pelos osteoclastos."
+        },
+        {
+          "letter": "B",
+          "text": "A osteoprotegerina (OPG), que atua ativando a secreção de colagênese por monócitos circulantes periféricos."
+        },
+        {
+          "letter": "C",
+          "text": "A prostaglandina E2 em baixas doses, que inibe os osteoclastos e reverte completamente a osteopenia periarticular."
+        },
+        {
+          "letter": "D",
+          "text": "O interferon-gama isolado, que impede a lise da matriz óssea ao induzir a proliferação acelerada de condrócitos."
+        }
+      ],
+      "answer": "A",
+      "rationale": "Nas páginas 13, 15, 18 e 35 do documento, o RANKL é apontado como a molécula-chave da reabsorção óssea na AR: 'RANKL → expresso em células T ativadas e estimula a reabsorção óssea' e na pergunta do caso da pág. 35: 'Qual mecanismo leva à erosão óssea? RANKL → osteoclastos'. RANKL liga-se ao seu receptor RANK nos precursores osteoclásticos, ativando a destruição da matriz óssea mineralizada.",
+      "distractors": [
+        "<strong>B está incorreta [Vetor 1 - Micro-Inversão Farmaco/Fisiológica]:</strong> A osteoprotegerina (OPG) é o receptor chamariz fisiológico que inibe e bloqueia a ação do RANKL, e não o ativador da erosão. <em>(Ímã cognitivo: confunde o inibidor endógeno com a molécula efetora estimuladora).</em>",
+        "<strong>C está incorreta [Vetor 1 - Micro-Inversão]:</strong> A PGE2 participa do meio pró-inflamatório, não sendo uma molécula que 'reverte completamente' a osteopenia. <em>(Ímã cognitivo: uso do termo PGE2 presente no slide 16 fora de seu papel real).</em>",
+        "<strong>D está incorreta [Vetor 1 - Micro-Inversão Celular]:</strong> O IFN-γ ativa macrófagos e não estimula a proliferação de cartilagem na presença de pannus destrutivo. <em>(Ímã cognitivo: induz ao erro o aluno que busca um papel protetor para citocinas Th1).</em>"
+      ],
+      "pearl": "Mecanismo da erosão óssea na AR: Células T / sinoviócitos expressam RANKL → estimulam OSTEOCLASTOS a reabsorver o osso."
+    },
+    {
+      "id": 22,
+      "tag": "Clínica Médica • Biologia e Histologia Óssea",
+      "stem": "No estudo histopatológico da interface entre o pannus sinovial e a cortical óssea de uma falange proximal, observa-se intensa atividade de osteoclastos multinucleados alojados em lacunas de Howship. Conforme explicado textualmente no documento morfofuncional sobre a reabsorção óssea promovida pelos osteoclastos, a dissolução tecidual da matriz óssea calcificada é efetuada por meio da:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Secreção contínua de tampões alcalinos de bicarbonato que precipitam novos cristais de cálcio amorfo."
+        },
+        {
+          "letter": "B",
+          "text": "Endocitose mecânica direta de espículas ósseas inteiras sem qualquer alteração do pH do microambiente celular."
+        },
+        {
+          "letter": "C",
+          "text": "Combinação de ácido e enzimas, que dissolve a matriz calcificada de hidroxiapatita e seu suporte de colágeno."
+        },
+        {
+          "letter": "D",
+          "text": "Síntese exclusiva de cristais de pirofosfato insolúvel que desidratam osmoticamente as trabéculas ósseas."
+        }
+      ],
+      "answer": "C",
+      "rationale": "Na página 15 do documento, descreve-se textualmente sob o título 'Reabsorção óssea - Osteoclastos': 'A combinação de ácido e de enzimas dissolve a matriz calcificada de hidroxiapatita e seu suporte de colágeno', evidenciando a dupla ação osteoclástica (acidificação para solubilizar o mineral e proteases para clivar o colágeno).",
+      "distractors": [
+        "<strong>A está incorreta [Vetor 1 - Micro-Inversão Físico-Química]:</strong> Inverte a acidez para alcalinidade: a dissolução de hidroxiapatita exige secreção de ácido clorídrico (H+) com queda de pH, e não tampão alcalino. <em>(Ímã cognitivo: atrai quem não recorda a química da reabsorção).</em>",
+        "<strong>B está incorreta [Vetor 4 - Mimetismo Falso]:</strong> Inventa fagocitose mecânica sem variação de pH, ignorando o papel indispensável da bomba de prótons e das enzimas lisossômicas osteoclásticas. <em>(Ímã cognitivo: confunde clasmocitose/fagocitose com digestão extracelular).</em>",
+        "<strong>D está incorreta [Vetor 4 - Mimetismo com Cristais]:</strong> Cita pirofosfato (relacionado à pseudogota), mecanismo ausente na biologia dos osteoclastos na AR. <em>(Ímã cognitivo: termo técnico presente no estudo de outras artropatias).</em>"
+      ],
+      "pearl": "Osteoclastos dissolvem o osso por uma COMBINAÇÃO DE ÁCIDO (dissolve hidroxiapatita) e ENZIMAS (destroem suporte de colágeno)."
+    },
+    {
+      "id": 23,
+      "tag": "Clínica Médica • Terapêutica Farmacológica",
+      "stem": "Uma mulher de 45 anos com artrite reumatoide erosiva ativa não atinge remissão satisfatória após tratamento inicial convencional, sendo indicada a introdução de uma terapia biológica alvo direcionada contra citocinas efetoras primárias. Considerando o alvo terapêutico e os exemplos farmacológicos explicitados no material didático (páginas 13 e 35), assinale a citocina alvo e os respectivos medicamentos biológicos representativos citados:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Interleucina-10; tendo como fármacos biológicos de referência o metotrexato e a sulfassalazina por via oral."
+        },
+        {
+          "letter": "B",
+          "text": "Fator de Necrose Tumoral (TNF); tendo como exemplos terapêuticos os agentes anti-TNF infliximabe e adalimumabe."
+        },
+        {
+          "letter": "C",
+          "text": "Interferon-alfa; tendo como inibidores alvos a colchicina e a hidroxicloroquina em esquemas pulsoterápicos."
+        },
+        {
+          "letter": "D",
+          "text": "Transforming Growth Factor-beta (TGF-β); tendo como anticorpos específicos a aspirina em doses antiplaquetárias."
+        }
+      ],
+      "answer": "B",
+      "rationale": "Na página 13, consta explicitamente: 'Alvo terapêutico - Anti-TNF (ex: infliximabe, adalimumabe)', dado ratificado na página 35 no caso clínico estruturado: 'Qual citocina é alvo terapêutico? TNF'. O bloqueio do TNF neutraliza a cascata pró-inflamatória e a produção de proteases e RANKL na sinóvia.",
+      "distractors": [
+        "<strong>A está incorreta [Vetor 1 - Micro-Inversão e Troca Categórica]:</strong> IL-10 é uma citocina anti-inflamatória (não alvo de bloqueio terapêutico) e metotrexato/sulfassalazina são sintéticos convencionais, e não imunobiológicos citados no texto. <em>(Ímã cognitivo: confunde citocinas e classes de DMARDs).</em>",
+        "<strong>C está incorreta [Vetor 4 - Mimetismo com Gota/Lúpus]:</strong> Cita interferon-alfa e fármacos como colchicina (usada na gota) ou hidroxicloroquina, ignorando os alvos biológicos destacados no slide. <em>(Ímã cognitivo: medicamentos conhecidos da reumatologia).</em>",
+        "<strong>D está incorreta [Vetor 4 - Mimetismo Farmacológico]:</strong> TGF-β é fator trófico/fibrótico e AAS é AINE inibidor de COX, sem qualquer relação com a terapia biológica anti-citocina da AR. <em>(Ímã cognitivo: nomes conhecidos misturados aleatoriamente).</em>"
+      ],
+      "pearl": "Citocina-alvo biológica destacada no documento = TNF (agentes anti-TNF: Infliximabe e Adalimumabe)."
+    },
+    {
+      "id": 24,
+      "tag": "Clínica Médica • Anatomopatologia Articular",
+      "stem": "Durante a revisão patológica de uma peça cirúrgica de sinovectomia de punho de um paciente com artrite reumatoide de longa data, o patologista demonstra uma massa exuberante de tecido conectivo-vascular que recobre e escava as superfícies cartilaginosas. De acordo com a descrição anatomopatológica enfatizada no documento da disciplina (páginas 16 e 17), o <strong>pannus</strong> sinovial é definido como um:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Transudato acelular cristalino, desprovido de proliferação celular ou potencial de agressão a estruturas ósseas."
+        },
+        {
+          "letter": "B",
+          "text": "Hematoma capsular contido formado exclusivamente após trauma agudo de alto impacto nas extremidades distais."
+        },
+        {
+          "letter": "C",
+          "text": "Depósito amorfo de cristais de colesterol livre envolto por uma cápsula fibrosa colagenosa avascular e inerte."
+        },
+        {
+          "letter": "D",
+          "text": "Tecido granulomatoso com características tumorais, altamente invasivo e capaz de destruir a cartilagem e o osso subcondral."
+        }
+      ],
+      "answer": "D",
+      "rationale": "Nas páginas 16 e 17 do documento, o pannus é formalmente definido: 'Pannus sinovial (tecido inflamatório que invade cartilagem e osso); Pannus – tecido granulomatoso com características tumorais, capaz de invadir e destruir os tecidos cartilaginoso e ósseo; Responsável pela extensa destruição articular'.",
+      "distractors": [
+        "<strong>A está incorreta [Vetor 1 - Micro-Inversão Estrutural]:</strong> Classifica o pannus como transudato acelular inerte, quando se trata de um tecido celular maciço hiperproliferativo, vascularizado e agressivo. <em>(Ímã cognitivo: confunde derrame articular simples com formação de pannus).</em>",
+        "<strong>B está incorreta [Vetor 4 - Mimetismo Traumático]:</strong> Descreve uma lesão hemorrágica pós-traumática aguda (hemartrose), sem qualquer relação com a proliferação crônica autoimune da AR. <em>(Ímã cognitivo: atrai quem associa edema a trauma ortopédico).</em>",
+        "<strong>C está incorreta [Vetor 4 - Mimetismo com Aterosclerose]:</strong> Confunde o tecido granulomatoso do pannus com placa de ateroma rica em cristais de colesterol. <em>(Ímã cognitivo: explora o termo 'vasos e lipídios' em contextos patológicos gerais).</em>"
+      ],
+      "pearl": "Pannus sinovial = tecido granulomatoso inflamatório com características tumorais, invasivo, destrói cartilagem e osso."
+    },
+    {
+      "id": 25,
+      "tag": "Clínica Médica • Anatomopatologia da Sinóvia",
+      "stem": "Na análise histopatológica da sinóvia de uma paciente com artrite reumatoide (conforme documentado na Figura 26.43 de Robbins & Cotran e nos tópicos das páginas 18 e 21), observam-se alterações morfológicas características tanto em pequeno quanto em grande aumento microscópico. Constituem alterações típicas da membrana sinovial na AR descritas no material de estudo:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Membrana delgada, atrófica e avascular, com contorno perfeitamente liso e ausência completa de células inflamatórias."
+        },
+        {
+          "letter": "B",
+          "text": "Metaplasia óssea lamelar pura com ausência de tecido de granulação e preservação integral do espaço articular sinovial."
+        },
+        {
+          "letter": "C",
+          "text": "Sinóvia edemaciada, espessada e hiperplásica, com perda do contorno liso, formação de vilosidades e densos agregados linfoides subsinoviais."
+        },
+        {
+          "letter": "D",
+          "text": "Infiltração exclusiva por inclusões virais basofílicas sem proliferação endotelial ou hiperplasia de sinoviócitos."
+        }
+      ],
+      "answer": "C",
+      "rationale": "Nas páginas 18 e 21 (legenda da Fig. 26.43), descreve-se que a sinóvia torna-se: 'Edemaciada, espessada, hiperplásica, com perda do contorno liso', exibindo 'hipertrofia sinovial acentuada, com formação de vilosidade' e 'tecido subsinovial contendo um denso agregado linfoide', além de plasmócitos, macrófagos e imunocomplexos.",
+      "distractors": [
+        "<strong>A está incorreta [Vetor 1 - Micro-Inversão Morfológica Total]:</strong> Descreve uma sinóvia atrófica normal ou senil, o exato oposto da hiperplasia vilositária inflamatória densa da AR. <em>(Ímã cognitivo: candidatos que leem depressa sem notar a palavra 'ausência de inflamação').</em>",
+        "<strong>B está incorreta [Vetor 4 - Mimetismo]:</strong> Afirma preservação integral do espaço articular e metaplasia óssea primária isolada, contrariando a invasão do pannus e a destruição articular. <em>(Ímã cognitivo: confunde anquilose tardia com metaplasia sem inflamação).</em>",
+        "<strong>D está incorreta [Vetor 4 - Mimetismo Virológico]:</strong> Inventa corpos de inclusão virais, desconsiderando a histologia autoimune com agregados linfoides descrita no livro de referência Robbins. <em>(Ímã cognitivo: atrai quem foca em etiologias infecciosas genéricas).</em>"
+      ],
+      "pearl": "Histologia da sinóvia na AR: Edemaciada, espessada, hiperplásica, perda do contorno liso, projeções vilosas e densos agregados linfoides."
+    },
+    {
+      "id": 26,
+      "tag": "Clínica Médica • Semiologia e Manifestações Articulares",
+      "stem": "Uma mulher de 45 anos é atendida em um centro de saúde queixando-se de dor, calor e inchaço nas mãos há 8 meses. Ao exame físico reumatológico, o médico observa aumento de volume inflamatório com dor à palpação simultânea nas articulações metacarpofalangeanas e interfalangeanas proximais de ambas as mãos de modo equivalente. Considerando o padrão clínico típico de acometimento articular estabelecido no material didático (página 24), a artrite reumatoide manifesta-se classicamente como uma:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Monoartrite aguda migratória exclusiva de grandes articulações axiais de início súbito."
+        },
+        {
+          "letter": "B",
+          "text": "Oligoartrite puramente assimétrica aditiva com acometimento restrito às articulações sacroilíacas."
+        },
+        {
+          "letter": "C",
+          "text": "Poliartrite intermitente de resolução espontânea em 48 horas sem qualquer sequela ou cronicidade."
+        },
+        {
+          "letter": "D",
+          "text": "Poliartrite crônica simétrica, com predileção inicial por pequenas articulações das mãos e pés."
+        }
+      ],
+      "answer": "D",
+      "rationale": "Na página 24 do documento, consta expressamente entre as manifestações clínicas: 'Poliartrite simétrica; Inicia-se em pequenas articulações (mãos e pés); Mãos: Interfalangeanas proximais e Metacarpofalangeanas'. Esse padrão crônico simétrico e aditivo em pequenas articulações é a assinatura clínica da doença.",
+      "distractors": [
+        "<strong>A está incorreta [Vetor 4 - Mimetismo com Febre Reumática]:</strong> Monoartrite/oligoartrite migratória aguda em grandes articulações é o padrão da febre reumática ou gonococcemia, não da AR. <em>(Ímã cognitivo: confunde febre reumática com artrite reumatoide).</em>",
+        "<strong>B está incorreta [Vetor 4 - Mimetismo com Espondiloartrite]:</strong> Oligoartrite assimétrica acometendo sacroilíacas é típica da espondilite anquilosante ou artrite psoriásica. <em>(Ímã cognitivo: atrai quem confunde as espondiloartropatias soronegativas com a AR).</em>",
+        "<strong>C está incorreta [Vetor 4 - Mimetismo com Reumatismo Palindrômico]:</strong> Crises curtas de 48 horas autolimitadas não preenchem a cronologia persistente crônica (> 6 semanas) da AR clássica. <em>(Ímã cognitivo: induz ao erro quem não valoriza a duração temporal dos sintomas).</em>"
+      ],
+      "pearl": "Padrão articular típico da AR: Poliartrite crônica, SIMÉTRICA, com início em PEQUENAS articulações (mãos e pés)."
+    },
+    {
+      "id": 27,
+      "tag": "Clínica Médica • Semiologia e Diagnóstico Diferencial",
+      "stem": "Durante a propedêutica articular das mãos de uma paciente de 52 anos com queixa de dor e edema digital, o reumatologista ensina aos residentes a identificar as articulações acometidas para diferenciar a AR da osteoartrite nodal. Com base nas articulações tipicamente envolvidas e naquelas classicamente poupadas nas mãos segundo o documento de estudo, a artrite reumatoide acomete caracteristicamente:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "As articulações interfalangeanas proximais (IFP) e metacarpofalangeanas (MCF), poupando as interfalangeanas distais."
+        },
+        {
+          "letter": "B",
+          "text": "Exclusivamente as articulações interfalangeanas distais (IFD), poupando punhos e metacarpofalangeanas."
+        },
+        {
+          "letter": "C",
+          "text": "Apenas a primeira articulação metacarpofalangeana do polegar esquerdo de maneira estritamente unilateral."
+        },
+        {
+          "letter": "D",
+          "text": "Todas as articulações interfalangeanas distais gerando nódulos ósseos duros de Heberden e Bouchard isolados."
+        }
+      ],
+      "answer": "A",
+      "rationale": "Na página 24 do documento, especifica-se que nas mãos o acometimento ocorre em: 'Interfalangeanas proximais' e 'Metacarpofalangeanas'. As interfalangeanas distais (IFD) são tipicamente poupadas na artrite reumatoide, sendo esse o principal critério semiológico de diferenciação em relação à osteoartrite das mãos (que compromete as IFDs com nódulos de Heberden).",
+      "distractors": [
+        "<strong>B está incorreta [Vetor 1 - Micro-Inversão Anatômica]:</strong> Inverte a anatomia: a AR poupa as IFDs e compromete ativamente MCFs, IFPs e punhos. <em>(Ímã cognitivo: confunde proximal com distal em leitura rápida).</em>",
+        "<strong>C está incorreta [Vetor 1 - Micro-Inversão de Simetria e Extensão]:</strong> Restringe o quadro a monoartrite unilateral do polegar, descaracterizando a poliartrite simétrica da AR. <em>(Ímã cognitivo: atrai quem confunde com rizartrose isolada).</em>",
+        "<strong>D está incorreta [Vetor 4 - Mimetismo com Osteoartrite]:</strong> Nódulos de Heberden (nas IFDs) são lesões osteofitárias características da osteoartrite/artrose, e não da AR. <em>(Ímã cognitivo: grande pegadinha clássica em provas de residência médica).</em>"
+      ],
+      "pearl": "Nas mãos, a AR acomete Interfalangeanas Proximais (IFP) e Metacarpofalangeanas (MCF), POUPANDO as distais (IFD)."
+    },
+    {
+      "id": 28,
+      "tag": "Clínica Médica • Manifestações Clínicas Articulares",
+      "stem": "Além das mãos, a artrite reumatoide compromete diversas outras articulações periféricas ao longo de sua história natural. Ao avaliar o mapeamento articular global de uma paciente com doença inflamatória estabelecida, quais articulações periféricas adicionais são expressamente citadas no material do curso como sítios comuns de envolvimento?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Articulações temporomandibulares isoladas, poupando punhos e membros inferiores."
+        },
+        {
+          "letter": "B",
+          "text": "Pés, punho, cotovelo, tornozelo e joelho."
+        },
+        {
+          "letter": "C",
+          "text": "Apenas as articulações esternoclaviculares com preservação completa dos joelhos e cotovelos."
+        },
+        {
+          "letter": "D",
+          "text": "Articulações interfalangeanas distais dos pés exclusivamente, sem envolvimento de tornozelos ou punhos."
+        }
+      ],
+      "answer": "B",
+      "rationale": "Na página 24 do documento, lista-se textualmente a distribuição articular clássica da AR: 'Inicia-se em pequenas articulações (mãos e pés); Mãos: Interfalangeanas proximais, Metacarpofalangeanas; Pés, punho, cotovelo, tornozelo e joelho'.",
+      "distractors": [
+        "<strong>A está incorreta [Vetor 1 - Exclusão Absoluta Arbitrária]:</strong> Isola a ATM e nega o acometimento de membros inferiores e punhos, que são os sítios mais comuns da doença. <em>(Ímã cognitivo: confunde acometimento secundário raro com sítio exclusivo).</em>",
+        "<strong>C está incorreta [Vetor 4 - Mimetismo com Síndrome SAPHO]:</strong> Esternoclavicular isolada sugere espondiloartropatia ou síndrome SAPHO, e contradiz a citação literal de joelhos e cotovelos no texto. <em>(Ímã cognitivo: alternativa atípica com sítio incomum).</em>",
+        "<strong>D está incorreta [Vetor 1 - Micro-Inversão Topográfica]:</strong> Aponta IFDs dos pés e exclui tornozelos e punhos, invertendo o padrão de grandes e pequenas articulações da AR. <em>(Ímã cognitivo: atrai por citar os pés, mas com detalhe anatômico incorreto).</em>"
+      ],
+      "pearl": "Articulações periféricas frequentes na AR: Pequenas (mãos e pés) e médias/grandes (punho, cotovelo, tornozelo e joelho)."
+    },
+    {
+      "id": 29,
+      "tag": "Clínica Médica • Fisiopatologia e Sintomas Cardinais",
+      "stem": "Uma mulher de 42 anos relata que acorda diariamente com intensa rigidez nas mãos que persiste por mais de 1 hora, dificultando tarefas simples como escovar os dentes e segurar talheres nas primeiras horas da manhã. Ela questiona por que a sensação de articulação travada é tão intensa ao acordar. Com base na explicação fisiopatológica fornecida no slide da aula (página 25), a rigidez articular acentuada após períodos de repouso noturno decorre de:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Deposição acelerada de cristais de pirofosfato insolúveis na cartilagem durante o ciclo circadiano do sono REM."
+        },
+        {
+          "letter": "B",
+          "text": "Acúmulo de citocinas inflamatórias (TNF, IL-1, IL-6) e estase de edema sinovial durante o repouso."
+        },
+        {
+          "letter": "C",
+          "text": "Ruptura imediata de ligamentos cruzados periarticulares desencadeada pela queda fisiológica da pressão arterial."
+        },
+        {
+          "letter": "D",
+          "text": "Inativação completa dos receptores RANKL pelos níveis elevados de melatonina sérica matinal."
+        }
+      ],
+      "answer": "B",
+      "rationale": "Na página 25 do documento, consta a explicação literal sob o título 'Durante o repouso': 'Acúmulo de citocinas inflamatórias (TNF, IL-1, IL-6)' e 'Edema sinovial'. Durante a imobilidade noturna, a falta de drenagem linfática/vascular propicia a retenção de mediadores pró-inflamatórios e exsudato na sinóvia, manifestando-se como rigidez matinal prolongada (> 1 hora).",
+      "distractors": [
+        "<strong>A está incorreta [Vetor 4 - Mimetismo com Pseudogota]:</strong> Atribui o fenômeno a cristais de pirofosfato e sono REM, ignorando a dinâmica de citocinas e edema descrita. <em>(Ímã cognitivo: termos biológicos convincentes para desviar do acúmulo de citocinas).</em>",
+        "<strong>C está incorreta [Vetor 3 - Catastrofização Traumática]:</strong> Cita ruptura ligamentar mecânica aguda em vez de edema sinovial crônico reversível. <em>(Ímã cognitivo: confunde instabilidade ligamentar avançada com rigidez matinal rotineira).</em>",
+        "<strong>D está incorreta [Vetor 1 - Micro-Inversão Endócrino-Imune]:</strong> Inventa ação inibidora da melatonina sobre RANKL, quando na verdade o repouso potencializa a inflamação local pela estase. <em>(Ímã cognitivo: atrai quem busca explicações cronobiológicas exóticas).</em>"
+      ],
+      "pearl": "Rigidez matinal na AR: Durante o repouso noturno há acúmulo de CITOCINAS (TNF, IL-1, IL-6) e EDEMA SINOVIAL."
+    },
+    {
+      "id": 30,
+      "tag": "Clínica Médica • Semiologia e Raciocínio Clínico",
+      "stem": "Na discussão do caso clínico inicial (páginas 3, 4 e 35), o preceptor apresenta uma paciente de 42 anos com dor e inchaço em mãos há 6 meses, com rigidez matinal de 2 horas que apresenta nítida melhora ao longo do dia com as atividades diárias. Ele formula duas perguntas fundamentais: o quadro tem padrão inflamatório ou mecânico, e qual a justificativa para a melhora da rigidez com a movimentação? De acordo com as respostas estruturadas no documento da disciplina, a resposta correta é:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Padrão inflamatório; o movimento ativo reduz e ajuda a drenar os mediadores inflamatórios acumulados na articulação."
+        },
+        {
+          "letter": "B",
+          "text": "Padrão mecânico; o repouso acumulou colágeno sadio, que é quebrado e desgastado durante a caminhada diária."
+        },
+        {
+          "letter": "C",
+          "text": "Padrão mecânico; a dor articular resulta unicamente de sobrecarga e atrito físico dos ossos desprovidos de cartilagem."
+        },
+        {
+          "letter": "D",
+          "text": "Padrão inflamatório; a movimentação induz apoptose maciça de osteoclastos e cicatrização instantânea do pannus."
+        }
+      ],
+      "answer": "A",
+      "rationale": "Nas páginas 4 e 35 do documento, esclarece-se o contraste semiológico cardinal: Tipo de inflamação: 'Inflamatória crônica'; e 'Por que a rigidez melhora ao longo do dia? Movimento reduz mediadores inflamatórios'. A dor mecânica piora com o esforço e alivia no repouso; já a dor inflamatória tem rigidez prolongada no repouso e melhora com a movimentação.",
+      "distractors": [
+        "<strong>B está incorreta [Vetor 4 - Mimetismo de Padrão Semiológico]:</strong> Classifica incorretamente como dor mecânica e afirma que o repouso acumula colágeno que é desgastado. <em>(Ímã cognitivo: confunde o padrão de alívio da dor inflamatória com a mecânica).</em>",
+        "<strong>C está incorreta [Vetor 4 - Mimetismo Clínico com Artrose]:</strong> Define as características da osteoartrite/dor mecânica, negando o caráter inflamatório clássico com rigidez matinal de 2 horas. <em>(Ímã cognitivo: erro comum em alunos que não diferenciam dor mecânica de inflamatória).</em>",
+        "<strong>D está incorreta [Vetor 1 - Exagero Funcional]:</strong> Reconhece o padrão inflamatório, mas cria uma justificativa biológica fantasiosa de cura/apoptose instantânea do pannus pela simples caminhada. <em>(Ímã cognitivo: atrai quem acertou o tipo, mas não lê a justificativa com rigor).</em>"
+      ],
+      "pearl": "Dor inflamatória: Rigidez matinal > 1h, piora com repouso e MELHORA COM MOVIMENTO (que reduz/drena mediadores inflamatórios)."
+    },
+    {
+      "id": 31,
+      "tag": "Clínica Médica • Acometimento do Esqueleto Axial",
+      "stem": "Durante a avaliação de um paciente de 55 anos com artrite reumatoide erosiva de longa data, o interno indaga sobre a frequência do acometimento da coluna vertebral e as precauções a serem adotadas caso o paciente necessite de intubação orotraqueal para um procedimento cirúrgico eletivo. De acordo com a diretriz do material didático (página 25) sobre o acometimento da coluna vertebral na AR, a doença afeta:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Exclusivamente a articulação sacroilíaca bilateral, poupando completamente toda a coluna cervical e torácica."
+        },
+        {
+          "letter": "B",
+          "text": "Difusamente todos os discos intervertebrais lombares de L1 a L5, promovendo fusão óssea contínua em cana de bambu."
+        },
+        {
+          "letter": "C",
+          "text": "Todo o segmento torácico com osteófitos anteriores em ponte, sem qualquer risco de instabilidade atlantoaxial."
+        },
+        {
+          "letter": "D",
+          "text": "Apenas a articulação de C1 e C2 na coluna vertebral, poupando os segmentos torácico e lombar."
+        }
+      ],
+      "answer": "D",
+      "rationale": "Na página 25 do documento, destaca-se expressamente como regra semiológica obrigatória: 'Acometimento da coluna vertebral: apenas na articulação de C1 e C2' (articulação atlantoaxial). A AR é uma doença predominantemente de articulações sinoviais periféricas; no esqueleto axial ela poupa as regiões torácica e lombar (que não possuem sinóvia típica nos corpos discais), atingindo unicamente C1-C2 com risco de subluxação.",
+      "distractors": [
+        "<strong>A está incorreta [Vetor 4 - Mimetismo com Espondiloartropatias]:</strong> Sacroiliíte bilateral é a marca diagnóstica da espondilite anquilosante, e não da artrite reumatoide. <em>(Ímã cognitivo: confunde acometimento axial de espondiloartropatias com a AR).</em>",
+        "<strong>B está incorreta [Vetor 4 - Mimetismo Radiológico]:</strong> 'Coluna em bambu' (sindesmófitos contínuos) é achado clássico da espondilite anquilosante avançada na coluna lombar. <em>(Ímã cognitivo: termo mnemônico famoso de reumatologia usado fora de contexto).</em>",
+        "<strong>C está incorreta [Vetor 4 - Mimetismo com DISH]:</strong> Osteófitos em ponte torácica sem sacroiliíte definem a hiperostose esquelética idiopática difusa (DISH / Forestier). <em>(Ímã cognitivo: confunde espondilose senil/DISH com dano inflamatório da AR).</em>"
+      ],
+      "pearl": "Na coluna vertebral, a AR acomete APENAS a articulação atlantoaxial (C1 e C2), poupando os segmentos torácico e lombar."
+    },
+    {
+      "id": 32,
+      "tag": "Clínica Médica • Manifestações Extra-Articulares",
+      "stem": "Um médico da Atenção Básica atende uma mulher de 49 anos com artrite reumatoide que nota o aparecimento de lesões subcutâneas firmes e não dolorosas na face posterior dos antebraços e próximo aos cotovelos. Considerando as características clínicas e os locais anatômicos típicos dos <strong>nódulos reumatoides</strong> apresentados no documento de estudo (página 26), essas estruturas caracterizam-se como:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vesículas sero-hemorrágicas intensamente pruriginosas restritas à palma das mãos e leito ungueal periungueal."
+        },
+        {
+          "letter": "B",
+          "text": "Cistos flutuantes preenchidos por pus bacteriano de alta pressão que drenam espontaneamente na pele do tronco."
+        },
+        {
+          "letter": "C",
+          "text": "Pequenas massas firmes, indolores e redondas a ovais no subcutâneo do antebraço, cotovelos, região occipital e área lombossacral."
+        },
+        {
+          "letter": "D",
+          "text": "Úlceras cutâneas hiperemiadas profundas e necróticas que ocorrem preferencialmente na região pretibial anterior."
+        }
+      ],
+      "answer": "C",
+      "rationale": "Na página 26 do documento, os nódulos reumatoides são descritos detalhadamente: 'Manifestação infrequente da AR; Normalmente ocorrem no tecido subcutâneo do antebraço, nos cotovelos, na região occipital e na área lombossacral; Pequenas massas firmes, indolores e redondas a ovais'. Ocorrem preferencialmente em áreas de pressão mecânica.",
+      "distractors": [
+        "<strong>A está incorreta [Vetor 4 - Mimetismo Dermatológico]:</strong> Descreve lesões bolhosas pruriginosas (como dermatite herpetiforme ou disidrose), incompatíveis com nódulos dérmico-subcutâneos firmes e indolores. <em>(Ímã cognitivo: confunde lesão nodular profunda com erupção vesicular).</em>",
+        "<strong>B está incorreta [Vetor 1 - Micro-Inversão Conceitual]:</strong> Descreve abscessos piogênicos agudos com supuração, quando os nódulos reumatoides são assépticos, sólidos e indolores. <em>(Ímã cognitivo: atrai quem associa inflamação a coleção purulenta).</em>",
+        "<strong>D está incorreta [Vetor 4 - Mimetismo com Pioderma Gangrenoso]:</strong> Descreve úlcera inflamatória neutrofílica típica do pioderma gangrenoso associado a DII. <em>(Ímã cognitivo: confunde manifestação dermatológica ulcerada com nódulo).</em>"
+      ],
+      "pearl": "Nódulos reumatoides: Pequenas massas FIRMES, INDOLORES, redondas/ovais em áreas de atrito (antebraço, cotovelo, occipital e lombossacral)."
+    },
+    {
+      "id": 33,
+      "tag": "Clínica Médica • Anatomopatologia de Nódulos",
+      "stem": "A biópsia excisional de uma massa subcutânea firme retirada da região do olécrano de um paciente com artrite reumatoide soropositiva é enviada ao laboratório de anatomopatologia. De acordo com a descrição microscópica clássica do nódulo reumatoide apresentada nas páginas 26 e 27 do documento didático, o laudo histopatológico evidenciará:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Agregados amorfos de cristais em agulha birrefringentes negativos envoltos por calcificação distrófica pura."
+        },
+        {
+          "letter": "B",
+          "text": "Aspecto semelhante a granulomas necrosantes, com zona central de necrose fibrinoide circundada por borda de macrófagos ativados, linfócitos e plasmócitos."
+        },
+        {
+          "letter": "C",
+          "text": "Proliferação neoplásica atípica de células fusiformes com figuras de mitose aberrantes e ausência completa de células imunes."
+        },
+        {
+          "letter": "D",
+          "text": "Infiltrado purulento de polimorfonucleares intactos circundando colônias bacterianas Gram-positivas capsuladas."
+        }
+      ],
+      "answer": "B",
+      "rationale": "Nas páginas 26 e 27 do documento, descreve-se textualmente a microscopia dos nódulos reumatoides: 'Microscopia: lembram os granulomas necrosantes com uma zona central de necrose fibrinoide, circundada por uma borda proeminente de macrófagos ativados e numerosos linfócitos e plasmócitos'.",
+      "distractors": [
+        "<strong>A está incorreta [Vetor 4 - Mimetismo com Tofo Gotoso]:</strong> Cristais em agulha com birrefringência negativa sob luz polarizada caracterizam o tofo da gota crônica, e não o nódulo reumatoide. <em>(Ímã cognitivo: grande clássico de confusão entre gota e artrite reumatoide).</em>",
+        "<strong>C está incorreta [Vetor 4 - Mimetismo Neoplásico]:</strong> Aponta critérios histológicos de sarcoma maligno, deturpando o caráter granulomatoso reativo benigno do nódulo reumatoide. <em>(Ímã cognitivo: explora o termo 'características tumorais' citado para o pannus).</em>",
+        "<strong>D está incorreta [Vetor 1 - Micro-Inversão Histopatológica]:</strong> Descreve abscesso piogênico bacteriano (bactérias e neutrófilos), desconsiderando a histologia clássica do granuloma de necrose fibrinoide. <em>(Ímã cognitivo: confunde inflamação crônica granulomatosa com infecção bacteriana).</em>"
+      ],
+      "pearl": "Microscopia do Nódulo Reumatoide: Granuloma com CENTRO DE NECROSE FIBRINOIDE circundado por MACRÓFAGOS EM PALIÇADA, linfócitos e plasmócitos."
+    },
+    {
+      "id": 34,
+      "tag": "Clínica Médica • Deformidades Articulares",
+      "stem": "Uma paciente de 56 anos com artrite reumatoide crônica grave apresenta alteração postural típica no terceiro quirodáctilo da mão direita, caracterizada por deformidade rígida que compromete a apreensão de pequenos objetos. Ao exame físico, observa-se hiperflexão fixa da articulação interfalangeana proximal (IFP) associada à hiperextensão da articulação interfalangeana distal (IFD), conforme ilustrado e esquematizado nas páginas 28 e 29 do documento. Esta deformidade anatômica é denominada dedo em:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Botoeira (abotoadura)."
+        },
+        {
+          "letter": "B",
+          "text": "Pescoço de cisne."
+        },
+        {
+          "letter": "C",
+          "text": "Gatilho espasmódico."
+        },
+        {
+          "letter": "D",
+          "text": "Martelo traumático."
+        }
+      ],
+      "answer": "A",
+      "rationale": "Nas páginas 28 e 29 do documento, a deformidade é explicitamente definida: 'Dedo em botoeira (hiperflexão de IFP)' e correlacionada à ilustração anatômica (pág. 28) que exibe a flexão da interfalangeana proximal combinada à hiperextensão da interfalangeana distal (deformidade em abotoadura / Boutonnière deformity).",
+      "distractors": [
+        "<strong>B está incorreta [Vetor 1 - Micro-Inversão Semiológica]:</strong> O pescoço de cisne apresenta a biomecânica exatamente oposta: hiperextensão da IFP com flexão da IFD. <em>(Ímã cognitivo: maior armadilha semiológica de deformidade de mãos em reumatologia).</em>",
+        "<strong>C está incorreta [Vetor 4 - Mimetismo Ortopédico]:</strong> Dedo em gatilho (tenossinovite estenosante do flexor com ressalto) não cursa com hiperflexão fixa de IFP com hiperextensão de IFD. <em>(Ímã cognitivo: patologia frequente de tendões das mãos).</em>",
+        "<strong>D está incorreta [Vetor 4 - Mimetismo Traumático]:</strong> Dedo em martelo é avulsão do tendão extensor terminal com flexão isolada da IFD, sem hiperflexão da IFP. <em>(Ímã cognitivo: atrai quem lembra de deformidades das articulações distais).</em>"
+      ],
+      "pearl": "Dedo em Botoeira (Boutonnière) = Hiperflexão da IFP + Hiperextensão da IFD."
+    },
+    {
+      "id": 35,
+      "tag": "Clínica Médica • Deformidades Articulares",
+      "stem": "No mesmo ambulatório de reumatologia, outro paciente com doença de longa data exibe em seus dedos indicadores e médios uma alteração na qual a articulação interfalangeana proximal (IFP) encontra-se em hiperextensão acentuada, ao passo que a articulação interfalangeana distal (IFD) posiciona-se em flexão compensatória, conforme documentado na ilustração e fotografia das páginas 28 e 29 do material da aula. O epônimo semiológico correto para essa deformidade é dedo em:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Botoeira (boutonnière)."
+        },
+        {
+          "letter": "B",
+          "text": "Baqueta de tambor."
+        },
+        {
+          "letter": "C",
+          "text": "Pescoço de cisne."
+        },
+        {
+          "letter": "D",
+          "text": "Trombeta sinovial."
+        }
+      ],
+      "answer": "C",
+      "rationale": "Nas páginas 28 e 29 do documento, define-se textualmente: 'Dedo em pescoço de cisne (hiperextensão da IFP)' acompanhada de flexão da articulação interfalangeana distal (IFD), conforme demonstrado no esquema anatômico e na foto clínica.",
+      "distractors": [
+        "<strong>A está incorreta [Vetor 1 - Micro-Inversão Semiológica]:</strong> A deformidade em botoeira apresenta flexão da IFP com extensão da IFD. <em>(Ímã cognitivo: a clássica inversão conceitual que confunde o candidato desatento).</em>",
+        "<strong>B está incorreta [Vetor 4 - Mimetismo com Hipocratismo Digital]:</strong> Baqueta de tambor (dedo hipocrático) refere-se ao aumento do leito ungueal associado a hipoxemia crônica ou doenças pulmonares/cardíacas. <em>(Ímã cognitivo: termo semiológico clássico da clínica médica).</em>",
+        "<strong>D está incorreta [Vetor 4 - Invenção Nomenclatural]:</strong> Termo inexistente em semiologia reumatológica. <em>(Ímã cognitivo: distrator plausível por mimetismo fonético).</em>"
+      ],
+      "pearl": "Dedo em Pescoço de Cisne = Hiperextensão da IFP + Flexão da IFD."
+    },
+    {
+      "id": 36,
+      "tag": "Clínica Médica • Deformidades dos Dedos e Tendões",
+      "stem": "Durante a exploração funcional das mãos e dos quirodáctilos de uma mulher com poliartrite reumatoide destrutiva crônica, o examinador documenta as deformidades resultantes do acometimento crônico de tendões, ligamentos e articulações sinoviais. Além do dedo em botoeira e do dedo em pescoço de cisne, quais outras deformidades típicas decorrentes de tenossinovites e sinovite articular são expressamente listadas no documento do módulo (páginas 29 e 33)?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Contratura palmar pura de Dupuytren e dedo em ressalto infantil."
+        },
+        {
+          "letter": "B",
+          "text": "Braquidactilia hereditária e polidactilia pré-axial congênita."
+        },
+        {
+          "letter": "C",
+          "text": "Desvio radial isolado dos quirodáctilos e sindactilia distal adquirida."
+        },
+        {
+          "letter": "D",
+          "text": "Polegar em Z e desvio ulnar dos dedos."
+        }
+      ],
+      "answer": "D",
+      "rationale": "Na página 29 do documento, sob o tópico 'Tenossinovites', listam-se literalmente as seguintes alterações: '• Polegar em Z. • Desvio ulnar dos dedos. • Dedo em botoeira (hiperflexão de IFP). • Dedo em pescoço de cisne (hiperextensão da IFP)'. O desvio ulnar nas metacarpofalangeanas é novamente ressaltado nos achados radiológicos da página 33.",
+      "distractors": [
+        "<strong>A está incorreta [Vetor 4 - Mimetismo com Fibromatose Palmar]:</strong> A moléstia de Dupuytren é uma fibromatose da fáscia palmar (sem relação com sinovite autoimune da AR) e dedo em ressalto infantil é anomalia congênita da polia A1. <em>(Ímã cognitivo: atrai quem lembra de retrações palmares).</em>",
+        "<strong>B está incorreta [Vetor 4 - Mimetismo Genético]:</strong> São malformações congênitas estruturais do desenvolvimento esquelético, sem qualquer conexão com a destruição adquirida na AR. <em>(Ímã cognitivo: distrator anatômico anômalo).</em>",
+        "<strong>C está incorreta [Vetor 1 - Micro-Inversão Direcional]:</strong> Inverte a direção: o desvio clássico na AR é ULNAR (para o lado do quinto dedo) e não radial. Sindactilia também é defeito embrionário. <em>(Ímã cognitivo: inverte a direção de desvio ulnar para radial).</em>"
+      ],
+      "pearl": "Deformidades e tenossinovites da AR nas mãos: Polegar em Z, Desvio ulnar dos dedos, Dedo em botoeira e Dedo em pescoço de cisne."
+    },
+    {
+      "id": 37,
+      "tag": "Clínica Médica • Neuropatias Compressivas",
+      "stem": "Uma mulher de 47 anos com artrite reumatoide ativa relata que, há 2 meses, vem apresentando dor articular nos punhos acompanhada de dormência, queimação e formigamento nos três primeiros dedos da mão direita, sintomas que pioram à noite. Com base na correlação clínico-anatômica destacada na página 30 do material didático da disciplina, o mecanismo determinante e a afecção neurológica compressiva associada a esse quadro clínico são:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pulsos inchados comprimindo o nervo mediano, resultando em dormência e formigamento pela síndrome do túnel do carpo."
+        },
+        {
+          "letter": "B",
+          "text": "Secção traumática irreversível do plexo braquial superior decorrente de subluxação escapuloumeral."
+        },
+        {
+          "letter": "C",
+          "text": "Compressão externa exclusiva do nervo radial no canal de Guyon por nódulos reumatoides periostais."
+        },
+        {
+          "letter": "D",
+          "text": "Degeneração desmielinizante ascendente difusa por autoanticorpos IgM específicos contra a bainha de mielina espinhal."
+        }
+      ],
+      "answer": "A",
+      "rationale": "Na página 30 do documento, a relação fisiopatológica é explicitada textualmente: 'Pulsos inchados podem comprimir um nervo e resultar em dormência ou formigamento devido à síndrome do túnel do carpo'. A proliferação da sinóvia nos punhos reduz o espaço inextensível do túnel carpiano, comprimindo o nervo mediano.",
+      "distractors": [
+        "<strong>B está incorreta [Vetor 4 - Mimetismo Traumático Extremo]:</strong> Descreve lesão grave do plexo braquial (tronco superior / paralisia de Erb-Duchenne), dissociada da compressão sinovial do punho. <em>(Ímã cognitivo: confunde neuropatia periférica com radiculopatia/lesão plexular).</em>",
+        "<strong>C está incorreta [Vetor 1 - Micro-Inversão Anatômica]:</strong> O canal de Guyon aloja o nervo ulnar (e não o radial), enquanto a síndrome do túnel do carpo afeta o nervo mediano. <em>(Ímã cognitivo: confunde os túneis osteofibrosos do punho).</em>",
+        "<strong>D está incorreta [Vetor 4 - Mimetismo com Guillain-Barré/EM]:</strong> Descreve síndrome desmielinizante autoimune primária (como Guillain-Barré ou esclerose múltipla), e não uma síndrome compressiva mecânica local. <em>(Ímã cognitivo: atrai quem busca etiologia autoimune direta para o sintoma neurológico).</em>"
+      ],
+      "pearl": "Sinovite de punho na AR → aumento de volume/edema comprime o NERVO MEDIANO → Síndrome do Túnel do Carpo (dormência e formigamento)."
+    },
+    {
+      "id": 38,
+      "tag": "Clínica Médica • Critérios Classificatórios Tradicionais",
+      "stem": "Durante uma conferência de revisão histórica e metodológica sobre os critérios de pesquisa clínica em reumatologia, o preceptor analisa a sensibilidade dos critérios diagnósticos do ACR (American College of Rheumatology) utilizados até 2010. De acordo com a lista apresentada no material da disciplina (página 32), para confirmação diagnóstica pelo consenso anterior a 2010, exigia-se a presença de pelo menos quantos critérios e quais eram esses parâmetros?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pelo menos seis de dez critérios: exigindo obrigatoriamente biópsia renal, líquor inflamatório e presença de anti-DNA de dupla hélice."
+        },
+        {
+          "letter": "B",
+          "text": "Pelo menos quatro de sete critérios: (1) rigidez matinal, (2) artrite ≥3 áreas, (3) artrite das mãos, (4) simetria, (5) nódulos reumatoides, (6) FR sérico e (7) alterações radiográficas típicas."
+        },
+        {
+          "letter": "C",
+          "text": "Todos os sete critérios simultaneamente, sendo indispensável a demonstração de anquilose óssea completa em radiografia simples de tórax."
+        },
+        {
+          "letter": "D",
+          "text": "Apenas dois critérios laboratoriais isolados: hiperuricemia plasmática > 7 mg/dL e velocidade de hemossedimentação superior a 100 mm/h."
+        }
+      ],
+      "answer": "B",
+      "rationale": "Na página 32 do documento, está descrito textualmente: 'Diagnóstico até 2010 incluía a presença de quatro dos seguintes critérios: (1) rigidez matinal, (2) artrite em três ou mais áreas articulares, (3) artrite de articulações típicas das mãos, (4) artrite simétrica, (5) nódulos reumatoides, (6) fator reumatoide sérico, (7) alterações radiográficas típicas'.",
+      "distractors": [
+        "<strong>A está incorreta [Vetor 4 - Mimetismo com Critérios do LES]:</strong> Insere critérios de nefrite lúpica e autoanticorpos específicos do lúpus (anti-dsDNA), sem pertinência com os critérios da AR. <em>(Ímã cognitivo: confunde critérios de classificação do LES com AR).</em>",
+        "<strong>C está incorreta [Vetor 1 - Exigência Absoluta Inexistente]:</strong> Exige 7 de 7 critérios (o protocolo exigia 4 de 7) e cita anquilose no tórax. <em>(Ímã cognitivo: atrai quem assume que diretrizes antigas eram 100% estritas).</em>",
+        "<strong>D está incorreta [Vetor 4 - Mimetismo com Gota]:</strong> Cita hiperuricemia (gota), critério inexistente na definição de artrite reumatoide. <em>(Ímã cognitivo: mistura dados laboratoriais de outras doenças do módulo).</em>"
+      ],
+      "pearl": "Critérios diagnósticos até 2010 (ACR 1987): Pelo menos 4 de 7 critérios presentes por ≥ 6 semanas."
+    },
+    {
+      "id": 39,
+      "tag": "Clínica Médica • Critérios Classificatórios ACR/EULAR 2010",
+      "stem": "Uma mulher de 45 anos é avaliada por apresentar dor e edema nas articulações metacarpofalangeanas bilateralmente (2 a 10 pequenas articulações) há 8 meses (> 6 semanas), com Fator Reumatoide e Anti-CCP positivos em títulos elevados (> 3x o limite superior) e VHS acima do normal. Ao aplicar a tabela oficial de Critérios de Classificação ACR-EULAR 2010 presente no material didático (página 31), quantos pontos no total são necessários para definir o diagnóstico definitivo de artrite reumatoide e quantos pontos a paciente atinge?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Exige pontuação estrita de 10 pontos em todos os domínios; e a paciente atinge apenas 2 pontos por não apresentar nódulo subcutâneo."
+        },
+        {
+          "letter": "B",
+          "text": "Requer pelo menos 3 pontos no total; e a paciente é classificada como inconclusiva por apresentar tempo de evolução superior a 6 semanas."
+        },
+        {
+          "letter": "C",
+          "text": "Necessita de pelo menos 6 pontos para classificação definitiva; e a paciente atinge pontuação máxima ou igual a 8 pontos (3 + 3 + 1 + 1)."
+        },
+        {
+          "letter": "D",
+          "text": "Necessita de pelo menos 1 ponto unicamente no domínio radiográfico; e a paciente atinge 0 pontos por não ter realizado ressonância."
+        }
+      ],
+      "answer": "C",
+      "rationale": "Na página 31 do documento (tabela ACR-EULAR 2010 e destaque: 'Pelo menos 6 pontos'): 1. Envolvimento articular: 4-10 pequenas articulações = 3 pontos (ou 1-3 pequenas = 2 pontos); 2. Sorologia: FR ou anti-CCP positivo em altos títulos (>3x) = 3 pontos; 3. Reagentes de fase aguda: VHS ou PCR acima do normal = 1 ponto; 4. Duração dos sintomas: ≥ 6 semanas = 1 ponto. A paciente atinge de 7 a 8 pontos, superando o ponto de corte obrigatório de 'Pelo menos 6 pontos' para o diagnóstico definitivo.",
+      "distractors": [
+        "<strong>A está incorreta [Vetor 1 - Micro-Inversão Numérica]:</strong> Exige 10 de 10 pontos e insere a necessidade de nódulo subcutâneo (que fazia parte dos critérios antigos de 1987, mas não entra na pontuação do ACR-EULAR 2010). <em>(Ímã cognitivo: confunde os itens pontuados nos critérios de 2010 com os de 1987).</em>",
+        "<strong>B está incorreta [Vetor 1 - Micro-Inversão de Ponto de Corte e Tempo]:</strong> Diminui o corte para 3 pontos e inverte o tempo (duração ≥ 6 semanas confere 1 ponto positivo e não invalida o teste). <em>(Ímã cognitivo: atrai quem não recorda a pontuação de corte).</em>",
+        "<strong>D está incorreta [Vetor 5 - Erro de Protocolo]:</strong> O critério de 2010 é clínico-laboratorial e visa exatamente classificar a doença antes do surgimento das lesões radiográficas irreversíveis. <em>(Ímã cognitivo: confunde necessidade de imagem com critérios clínicos).</em>"
+      ],
+      "pearl": "Critérios ACR-EULAR 2010: Ponto de corte para confirmação = PELO MENOS 6 PONTOS nos 4 domínios (Articulações, Sorologia, Fase Aguda, Duração)."
+    },
+    {
+      "id": 40,
+      "tag": "Clínica Médica • Propedêutica Radiológica",
+      "stem": "Um médico radiologista emite o laudo das radiografias simples de mãos e punhos de uma paciente com artrite reumatoide crônica ativa (conforme os achados ilustrados e listados nas páginas 33 e 34 do documento institucional). São alterações radiográficas típicas e precoces/tardias descritas no material como características da AR:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Esclerose do osso subcondral difusa, formação exuberante de osteófitos marginais pontiagudos e preservação do espaço articular."
+        },
+        {
+          "letter": "B",
+          "text": "Lesões puramente osteoblásticas condensantes com aposição periosteal em casca de cebola em diáfises ósseas longas."
+        },
+        {
+          "letter": "C",
+          "text": "Calcificação difusa de tendões por deposição densa de pirofosfato com ausência completa de qualquer erosão marginal."
+        },
+        {
+          "letter": "D",
+          "text": "Osteopenia justarticular, estreitamento do espaço articular, erosões ósseas justarticulares, edema de tecidos moles e desvio ulnar."
+        }
+      ],
+      "answer": "D",
+      "rationale": "Nas páginas 33 e 34 do documento, listam-se literalmente os achados radiológicos característicos da Artrite Reumatoide: '• Osteopenia justarticular; • Estreitamento do espaço articular; • Erosões ósseas justarticular; • Desvio ulnar'; e na legenda da radiografia da página 34: 'mostra edema de tecidos moles (setas) e alterações erosivas leves (setas)'.",
+      "distractors": [
+        "<strong>A está incorreta [Vetor 4 - Mimetismo com Osteoartrite]:</strong> Esclerose subcondral e osteófitos marginais são achados típicos de osteoartrite/artrose degenerativa, ao contrário da osteopenia e erosões da AR. <em>(Ímã cognitivo: clássica confusão radiográfica entre osteoartrite e artrite reumatoide).</em>",
+        "<strong>B está incorreta [Vetor 4 - Mimetismo com Osteossarcoma/Sarcoma de Ewing]:</strong> Reação periosteal em 'casca de cebola' e lesões blásticas são patognomônicas de tumores ósseos malignos ou osteomielite. <em>(Ímã cognitivo: termos radiológicos chamativos de oncologia ortopédica).</em>",
+        "<strong>C está incorreta [Vetor 4 - Mimetismo com Condrocalcinose]:</strong> Descreve a condrocalcinose por pirofosfato de cálcio, sem erosões marginais. <em>(Ímã cognitivo: atrai quem lembra de calcificações periarticulares).</em>"
+      ],
+      "pearl": "Achados radiográficos típicos da AR: Osteopenia justarticular, estreitamento do espaço articular, erosões ósseas justarticulares e edema de partes moles."
+    }
+  ]
+}

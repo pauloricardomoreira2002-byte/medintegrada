@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 480" width="900" height="480">
+  <defs>
+    <linearGradient id="bgGrad5" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f8fafc"/>
+      <stop offset="100%" stop-color="#f1f5f9"/>
+    </linearGradient>
+    <filter id="shadow5" x="-5%" y="-5%" width="110%" height="110%">
+      <feDropShadow dx="2" dy="3" stdDeviation="3" flood-color="#475569" flood-opacity="0.12"/>
+    </filter>
+  </defs>
+
+  <rect width="900" height="480" rx="16" fill="url(#bgGrad5)" stroke="#cbd5e1" stroke-width="2"/>
+
+  <!-- Título -->
+  <rect x="30" y="20" width="840" height="50" rx="10" fill="#1e3a8a" filter="url(#shadow5)"/>
+  <text x="450" y="52" font-family="'Segoe UI', Roboto, sans-serif" font-size="19" font-weight="bold" fill="#ffffff" text-anchor="middle">
+    INTERAÇÃO CELULAR E REDE DE CITOCINAS NA MEMBRANA SINOVIAL
+  </text>
+
+  <!-- Linfócito Th1 -->
+  <g transform="translate(45, 90)" filter="url(#shadow5)">
+    <rect width="250" height="150" rx="10" fill="#eff6ff" stroke="#3b82f6" stroke-width="2"/>
+    <rect x="0" y="0" width="250" height="35" rx="10" fill="#2563eb"/>
+    <text x="125" y="23" font-family="'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="bold" fill="#ffffff" text-anchor="middle">LINFÓCITO Th1</text>
+    <rect x="20" y="48" width="210" height="35" rx="6" fill="#ffffff" stroke="#93c5fd" stroke-width="1.5"/>
+    <text x="125" y="70" font-family="'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="bold" fill="#1d4ed8" text-anchor="middle">Citocina: IFN-γ</text>
+    <text x="125" y="105" font-family="'Segoe UI', Roboto, sans-serif" font-size="11" fill="#1e293b" text-anchor="middle">• Ativa macrófagos residentes</text>
+    <text x="125" y="123" font-family="'Segoe UI', Roboto, sans-serif" font-size="11" fill="#1e293b" text-anchor="middle">• Estimula sinoviócitos tipo A e B</text>
+    <text x="125" y="139" font-family="'Segoe UI', Roboto, sans-serif" font-size="11" fill="#1e293b" text-anchor="middle">• Potencializa inflamação crônica</text>
+  </g>
+
+  <!-- Linfócito Th17 -->
+  <g transform="translate(325, 90)" filter="url(#shadow5)">
+    <rect width="250" height="150" rx="10" fill="#faf5ff" stroke="#a855f7" stroke-width="2"/>
+    <rect x="0" y="0" width="250" height="35" rx="10" fill="#9333ea"/>
+    <text x="125" y="23" font-family="'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="bold" fill="#ffffff" text-anchor="middle">LINFÓCITO Th17</text>
+    <rect x="20" y="48" width="210" height="35" rx="6" fill="#ffffff" stroke="#d8b4fe" stroke-width="1.5"/>
+    <text x="125" y="70" font-family="'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="bold" fill="#7e22ce" text-anchor="middle">Citocina: IL-17</text>
+    <text x="125" y="105" font-family="'Segoe UI', Roboto, sans-serif" font-size="11" fill="#1e293b" text-anchor="middle">• Recruta neutrófilos e monócitos</text>
+    <text x="125" y="123" font-family="'Segoe UI', Roboto, sans-serif" font-size="11" fill="#1e293b" text-anchor="middle">• Estimula produção de quimiocinas</text>
+    <text x="125" y="139" font-family="'Segoe UI', Roboto, sans-serif" font-size="11" fill="#1e293b" text-anchor="middle">• Induz secreção sinovial de RANKL</text>
+  </g>
+
+  <!-- Linfócito T / RANKL -->
+  <g transform="translate(605, 90)" filter="url(#shadow5)">
+    <rect width="250" height="150" rx="10" fill="#fef2f2" stroke="#ef4444" stroke-width="2"/>
+    <rect x="0" y="0" width="250" height="35" rx="10" fill="#dc2626"/>
+    <text x="125" y="23" font-family="'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="bold" fill="#ffffff" text-anchor="middle">CÉLULAS T ATIVADAS</text>
+    <rect x="20" y="48" width="210" height="35" rx="6" fill="#ffffff" stroke="#fca5a5" stroke-width="1.5"/>
+    <text x="125" y="70" font-family="'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="bold" fill="#b91c1c" text-anchor="middle">Expressão de RANKL</text>
+    <text x="125" y="105" font-family="'Segoe UI', Roboto, sans-serif" font-size="11" fill="#1e293b" text-anchor="middle">• Receptor Activator NF-κB Ligand</text>
+    <text x="125" y="123" font-family="'Segoe UI', Roboto, sans-serif" font-size="11" fill="#1e293b" text-anchor="middle">• Liga-se ao receptor RANK</text>
+    <text x="125" y="139" font-family="'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#dc2626" text-anchor="middle">• Ativação direta de OSTEOCLASTOS</text>
+  </g>
+
+  <!-- Macrófago Sinovial Central -->
+  <g transform="translate(45, 260)" filter="url(#shadow5)">
+    <rect width="810" height="195" rx="12" fill="#ffffff" stroke="#0284c7" stroke-width="2"/>
+    <rect x="0" y="0" width="810" height="40" rx="12" fill="#0284c7"/>
+    <text x="405" y="26" font-family="'Segoe UI', Roboto, sans-serif" font-size="14" font-weight="bold" fill="#ffffff" text-anchor="middle">
+      MACRÓFAGO SINOVIAL ATIVADO &amp; ALVOS TERAPÊUTICOS
+    </text>
+
+    <!-- Subdivisão em 3 Colunas -->
+    <!-- Coluna TNF -->
+    <rect x="25" y="55" width="240" height="120" rx="8" fill="#f0f9ff" stroke="#bae6fd" stroke-width="1.5"/>
+    <text x="145" y="78" font-family="'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="bold" fill="#0369a1" text-anchor="middle">TNF-α (Fator de Necrose)</text>
+    <text x="145" y="98" font-family="'Segoe UI', Roboto, sans-serif" font-size="11" fill="#1e293b" text-anchor="middle">• Citocina mestra da inflamação</text>
+    <text x="145" y="115" font-family="'Segoe UI', Roboto, sans-serif" font-size="11" fill="#1e293b" text-anchor="middle">• Estimula proliferação sinovial</text>
+    <rect x="35" y="128" width="220" height="36" rx="6" fill="#0284c7"/>
+    <text x="145" y="145" font-family="'Segoe UI', Roboto, sans-serif" font-size="10.5" font-weight="bold" fill="#ffffff" text-anchor="middle">ALVO ANTI-TNF BIOLÓGICO</text>
+    <text x="145" y="158" font-family="'Segoe UI', Roboto, sans-serif" font-size="9.5" fill="#e0f2fe" text-anchor="middle">Infliximabe, Adalimumabe</text>
+
+    <!-- Coluna IL-1 -->
+    <rect x="285" y="55" width="240" height="120" rx="8" fill="#fffbeb" stroke="#fde68a" stroke-width="1.5"/>
+    <text x="405" y="78" font-family="'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="bold" fill="#b45309" text-anchor="middle">IL-1 (Interleucina 1)</text>
+    <text x="405" y="100" font-family="'Segoe UI', Roboto, sans-serif" font-size="11" fill="#1e293b" text-anchor="middle">• Estimula sinoviócitos e condrócitos</text>
+    <text x="405" y="120" font-family="'Segoe UI', Roboto, sans-serif" font-size="11" fill="#1e293b" text-anchor="middle">• Secreção de Colagenases e MMPs</text>
+    <text x="405" y="140" font-family="'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#b45309" text-anchor="middle">• Destruição da cartilagem hialina</text>
+    <text x="405" y="158" font-family="'Segoe UI', Roboto, sans-serif" font-size="11" fill="#78350f" text-anchor="middle">• Produção de Prostaglandina E2</text>
+
+    <!-- Coluna IL-6 -->
+    <rect x="545" y="55" width="240" height="120" rx="8" fill="#fdf2f8" stroke="#fbcfe8" stroke-width="1.5"/>
+    <text x="665" y="78" font-family="'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="bold" fill="#9d174d" text-anchor="middle">IL-6 (Interleucina 6)</text>
+    <text x="665" y="100" font-family="'Segoe UI', Roboto, sans-serif" font-size="11" fill="#1e293b" text-anchor="middle">• Resposta de fase aguda hepática</text>
+    <text x="665" y="120" font-family="'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#be185d" text-anchor="middle">• Eleva PCR e VHS no sangue</text>
+    <text x="665" y="140" font-family="'Segoe UI', Roboto, sans-serif" font-size="11" fill="#1e293b" text-anchor="middle">• Sintomas sistêmicos (febre, fadiga)</text>
+    <text x="665" y="158" font-family="'Segoe UI', Roboto, sans-serif" font-size="11" fill="#831843" text-anchor="middle">• Diferenciação de Plasmócitos</text>
+  </g>
+</svg>

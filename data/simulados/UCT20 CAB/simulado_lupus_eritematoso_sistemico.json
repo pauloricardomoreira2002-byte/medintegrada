@@ -1,0 +1,1251 @@
+{
+  "id": "simulado_lupus_eritematoso_sistemico",
+  "title": "Simulado Comentado • Lúpus Eritematoso Sistêmico",
+  "subtitle": "40 Questões no Padrão ENAMED/INEP com Raio-X Cognitivo dos Distratores",
+  "badge": "ENAMED / Residência Médica • Nível Avançado",
+  "theme": "Lúpus Eritematoso Sistêmico (LES)",
+  "area": "Clínica Médica • Reumatologia",
+  "total_questions": 40,
+  "questions": [
+    {
+      "id": 1,
+      "tag": "Reumatologia • Epidemiologia do LES",
+      "stem": "Uma jovem de 24 anos, bancária, procura a Unidade Básica de Saúde queixando-se de dor e rigidez matinal em articulações das mãos associada a fadiga intensa há 3 meses. Durante a discussão do caso com acadêmicos de medicina, o preceptor ressalta a importância de reconhecer o perfil demográfico clássico de suscetibilidade no lúpus eritematoso sistêmico (LES). Considerando as características epidemiológicas consolidadas da doença, qual perfil demográfico representa a maior frequência de acometimento no LES?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Distribuição estritamente equivalente entre os sexos (1 homem para cada 1 mulher) durante o menacme, com desvio feminino ocorrendo apenas na infância."
+        },
+        {
+          "letter": "B",
+          "text": "Mulheres em idade fértil, com razão de cerca de 9 a 10 mulheres para cada 1 homem e início mais comum entre a segunda e a terceira décadas de vida."
+        },
+        {
+          "letter": "C",
+          "text": "Homens idosos acima de 70 anos, com razão de 4 a 5 homens para cada mulher, concentrando o pico de incidência na fase de declínio androgênico."
+        },
+        {
+          "letter": "D",
+          "text": "Mulheres pós-menopáusicas acima de 65 anos de forma quase exclusiva, em virtude da interrupção súbita da síntese fisiológica de progesterona ovariana."
+        }
+      ],
+      "answer": "B",
+      "rationale": "O lúpus eritematoso sistêmico é uma doença autoimune multissistêmica crônica com expressivo predomínio feminino: cerca de 9 a 10 mulheres acometidas para cada homem (♀ : ♂ ≈ 9–10 : 1). A sua maior frequência se dá em mulheres em idade fértil, com início típico situado entre a segunda e a terceira décadas de vida (15 a 44 anos), sob modulação hormonal do estrogênio.",
+      "distractors": [
+        "<strong>A está incorreta [Vetor 1 - Micro-Inversão Conceitual]:</strong> A razão 1:1 não ocorre no menacme; é justamente na idade fértil que o predomínio feminino atinge 9-10:1 pela forte influência dos níveis estrogênicos. <em>(Ímã cognitivo: Supor neutralidade hormonal e paridade epidemiológica de gênero na idade adulta jovem.)</em>",
+        "<strong>C está incorreta [Vetor 1 - Micro-Inversão Conceitual]:</strong> O LES apresenta nítido predomínio feminino durante a fase reprodutiva (9-10:1); o pico ocorre entre a 2ª e a 3ª décadas, não em homens idosos. <em>(Ímã cognitivo: Inverter completamente o gênero dominante e postergar o pico etário para a senescência.)</em>",
+        "<strong>D está incorreta [Vetor 2 - Janela Biológica e Cronologia]:</strong> Embora exista o lúpus de início tardio no idoso, ele é minoria; o pico de incidência ocorre entre 15 e 45 anos (2ª e 3ª décadas de vida). <em>(Ímã cognitivo: Confundir o perfil de doenças osteometabólicas/artrose da pós-menopausa com o pico jovem do LES.)</em>"
+      ],
+      "pearl": "Regra epidemiológica de ouro: ♀ : ♂ ≈ 9–10 : 1 + Mulher jovem em idade fértil (pico na 2ª e 3ª décadas de vida)."
+    },
+    {
+      "id": 2,
+      "tag": "Reumatologia • Disparidades Étnicas e Gravidade",
+      "stem": "Uma paciente negra de 21 anos é admitida na enfermaria de clínica médica com síndrome nefrítica associada a edema de membros inferiores, hipertensão arterial grave e sedimento urinário francamente ativo. Em discussão sobre os determinantes prognósticos no LES, indaga-se sobre a influência dos fatores étnicos na epidemiologia, idade de início e gravidade do acometimento sistêmico. Qual afirmativa define adequadamente o impacto da etnia no lúpus?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A doença acomete predominantemente caucasianos de ascendência nórdica, enquanto em populações negras exibe curso brando, indolente e puramente cutâneo."
+        },
+        {
+          "letter": "B",
+          "text": "A doença apresenta distribuição universal com maior prevalência em populações negras (negros > asiáticos/hispânicos > brancos), associando-se a início mais precoce e curso clínico mais grave."
+        },
+        {
+          "letter": "C",
+          "text": "Populações indígenas e asiáticas apresentam maior incidência absoluta, com evolução invariavelmente tardia no idoso e excelente resposta a doses baixas de antimaláricos."
+        },
+        {
+          "letter": "D",
+          "text": "A prevalência é homogênea entre todos os grupos étnicos, porém a forma fulminante com nefrite rápida fica restrita a indivíduos brancos do sexo masculino."
+        }
+      ],
+      "answer": "B",
+      "rationale": "Embora o LES possua distribuição universal, sua frequência obedece à ordem: negros > asiáticos/hispânicos > brancos. Além disso, em populações negras, o lúpus manifesta-se com início mais precoce e curso clínico consideravelmente mais agressivo, cursando com nefrite proliferativa grave e maior morbimortalidade.",
+      "distractors": [
+        "<strong>A está incorreta [Vetor 1 - Micro-Inversão Conceitual]:</strong> Populações negras têm maior prevalência e sofrem com início mais precoce e doença mais agressiva (notadamente nefrite grave e falência renal), diferentemente do curso mais brando em caucasianos. <em>(Ímã cognitivo: Inverter os gradientes étnicos de prevalência e atribuir proteção às populações mais afetadas.)</em>",
+        "<strong>C está incorreta [Vetor 4 - Mimetismo Clínico / Síndrome Vizinha]:</strong> A maior prevalência é em negros, e o início precoce em afrodescendentes correlaciona-se com maior gravidade e resistência terapêutica, não início tardio. <em>(Ímã cognitivo: Criar um subgrupo epidemiológico plausível, mas dissonante das diretrizes de aula.)</em>",
+        "<strong>D está incorreta [Vetor 1 - Micro-Inversão Conceitual]:</strong> A prevalência não é homogênea (negros > asiáticos/hispânicos > brancos); a gravidade e a nefrite precoce são mais intensas em afrodescendentes. <em>(Ímã cognitivo: Presumir distribuição igualitária e ignorar o gradiente epidemiológico consolidado.)</em>"
+      ],
+      "pearl": "Gradiente étnico: Negros > Asiáticos/Hispânicos > Brancos. Em negros: início mais precoce e doença significativamente mais grave."
+    },
+    {
+      "id": 3,
+      "tag": "Reumatologia • Extremos de Idade (Crianças vs Idosos)",
+      "stem": "No mesmo serviço de reumatologia são acompanhados dois pacientes: uma menina de 12 anos e um homem de 68 anos, ambos diagnosticados com lúpus eritematoso sistêmico. O médico residente é questionado pela preceptoria sobre as distinções semiológicas e prognósticas entre a apresentação clínica do lúpus de início pediátrico e o de início tardio no idoso. Qual comparação expressa o comportamento típico dessas faixas etárias?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "O LES pediátrico é geralmente mais grave com maior taxa de nefrite, citopenias, pericardite e lesões cutâneas; já no idoso predominam acometimento pulmonar e serosite, com menor taxa de nefrite e psicose."
+        },
+        {
+          "letter": "B",
+          "text": "A idade de início não exerce nenhuma interferência nas manifestações clínicas ou gravidade, sendo as taxas de acometimento renal e serosite idênticas em crianças e idosos."
+        },
+        {
+          "letter": "C",
+          "text": "No idoso há elevada frequência de lesões cutâneas exuberantes e psicose lúpica grave, enquanto na criança observa-se acometimento pulmonar intersticial isolado como única manifestação."
+        },
+        {
+          "letter": "D",
+          "text": "O lúpus pediátrico tem evolução extremamente indolente restrita a artralgias transitórias, enquanto o lúpus no idoso cursa com glomerulonefrite rapidamente progressiva em quase 100% dos casos."
+        }
+      ],
+      "answer": "A",
+      "rationale": "Nos extremos de idade o LES exibe nuances fundamentais: no paciente pediátrico, a afecção é geralmente mais grave, apresentando maior frequência de nefrite lúpica, alterações hematológicas (citopenias), pericardite e lesões mucocutâneas. Por outro lado, no idoso (lúpus de início tardio), há maior envolvimento pulmonar e serosite, acompanhados de menor incidência de nefrite, manifestações cutâneas floridas e quadros neuropsiquiátricos.",
+      "distractors": [
+        "<strong>B está incorreta [Vetor 1 - Micro-Inversão Conceitual]:</strong> Existem diferenças marcantes: o início precoce em crianças associa-se a doença multissistêmica mais grave, ao passo que no idoso o quadro é marcado por serosites e envolvimento pulmonar. <em>(Ímã cognitivo: Adotar visão reducionista de que o LES se comporta identicamente em todas as idades.)</em>",
+        "<strong>C está incorreta [Vetor 1 - Micro-Inversão Conceitual]:</strong> No idoso há menor frequência de lesões cutâneas, nefrite e manifestações neuropsiquiátricas; manifestações cutâneas e graves são da infância. <em>(Ímã cognitivo: Inverter os órgãos preferencialmente acometidos nos extremos etários.)</em>",
+        "<strong>D está incorreta [Vetor 1 - Micro-Inversão Conceitual]:</strong> Na criança o lúpus é muito mais agressivo (alta taxa de nefrite, lesões cutâneas e citopenias); no idoso a nefrite é bem menos frequente, predominando serosite/pulmonar. <em>(Ímã cognitivo: Inverter as características clínicas e o grau de agressividade entre as duas faixas etárias.)</em>"
+      ],
+      "pearl": "Lúpus pediátrico: mais grave, mais nefrite, citopenias e lesões cutâneas. Lúpus no idoso: mais acometimento pulmonar e serosite; menos nefrite e psicose."
+    },
+    {
+      "id": 4,
+      "tag": "Reumatologia • Genética e Agregação Familiar",
+      "stem": "Uma jovem de 19 anos, com diagnóstico recente de LES, comparece à consulta ambulatorial acompanhada de sua mãe. A genitora relata ter tireoidite de Hashimoto e indaga se os familiares possuem maior risco de desenvolver afecções autoimunes e quais fatores genéticos estão associados. O médico assistente explica a base imunogenética do lúpus. Qual é a taxa de agregação familiar e os principais alelos do sistema HLA relacionados ao LES?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Associação exclusiva com os alelos HLA-DR4 e DQ8 com concordância idêntica entre gêmeos univitelinos e fraternos, dispensando participação de imunocomplexos."
+        },
+        {
+          "letter": "B",
+          "text": "Transmissão monogênica mendeliana autossômica dominante com 100% de penetrância familiar associada obrigatoriamente à presença do alelo HLA-B27."
+        },
+        {
+          "letter": "C",
+          "text": "Ausência completa de risco familiar (taxa de 0%), com concordância nula em gêmeos monozigóticos por ser afecção desencadeada puramente por toxinas bacterianas exógenas."
+        },
+        {
+          "letter": "D",
+          "text": "Agregação familiar de 10% a 20% com maior concordância em gêmeos monozigóticos e associação imunogenética com os alelos HLA-DR2, HLA-DR3, DQw1, DQw2 e HLA-B8."
+        }
+      ],
+      "answer": "D",
+      "rationale": "Na etiologia genética do LES, observa-se agregação familiar em 10% a 20% dos pacientes (história de lúpus ou outra doença autoimune em parentes). Há concordância significativamente maior em gêmeos monozigóticos quando comparados a dizigóticos. Familiares assintomáticos podem ter maior frequência de FAN positivo, hipergamaglobulinemia e deficiência de complemento. Do ponto de vista imunogenético, destaca-se a associação com os alelos HLA-DR2, HLA-DR3, DQw1, DQw2 e HLA-B8.",
+      "distractors": [
+        "<strong>A está incorreta [Vetor 4 - Mimetismo Clínico / Síndrome Vizinha]:</strong> HLA-DR4 é clássico da artrite reumatoide; o LES associa-se aos alelos HLA-DR2, HLA-DR3, DQw1, DQw2 e HLA-B8, com concordância muito superior em monozigóticos. <em>(Ímã cognitivo: Trocar os alelos de suscetibilidade do lúpus pelos da artrite reumatoide.)</em>",
+        "<strong>B está incorreta [Vetor 4 - Mimetismo Clínico / Síndrome Vizinha]:</strong> O LES é uma doença poligênica complexa com fatores ambientais; não é mendeliana dominante, e HLA-B27 é marcador de espondiloartrites (espondilite anquilosante). <em>(Ímã cognitivo: Confundir os alelos do LES (HLA-DR2/DR3) com o marcador de espondiloartropatias soronegativas.)</em>",
+        "<strong>C está incorreta [Vetor 1 - Micro-Inversão Conceitual]:</strong> Existe expressiva agregação familiar (10-20%), concordância muito maior em gêmeos monozigóticos do que em dizigóticos e forte componente poligênico associado ao HLA. <em>(Ímã cognitivo: Negar o componente hereditário e supor etiologia estritamente toxigênica.)</em>"
+      ],
+      "pearl": "Genética do LES: 10-20% de agregação familiar + Alelos de prova: HLA-DR2, HLA-DR3, DQw1, DQw2 e HLA-B8."
+    },
+    {
+      "id": 5,
+      "tag": "Reumatologia • Gatilhos Ambientais & Radiação UV",
+      "stem": "Uma paciente de 25 anos com diagnóstico recente de LES viajou para o litoral e, após dois dias de exposição solar prolongada sem proteção adequada, apresentou piora clínica aguda caracterizada por exacerbação de eritema facial, febre de 38,4 °C, adinamia e poliartrite simétrica de punhos e mãos. Em relação ao mecanismo fisiopatológico pelo qual a radiação ultravioleta atua como potente gatilho de exacerbação no LES, qual fenômeno celular inicial justifica essa reativação?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A radiação solar inibe a transcrição de receptores Toll-like (TLR) no endotélio vascular, suprimindo temporariamente a síntese de qualquer citocina pró-inflamatória."
+        },
+        {
+          "letter": "B",
+          "text": "A radiação UV exerce efeito imunossupressor direto sobre as células B teciduais, provocando infecção viral oportunista fulminante nos folhetos articulares."
+        },
+        {
+          "letter": "C",
+          "text": "A radiação UV atua aumentando a apoptose das células e promovendo a liberação e exposição inadequada de antígenos nucleares próprios ao sistema imunológico."
+        },
+        {
+          "letter": "D",
+          "text": "A luz solar induz proliferação excessiva de neutrófilos intravascularmente com consumo anômalo de ferro plasmático, causando necrose articular hipóxica primária."
+        }
+      ],
+      "answer": "C",
+      "rationale": "A radiação ultravioleta (UV) é o mais importante e consagrado fator desencadeante e de exacerbação do LES. A radiação UV induz dano ao DNA celular e desencadeia apoptose aumentada de queratinócitos e outras células. No portador de LES, que possui defeito na depuração de restos celulares, essa apoptose maciça resulta em maior exposição de antígenos nucleares aos linfócitos autorreativos, deflagrando exacerbações cutâneas e sistêmicas.",
+      "distractors": [
+        "<strong>A está incorreta [Vetor 1 - Micro-Inversão Conceitual]:</strong> A radiação UV promove ativação de TLRs pelo aumento da carga de ácidos nucleicos apoptóticos liberados e hiperestimula a síntese de interferon tipo I. <em>(Ímã cognitivo: Sugerir que a exposição solar inativa a resposta inata em vez de hiperativá-la.)</em>",
+        "<strong>B está incorreta [Vetor 1 - Micro-Inversão Conceitual]:</strong> A radiação UV estimula a autoimunidade por aumentar a apoptose e expor autoantígenos; ela não suprime as células B nem causa artrite por invasão viral infecciosa. <em>(Ímã cognitivo: Atribuir à radiação ultravioleta uma ação imunossupressora benéfica invertendo a cascata biológica.)</em>",
+        "<strong>D está incorreta [Vetor 1 - Micro-Inversão Conceitual]:</strong> O mecanismo patogênico da luz UV é a indução de apoptose em queratinócitos e células dérmicas com liberação de antígenos nucleares (DNA, Ro, Sm), sem relação com ferro. <em>(Ímã cognitivo: Criar um mecanismo puramente hematológico-isquêmico destituído de base molecular.)</em>"
+      ],
+      "pearl": "Radiação UV no LES = Aumento da apoptose celular → Maior exposição de autoantígenos nucleares → Desencadeamento de crises/flares."
+    },
+    {
+      "id": 6,
+      "tag": "Reumatologia • Fatores Hormonais e Estrogênio",
+      "stem": "Uma jovem de 22 anos com LES em acompanhamento ambulatorial consulta sua médica para orientações sobre métodos contraceptivos. Ela relata que iniciou recentemente anticoncepcional oral combinado com alta dosagem estrogênica por conta própria e notou piora de artralgias e fadiga. Qual é a justificativa biológica para a interferência dos hormônios sexuais na história natural do LES?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "O estrogênio atua como o mais potente protetor imunológico contra o lúpus, sendo a terapia de reposição estrogênica o tratamento preventivo padrão-ouro da doença."
+        },
+        {
+          "letter": "B",
+          "text": "Os androgênios, como a testosterona, são os hormônios exclusivamente responsáveis pela agressão glomerular mediada por imunocomplexos no LES."
+        },
+        {
+          "letter": "C",
+          "text": "Apenas a prolactina exerce influência biológica comprovada na patogênese, inexistindo qualquer efeito do estrogênio ou progesterona sobre linfócitos autorreativos."
+        },
+        {
+          "letter": "D",
+          "text": "Alterações nos níveis de estrogênio e distúrbios no metabolismo dos hormônios sexuais podem iniciar ou agravar a doença, modulando a resposta e hiperatividade das células B."
+        }
+      ],
+      "answer": "D",
+      "rationale": "Os hormônios sexuais participam de forma determinante na patogênese do LES. Alterações nos níveis de estrogênio e anormalidades em seu metabolismo podem iniciar ou agravar a doença, impulsionando a proliferação celular, a hiperreatividade de células B e a síntese descontrolada de autoanticorpos patogênicos.",
+      "distractors": [
+        "<strong>A está incorreta [Vetor 1 - Micro-Inversão Conceitual]:</strong> O estrogênio estimula a resposta humoral e a autoimunidade, podendo iniciar ou descompensar o LES; ele não é protetor nem tratamento preventivo. <em>(Ímã cognitivo: Inverter o papel biológico do hormônio sexual feminino atribuindo-lhe caráter terapêutico protetor.)</em>",
+        "<strong>B está incorreta [Vetor 1 - Micro-Inversão Conceitual]:</strong> Androgênios exercem papel geralmente protetor ou imunomodulador negativo; o estrogênio é o principal hormônio associado ao gatilho e piora do LES. <em>(Ímã cognitivo: Confundir os efeitos estimulatórios do estrogênio com os da testosterona.)</em>",
+        "<strong>C está incorreta [Vetor 1 - Micro-Inversão Conceitual]:</strong> O estrogênio e as alterações no metabolismo dos hormônios sexuais desempenham papel clássico e direto no gatilho e exacerbações do LES. <em>(Ímã cognitivo: Minimizar o papel primordial do estrogênio no predomínio feminino da doença.)</em>"
+      ],
+      "pearl": "Hormônios no LES: Estrogênio inicia ou agrava a doença (favorece hiperatividade de células B). Evitar estrogênios em alta dose!"
+    },
+    {
+      "id": 7,
+      "tag": "Reumatologia • Fatores Infecciosos Desencadeantes",
+      "stem": "Durante a discussão de casos clínicos sobre a fisiopatologia das doenças reumatológicas autoimunes, o professor enfatiza que agentes infecciosos virais podem participar da quebra de tolerância imunológica no paciente com predisposição genética ao lúpus. Quais agentes infecciosos estão especificamente citados na literatura oficial de referência como possíveis participantes no LES?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vírus Epstein-Barr (EBV), mixovírus, parvovírus e retrovírus."
+        },
+        {
+          "letter": "B",
+          "text": "Protozoários teciduais intracelulares obrigatórios, com ênfase absoluta em Leishmania donovani e Toxoplasma gondii."
+        },
+        {
+          "letter": "C",
+          "text": "Bactérias piogênicas gram-positivas encapsuladas, como Streptococcus pneumoniae e Staphylococcus aureus exclusivamente."
+        },
+        {
+          "letter": "D",
+          "text": "Micobactérias atípicas de crescimento rápido e espiroquetas anaeróbias com contágio hidrostático recreacional obrigatório."
+        }
+      ],
+      "answer": "A",
+      "rationale": "Na etiopatogenia do LES, a interação ambiental e infecciosa destaca a possível participação de vírus específicos, com relevância consagrada para o vírus Epstein-Barr (EBV), mixovírus, parvovírus e retrovírus, os quais podem induzir mimetismo molecular e estimulação aberrante de receptores da imunidade inata.",
+      "distractors": [
+        "<strong>B está incorreta [Vetor 4 - Mimetismo Clínico / Síndrome Vizinha]:</strong> Parasitoses não estão correlacionadas ao gatilho imune primário do lúpus eritematoso sistêmico na literatura de referência. <em>(Ímã cognitivo: Atribuir a quebra de tolerância imune a infecções parasitárias sem respaldo de diretriz.)</em>",
+        "<strong>C está incorreta [Vetor 4 - Mimetismo Clínico / Síndrome Vizinha]:</strong> Bactérias piogênicas causam infecções oportunistas ou complicadoras comuns no lúpus, mas não são os vírus clássicos implicados na etiopatogenia do desencadeamento. <em>(Ímã cognitivo: Confundir causas frequentes de infecção secundária com os vírus etiopatogênicos descritos em aula.)</em>",
+        "<strong>D está incorreta [Vetor 4 - Mimetismo Clínico / Síndrome Vizinha]:</strong> Os agentes associados na etiopatogenia são vírus (EBV, mixovírus, parvovírus e retrovírus), não micobactérias ou espiroquetas. <em>(Ímã cognitivo: Listar microrganismos exóticos que mimetizam granulomatoses e não o LES.)</em>"
+      ],
+      "pearl": "Gatilhos infecciosos no LES: EBV, mixovírus, parvovírus e retrovírus."
+    },
+    {
+      "id": 8,
+      "tag": "Reumatologia • Cronologia dos Autoanticorpos no LES",
+      "stem": "Uma jovem de 20 anos, completamente assintomática, realiza exames de triagem por iniciativa própria e apresenta FAN positivo em título de 1:640 com padrão homogêneo e anti-dsDNA positivo em altos títulos. O médico informa que a paciente possui risco de vir a desenvolver lúpus no futuro. Considerando a história natural da imunopatogênese do LES, como se comporta a linha do tempo dos autoanticorpos em relação aos sintomas clínicos?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A produção de autoanticorpos é simultânea e estritamente sincrônica ao primeiro episódio de febre ou dor articular, sumindo após a crise."
+        },
+        {
+          "letter": "B",
+          "text": "Os autoanticorpos só começam a ser produzidos semanas após a instalação de dano tecidual irreversível em múltiplos órgãos-alvo."
+        },
+        {
+          "letter": "C",
+          "text": "Os autoanticorpos podem surgir na circulação sanguínea anos antes do aparecimento das primeiras manifestações clínicas da doença."
+        },
+        {
+          "letter": "D",
+          "text": "O surgimento de autoanticorpos circulantes ocorre exclusivamente após o início de terapia imunossupressora contínua como resposta paradoxal."
+        }
+      ],
+      "answer": "C",
+      "rationale": "Um dos conceitos mais refinados na imunopatologia do LES é que a perda da tolerância imunológica é um processo gradual: os autoanticorpos (como FAN, anti-Ro, anti-La, anti-Sm e anti-dsDNA) podem surgir anos antes do aparecimento de qualquer manifestação clínica.",
+      "distractors": [
+        "<strong>A está incorreta [Vetor 2 - Janela Biológica e Cronologia]:</strong> Autoanticorpos lúpicos não são sincrônicos aos primeiros sintomas; eles circulam de forma oculta por anos antes dos primeiros sintomas e persistem. <em>(Ímã cognitivo: Vincular a síntese de imunoglobulinas patogênicas exclusivamente ao pico de febre aguda.)</em>",
+        "<strong>B está incorreta [Vetor 2 - Janela Biológica e Cronologia]:</strong> Os autoanticorpos precedem as manifestações clínicas em anos (fase pré-clínica de perda progressiva de tolerância); não surgem após o dano consolidado. <em>(Ímã cognitivo: Acreditar que a sorologia autoimune é uma consequência tardia e não um evento precoce.)</em>",
+        "<strong>D está incorreta [Vetor 1 - Micro-Inversão Conceitual]:</strong> Autoanticorpos são o motor biológico intrínseco da doença, produzidos espontaneamente por células B autorreativas anos antes de qualquer tratamento. <em>(Ímã cognitivo: Sugerir que os autoanticorpos decorrem de um fenômeno iatrogênico medicamentoso.)</em>"
+      ],
+      "pearl": "Linha do tempo do LES: Autoanticorpos podem surgir ANOS ANTES do aparecimento das primeiras manifestações clínicas!"
+    },
+    {
+      "id": 9,
+      "tag": "Reumatologia • Imunidade Inata, TLRs e Interferon Tipo I",
+      "stem": "Ao estudar a cascata fisiopatológica do LES dividida em etapas sequenciais, um grupo de estudantes analisa a 'Etapa 1: Alteração da imunidade inata'. Nessa fase, a detecção intracelular anômala de fragmentos de ácidos nucleicos desencadeia uma resposta biológica considerada o principal marcador molecular da doença. Quais receptores e mediador molecular estão no centro dessa etapa inicial?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Receptores Toll-like 2 e 4 reconhecendo lipopolissacarídeo de bactérias gram-negativas e secretando fator de crescimento endotelial (VEGF)."
+        },
+        {
+          "letter": "B",
+          "text": "Receptores TLR7/TLR9 reconhecendo ácidos nucleicos próprios e estimulando a produção excessiva de interferon tipo I."
+        },
+        {
+          "letter": "C",
+          "text": "Receptores de histamina H1 e H2 estimulando desgranulação maciça de basófilos com liberação seletiva de leucotrienos C4."
+        },
+        {
+          "letter": "D",
+          "text": "Receptores scavenger promovendo a rápida inibição da síntese de interferon alfa com consequente imunodeficiência celular profunda."
+        }
+      ],
+      "answer": "B",
+      "rationale": "Na Etapa 1 da fisiopatologia do LES (Alteração da imunidade inata), as vias TLR7/TLR9 e outros sensores intracelulares reconhecem de forma anômala ácidos nucleicos próprios (RNA e DNA). Essa estimulação contínua provoca produção excessiva de interferon tipo I (IFN-I), que constitui o mais importante marcador molecular ('assinatura do interferon') da doença.",
+      "distractors": [
+        "<strong>A está incorreta [Vetor 4 - Mimetismo Clínico / Síndrome Vizinha]:</strong> TLR2 e TLR4 reconhecem padrões bacterianos exógenos; no LES, são os receptores endossomais TLR7 e TLR9 que reconhecem DNA e RNA próprios. <em>(Ímã cognitivo: Confundir os receptores endossomais de ácidos nucleicos (TLR7/9) com os receptores de superfície de sepse bacteriana.)</em>",
+        "<strong>C está incorreta [Vetor 4 - Mimetismo Clínico / Síndrome Vizinha]:</strong> A via molecular patognomônica é a do interferon tipo I mediada por TLR7/TLR9 na imunidade inata, e não uma reação mediada por histamina/alergia. <em>(Ímã cognitivo: Classificar o LES como um processo de hipersensibilidade imediata mediada por IgE e basófilos.)</em>",
+        "<strong>D está incorreta [Vetor 1 - Micro-Inversão Conceitual]:</strong> No LES ocorre exatamente a hiperprodução desenfreada de interferon tipo I (assinatura do interferon), que amplifica a ativação imune e a autoagressão. <em>(Ímã cognitivo: Inverter o sinal da via do interferon, postulando uma supressão em vez de superexpressão.)</em>"
+      ],
+      "pearl": "Etapa 1 da Fisiopatologia: TLR7 e TLR9 reconhecem ácidos nucleicos próprios → Hiperprodução de Interferon Tipo I (marcador central do LES)."
+    },
+    {
+      "id": 10,
+      "tag": "Reumatologia • NETs e Defeito de Clearance Celular",
+      "stem": "A patogênese do lúpus estabelece que o acúmulo contínuo de autoantígenos teciduais decorre de uma falha dupla: maior morte celular associada a um colapso na sua eliminação fisiológica. Qual evento envolvendo os leucócitos polimorfonucleares e a depuração de detritos celulares participa ativamente da fisiopatologia do LES?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Macrófagos hiperativos realizam a fagocitose ultrarrápida de todos os restos apoptóticos, esgotando os estoques nucleares e induzindo apoptose de células T."
+        },
+        {
+          "letter": "B",
+          "text": "Neutrófilos sofrem lise imediata na medula óssea, impedindo totalmente a formação de NETs e provocando ausência congênita de autoantígenos teciduais."
+        },
+        {
+          "letter": "C",
+          "text": "Ocorre síntese endotelial maciça de enzimas DNase I séricas que dissolvem precocemente qualquer material nucleico antes do contato com a circulação."
+        },
+        {
+          "letter": "D",
+          "text": "Neutrófilos formam NETs (armadilhas extracelulares de neutrófilos) e, devido à eliminação inadequada de NETs e restos celulares, ocorre acúmulo contínuo de autoantígenos."
+        }
+      ],
+      "answer": "D",
+      "rationale": "Na fisiopatologia do LES, neutrófilos ativados formam armadilhas extracelulares de neutrófilos (NETs). Concomitantemente, existe uma eliminação inadequada de NETs e de restos celulares apoptóticos (defeito de clearance). Esse acúmulo patológico expõe componentes nucleares ao sistema imune, perpetuando a estimulação antigênica crônica.",
+      "distractors": [
+        "<strong>A está incorreta [Vetor 1 - Micro-Inversão Conceitual]:</strong> No LES há um defeito primário na eliminação (clearance deficiente) de restos celulares e de NETs, permitindo que o material nuclear persista e seja reconhecido. <em>(Ímã cognitivo: Postular uma fagocitose acelerada em vez do defeito de depuração de restos celulares.)</em>",
+        "<strong>B está incorreta [Vetor 1 - Micro-Inversão Conceitual]:</strong> No LES há formação excessiva de NETs (NETose) por neutrófilos ativados; a falha na sua depuração expõe DNA e proteínas nucleares imunogênicas. <em>(Ímã cognitivo: Negar a formação de NETs e supor uma aplasia pura neutrofílica.)</em>",
+        "<strong>C está incorreta [Vetor 1 - Micro-Inversão Conceitual]:</strong> Ao contrário: há redução na degradação de NETs e persistência do material nucleoproteico extracelular que alimenta o ciclo de autoanticorpos. <em>(Ímã cognitivo: Inverter a cinética enzimática de depuração do material genético extracelular.)</em>"
+      ],
+      "pearl": "Fisiopatologia do LES: Neutrófilos formam NETs + Eliminação inadequada de restos celulares = Acúmulo sustentado de autoantígenos."
+    },
+    {
+      "id": 11,
+      "tag": "Reumatologia • Ativação de Linfócitos T e B (Ciclo Autoperpetuante)",
+      "stem": "Na dinâmica imunológica do LES, as Etapas 2 e 3 correspondem respectivamente à ativação desregulada dos linfócitos T e à ativação descontrolada dos linfócitos B. Qual conjunto de citocinas inflamatórias participa da ativação e como se encerra a interação funcional entre essas duas linhagens celulares?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Citocinas como IL-6, IL-10, IL-17 e IL-21 impulsionam a ativação celular; linfócitos B ativados produzem autoanticorpos e podem reapresentar antígenos aos linfócitos T em um ciclo autoperpetuante."
+        },
+        {
+          "letter": "B",
+          "text": "Citocinas puramente inibitórias, como IL-3 e IL-35, paralisam a diferenciação de plasmócitos, impedindo a síntese de qualquer autoanticorpo na fase crônica."
+        },
+        {
+          "letter": "C",
+          "text": "Linfócitos T reguladores proliferam em excesso e suprimem todas as células T autorreativas, confinando o LES a uma condição não inflamatória assintomática."
+        },
+        {
+          "letter": "D",
+          "text": "Células B realizam fagocitose lítica de linfócitos T, extinguindo o diálogo celular e bloqueando a produção humoral de imunoglobulinas."
+        }
+      ],
+      "answer": "A",
+      "rationale": "Na Etapa 2 e 3 da fisiopatologia, autoantígenos de células apoptóticas são apresentados aos linfócitos T, com redução da função reguladora das Tregs. Citocinas fundamentais como IL-6, IL-10, IL-17 e IL-21 contribuem para ativação e expansão. Os linfócitos T ativados estimulam células B autorreativas, que produzem grandes quantidades de autoanticorpos e também reapresentam antígenos aos linfócitos T, estabelecendo um ciclo autoperpetuante de autoimunidade crônica.",
+      "distractors": [
+        "<strong>B está incorreta [Vetor 1 - Micro-Inversão Conceitual]:</strong> Citocinas como IL-6, IL-10, IL-17 e IL-21 são pró-inflamatórias e promovem a diferenciação e ativação crônica das linhagens T e B no LES. <em>(Ímã cognitivo: Sugerir que a cascata é mediada por citocinas inibitórias em vez de estimulatórias.)</em>",
+        "<strong>C está incorreta [Vetor 1 - Micro-Inversão Conceitual]:</strong> No LES ocorre justamente desregulação dos linfócitos T com redução da função reguladora das Tregs, permitindo a expansão de clones autorreativos. <em>(Ímã cognitivo: Afirmar que a função reguladora das Tregs está aumentada quando na verdade está deficiente.)</em>",
+        "<strong>D está incorreta [Vetor 1 - Micro-Inversão Conceitual]:</strong> Células B e T estimulam-se mutuamente: células B ativadas por T produzem autoanticorpos e funcionam como células apresentadoras de antígenos às células T. <em>(Ímã cognitivo: Descrever um processo de canibalismo celular entre linfócitos T e B desprovido de base imunológica.)</em>"
+      ],
+      "pearl": "Ciclo autoperpetuante do LES: Citocinas-chave (IL-6, IL-10, IL-17, IL-21) + Células B produzem autoanticorpos e reapresentam antígenos a células T."
+    },
+    {
+      "id": 12,
+      "tag": "Reumatologia • Imunocomplexos, Complemento e Lesão Tecidual",
+      "stem": "Uma paciente com LES em exacerbação grave apresenta vasculite cutânea ulcerada, nefrite aguda e níveis séricos de C3 e C4 indetectáveis. Ao explicar à equipe a Etapa 4 da cascata fisiopatológica, o preceptor destaca como os imunocomplexos causam lesão orgânica. Qual é a sequência molecular e celular responsável pela destruição tecidual nessa etapa?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Deposição mecânica de cristais inorgânicos de apatita na luz de arteríolas aferentes, provocando fibrose vascular na ausência de imunoglobulinas."
+        },
+        {
+          "letter": "B",
+          "text": "União de autoanticorpos com autoantígenos formando imunocomplexos circulantes, cuja deposição nos tecidos ativa o complemento e recruta neutrófilos, gerando inflamação e lesão de órgãos."
+        },
+        {
+          "letter": "C",
+          "text": "Eliminação acelerada do complemento com bloqueio total da quimiotaxia leucocitária, gerando necrose tecidual asséptica puramente por isquemia neural."
+        },
+        {
+          "letter": "D",
+          "text": "Produção exclusiva de anticorpos IgE que ativam a coagulação intrínseca sem fixação de frações de complemento ou recrutamento neutrofílico."
+        }
+      ],
+      "answer": "B",
+      "rationale": "A Etapa 4 da fisiopatologia do LES (Formação de imunocomplexos e lesão tecidual) consolida a agressão aos órgãos: a ligação de autoanticorpos com seus autoantígenos específicos forma imunocomplexos. A deposição desses imunocomplexos na membrana basal e endotélio (glomérulos, pele, vasos) deflagra a ativação clássica do complemento (com consumo de C3, C4 e CH50) e recrutamento maciço de neutrófilos, culminando em liberação enzimática, inflamação aguda e dano tecidual.",
+      "distractors": [
+        "<strong>A está incorreta [Vetor 4 - Mimetismo Clínico / Síndrome Vizinha]:</strong> A lesão é imunológica por imunocomplexos (antígeno + autoanticorpo) e ativação inflamatória enzimática do complemento, e não precipitação mineral inorgânica. <em>(Ímã cognitivo: Confundir lesão por imunocomplexos lúpicos com calcifilaxia ou deposição microcristalina.)</em>",
+        "<strong>C está incorreta [Vetor 1 - Micro-Inversão Conceitual]:</strong> O consumo de complemento ocorre porque ele é ativado na superfície vascular pelos imunocomplexos, gerando anafilatoxinas (C3a, C5a) que atraem neutrófilos e geram lise tecidual. <em>(Ímã cognitivo: Sugerir que a falta de complemento causa isquemia neural e bloqueia os leucócitos.)</em>",
+        "<strong>D está incorreta [Vetor 4 - Mimetismo Clínico / Síndrome Vizinha]:</strong> O mecanismo da lesão no LES é hipersensibilidade do tipo III mediada por imunocomplexos (IgG/IgM), fixação clássica do complemento (C3, C4) e influxo neutrofílico. <em>(Ímã cognitivo: Trocar a resposta imune de imunocomplexos por hipersensibilidade tipo I alérgica mediada por IgE.)</em>"
+      ],
+      "pearl": "Etapa 4 da Fisiopatologia: Autoantígenos + Autoanticorpos → Imunocomplexos → Deposição tecidual + Ativação do complemento + Neutrófilos → Dano a órgãos."
+    },
+    {
+      "id": 13,
+      "tag": "Reumatologia • Sintomas Constitucionais e Febre",
+      "stem": "Uma mulher de 23 anos é atendida na UPA com queixa de fadiga progressiva incapacitante, mal-estar generalizado, febre diária de até 38,2 °C, anorexia e perda ponderal não intencional de 5 kg nas últimas 6 semanas. Relata ainda queda de cabelo recente. Sinais vitais: PA: 110/70 mmHg; FC: 84 bpm; FR: 16 irpm; Temperatura axilar: 38,0 °C. Considerando a epidemiologia dos sintomas constitucionais no LES e o raciocínio clínico diante da febre, qual é a conduta e interpretação correta?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sintomas constitucionais ocorrem em mais de 90% dos pacientes, frequentemente como manifestação inicial; no entanto, a febre exige diagnóstico diferencial com infecção ou eventos tromboembólicos."
+        },
+        {
+          "letter": "B",
+          "text": "A febre no paciente com LES é invariavelmente causada por malária transfusional, indicando o início empírico imediato de primaquina em altas doses."
+        },
+        {
+          "letter": "C",
+          "text": "A fadiga e a perda ponderal no LES decorrem exclusivamente de hipotireoidismo iatrogênico, não fazendo parte das manifestações intrínsecas da afecção autoimune."
+        },
+        {
+          "letter": "D",
+          "text": "Sintomas constitucionais estão presentes em menos de 10% dos casos no início, e a presença de febre exclui terminantemente a hipótese de infecção secundária concomitante."
+        }
+      ],
+      "answer": "A",
+      "rationale": "Os sintomas constitucionais (fadiga, mal-estar, febre, anorexia e perda de peso) estão presentes em mais de 90% dos pacientes com LES e frequentemente constituem a manifestação inaugural da afecção. Um ponto de extremo valor prático é que a febre pode ser decorrente da própria atividade inflamatória do LES, mas sempre exige avaliação rigorosa para descartar infecções oportunistas ou eventos tromboembólicos.",
+      "distractors": [
+        "<strong>B está incorreta [Vetor 4 - Mimetismo Clínico / Síndrome Vizinha]:</strong> A febre decorre da própria atividade lúpica, de infecção secundária oportunista ou evento tromboembólico; não há relação com malária transfusional. <em>(Ímã cognitivo: Formular etiologia infecciosa absurda para justificar a prescrição empírica errônea de antimaláricos.)</em>",
+        "<strong>C está incorreta [Vetor 1 - Micro-Inversão Conceitual]:</strong> Fadiga, febre, anorexia, mal-estar e perda de peso são sintomas constitucionais centrais e diretamente causados pelas citocinas inflamatórias do LES. <em>(Ímã cognitivo: Atribuir os sintomas constitucionais clássicos do lúpus a uma complicação endocrinológica secundária.)</em>",
+        "<strong>D está incorreta [Vetor 1 - Micro-Inversão Conceitual]:</strong> Constitucionais ocorrem em >90% e frequentemente abrem o quadro; além disso, febre no paciente lúpico nunca descarta infecção (pelo contrário, infecção é a principal causa de óbito). <em>(Ímã cognitivo: Minimizar a prevalência dos sintomas constitucionais e negligenciar o risco de infecções graves associadas.)</em>"
+      ],
+      "pearl": "Sintomas constitucionais: presentes em >90% dos pacientes! Febre no lúpus: pensar em atividade de doença, infecção ou eventos tromboembólicos."
+    },
+    {
+      "id": 14,
+      "tag": "Reumatologia • Eritema Malar & Fotossensibilidade",
+      "stem": "Uma jovem de 20 anos procura o pronto-atendimento com lesão eritematosa sobre as regiões malares e dorso do nariz, de início súbito após um fim de semana ensolarado em clube recreativo. Ao exame físico dermatológico, nota-se distribuição clássica em asa de borboleta, com preservação nítida e ausência de lesões sobre os sulcos nasolabiais. Não há comedões ou pústulas. Qual assertiva define adequadamente o acometimento cutâneo agudo e a fotossensibilidade no LES?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "O rash malar acomete obrigatoriamente os sulcos nasolabiais e a comissura labial, cursando invariavelmente com descamação e pústulas centrofaciais purulentas."
+        },
+        {
+          "letter": "B",
+          "text": "As lesões cutâneas agudas do LES são invariavelmente ulceradas, necrosantes e provocam destruição óssea com perfuração do septo nasal em 48 horas."
+        },
+        {
+          "letter": "C",
+          "text": "A fotossensibilidade no LES é um achado excepcional restrito a menos de 5% dos doentes, dispensando medidas de barreira ou fotoproteção solar tópica."
+        },
+        {
+          "letter": "D",
+          "text": "O eritema malar poupa caracteristicamente os sulcos nasolabiais, e a fotossensibilidade afeta mais de 90% dos portadores da doença, integrando as manifestações mucocutâneas presentes em mais de 80% dos casos."
+        }
+      ],
+      "answer": "D",
+      "rationale": "As manifestações mucocutâneas ocorrem em mais de 80% dos pacientes com LES. A fotossensibilidade é amplamente dominante (>90%). O eritema malar (ou rash em 'asa de borboleta') localiza-se nas áreas malares e ponte nasal, tendo como marco semiológico fundamental o fato de poupar os sulcos nasolabiais. Trata-se da manifestação clássica do lúpus cutâneo agudo.",
+      "distractors": [
+        "<strong>A está incorreta [Vetor 4 - Mimetismo Clínico / Síndrome Vizinha]:</strong> O eritema malar do LES caracteristicamente poupa os sulcos nasolabiais; acometimento com pústulas e comedões é característico de acne ou rosácea. <em>(Ímã cognitivo: Confundir o eritema malar lúpico com rosácea ou dermatite seborreica facial.)</em>",
+        "<strong>B está incorreta [Vetor 1 - Micro-Inversão Conceitual]:</strong> O rash malar agudo é um eritema fotossensível não cicatricial e não causa necrose óssea ou perfuração septal destrutiva. <em>(Ímã cognitivo: Superdimensionar a agressividade do eritema malar atribuindo-lhe caráter necrosante mutilante.)</em>",
+        "<strong>C está incorreta [Vetor 1 - Micro-Inversão Conceitual]:</strong> A fotossensibilidade está presente em mais de 90% dos pacientes com LES, sendo a principal recomendação o uso rigoroso diário de fotoproteção. <em>(Ímã cognitivo: Reduzir dramaticamente a frequência de fotossensibilidade e contraindicar a fotoproteção.)</em>"
+      ],
+      "pearl": "Eritema malar em asa de borboleta: ponte nasal e áreas malares POUPANDO OS SULCOS NASOLABIAIS! Fotossensibilidade em >90%."
+    },
+    {
+      "id": 15,
+      "tag": "Reumatologia • Espectro Cutâneo: Agudo, Subagudo e Discoide",
+      "stem": "Em um ambulatório de dermatologia e reumatologia são avaliadas duas pacientes lúpicas: a Paciente 1 apresenta lesões anulares policíclicas e papuloescamosas em tronco e ombros após exposição ao sol, que regridem sem deixar cicatrizes residuais; a Paciente 2 apresenta placas eritematosas com hiperceratose, descamação aderente e tamponamento folicular no couro cabeludo, evoluindo com atrofia cicatricial e áreas de alopecia permanente. Quais são as formas de lúpus cutâneo apresentadas respectivamente?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ambas as pacientes apresentam lúpus cutâneo túmido com fibrose dérmica hipertrófica queloidiana generalizada e necrose de pavilhão auricular."
+        },
+        {
+          "letter": "B",
+          "text": "A Paciente 1 apresenta lúpus cutâneo subagudo (lesões anulares/policíclicas, não cicatriciais) e a Paciente 2 apresenta lúpus discoide (placas descamativas que geram cicatriz e alopecia permanente)."
+        },
+        {
+          "letter": "C",
+          "text": "A Paciente 1 apresenta lúpus discoide crônico destrutivo e a Paciente 2 apresenta rash malar agudo em asa de borboleta reversível sem fibrose."
+        },
+        {
+          "letter": "D",
+          "text": "A Paciente 1 tem erupção por hipersensibilidade alimentar pura e a Paciente 2 possui alopecia areata autoimune sem qualquer relação com o espectro lúpico."
+        }
+      ],
+      "answer": "B",
+      "rationale": "O espectro mucocutâneo do LES divide-se fundamentalmente em: (1) Lúpus cutâneo agudo (eritema malar ou erupção maculopapular fotossensível); (2) Lúpus cutâneo subagudo (lesões anulares/policíclicas ou papuloescamosas, caracteristicamente não cicatriciais); e (3) Lúpus discoide / crônico (placas eritematosas descamativas com atrofia central, que evoluem para cicatrizes deprimidas e alopecia permanente).",
+      "distractors": [
+        "<strong>A está incorreta [Vetor 4 - Mimetismo Clínico / Síndrome Vizinha]:</strong> Lúpus subagudo e discoide são entidades distintas com potenciais cicatriciais completamente diferentes (o subagudo não cicatriza; o discoide deixa cicatriz e atrofia). <em>(Ímã cognitivo: Ignorar as características clássicas das lesões e inventar manifestação queloidiana.)</em>",
+        "<strong>C está incorreta [Vetor 1 - Micro-Inversão Conceitual]:</strong> Inverteu os diagnósticos: a forma anular não cicatricial é o lúpus cutâneo subagudo, enquanto as placas descamativas que causam cicatriz e alopecia permanente são o lúpus discoide. <em>(Ímã cognitivo: Trocar a classificação das formas de acometimento cutâneo subagudo e crônico.)</em>",
+        "<strong>D está incorreta [Vetor 4 - Mimetismo Clínico / Síndrome Vizinha]:</strong> Ambas as apresentações constituem o espectro formal de manifestações mucocutâneas do LES descritas nas diretrizes oficiais da aula. <em>(Ímã cognitivo: Descartar a doença reumatológica atribuindo as lesões a afecções alérgicas comuns.)</em>"
+      ],
+      "pearl": "Lúpus Subagudo: anular/policíclico, NÃO CICATRICIAL. Lúpus Discoide: placas descamativas, CICATRIZES e ALOPECIA PERMANENTE."
+    },
+    {
+      "id": 16,
+      "tag": "Reumatologia • Úlceras Orais e Alopecia",
+      "stem": "Durante o exame físico de uma paciente de 26 anos com suspeita de LES, o médico inspeciona a cavidade oral e o couro cabeludo. À oroscopia, identifica duas úlceras superficiais na mucosa do palato duro; a paciente fica surpresa ao saber das lesões, pois afirma não sentir dor ou desconforto algum. Ao teste de tração suave dos cabelos, há desprendimento fácil de múltiplos fios em faixa temporal (queda capilar difusa). Como se caracterizam as úlceras orais e a alopecia na atividade clínica do LES?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "As úlceras orais do LES são obrigatoriamente dolorosas e exsudativas com necrose de gengivas, enquanto a alopecia é sempre cicatricial irreversível."
+        },
+        {
+          "letter": "B",
+          "text": "A alopecia do paciente com lúpus decorre exclusivamente de desnutrição proteico-calórica secundária, não integrando os critérios e manifestações mucocutâneas."
+        },
+        {
+          "letter": "C",
+          "text": "A presença de úlceras orais indolores descarta a hipótese de lúpus eritematoso sistêmico, sendo achado patognomônico de líquen plano erosivo oral isolado."
+        },
+        {
+          "letter": "D",
+          "text": "As úlceras orais no LES são frequentemente indolores e a alopecia pode se manifestar de forma não cicatricial (eflúvio na fase de atividade lúpica) ou cicatricial (no lúpus discoide)."
+        }
+      ],
+      "answer": "D",
+      "rationale": "No acometimento mucocutâneo do LES, as úlceras orais (localizadas frequentemente no palato ou mucosa oral) têm como característica marcante serem 'frequentemente indolores', sendo muitas vezes descobertas apenas ao exame físico pelo médico. A alopecia pode ser não cicatricial (queda difusa e eflúvio telógeno que reverte com o controle da atividade inflamatória) ou cicatricial (com destruição definitiva do folículo, típica das placas do lúpus discoide).",
+      "distractors": [
+        "<strong>A está incorreta [Vetor 1 - Micro-Inversão Conceitual]:</strong> As úlceras orais do LES são caracteristicamente indolores (o que ajuda a diferenciá-las de aftas comuns e herpes); a alopecia no surto sistêmico é comumente não cicatricial. <em>(Ímã cognitivo: Confundir a úlcera indolor lúpica com estomatite herpética dolorosa e afirmar que toda alopecia é cicatricial.)</em>",
+        "<strong>B está incorreta [Vetor 1 - Micro-Inversão Conceitual]:</strong> A alopecia (cicatricial ou não cicatricial) é manifestação mucocutânea clássica decorrente da inflamação sistêmica e agressão ao folículo capilar. <em>(Ímã cognitivo: Desvincular a alopecia da atividade autoimune do lúpus eritematoso sistêmico.)</em>",
+        "<strong>C está incorreta [Vetor 1 - Micro-Inversão Conceitual]:</strong> Úlceras orais indolores no palato duro constituem manifestação clássica do LES e pontuam nos critérios diagnósticos e de atividade de doença. <em>(Ímã cognitivo: Negar o valor diagnóstico das úlceras indolores no LES.)</em>"
+      ],
+      "pearl": "Semiologia do LES: Úlceras orais FREQUENTEMENTE INDOLORES! Alopecia: pode ser não cicatricial (na atividade) ou cicatricial (no discoide)."
+    },
+    {
+      "id": 17,
+      "tag": "Reumatologia • Lesões Vasculares Cutâneas e Fotoproteção",
+      "stem": "Uma mulher de 27 anos com diagnóstico de LES relata que no inverno desenvolve episódios em que as extremidades dos dedos das mãos tornam-se subitamente pálidas, seguidas de coloração azulada/arroxeada e dor pulsante ao reaquecimento. Ao exame dermatológico, nota-se também livedo reticular e eritema periungueal. A paciente questiona sobre os cuidados com exposição à luz natural e artificial. Qual conduta não farmacológica preventiva e manifestações vasculares cutâneas associadas estão descritas nas diretrizes?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fenômeno de Raynaud, livedo reticular, vasculite cutânea e eritema periungueal são manifestações cutâneas vasculares do LES, exigindo uso diário mandatória de protetor solar, chapéu e mangas longas."
+        },
+        {
+          "letter": "B",
+          "text": "O livedo reticular é uma lesão puramente estética provocada por deficiência de vitamina C, dispensando qualquer fotoproteção ou investigação vascular."
+        },
+        {
+          "letter": "C",
+          "text": "A fotoproteção física com chapéu e roupas compridas está indicada apenas para pacientes do sexo masculino acima de 60 anos com acometimento renal Classe IV."
+        },
+        {
+          "letter": "D",
+          "text": "O fenômeno de Raynaud exclui formalmente o acometimento cutâneo lúpico, e a paciente deve realizar banhos de sol desprotegida por 1 hora ao meio-dia para vasodilatação."
+        }
+      ],
+      "answer": "A",
+      "rationale": "Além das lesões lúpicas típicas, as manifestações mucocutâneas incluem alterações vasculares como Fenômeno de Raynaud, vasculite cutânea, livedo reticular, urticária, eritema periungueal e tromboflebite superficial. Como a radiação UV exacerba todas as manifestações clínicas, a regra de ouro estabelecida na aula é: todo paciente com lúpus deve utilizar protetor solar, chapéu e blusa de mangas longas todos os dias!",
+      "distractors": [
+        "<strong>B está incorreta [Vetor 1 - Micro-Inversão Conceitual]:</strong> O livedo reticular decorre de vasculopatia inflamatória ou trombose microvascular (associada a anticorpos antifosfolípides); fotoproteção é mandatória para todo paciente. <em>(Ímã cognitivo: Desconsiderar a vasculopatia do LES e atribuí-la a hipovitaminose inofensiva.)</em>",
+        "<strong>C está incorreta [Vetor 1 - Micro-Inversão Conceitual]:</strong> A fotoproteção diária (protetor solar, chapéu, roupas de mangas longas) é recomendada para TODOS os pacientes com lúpus todos os dias, independentemente de gênero ou idade. <em>(Ímã cognitivo: Restringir uma medida preventiva universal a um subgrupo aleatório de pacientes.)</em>",
+        "<strong>D está incorreta [Vetor 1 - Micro-Inversão Conceitual]:</strong> O fenômeno de Raynaud é comum no LES; banhos de sol sem proteção são expressamente contraindicados, pois desencadeiam exacerbações cutâneas e sistêmicas. <em>(Ímã cognitivo: Prescrever exposição solar direta para tratar vasoespasmo em paciente fotossensível lúpica.)</em>"
+      ],
+      "pearl": "Manifestações vasculares: Raynaud, livedo, vasculite, eritema periungueal. Regra mandatória: Protetor solar + chapéu + manga longa TODOS OS DIAS!"
+    },
+    {
+      "id": 18,
+      "tag": "Reumatologia • Manifestações Musculoesqueléticas",
+      "stem": "Uma jovem de 28 anos, portadora de LES, apresenta queixa de dor e inchaço simétrico nas articulações das mãos (punhos, metacarpofalângicas e interfalângicas proximais) há 4 semanas, com rigidez matinal de 40 minutos. As radiografias simples das mãos e punhos evidenciam apenas aumento de partes moles periarticular, sem qualquer evidência de erosões ósseas marginais, cistos subcondrais ou destruição da cartilagem. Qual assertiva sintetiza a semiologia musculoesquelética no LES?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Acomete menos de 15% dos casos, manifestando-se invariavelmente como monoartrite séptica destrutiva com erosões osteolíticas graves em saca-bocado."
+        },
+        {
+          "letter": "B",
+          "text": "O acometimento articular no LES é puramente degenerativo hipertrófico osteofitário, poupando punhos e mãos e acometendo exclusivamente o esqueleto axial lombo-sacro."
+        },
+        {
+          "letter": "C",
+          "text": "Acomete de 80% a 90% dos pacientes, manifestando-se tipicamente como artrite inflamatória, simétrica e caracteristicamente não erosiva."
+        },
+        {
+          "letter": "D",
+          "text": "A artrite do LES é indistinguível da artrite reumatoide, promovendo destruição rápida com ancilose óssea intercarpiana completa em mais de 70% dos indivíduos."
+        }
+      ],
+      "answer": "C",
+      "rationale": "As manifestações musculoesqueléticas estão presentes em 80% a 90% dos pacientes com LES. Artralgia e/ou artrite são extremamente comuns. A artrite do lúpus é caracterizada por ser tipicamente inflamatória, simétrica e não erosiva, acometendo preferencialmente as pequenas articulações das mãos e os punhos.",
+      "distractors": [
+        "<strong>A está incorreta [Vetor 1 - Micro-Inversão Conceitual]:</strong> O envolvimento musculoesquelético afeta 80-90% dos pacientes, sendo tipicamente poliartrite simétrica e NÃO EROSIVA nas radiografias simples. <em>(Ímã cognitivo: Reduzir drasticamente a incidência articular e caracterizá-la como erosiva monoarticular.)</em>",
+        "<strong>B está incorreta [Vetor 4 - Mimetismo Clínico / Síndrome Vizinha]:</strong> O acometimento é inflamatório autoimune com predileção por pequenas articulações das mãos e punhos; não é artrose osteofitária ou espondiloartrite pura. <em>(Ímã cognitivo: Rotular a artrite inflamatória autoimune como osteoartrite mecânica senil.)</em>",
+        "<strong>D está incorreta [Vetor 4 - Mimetismo Clínico / Síndrome Vizinha]:</strong> Diferente da artrite reumatoide clássica (que é erosiva e deformante por destruição óssea), a artrite lúpica típica é inflamatória e não erosiva. <em>(Ímã cognitivo: Confundir o padrão não erosivo do LES com a artrite reumatoide erosiva clássica.)</em>"
+      ],
+      "pearl": "Artrite no LES (80-90% dos pacientes): Inflamatória + Simétrica + NÃO EROSIVA + Pequenas articulações de mãos e punhos."
+    },
+    {
+      "id": 19,
+      "tag": "Reumatologia • Artropatia de Jaccoud",
+      "stem": "Mulher de 36 anos, com diagnóstico de LES há 9 anos, apresenta em consulta deformidades evidentes nas mãos: desvio ulnar dos dedos, deformidade em pescoço de cisne e botoeira, mimetizando o aspecto visual de uma artrite reumatoide avançada. No entanto, ao apoiar as palmas das mãos espalmadas sobre a superfície plana da mesa, as deformidades são prontamente alinhadas e reduzidas pelo examinador. O exame radiográfico descarta erosões ósseas. Qual é o diagnóstico e o mecanismo dessa afecção articular?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Artrite reumatoide erosiva superposta (Rhupus) em estágio de ancilose fixa e destruição óssea marginal irreverssível com luxação anatômica rígida."
+        },
+        {
+          "letter": "B",
+          "text": "Mão senil por osteoartrite grave com nódulos ósseos rígidos de Heberden e destruição da articulação interfalângica distal com desvio permanente."
+        },
+        {
+          "letter": "C",
+          "text": "Artropatia de Jaccoud, caracterizada por deformidades articulares nas mãos redutíveis/reversíveis e sem erosões ósseas, decorrentes de frouxidão tendínea e capsular."
+        },
+        {
+          "letter": "D",
+          "text": "Gota tofácea crônica poliarticular com depósitos de urato de sódio intra-articular destruindo os tendões extensores dos dedos."
+        }
+      ],
+      "answer": "C",
+      "rationale": "A Artropatia de Jaccoud acomete um subgrupo de pacientes com LES de longa evolução: desenvolvem-se deformidades nas mãos (desvio ulnar, pescoço de cisne, abotoadura) que visualmente lembram muito a artrite reumatoide. Contudo, ao contrário da AR, na Artropatia de Jaccoud NÃO HÁ EROSÕES ÓSSEAS no raio-X e as deformidades são caracteristicamente REVERSÍVEIS (redutíveis manualmente à palpação ou apoio plano).",
+      "distractors": [
+        "<strong>A está incorreta [Vetor 4 - Mimetismo Clínico / Síndrome Vizinha]:</strong> A Artropatia de Jaccoud é sem erosões e reversível/redutível manualmente; o Rhupus cursa com erosões verdadeiras da AR associadas a rigidez fixa. <em>(Ímã cognitivo: Confundir as deformidades redutíveis de Jaccoud com sequelas erosivas fixas da artrite reumatoide.)</em>",
+        "<strong>B está incorreta [Vetor 4 - Mimetismo Clínico / Síndrome Vizinha]:</strong> Na artropatia de Jaccoud não há proliferação osteofitária ou rigidez óssea; as deformidades são laxas, redutíveis e sem erosões ósseas. <em>(Ímã cognitivo: Equiparar deformidades tendíneas reversíveis a nódulos ósseos osteoartríticos fixos.)</em>",
+        "<strong>D está incorreta [Vetor 4 - Mimetismo Clínico / Síndrome Vizinha]:</strong> Trata-se da clássica artropatia de Jaccoud do lúpus; a gota produz tofos e erosões em saca-bocado com bordas escleróticas sob hiperuricemia crônica. <em>(Ímã cognitivo: Atribuir a deformidade a artropatia por microcristais de monourato de sódio.)</em>"
+      ],
+      "pearl": "Artropatia de Jaccoud: Lembra Artrite Reumatoide, MAS SEM EROSÕES e CARACTERISTICAMENTE REVERSÍVEL/REDUTÍVEL!"
+    },
+    {
+      "id": 20,
+      "tag": "Reumatologia • Associação com Fibromialgia",
+      "stem": "Uma paciente de 34 anos com LES estável clinicamente em uso de hidroxicloroquina retorna ao consultório queixando-se de dor difusa pelo corpo há 6 meses, associada a sono não reparador, cefaleia tensional e sensação de esgotamento físico constante. Os exames laboratoriais atuais mostram: PCR e VHS rigorosamente normais, C3 e C4 dentro dos limites da normalidade, urina I sem proteinúria e ausência de sinovite articular ativa. Ao exame físico, o médico constata múltiplos 'tender points' dolorosos difusos. Qual condição clínica e orientação terapêutica estão indicadas?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A paciente apresenta rabdomiólise autoimune lúpica com necrose muscular maciça, exigindo hemodiálise profilática e plasmaférese terapêutica de urgência."
+        },
+        {
+          "letter": "B",
+          "text": "O LES cursa com maior risco de fibromialgia associada; o manejo desse quadro doloroso requer controle da dor com medidas não farmacológicas e neuromoduladores, sem indicar aumento de imunossupressores."
+        },
+        {
+          "letter": "C",
+          "text": "O quadro corresponde a osteomielite multifocal bacteriana aguda secundária ao uso de antimaláricos, com indicação imediata de vancomicina venosa."
+        },
+        {
+          "letter": "D",
+          "text": "A dor difusa traduz flare fulminante de vasculite sistêmica em órgãos nobres, indicando pulsoterapia imediata com 1 g de metilprednisolona venosa por 5 dias."
+        }
+      ],
+      "answer": "B",
+      "rationale": "Pacientes com LES apresentam um 'maior risco de fibromialgia'. É fundamental que o médico assistente saiba diferenciar a dor crônica generalizada não inflamatória (com pontos dolorosos/tender points, sono não reparador e fadiga, sem elevação de provas inflamatórias ou consumo de complemento) de um flare de atividade articular lúpica, evitando o uso inapropriado e iatrogênico de doses elevadas de corticosteroides.",
+      "distractors": [
+        "<strong>A está incorreta [Vetor 3 - Salto de Etapa / Precipitação]:</strong> A ausência de fraqueza proximal, CPK normal e tender points dolorosos confirmam fibromialgia, sem necessidade de terapias dialíticas invasivas. <em>(Ímã cognitivo: Superestimar queixas de mialgia difusa e postular síndrome de lise muscular grave.)</em>",
+        "<strong>C está incorreta [Vetor 4 - Mimetismo Clínico / Síndrome Vizinha]:</strong> Não há infecção óssea; trata-se de síndrome de amplificação dolorosa (fibromialgia associada), muito prevalente em pacientes com LES. <em>(Ímã cognitivo: Confundir fibromialgia com osteomielite bacteriana disseminada sem febre ou sinais flogísticos.)</em>",
+        "<strong>D está incorreta [Vetor 3 - Salto de Etapa / Precipitação]:</strong> A presença de dor crônica generalizada com provas de atividade normais e sem sinovite é típica de fibromialgia (frequente no LES); pulsoterapia nesse caso não trata e gera iatrogenia. <em>(Ímã cognitivo: Interpretar fibromialgia associada como flare inflamatório grave e indicar corticoterapia venosa em altas doses.)</em>"
+      ],
+      "pearl": "Risco musculoesquelético: Portadores de LES têm maior risco de fibromialgia! Diferenciar dor nociplástica de atividade inflamatória."
+    },
+    {
+      "id": 21,
+      "tag": "Reumatologia • Manifestações Hematológicas: Tipos de Anemia",
+      "stem": "Mulher de 25 anos com LES em acompanhamento ambulatorial realiza exames laboratoriais: Hemoglobina: 10,4 g/dL; VCM: 88 fL; HCM: 29 pg; Ferritina sérica: 280 ng/mL; Ferro sérico: 42 mcg/dL; Saturação de transferrina: 16%; Teste de Coombs direto: negativo; Bilirrubina total: 0,6 mg/dL; DHL: 180 U/L. Considerando os dados epidemiológicos e laboratoriais das manifestações hematológicas no LES, qual é a prevalência e a natureza predominante da anemia nessa população?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A anemia ocorre em cerca de 50% dos pacientes, sendo predominantemente do tipo 'doença crônica' (normocítica e normocrônica, não constituindo critério diagnóstico), enquanto a anemia hemolítica ocorre em apenas cerca de 10%."
+        },
+        {
+          "letter": "B",
+          "text": "Toda anemia encontrada no LES é anemia hemolítica autoimune com teste de Coombs positivo obrigatório em 100% dos portadores da doença."
+        },
+        {
+          "letter": "C",
+          "text": "A anemia manifesta-se em menos de 2% dos pacientes, sendo invariavelmente do tipo megaloblástica por deficiência de cobalamina associada a gastrite atrófica."
+        },
+        {
+          "letter": "D",
+          "text": "A anemia de doença crônica normocítica e normocrônica é o principal critério de classificação hematológico isolado no escore EULAR/ACR 2019."
+        }
+      ],
+      "answer": "A",
+      "rationale": "A anemia ocorre em cerca de 50% dos pacientes com LES. Destes, a grande maioria apresenta anemia de doença crônica (normocítica e normocrônica), que NÃO é critério de diagnóstico/classificação. Apenas cerca de 10% dos pacientes apresentam anemia hemolítica autoimune (AHAI), caracterizada por Coombs direto positivo, elevação de DHL, reticulocitose e hiperbilirrubinemia indireta.",
+      "distractors": [
+        "<strong>B está incorreta [Vetor 1 - Micro-Inversão Conceitual]:</strong> A anemia hemolítica autoimune Coombs positiva é minoria, acometendo somente cerca de 10% dos pacientes com LES; a maioria (50%) tem anemia de doença crônica. <em>(Ímã cognitivo: Generalizar a anemia hemolítica autoimune como se representasse a totalidade dos quadros anêmicos.)</em>",
+        "<strong>C está incorreta [Vetor 1 - Micro-Inversão Conceitual]:</strong> A anemia é muito frequente (ocorre em 50% dos pacientes) e a causa principal é inflamatória (anemia de doença crônica normo/normo); a anemia megaloblástica não é a típica do LES. <em>(Ímã cognitivo: Minimizar a prevalência da anemia e classificá-la incorretamente como megaloblástica.)</em>",
+        "<strong>D está incorreta [Vetor 1 - Micro-Inversão Conceitual]:</strong> A anemia de doença crônica normo/normo NÃO É critério diagnóstico de classificação no LES; apenas a anemia hemolítica autoimune pontua no domínio hematológico. <em>(Ímã cognitivo: Confundir a presença frequente de anemia inflamatória com um critério diagnóstico classificatório formal.)</em>"
+      ],
+      "pearl": "Anemia no LES: Ocorre em 50% dos pacientes → 50% doença crônica (normo/normo, NÃO é critério) e SOMENTE 10% é hemolítica (critério de classificação)."
+    },
+    {
+      "id": 22,
+      "tag": "Reumatologia • Citopenias como Marcadores de Atividade",
+      "stem": "Uma mulher de 22 anos é admitida no pronto-atendimento com febre há 5 dias, artralgia inflamatória e exacerbação de rash malar. O hemograma de urgência revela: Hemoglobina: 11,2 g/dL; Leucócitos totais: 2.700/mm³ (VR: 4.000 a 10.000/mm³); Linfócitos totais: 620/mm³ (VR: 1.000 a 3.000/mm³); Plaquetas: 125.000/mm³ (VR: 150.000 a 450.000/mm³). A paciente não faz uso de imunossupressores. Qual é o significado dessas alterações hematológicas no curso clínico do LES?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A contagem de plaquetas de 125.000/mm³ constitui emergência hematológica com risco iminente de hemorragia do sistema nervoso central, exigindo transfusão de plaquetas imediata."
+        },
+        {
+          "letter": "B",
+          "text": "A leucopenia e a linfopenia representam invariavelmente efeito citotóxico iatrogênico de medicações, inexistindo citopenias provocadas pela atividade intrínseca do LES."
+        },
+        {
+          "letter": "C",
+          "text": "A atividade inflamatória do LES cursa obrigatoriamente com leucocitose neutrofílica extrema acima de 30.000/mm³ acompanhada de trombocitose reacional intensa."
+        },
+        {
+          "letter": "D",
+          "text": "A leucopenia e a linfopenia são frequentes em especial durante as fases de atividade da doença, auxiliando no diagnóstico inicial, e a trombocitopenia leve afeta cerca de um terço dos pacientes."
+        }
+      ],
+      "answer": "D",
+      "rationale": "No lúpus eritematoso sistêmico, a leucopenia e a linfopenia são frequentes e ocorrem em especial durante as fases de atividade de doença, servindo de auxílio diagnóstico valioso no início do quadro e nos flares. A trombocitopenia leve acomete aproximadamente 1/3 dos pacientes lúpicos (33%), podendo surgir em fases precoces ou tardias.",
+      "distractors": [
+        "<strong>A está incorreta [Vetor 3 - Salto de Etapa / Precipitação]:</strong> Trombocitopenia leve (em torno de 100.000 a 140.000) ocorre em 1/3 dos pacientes e é assintomática, não havendo risco hemorrágico nem indicação de transfusão plaquetária. <em>(Ímã cognitivo: Precipitar conduta transfusional agressiva em paciente com plaquetopenia leve estável.)</em>",
+        "<strong>B está incorreta [Vetor 1 - Micro-Inversão Conceitual]:</strong> Leucopenia e linfopenia são manifestações primárias causadas pela própria atividade do LES (autoanticorpos antilinfócito e supressão medular imune), de grande auxílio diagnóstico. <em>(Ímã cognitivo: Atribuir a linfopenia e leucopenia puramente a toxicidade farmacológica em paciente virgem de tratamento.)</em>",
+        "<strong>C está incorreta [Vetor 1 - Micro-Inversão Conceitual]:</strong> Ao contrário de infecções bacterianas (que causam leucocitose neutrofílica), a atividade do LES cursa tipicamente com leucopenia e linfopenia periféricas. <em>(Ímã cognitivo: Esperar leucocitose com desvio na atividade autoimune do LES, confundindo com sepse bacteriana.)</em>"
+      ],
+      "pearl": "Hematologia do LES: Leucopenia e Linfopenia = Marcadores de ATIVIDADE DE DOENÇA e auxílio no diagnóstico inicial. Trombocitopenia leve em 1/3 dos casos."
+    },
+    {
+      "id": 23,
+      "tag": "Reumatologia • Manejo Terapêutico das Citopenias Lúpicas",
+      "stem": "Em discussão clínica na enfermaria, o médico assistente avalia dois casos de envolvimento hematológico no LES: o primeiro paciente apresenta trombocitopenia leve assintomática (plaquetas = 92.000/mm³); o segundo paciente apresenta anemia hemolítica autoimune sintomática grave com hemoglobina de 5,8 g/dL, taquicardia e dispneia aos mínimos esforços. Com base nas diretrizes terapêuticas apresentadas na aula de raciocínio clínico, qual é a conduta preconizada para cada perfil?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Prescrição de eritropoetina recombinante em altas doses como terapia única exclusiva para todas as formas de citopenias lúpicas, contraindicando o uso de corticosteroides."
+        },
+        {
+          "letter": "B",
+          "text": "Conduta expectante com observação clínica nas citopenias leves assintomáticas; corticoide associado ou não a imunossupressor (podendo incluir rituximabe) nos casos graves e sintomáticos."
+        },
+        {
+          "letter": "C",
+          "text": "Pulsoterapia obrigatória com ciclofosfamida para ambos os pacientes no primeiro dia de internação, independentemente da gravidade ou presença de sintomas."
+        },
+        {
+          "letter": "D",
+          "text": "Esplenectomia de urgência imediata para o paciente com plaquetas de 92.000/mm³ e alta hospitalar sem medicação para o paciente com anemia hemolítica grave."
+        }
+      ],
+      "answer": "B",
+      "rationale": "O manejo das manifestações hematológicas no LES varia de acordo com a gravidade clínica: em citopenias leves assintomáticas (como plaquetopenia leve estável ou leucopenia assintomática), a conduta preconizada é a simples observação clínica e acompanhamento laboratorial. Já nos casos graves e sintomáticos (como anemia hemolítica autoimune com repercussão ou trombocitopenia grave/hemorrágica), o tratamento exige corticosteroide e/ou imunossupressor, podendo utilizar o anticorpo monoclonal anti-CD20 (rituximabe).",
+      "distractors": [
+        "<strong>A está incorreta [Vetor 5 - Protocolo Oficial SUS/PCDT vs Prática Informal]:</strong> O pilar do tratamento das citopenias autoimunes do LES sintomáticas é a imunossupressão com corticosteroide +/- rituximabe, e não estimuladores de colônia isolados. <em>(Ímã cognitivo: Substituir a imunossupressão padrão por fatores de crescimento eritroide em anemia autoimune.)</em>",
+        "<strong>C está incorreta [Vetor 3 - Salto de Etapa / Precipitação]:</strong> A conduta depende estritamente da gravidade: citopenias leves assintomáticas são conduzidas apenas com observação cuidadosa; ciclofosfamida não é indicada para plaquetopenia leve. <em>(Ímã cognitivo: Indicar quimioterapia imunossupressora citotóxica agressiva para alteração laboratorial branda.)</em>",
+        "<strong>D está incorreta [Vetor 3 - Salto de Etapa / Precipitação]:</strong> Inverteu a lógica clínica: citopenia leve assintomática não requer intervenção invasiva (apenas observação); casos graves sintomáticos requerem corticoide e imunossupressão/rituximabe. <em>(Ímã cognitivo: Indicar procedimento cirúrgico invasivo desnecessário na citopenia leve e omitir terapia no caso grave.)</em>"
+      ],
+      "pearl": "Tratamento hematológico no LES: Citopenias leves → Observação! Casos sintomáticos/graves → Corticoide ± Imunossupressor / Rituximabe."
+    },
+    {
+      "id": 24,
+      "tag": "Reumatologia • Nefrite Lúpica: Impacto Prognóstico e Rastreio",
+      "stem": "Uma jovem de 21 anos com diagnóstico recente de LES cutâneo-articular comparece à consulta ambulatorial de retorno assintomática. Ao exame físico: PA: 115/75 mmHg; ausência de edema maleolar ou facial. O médico residente solicita exame sumário de urina (urina tipo I / EAS), ureia, creatinina sérica e cálculo de clearance de creatinina. A paciente questiona por que precisa colher exames renais se não sente qualquer alteração na urina. Qual justificativa fundamenta essa conduta periódica?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A avaliação com urina tipo I está formalmente contraindicada em mulheres jovens por gerar 99% de resultados falso-positivos de lesão tubular."
+        },
+        {
+          "letter": "B",
+          "text": "O acometimento renal ocorre em menos de 1% dos portadores de LES, sendo a avaliação urinária justificada apenas se houver anasarca com insuficiência cardíaca congestiva."
+        },
+        {
+          "letter": "C",
+          "text": "A nefrite lúpica ocorre em cerca de 50% dos pacientes, é uma das manifestações de maior impacto prognóstico e a avaliação renal deve ser sistemática mesmo na ausência de sintomas clínicos."
+        },
+        {
+          "letter": "D",
+          "text": "A nefrite no LES é invariavelmente dolorosa, com cólica nefrética lombar intensa desde o primeiro dia, dispensando exames na ausência de sintomas álgicos locais."
+        }
+      ],
+      "answer": "C",
+      "rationale": "A nefrite lúpica acomete aproximadamente 50% dos pacientes e representa uma das manifestações de maior impacto no prognóstico e sobrevida do portador de LES. Como o acometimento glomerular é frequentemente assintomático no início, a avaliação laboratorial renal DEVE SER SISTEMÁTICA, com Urina I, dosagem de ureia, creatinina e clearance, mesmo na ausência de manifestações clínicas evidentes.",
+      "distractors": [
+        "<strong>A está incorreta [Vetor 1 - Micro-Inversão Conceitual]:</strong> A urina tipo I é o exame de triagem mais simples, acessível e indispensável no monitoramento renal sistemático de qualquer paciente com LES. <em>(Ímã cognitivo: Inventar contraindicação técnica a um exame de triagem não invasivo básico.)</em>",
+        "<strong>B está incorreta [Vetor 1 - Micro-Inversão Conceitual]:</strong> A nefrite lúpica ocorre em aproximadamente 50% dos pacientes (é muito prevalente) e representa a manifestação de maior impacto prognóstico, exigindo rastreio mesmo sem sintomas. <em>(Ímã cognitivo: Minimizar drasticamente a prevalência da nefrite e exigir complicações extremas para pedir urina I.)</em>",
+        "<strong>D está incorreta [Vetor 1 - Micro-Inversão Conceitual]:</strong> A nefrite lúpica é silenciosa e indolor; alterações graves como proteinúria nefrótica e cilindros hemáticos instalam-se sem dor renal, exigindo rastreio ativo. <em>(Ímã cognitivo: Confundir glomerulopatia autoimune silenciosa com nefrolitíase obstrutiva dolorosa.)</em>"
+      ],
+      "pearl": "Nefrite lúpica: Acomete ≈50% dos pacientes + Maior impacto prognóstico. Avaliação renal deve ser SISTEMÁTICA mesmo sem sintomas!"
+    },
+    {
+      "id": 25,
+      "tag": "Reumatologia • Biópsia Renal na Nefrite Lúpica",
+      "stem": "Mulher de 26 anos com LES apresenta em exames de rotina: proteinúria de 1,8 g/24 horas, sedimento urinário com 25 hemácias dismórficas por campo e cilindros granulosos, e aumento da creatinina sérica de 0,7 para 1,3 mg/dL. O reumatologista solicita avaliação nefrológica urgente para indicação de biópsia renal percutânea. Qual é a finalidade essencial da biópsia renal no manejo do acometimento renal pelo LES?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A biópsia renal serve exclusivamente para pesquisar amiloidose secundária AA por Streptococcus, inexistindo valor no estudo de imunocomplexos lúpicos."
+        },
+        {
+          "letter": "B",
+          "text": "A biópsia renal tem objetivo puramente burocrático, uma vez que todas as classes da nefrite lúpica recebem o mesmo tratamento com AINE e hidratação oral."
+        },
+        {
+          "letter": "C",
+          "text": "A realização de biópsia está estritamente contraindicada na presença de proteinúria ou hematúria, devendo ser realizada apenas quando o sedimento urinário for acelular."
+        },
+        {
+          "letter": "D",
+          "text": "É fundamental para a classificação histopatológica precisa (Classes I a VI) e definição da estratégia de tratamento mais adequada."
+        }
+      ],
+      "answer": "D",
+      "rationale": "A biópsia renal é o padrão-ouro absoluto e ferramenta fundamental na abordagem da nefrite lúpica: permite a classificação histológica detalhada (Classes I a VI da ISN/RPS), mensuração do índice de atividade (potencialmente reversível com imunossupressão) e índice de cronicidade (fibrose irreversível), além de orientar de forma personalizada a escolha do esquema imunossupressor.",
+      "distractors": [
+        "<strong>A está incorreta [Vetor 4 - Mimetismo Clínico / Síndrome Vizinha]:</strong> A biópsia permite classificar a nefrite lúpica (I a VI), avaliar atividade vs cronicidade e quantificar depósitos de imunocomplexos e esclerose. <em>(Ímã cognitivo: Deslocar o foco da biópsia para uma etiologia infecciosa alheia ao quadro lúpico.)</em>",
+        "<strong>B está incorreta [Vetor 1 - Micro-Inversão Conceitual]:</strong> O tratamento varia radicalmente conforme a classe: a Classe II requer bloqueio do SRAA, III/IV exigem imunossupressão potente com corticoide e micofenolato, e a Classe VI não se beneficia de imunossupressão. <em>(Ímã cognitivo: Afirmar que a biópsia é inútil e sugerir terapia única com analgésicos para todas as classes.)</em>",
+        "<strong>C está incorreta [Vetor 1 - Micro-Inversão Conceitual]:</strong> Proteinúria e hematúria dismórfica são justamente os principais gatilhos clínicos para indicar biópsia renal imediata no LES. <em>(Ímã cognitivo: Inverter as indicações clínicas da biópsia transformando sedimento ativo em contraindicação.)</em>"
+      ],
+      "pearl": "Nefrite lúpica e Biópsia: Fundamental para CLASSIFICAÇÃO (Classes I a VI) e DEFINIÇÃO DO TRATAMENTO!"
+    },
+    {
+      "id": 26,
+      "tag": "Reumatologia • Nefrite Lúpica Classes I e II (Mesangiais)",
+      "stem": "Uma paciente de 22 anos com LES realiza biópsia renal por micro-hematúria persistente. O laudo histopatológico descreve: 'À microscopia óptica, nota-se proliferação mesangial evidente sem envolvimento de alças capilares; a imunofluorescência demonstra depósitos de imunocomplexos restritos ao espaço mesangial'. Qual é a classe da nefrite lúpica diagnosticada e a respectiva orientação terapêutica de acordo com a aula de raciocínio clínico?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Classe IV (nefrite proliferativa difusa), exigindo transplante renal de urgência antes de qualquer tentativa de tratamento farmacológico conservador."
+        },
+        {
+          "letter": "B",
+          "text": "Classe VI (esclerosante avançada), exigindo a retirada imediata de qualquer anti-hipertensivo e início de hemodiálise de alto fluxo em 24 horas."
+        },
+        {
+          "letter": "C",
+          "text": "Classe I (mesangial mínima), e a conduta imediata consiste em pulsoterapia venosa com ciclofosfamida em dose máxima quinzenal."
+        },
+        {
+          "letter": "D",
+          "text": "Classe II (nefrite lúpica mesangial proliferativa), e o manejo indicado baseia-se no bloqueio do sistema renina-angiotensina-aldosterona (SRAA)."
+        }
+      ],
+      "answer": "D",
+      "rationale": "A classificação histopatológica divide as formas mesangiais em: Classe I (nefrite mesangial mínima: MO normal e imunocomplexos mesangiais na IF) e Classe II (nefrite mesangial proliferativa: hipercelularidade/proliferação mesangial à MO + depósitos mesangiais na IF). O tratamento específico preconizado na aula para a Classe II é o controle hemodinâmico e antiproteinúrico com o bloqueio do sistema renina-angiotensina-aldosterona (SRAA: IECA ou BRA).",
+      "distractors": [
+        "<strong>A está incorreta [Vetor 3 - Salto de Etapa / Precipitação]:</strong> Classe IV envolve proliferação endocapilar em ≥50% dos glomérulos e depósitos subendoteliais; a proliferação puramente mesangial sem capilares acometidos é Classe II. <em>(Ímã cognitivo: Confundir proliferação mesangial pura com nefrite proliferativa difusa com indicação de transplante.)</em>",
+        "<strong>B está incorreta [Vetor 1 - Micro-Inversão Conceitual]:</strong> Classe VI cursa com >90% de esclerose glomerular difusa terminal; a Classe II é forma proliferativa mesangial leve e reversível tratada com bloqueio do SRAA. <em>(Ímã cognitivo: Confundir lesão mesangial proliferativa inicial leve com fibrose terminal de Classe VI.)</em>",
+        "<strong>C está incorreta [Vetor 3 - Salto de Etapa / Precipitação]:</strong> A Classe I apresenta glomérulos normais à MO; além disso, formas mesangiais são leves (Classes I e II) e não requerem pulsoterapia agressiva com ciclofosfamida. <em>(Ímã cognitivo: Equiparar alteração proliferativa mesangial à classe I e indicar quimioterapia tóxica desnecessária.)</em>"
+      ],
+      "pearl": "Nefrite Lúpica Classes I e II: Geralmente leves. Classe I: glomérulos normais à MO. Classe II: proliferação mesangial à MO. Tratamento Classe II: Bloqueio do SRAA!"
+    },
+    {
+      "id": 27,
+      "tag": "Reumatologia • Nefrite Lúpica Classes III e IV (Proliferativas)",
+      "stem": "Uma jovem de 24 anos com LES apresenta edema periorbitário matinal, PA de 155/95 mmHg, creatinina de 1,8 mg/dL e proteinúria de 2,6 g/24h. A biópsia renal revela glomerulonefrite proliferativa endocapilar com presença de depósitos imunes subendoteliais exuberantes acometendo 65% dos glomérulos analisados. Qual é a classificação histopatológica e a estratégia farmacológica de indução preconizada na aula?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Classe I (mesangial mínima); a conduta é puramente repouso domiciliar e suspensão completa de qualquer terapia anti-hipertensiva ou diurética."
+        },
+        {
+          "letter": "B",
+          "text": "Classe III (nefrite focal), por envolver mais de 50% dos glomérulos; o tratamento preconizado é monoterapia dérmica com fotoprotetor tópico e observação ambulatorial."
+        },
+        {
+          "letter": "C",
+          "text": "Classe IV (nefrite lúpica difusa, por acometer ≥50% dos glomérulos); a terapêutica indicada consiste em terapia tripla (corticoide + micofenolato de mofetila + belimumabe ou ciclofosfamida)."
+        },
+        {
+          "letter": "D",
+          "text": "Classe V (membranosa pura); a conduta fundamenta-se no bloqueio do SRAA sem corticoide por ser estritamente proibido o uso de corticosteroides nessa condição."
+        }
+      ],
+      "answer": "C",
+      "rationale": "As formas proliferativas da nefrite lúpica representam as de maior gravidade: Classe III (nefrite lúpica focal: acomete <50% dos glomérulos) e Classe IV (nefrite lúpica difusa: acomete ≥50% dos glomérulos, sendo a forma mais comum e mais grave). Os depósitos ocorrem nos espaços mesangial, subendotelial e subepitelial. O tratamento das Classes III e IV estabelecido na aula é a terapia tripla agressiva de indução: Corticosteroide + Micofenolato de mofetila + Belimumabe (ou Ciclofosfamida).",
+      "distractors": [
+        "<strong>A está incorreta [Vetor 1 - Micro-Inversão Conceitual]:</strong> Glomerulonefrite com proliferação endocapilar em 65% dos glomérulos é Classe IV (difusa), de elevada gravidade e alta morbimortalidade. <em>(Ímã cognitivo: Subestimar a gravidade extrema da glomerulopatia proliferativa difusa.)</em>",
+        "<strong>B está incorreta [Vetor 1 - Micro-Inversão Conceitual]:</strong> Classe III é FOCAL (<50% dos glomérulos); quando acomete ≥50% é DIFUSA (Classe IV). Formas proliferativas graves exigem imunossupressão agressiva e nunca fotoprotetor isolado. <em>(Ímã cognitivo: Inverter o ponto de corte percentual de 50% entre as classes III e IV e propor conduta negligente.)</em>",
+        "<strong>D está incorreta [Vetor 1 - Micro-Inversão Conceitual]:</strong> Classe V é membranosa com espessamento capilar subepitelial; proliferação de 65% é Classe IV difusa, cujo pilar central mandatória é a corticoterapia em altas doses. <em>(Ímã cognitivo: Errar a classe histológica e afirmar que corticoides são proibidos em nefrite lúpica grave.)</em>"
+      ],
+      "pearl": "Nefrite Classes III e IV: Proliferativas e de maior gravidade! Classe III: <50% dos glomérulos (focal). Classe IV: ≥50% dos glomérulos (difusa). Terapia: Corticoide + Micofenolato + Belimumabe / Ciclofosfamida."
+    },
+    {
+      "id": 28,
+      "tag": "Reumatologia • Nefrite Lúpica Classe V (Membranosa)",
+      "stem": "Mulher de 31 anos, portadora de LES, desenvolve quadro exuberante de anasarca, com edema em membros inferiores 3+/4+ e ascite. Os exames laboratoriais revelam: Albumina sérica: 1,8 g/dL; Colesterol total: 390 mg/dL; Proteinúria de 24 horas: 5,8 g (faixa nefrótica); Sedimento urinário sem cilindros celulares ou hematúria dismórfica significativa. A biópsia renal demonstra alças capilares espessadas devido a depósitos de imunocomplexos subepiteliais e mesangiais. Qual é a classe diagnosticada e o tratamento estabelecido?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Classe V (nefrite lúpica membranosa), e o esquema terapêutico envolve corticosteroide associado a micofenolato de mofetila e inibidor da calcineurina."
+        },
+        {
+          "letter": "B",
+          "text": "Classe II (mesangial proliferativa), e o tratamento é monoterapia com heparina de baixo peso molecular sem necessidade de corticoterapia ou imunossupressores."
+        },
+        {
+          "letter": "C",
+          "text": "Classe III (focal proliferativa), sendo contraindicado o uso de micofenolato ou inibidores de calcineurina pelo risco iminente de colapso de filtração."
+        },
+        {
+          "letter": "D",
+          "text": "Classe VI (esclerosante avançada), sendo indicada hemodiálise trissemanal imediata com nefrectomia profilática bilateral de urgência."
+        }
+      ],
+      "answer": "A",
+      "rationale": "A Classe V (nefrite lúpica membranosa) caracteriza-se por depósitos de imunocomplexos nos espaços mesangiais e subepiteliais. As alças capilares glomerulares apresentam-se espessadas devido a esses depósitos subepiteliais. Clinicamente, manifesta-se tipicamente com proteinúria em níveis nefróticos (>3,5 g/dia). O tratamento preconizado na aula para a Classe V é a associação de corticosteroide + micofenolato de mofetila + inibidor da calcineurina (como tacrolimus).",
+      "distractors": [
+        "<strong>B está incorreta [Vetor 4 - Mimetismo Clínico / Síndrome Vizinha]:</strong> Proteinúria nefrótica com depósitos subepiteliais e alças capilares espessadas define a Classe V (membranosa); a Classe II não gera síndrome nefrótica grave. <em>(Ímã cognitivo: Confundir síndrome nefrótica membranosa com nefrite mesangial leve de Classe II.)</em>",
+        "<strong>C está incorreta [Vetor 1 - Micro-Inversão Conceitual]:</strong> A Classe V tem como terapia estabelecida na aula a combinação: corticoide + micofenolato + inibidor da calcineurina (como tacrolimus/ciclosporina). <em>(Ímã cognitivo: Negar o papel do inibidor de calcineurina na nefrite lúpica membranosa.)</em>",
+        "<strong>D está incorreta [Vetor 3 - Salto de Etapa / Precipitação]:</strong> Classe VI é esclerose cicatricial avançada de >90% dos néfrons com atrofia renal; Classe V é membranosa com lesão ativa imunomediada plenamente tratável. <em>(Ímã cognitivo: Indicar diálise e cirurgia mutiladora em paciente com nefrite membranosa ativa reversível.)</em>"
+      ],
+      "pearl": "Classe V (Membranosa): Depósitos subepiteliais + alças espessadas + Proteinúria NEFRÓTICA! Tratamento: Corticoide + Micofenolato + Inibidor da Calcineurina."
+    },
+    {
+      "id": 29,
+      "tag": "Reumatologia • Nefrite Lúpica Classe VI (Esclerosante Avançada)",
+      "stem": "Mulher de 42 anos com histórico de LES há 15 anos e má adesão ao tratamento comparece à consulta com astenia crônica e palidez cutânea. Exames mostram Creatinina sérica: 5,4 mg/dL; Ureia: 140 mg/dL; Clearance de creatinina estimado: 11 mL/min/1,73m²; Ultrassonografia renal: rins reduzidos de tamanho com perda da diferenciação corticomedular. A biópsia renal prévia confirmou esclerose glomerular global em mais de 92% dos glomérulos, sem imunocomplexos visíveis à imunofluorescência. Qual assertiva define a Classe VI e sua abordagem?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Trata-se da Classe I em estágio precoce, na qual a ausência de depósitos à imunofluorescência prova que a função renal está completamente normal e preservada."
+        },
+        {
+          "letter": "B",
+          "text": "A imunofluorescência negativa é um erro técnico do patologista, devendo a biópsia ser repetida imediatamente a cada 48 horas até surgirem depósitos proliferativos ativos."
+        },
+        {
+          "letter": "C",
+          "text": "Representa a nefrite esclerosante avançada (≥90% de envolvimento glomerular), na qual depósitos imunes não são visualizados por cicatrização dos glomérulos e a imunossupressão agressiva não traz benefício."
+        },
+        {
+          "letter": "D",
+          "text": "Representa a nefrite lúpica aguda fulminante reversível, indicando início imediato de pulsoterapia com ciclofosfamida em doses dobradas para dissolver as cicatrizes."
+        }
+      ],
+      "answer": "C",
+      "rationale": "A Classe VI (nefrite lúpica esclerosante avançada) é definida pelo acometimento de ≥90% dos glomérulos por esclerose global. Os depósitos de imunocomplexos não são visualizados na imunofluorescência precisamente porque mais de 90% dos glomérulos estão cicatrizados e substituídos por fibrose. O quadro traduz doença renal crônica terminal, na qual imunossupressão potente não tem papel, devendo-se preparar a paciente para terapia de substituição renal (diálise / transplante).",
+      "distractors": [
+        "<strong>A está incorreta [Vetor 1 - Micro-Inversão Conceitual]:</strong> Na Classe I os glomérulos são normais à MO; na Classe VI estão esclerosados e destruídos (>90%), sem depósitos justamente porque o tecido foi substituído por fibrose cicatricial. <em>(Ímã cognitivo: Confundir ausência de depósitos por cicatrização glomerular terminal com ausência por normalidade tecidual.)</em>",
+        "<strong>B está incorreta [Vetor 5 - Protocolo Oficial SUS/PCDT vs Prática Informal]:</strong> A ausência de depósitos é esperada na Classe VI porque mais de 90% dos glomérulos estão cicatrizados/esclerosados, dispensando rebiópsias seriadas fúteis. <em>(Ímã cognitivo: Atribuir a características histopatológicas intrínsecas da fase de esclerose terminal a erro técnico de laboratório.)</em>",
+        "<strong>D está incorreta [Vetor 3 - Salto de Etapa / Precipitação]:</strong> Na Classe VI mais de 90% dos glomérulos estão esclerosados (tecido cicatricial fibrótico irreversível); imunossupressão potente é inútil e perigosa. <em>(Ímã cognitivo: Tentar reverter fibrose cicatricial crônica terminal com pulsoterapia quimioterápica agressiva.)</em>"
+      ],
+      "pearl": "Classe VI (Esclerosante Avançada): ≥90% de esclerose glomerular. Depósitos NÃO são visualizados porque glomérulos estão cicatrizados! Foco: Terapia renal substitutiva."
+    },
+    {
+      "id": 30,
+      "tag": "Reumatologia • Manifestações Pulmonares no LES",
+      "stem": "Uma paciente de 28 anos com diagnóstico prévio de LES dá entrada no pronto-atendimento com dor torácica aguda em hemitórax esquerdo há 2 dias. A dor é em pontada, de caráter ventilatório-dependente, intensificando-se à inspiração profunda, tosse e riso. Sinais vitais: PA: 120/75 mmHg; FC: 86 bpm; FR: 20 irpm; SatO₂: 97% em ar ambiente; Temperatura axilar: 37,8 °C. À ausculta pulmonar, detecta-se atrito pleural característico em base esquerda. Considerando o acometimento pleuropulmonar no LES, qual é o padrão epidemiológico e clínico dessa afecção?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ocorre em cerca de 50% dos pacientes, sendo a pleurite com dor torácica pleurítica e/ou derrame pleural a manifestação pulmonar mais comum."
+        },
+        {
+          "letter": "B",
+          "text": "A dor torácica pleurítica no LES é puramente decorrente de fraturas costais patológicas osteoporóticas, inexistindo inflamação serosa no folheto pleural."
+        },
+        {
+          "letter": "C",
+          "text": "A manifestação pulmonar mais frequente é a hemorragia alveolar difusa fulminante, que afeta mais de 85% de todos os pacientes no primeiro mês pós-diagnóstico."
+        },
+        {
+          "letter": "D",
+          "text": "Ocorre em menos de 1% dos doentes com LES, sendo a asma brônquica alérgica hiper-reativa a única manifestação respiratória descrita nos consensos."
+        }
+      ],
+      "answer": "A",
+      "rationale": "O acometimento pulmonar está presente em cerca de 50% dos pacientes com LES. A pleurite / derrame pleural constitui a manifestação mais comum, cursando com dor torácica pleurítica e tosse. Outras manifestações pulmonares descritas na aula incluem pneumonite lúpica, fibrose pulmonar, hemorragia alveolar difusa (emergência grave), hipertensão pulmonar, vasculite pulmonar e embolia pulmonar (notadamente na presença de SAF).",
+      "distractors": [
+        "<strong>B está incorreta [Vetor 1 - Micro-Inversão Conceitual]:</strong> A pleurite é uma serosite autoimune típica do LES provocada por deposição de imunocomplexos na pleura, gerando dor pleurítica e derrame pleural exsudativo. <em>(Ímã cognitivo: Descartar a serosite lúpica e justificar o atrito pleural com trauma ósseo patológico.)</em>",
+        "<strong>C está incorreta [Vetor 1 - Micro-Inversão Conceitual]:</strong> A hemorragia alveolar difusa é uma complicação grave e potencialmente fatal, porém é rara; a mais comum (50%) é a pleurite / derrame pleural. <em>(Ímã cognitivo: Confundir uma manifestação rara e letal com a manifestação pleuropulmonar mais comum do LES.)</em>",
+        "<strong>D está incorreta [Vetor 1 - Micro-Inversão Conceitual]:</strong> O acometimento pulmonar é muito frequente (50% dos pacientes), sendo a pleurite (com ou sem derrame pleural exsudativo) a apresentação clássica mais comum. <em>(Ímã cognitivo: Subestimar a prevalência pulmonar do lúpus e associá-la a distúrbio obstrutivo alérgico comum.)</em>"
+      ],
+      "pearl": "Pulmão no LES: Presente em 50% dos pacientes! Pleurite / derrame pleural é a manifestação mais comum. Hemorragia alveolar é rara e gravíssima."
+    },
+    {
+      "id": 31,
+      "tag": "Reumatologia • Manifestações Cardíacas (Pericardite e Miocardite)",
+      "stem": "Mulher de 26 anos com LES procura a emergência com dor precordial contínua que piora ao deitar em decúbito dorsal horizontal e alivia quando se inclina o tronco para a frente (posição genupeitoral), acompanhada de febre baixa. O eletrocardiograma demonstra supradesnivelamento difuso do segmento ST de concavidade para cima em múltiplas derivações e infradesnivelamento de PR. O ecocardiograma transtorácico confirma discreto derrame pericárdico circunferencial com fração de ejeção do ventrículo esquerdo preservada. Qual assertiva sintetiza o envolvimento pericárdico e miocárdico no LES?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "O acometimento miocárdico no LES cura-se espontaneamente sem tratamento em 24 horas, inexistindo risco de arritmias ou disfunção ventricular sistólica."
+        },
+        {
+          "letter": "B",
+          "text": "A pericardite com ou sem derrame é a manifestação cardíaca mais comum do LES; a miocardite é menos frequente, porém pode causar arritmias ou insuficiência cardíaca."
+        },
+        {
+          "letter": "C",
+          "text": "O achado de derrame pericárdico no LES é indicação obrigatória de drenagem cirúrgica aberta com pericardiectomia total de urgência em todos os casos."
+        },
+        {
+          "letter": "D",
+          "text": "A miocardite necrosante difusa é a manifestação cardíaca mais comum (90%), enquanto a pericardite inflamatória não ocorre em doentes lúpicos."
+        }
+      ],
+      "answer": "B",
+      "rationale": "No espectro cardiovascular do LES: (1) A pericardite com ou sem derrame pericárdico é a manifestação cardíaca mais comum, caracterizando-se por dor precordial pleurítica que alivia na posição inclinada para frente; (2) A miocardite é menos frequente, porém de grande gravidade clínica por poder causar disfunção contrátil, arritmias cardíacas ventriculares ou insuficiência cardíaca congestiva.",
+      "distractors": [
+        "<strong>A está incorreta [Vetor 1 - Micro-Inversão Conceitual]:</strong> A miocardite lúpica, embora menos frequente, pode levar a insuficiência cardíaca aguda, choque cardiogênico e arritmias graves, exigindo imunossupressão. <em>(Ímã cognitivo: Subestimar a gravidade da miocardite autoimune classificando-a como inócua e autolimitada.)</em>",
+        "<strong>C está incorreta [Vetor 3 - Salto de Etapa / Precipitação]:</strong> Derrames leves a moderados sem tamponamento são conduzidos clinicamente com anti-inflamatórios/corticoide e controle do lúpus; drenagem é reservada para tamponamento. <em>(Ímã cognitivo: Propor cirurgia cardíaca aberta agressiva para um derrame pericárdico inflamatório brando estável.)</em>",
+        "<strong>D está incorreta [Vetor 1 - Micro-Inversão Conceitual]:</strong> A pericardite com ou sem derrame é a alteração cardíaca mais frequente; a miocardite é menos comum, embora potencialmente grave ao gerar arritmias e ICC. <em>(Ímã cognitivo: Inverter as prevalências relativas entre o acometimento do pericárdio e do miocárdio.)</em>"
+      ],
+      "pearl": "Coração no LES: Pericardite ± derrame = manifestação cardíaca MAIS COMUM! Miocardite = menos frequente, porém pode causar arritmia e insuficiência cardíaca."
+    },
+    {
+      "id": 32,
+      "tag": "Reumatologia • Endocardite de Libman-Sacks e Valvulopatias",
+      "stem": "Uma jovem de 24 anos com LES de difícil controle e presença de anticorpos antifosfolípides realiza ecocardiograma de rotina para investigação de sopro sistólico mitral novo. O exame evidencia espessamento dos folhetos da valva mitral associado a vegetações pequenas, verrucosas e estéreis aderidas na face atrial da cúspide mitral, sem sinais de perfuração ou abscesso. Hemoculturas seriadas resultam negativas. Qual é o diagnóstico dessa complicação valvar e sua natureza histológica?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mixoma valvar atrial pedunculado friável de etiologia viral com indicação mandatória de transplante cardíaco ortotópico imediato."
+        },
+        {
+          "letter": "B",
+          "text": "Endocardite bacteriana aguda fulminante por Staphylococcus aureus multirresistente, exigindo antibioticoterapia venosa com vancomicina por 6 semanas."
+        },
+        {
+          "letter": "C",
+          "text": "Endocardite de Libman-Sacks, caracterizada por vegetações estéreis verrucosas nos folhetos valvares decorrentes de deposição de imunocomplexos e inflamação endotelial."
+        },
+        {
+          "letter": "D",
+          "text": "Calcificação ateromatosa senil da valva tricúspide secundária ao tabagismo pesado com indicação de troca valvar mecânica imediata."
+        }
+      ],
+      "answer": "C",
+      "rationale": "A Endocardite de Libman-Sacks é a forma clássica de endocardite verrucosa asséptica (não bacteriana) descrita no LES. Caracteriza-se por vegetações estéreis compostas de imunocomplexos, fibrina e infiltrado celular mononuclear, com predileção pelas valvas mitral e aórtica. Pode levar a regurgitação valvar e associa-se com maior risco de eventos tromboembólicos e endocardite bacteriana secundária.",
+      "distractors": [
+        "<strong>A está incorreta [Vetor 4 - Mimetismo Clínico / Síndrome Vizinha]:</strong> Vegetações verrucosas nos folhetos valvares no LES definem a endocardite de Libman-Sacks, sem relação com mixoma primário do coração. <em>(Ímã cognitivo: Confundir lesões verrucosas valvares lúpicas com neoplasia primária cardíaca.)</em>",
+        "<strong>B está incorreta [Vetor 4 - Mimetismo Clínico / Síndrome Vizinha]:</strong> A endocardite de Libman-Sacks é uma endocardite não infecciosa (trombótica abacteriana/verrucosa) típica do LES, decorrente de imunocomplexos e associada a anticorpos antifosfolípides. <em>(Ímã cognitivo: Confundir endocardite estéril autoimune lúpica com endocardite bacteriana infecciosa aguda.)</em>",
+        "<strong>D está incorreta [Vetor 4 - Mimetismo Clínico / Síndrome Vizinha]:</strong> Libman-Sacks é asséptica e acomete principalmente as valvas esquerdas (mitral e aórtica) em mulheres jovens no contexto do LES. <em>(Ímã cognitivo: Atribuir as vegetações valvares a degeneração cálcica de idoso no lado direito do coração.)</em>"
+      ],
+      "pearl": "Endocardite de Libman-Sacks: Vegetações verrucosas estéreis/abacterianas nas valvas (mitral/aórtica). Forte associação com antifosfolípides!"
+    },
+    {
+      "id": 33,
+      "tag": "Reumatologia • Risco Cardiovascular Acelerado e Antifosfolípides",
+      "stem": "Mulher de 32 anos, portadora de LES há 8 anos, procura atendimento com queixa de dor precordial constritiva desencadeada por esforços moderados. É não tabagista, normotensa e não diabética. A cineangiocoronariografia revela estenose crítica de 80% no terço médio da artéria coronária descendente anterior. O perfil laboratorial revela títulos persistentemente elevados de anticorpos antifosfolípides (anticoagulante lúpico e anticardiolipina IgG). Qual é a relação demonstrada entre o LES, o risco vascular e os anticorpos antifosfolípides?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Anticorpos antifosfolípides atuam como anticoagulantes fisiológicos in vivo, eliminando por completo qualquer probabilidade de oclusão arterial ou trombose coronariana."
+        },
+        {
+          "letter": "B",
+          "text": "O risco de acometimento coronariano decorre exclusivamente de vasculite coronária aguda por choque séptico, não guardando associação com aterosclerose precoce."
+        },
+        {
+          "letter": "C",
+          "text": "O LES confere proteção congênita absoluta contra aterosclerose, sendo a doença coronariana em mulheres jovens com lúpus uma impossibilidade clínica."
+        },
+        {
+          "letter": "D",
+          "text": "O LES aumenta significativamente o risco cardiovascular geral e induz aterosclerose precoce e coronariopatia, especialmente na presença de anticorpos antifosfolípides."
+        }
+      ],
+      "answer": "D",
+      "rationale": "O lúpus eritematoso sistêmico é um fator de risco independente e de grande relevância para eventos vasculares graves: 'O LES aumenta o risco cardiovascular, especialmente na presença de anticorpos antifosfolípides'. A inflamação endotelial mantida, o uso crônico de corticoides e os anticorpos antifosfolípides aceleram a formação e instabilidade de placas ateromatosas, resultando em infarto agudo do miocárdio e AVC precoce em mulheres jovens.",
+      "distractors": [
+        "<strong>A está incorreta [Vetor 1 - Micro-Inversão Conceitual]:</strong> Apesar do nome 'anticoagulante lúpico' (devido ao artefato in vitro que alarga o TTPA), in vivo esses anticorpos induzem um estado hipercoagulável potente com tromboses arteriais e venosas. <em>(Ímã cognitivo: Cair na pegadinha da nomenclatura in vitro do anticoagulante lúpico atribuindo-lhe efeito protetor contra infarto.)</em>",
+        "<strong>B está incorreta [Vetor 1 - Micro-Inversão Conceitual]:</strong> Acometimento coronariano e aterosclerose precoce decorrem da inflamação endotelial crônica do LES amplificada pelos anticorpos antifosfolípides. <em>(Ímã cognitivo: Restringir o dano coronariano à sepse infecciosa excluindo a aterogênese autoimune acelerada.)</em>",
+        "<strong>C está incorreta [Vetor 1 - Micro-Inversão Conceitual]:</strong> Pelo contrário: o LES é causa consagrada de aterosclerose precoce acelerada e risco cardiovascular aumentado (IAM em mulheres jovens) pelo estado pró-inflamatório crônico. <em>(Ímã cognitivo: Afirmar que a doença autoimune protege contra disfunção endotelial e placas ateroscleróticas.)</em>"
+      ],
+      "pearl": "Risco Cardiovascular no LES: Aterosclerose PRECOCE + Aumento expressivo do risco cardiovascular, ESPECIALMENTE na presença de anticorpos antifosfolípides!"
+    },
+    {
+      "id": 34,
+      "tag": "Reumatologia • Manifestações Neuropsiquiátricas do LES",
+      "stem": "Uma jovem de 23 anos com LES é trazida ao pronto-socorro por familiares após apresentar, nas últimas 24 horas, duas crises convulsivas tônico-clônicas generalizadas, seguidas de agitação psicomotora intensa, alucinações auditivas e delírios paranoides (psicose lúpica). A punção lombar e a ressonância encefálica descartam causas infecciosas primárias do SNC. Em relação às manifestações neuropsiquiátricas no lúpus, qual é o impacto clínico e a diretriz terapêutica para essas formas inflamatórias?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Têm curso invariavelmente benigno e desprovido de qualquer impacto na morbimortalidade, dispensando corticoterapia e devendo ser tratadas unicamente com chás sedativos."
+        },
+        {
+          "letter": "B",
+          "text": "Convulsões e psicose no LES contraindicam de forma absoluta o uso de corticosteroides sistêmicos devido ao risco de parada respiratória reflexa imediata."
+        },
+        {
+          "letter": "C",
+          "text": "Podem contribuir significativamente para a morbimortalidade do LES, e seu tratamento em manifestações inflamatórias graves baseia-se em corticosteroides em altas doses associados a imunossupressores."
+        },
+        {
+          "letter": "D",
+          "text": "O acometimento do SNC no LES limita-se à paralisia facial periférica de Bell transitória, sendo a psicose e as convulsões entidades inexistentes na doença autoimune."
+        }
+      ],
+      "answer": "C",
+      "rationale": "As manifestações neuropsiquiátricas do LES (LES-NP) englobam um amplo espectro: cefaleia, convulsões, alterações cognitivas, acidente vascular cerebral (AVC), psicose, neuropatia periférica, mielite transversa, meningite asséptica e distúrbios do movimento (como coreia). Essas alterações podem contribuir significativamente para a morbimortalidade global da doença. Quando decorrentes de atividade inflamatória, o tratamento exige corticoide em altas doses associado a imunossupressores.",
+      "distractors": [
+        "<strong>A está incorreta [Vetor 1 - Micro-Inversão Conceitual]:</strong> Manifestações neuropsiquiátricas do LES são de altíssima gravidade, elevam a mortalidade e exigem pulsoterapia com corticoide e imunossupressores nas formas inflamatórias. <em>(Ímã cognitivo: Subestimar o risco de óbito e sequelas neurológicas graves propondo terapias inócuas.)</em>",
+        "<strong>B está incorreta [Vetor 1 - Micro-Inversão Conceitual]:</strong> O tratamento de primeira linha para manifestações neuropsiquiátricas inflamatórias ativas graves do LES é corticoide em altas doses (pulsoterapia) associado a imunossupressores. <em>(Ímã cognitivo: Afirmar que a terapia padrão-ouro é formalmente contraindicada.)</em>",
+        "<strong>D está incorreta [Vetor 1 - Micro-Inversão Conceitual]:</strong> O espectro neuropsiquiátrico inclui cefaleia, convulsões, alterações cognitivas, AVC, psicose, neuropatia periférica, mielite transversa, meningite asséptica e coreia. <em>(Ímã cognitivo: Negar o vasto espectro de acometimento neurológico central do LES.)</em>"
+      ],
+      "pearl": "LES Neuropsiquiátrico: Contribui muito para a morbimortalidade! Tratamento nas formas inflamatórias: Corticoide em altas doses + Imunossupressor."
+    },
+    {
+      "id": 35,
+      "tag": "Reumatologia • LES e Gestação: Riscos e Planejamento",
+      "stem": "Mulher de 27 anos com LES em acompanhamento ambulatorial expressa o desejo de engravidar nos próximos meses. Encontra-se assintomática, em uso de hidroxicloroquina, com níveis pressóricos normais e sem proteinúria. Em relação à interação entre lúpus e gestação, aos riscos materno-fetais e ao planejamento reprodutivo seguro, qual é a orientação recomendada com base nas diretrizes apresentadas?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A gestação pode se associar à exacerbação do LES e a riscos de pré-eclâmpsia, prematuridade e abortamento; o planejamento exige remissão clínica da doença por pelo menos 6 meses, mantendo-se a hidroxicloroquina."
+        },
+        {
+          "letter": "B",
+          "text": "A presença de anticorpos antifosfolípides confere proteção contra pré-eclâmpsia e trombose, devendo a paciente suspender qualquer profilaxia ou acompanhamento obstétrico."
+        },
+        {
+          "letter": "C",
+          "text": "A gravidez promove remissão definitiva e cura espontânea de 100% dos casos de LES, permitindo a suspensão completa e imediata de todos os medicamentos no primeiro dia de atraso menstrual."
+        },
+        {
+          "letter": "D",
+          "text": "A gestação deve ser iniciada de preferência durante surtos ativos graves de nefrite proliferativa, pois a placenta atua como filtro de imunocomplexos maternos."
+        }
+      ],
+      "answer": "A",
+      "rationale": "A gestação pode estar associada à exacerbação (flare) do LES e acarreta riscos elevados de pré-eclâmpsia, parto prematuro, perda gestacional e baixo peso ao nascer. A presença de anticorpos antifosfolípides aumenta ainda mais o risco de abortamento, perda fetal, prematuridade e tromboses. Por isso, a diretriz estabelece: 'Planejar com doença em remissão ≥ 6 meses; manter hidroxicloroquina; e ajustar medicamentos potencialmente teratogênicos'.",
+      "distractors": [
+        "<strong>B está incorreta [Vetor 1 - Micro-Inversão Conceitual]:</strong> Anticorpos antifosfolípides elevam drasticamente o risco de perdas fetais, abortamento, prematuridade, pré-eclâmpsia/eclâmpsia e eventos tromboembólicos. <em>(Ímã cognitivo: Inverter as repercussões patológicas da síndrome antifosfolípide na gestação.)</em>",
+        "<strong>C está incorreta [Vetor 1 - Micro-Inversão Conceitual]:</strong> A gestação pode exacerbar o LES; suspender medicações essenciais como a hidroxicloroquina precipita crises e desfechos gestacionais desfavoráveis. <em>(Ímã cognitivo: Acreditar no mito de que a gravidez 'cura' a autoimunidade e descontinuar o antimalárico.)</em>",
+        "<strong>D está incorreta [Vetor 2 - Janela Biológica e Cronologia]:</strong> A gestação é expressamente contraindicada na doença ativa (especialmente nefrite ativa); deve ser planejada apenas após pelo menos 6 meses de remissão consolidada. <em>(Ímã cognitivo: Liberar a concepção em momento de máxima atividade inflamatória e disfunção orgânica.)</em>"
+      ],
+      "pearl": "LES e Gestação: Maior risco de pré-eclâmpsia, aborto e prematuridade. Planejamento obrigatório: Remissão estável ≥ 6 meses + MANTER HIDROXICLOROQUINA!"
+    },
+    {
+      "id": 36,
+      "tag": "Reumatologia • Autoanticorpos na Gestação e Lúpus Neonatal",
+      "stem": "Uma gestante de 22 semanas com lúpus eritematoso sistêmico realiza ultrassonografia obstétrica morfológica com ecocardiograma fetal de rotina. O exame identifica frequência cardíaca fetal sustentada de 48 bpm e dissociação atrioventricular total, caracterizando bloqueio cardíaco congênito fetal completo. Em discussão obstétrica e reumatológica, questiona-se quais autoanticorpos maternos atravessam a barreira placentária e são os responsáveis por essa grave condição neonatal. Quais são esses anticorpos?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Anticorpos anti-Scl-70 e anti-centrômero."
+        },
+        {
+          "letter": "B",
+          "text": "Anticorpos anti-SSA/Ro e anti-SSB/La."
+        },
+        {
+          "letter": "C",
+          "text": "Anticorpos anti-dsDNA e anti-histona exclusivamente."
+        },
+        {
+          "letter": "D",
+          "text": "Anticorpos antitireoperoxidase (anti-TPO) e anti-tireoglobulina."
+        }
+      ],
+      "answer": "B",
+      "rationale": "Os anticorpos maternos IgG anti-SSA/Ro e anti-SSB/La são capazes de atravessar a barreira placentária a partir do segundo trimestre. No feto, eles podem ligar-se às células do tecido de condução cardíaco, deflagrando processo inflamatório crônico com calcificação e fibrose irreversível do nó atrioventricular, resultando no temido bloqueio cardíaco fetal congênito (BAVT) e manifestações de lúpus neonatal (lesões cutâneas fotossensíveis transitórias).",
+      "distractors": [
+        "<strong>A está incorreta [Vetor 4 - Mimetismo Clínico / Síndrome Vizinha]:</strong> Anti-Scl-70 e anticentrômero são marcadores da esclerose sistêmica (esclerodermia), sem relação com bloqueio cardíaco congênito no lúpus neonatal. <em>(Ímã cognitivo: Trocar os autoanticorpos maternos por anticorpos específicos da esclerose sistêmica.)</em>",
+        "<strong>C está incorreta [Vetor 4 - Mimetismo Clínico / Síndrome Vizinha]:</strong> Embora o anti-dsDNA seja marcador de atividade no LES, são os anticorpos anti-SSA/Ro e anti-SSB/La que causam lúpus neonatal e bloqueio cardíaco congênito irreversível. <em>(Ímã cognitivo: Confundir os autoanticorpos do lúpus neonatal (anti-Ro/La) com os marcadores de nefrite (anti-dsDNA).)</em>",
+        "<strong>D está incorreta [Vetor 4 - Mimetismo Clínico / Síndrome Vizinha]:</strong> Anti-TPO e anti-tireoglobulina associam-se a tireoidite de Hashimoto, não sendo responsáveis pela patogênese do bloqueio cardíaco fetal. <em>(Ímã cognitivo: Confundir autoanticorpos tireoidianos com os anticorpos causadores de lúpus neonatal.)</em>"
+      ],
+      "pearl": "Lúpus Neonatal e Bloqueio Cardíaco Fetal: Causados pela passagem placentária de anti-SSA/Ro e anti-SSB/La!"
+    },
+    {
+      "id": 37,
+      "tag": "Reumatologia • FAN por IFI e Padrões de Fluorescência",
+      "stem": "Uma mulher de 23 anos assintomática realizou exames de rotina que revelaram FAN positivo em título de 1:80 com padrão nuclear homogêneo. Muito apreensiva, consulta o médico acreditando estar com lúpus grave. Ao interpretar esse teste laboratorial à luz das diretrizes diagnósticas, qual é a sensibilidade do FAN no LES, seu valor de corte clinicamente significativo e a correlação do padrão homogêneo?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "O teste de FAN por imunofluorescência indireta foi abandonado nos critérios EULAR/ACR 2019, sendo considerado critério de exclusão formal para classificação da doença."
+        },
+        {
+          "letter": "B",
+          "text": "O FAN está presente em ~99% dos pacientes com LES (alta sensibilidade), títulos ≥1:80 são de significância clínica, mas FAN positivo isolado não é diagnóstico de lúpus; o padrão homogêneo associa-se a anti-dsDNA e anti-histona."
+        },
+        {
+          "letter": "C",
+          "text": "O padrão nuclear homogêneo é patognomônico e exclusivo de lúpus induzido por drogas, descartando totalmente a presença de anticorpos anti-dsDNA ou LES idiopático."
+        },
+        {
+          "letter": "D",
+          "text": "O FAN possui sensibilidade inferior a 10% no LES, e qualquer resultado positivo em título de 1:80 confirma infalivelmente o diagnóstico definitivo de LES sem necessidade de critérios clínicos."
+        }
+      ],
+      "answer": "B",
+      "rationale": "O Fator Antinuclear (FAN) por imunofluorescência indireta é o teste de triagem por excelência, presente em ~99% dos pacientes com LES. O ponto de corte considerado de significância clínica é FAN ≥ 1:80. No entanto, FAN positivo ≠ diagnóstico de LES (pode ocorrer em indivíduos saudáveis, infecções e neoplasias). Os padrões de fluorescência associam-se a autoanticorpos específicos: o padrão nuclear homogêneo associa-se a anticorpos anti-dsDNA, histona e dsDNA/histona.",
+      "distractors": [
+        "<strong>A está incorreta [Vetor 5 - Protocolo Oficial SUS/PCDT vs Prática Informal]:</strong> O FAN em título ≥ 1:80 por imunofluorescência indireta (IFI) em células HEp-2 é exatamente o critério de entrada obrigatório nos critérios EULAR/ACR 2019. <em>(Ímã cognitivo: Declarar obsoleto o critério mandatório de entrada dos consensos diagnósticos atuais.)</em>",
+        "<strong>C está incorreta [Vetor 1 - Micro-Inversão Conceitual]:</strong> O padrão homogêneo decorre de anticorpos contra cromatina, associando-se classicamente a anti-dsDNA, anti-histona e dsDNA/histona, presente no LES clássico. <em>(Ímã cognitivo: Restringir o padrão homogêneo a lúpus farmacológico e negar a associação com anti-dsDNA.)</em>",
+        "<strong>D está incorreta [Vetor 1 - Micro-Inversão Conceitual]:</strong> O FAN tem altíssima sensibilidade (~99%), mas baixa especificidade; logo, FAN positivo não é sinônimo de lúpus e pode ocorrer em pessoas sadias e outras condições. <em>(Ímã cognitivo: Inverter a sensibilidade do FAN e afirmar que o teste positivo isolado fecha diagnóstico de LES.)</em>"
+      ],
+      "pearl": "Interpretação do FAN: Presente em ~99% dos casos no LES + Título ≥1:80 tem significância clínica. Padrão homogêneo = anti-dsDNA e histona."
+    },
+    {
+      "id": 38,
+      "tag": "Reumatologia • Autoanticorpos Específicos e Atividade da Doença",
+      "stem": "Em seminário clínico sobre biomarcadores laboratoriais no LES, o preceptor solicita a análise comparativa entre os diferentes autoanticorpos e as frações do sistema complemento. Indaga especificamente quais autoanticorpos apresentam elevada especificidade para a afecção, quais se correlacionam com a atividade da doença e qual a utilidade das frações do complemento (C3, C4 e CH50). Qual assertiva resume adequadamente essas correlações?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "O anti-Sm oscila diretamente com a gravidade da glomerulonefrite em tempo real, sendo o marcador primário usado semanalmente para titular doses de corticoide."
+        },
+        {
+          "letter": "B",
+          "text": "Anti-ssDNA possui a mais elevada especificidade diagnóstica do LES, enquanto anti-Sm e anti-dsDNA são autoanticorpos inespecíficos que não se correlacionam com lesão glomerular."
+        },
+        {
+          "letter": "C",
+          "text": "As dosagens de complemento sérico (C3, C4 e CH50) são constantes e imutáveis durante toda a vida do paciente, não sofrendo variações durante surtos inflamatórios ou remissão."
+        },
+        {
+          "letter": "D",
+          "text": "Anti-dsDNA, anti-Sm e anti-P possuem alta especificidade; anti-dsDNA e anti-P auxiliam no acompanhamento da atividade (especialmente renal e psicose), e a queda de C3/C4/CH50 indica consumo por atividade de doença."
+        }
+      ],
+      "answer": "D",
+      "rationale": "Os autoanticorpos constituem o achado laboratorial mais consistente do LES. Destacam-se pela alta especificidade diagnóstica: anti-dsDNA, anti-Sm e anti-P (proteína P ribossômica). Dentre eles, o anti-dsDNA e o anti-P são fundamentais para o acompanhamento da atividade da doença (o anti-dsDNA correlaciona-se com nefrite lúpica ativa e o anti-P com psicose/manifestações do SNC). O anti-ssDNA é inespecífico. O sistema complemento (C3, C4 e CH50) reflete consumo clássico por imunocomplexos nas exacerbações.",
+      "distractors": [
+        "<strong>A está incorreta [Vetor 2 - Janela Biológica e Cronologia]:</strong> O anti-Sm é altamente específico, mas seus títulos não costumam variar com a atividade clínica; quem acompanha atividade de doença (especialmente renal) é o anti-dsDNA. <em>(Ímã cognitivo: Confundir a especificidade estática do anti-Sm com o biomarcador dinâmico de atividade que é o anti-dsDNA.)</em>",
+        "<strong>B está incorreta [Vetor 1 - Micro-Inversão Conceitual]:</strong> O anti-ssDNA é inespecífico; a alta especificidade diagnóstica pertence ao anti-dsDNA, anti-Sm e anti-P. O anti-dsDNA monitora atividade renal. <em>(Ímã cognitivo: Inverter as especificidades relativas entre anti-ssDNA e os anticorpos patognomônicos do LES.)</em>",
+        "<strong>C está incorreta [Vetor 1 - Micro-Inversão Conceitual]:</strong> As flutuações nos níveis séricos de C3, C4 e CH50 auxiliam diretamente no acompanhamento da atividade da doença e na resposta ao tratamento. <em>(Ímã cognitivo: Afirmar que o complemento sérico não varia e ignorar o fenômeno clássico de consumo na atividade.)</em>"
+      ],
+      "pearl": "Alta especificidade: Anti-dsDNA, Anti-Sm e Anti-P! Monitoram atividade de doença: Anti-dsDNA (renal), Anti-P e queda de complemento (C3/C4/CH50)."
+    },
+    {
+      "id": 39,
+      "tag": "Reumatologia • Hidroxicloroquina: Papel Central e Sobrevida",
+      "stem": "Uma mulher de 23 anos com diagnóstico recente de LES cutâneo-articular leve inicia tratamento com sulfato de hidroxicloroquina na dose de 5 mg/kg/dia. Durante a consulta de retorno, indaga o reumatologista sobre por que precisa tomar esse medicamento se seus sintomas já melhoraram bastante com analgésicos e se a medicação realmente faz diferença na sua sobrevida a longo prazo. Qual é o papel fundamental e os benefícios comprovados da hidroxicloroquina no LES?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "O antimalárico atua exclusivamente inibindo a tireoide, não demonstrando qualquer ação sobre sintomas articulares, fadiga ou prevenção de exacerbações da doença."
+        },
+        {
+          "letter": "B",
+          "text": "A hidroxicloroquina deve ser restrita apenas a pacientes terminais internados em UTI com falência de múltiplos órgãos, sendo proibida em formas leves ou moderadas."
+        },
+        {
+          "letter": "C",
+          "text": "A hidroxicloroquina é indicada para todos os pacientes com LES, pois reduz flares, fadiga, manifestações cutâneas e articulares, e melhora comprovadamente a sobrevida global."
+        },
+        {
+          "letter": "D",
+          "text": "O uso da hidroxicloroquina eleva a mortalidade em 50% devido a choque anafilático imediato, devendo ser descontinuada após 7 dias de uso ininterrupto."
+        }
+      ],
+      "answer": "C",
+      "rationale": "A hidroxicloroquina (HCQ) é o pilar inegociável do tratamento do LES: 'Hidroxicloroquina: indicada para todos os pacientes! Reduz flares (exacerbações), fadiga, manifestações cutâneas e artralgias/artrite, e melhora a sobrevida'. O fármaco também possui propriedades antitrombóticas, poupadoras de corticoide e protetoras contra o acúmulo de dano orgânico irreversível.",
+      "distractors": [
+        "<strong>A está incorreta [Vetor 1 - Micro-Inversão Conceitual]:</strong> A hidroxicloroquina reduz flares, melhora a fadiga e alivia queixas cutâneas e articulares, além de apresentar ações antitrombóticas e hipolipemiantes. <em>(Ímã cognitivo: Descrever um mecanismo endócrino errôneo e negar os múltiplos benefícios clínicos do fármaco.)</em>",
+        "<strong>B está incorreta [Vetor 3 - Salto de Etapa / Precipitação]:</strong> A hidroxicloroquina é indicada para TODOS os pacientes com lúpus desde o momento do diagnóstico, atuando como alicerce fundamental do tratamento. <em>(Ímã cognitivo: Postergar o antimalárico para a fase terminal em vez de utilizá-lo como terapia de base para todos.)</em>",
+        "<strong>D está incorreta [Vetor 1 - Micro-Inversão Conceitual]:</strong> A hidroxicloroquina melhora a sobrevida, previne dano crônico e protege o sistema cardiovascular; seu perfil de segurança permite uso crônico continuado. <em>(Ímã cognitivo: Afirmar que a medicação que melhora a sobrevida provoca mortalidade imediata.)</em>"
+      ],
+      "pearl": "Regra áurea do tratamento: Hidroxicloroquina é indicada para TODOS OS PACIENTES! Reduz flares, fadiga, lesões cutâneas e MELHORA A SOBREVIDA."
+    },
+    {
+      "id": 40,
+      "tag": "Reumatologia • Estratificação Terapêutica e Medidas Gerais",
+      "stem": "Mulher de 29 anos com LES e histórico de nefrite lúpica tratada atinge remissão completa após o período de indução. O reumatologista programa a fase de manutenção da imunossupressão e discute com a paciente as medidas gerais de estilo de vida fundamentais para sustentação da resposta clínica. De acordo com os protocolos descritos na aula de raciocínio clínico, qual é a duração preconizada da imunossupressão de manutenção e as medidas gerais recomendadas?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Manter a imunossupressão por 3 a 5 anos mantendo remissão/baixa atividade e hidroxicloroquina indefinidamente; implementar adesão, cessação do tabagismo, sono adequado, exercício físico e fotoproteção diária."
+        },
+        {
+          "letter": "B",
+          "text": "Manter corticoterapia em dose máxima de 2 mg/kg/dia por 20 anos ininterruptos sem introduzir imunossupressores poupadores ou antimaláricos."
+        },
+        {
+          "letter": "C",
+          "text": "Suspender todos os medicamentos imediatamente após 30 dias de remissão laboratorial e liberar a paciente para tabagismo livre e exposição solar diurna sem protetor."
+        },
+        {
+          "letter": "D",
+          "text": "A imunossupressão de manutenção deve ser realizada exclusivamente por meio de cirurgia de timectomia total aos 40 anos, dispensando exercícios ou proteção solar."
+        }
+      ],
+      "answer": "A",
+      "rationale": "Na condução terapêutica a longo prazo do LES: (1) O tempo de manutenção da imunossupressão deve ser de 3 a 5 anos mantendo remissão ou baixa atividade de doença; (2) A hidroxicloroquina deve ser mantida indefinidamente, se possível; (3) As medidas gerais constituem parte indissociável do sucesso do tratamento: educação do paciente, adesão rigorosa, exercício físico regular, sono adequado, cessação absoluta do tabagismo (o fumo reduz a eficácia da hidroxicloroquina e acelera aterosclerose) e fotoproteção diária estrita.",
+      "distractors": [
+        "<strong>B está incorreta [Vetor 3 - Salto de Etapa / Precipitação]:</strong> Doses elevadas de corticoide a longo prazo causam efeitos colaterais devastadores (catarata, osteonecrose, infecções); a meta é desmame do corticoide e manutenção com imunossupressor por 3-5 anos. <em>(Ímã cognitivo: Prescrever corticoterapia plena contínua em dose tóxica sem poupadores de corticoide.)</em>",
+        "<strong>C está incorreta [Vetor 2 - Janela Biológica e Cronologia]:</strong> A suspensão precoce provoca recaída grave; a imunossupressão deve durar de 3 a 5 anos e hidroxicloroquina indefinidamente. O tabagismo antagoniza o antimalárico e sol exacerba o LES. <em>(Ímã cognitivo: Indicar descontinuação abrupta precoce e estimular hábitos nocivos contraindicados no LES.)</em>",
+        "<strong>D está incorreta [Vetor 4 - Mimetismo Clínico / Síndrome Vizinha]:</strong> Timectomia é conduta indicada em subgrupos com Miastenia Gravis, não no LES. A manutenção do LES é farmacológica e associada a fotoproteção e hábitos saudáveis. <em>(Ímã cognitivo: Confundir o tratamento de manutenção do LES com a indicação cirúrgica de miastenia gravis.)</em>"
+      ],
+      "pearl": "Manutenção no LES: Imunossupressão por 3 a 5 anos em remissão + Hidroxicloroquina indefinidamente + Fotoproteção, exercício e cessação do tabagismo!"
+    }
+  ]
+}

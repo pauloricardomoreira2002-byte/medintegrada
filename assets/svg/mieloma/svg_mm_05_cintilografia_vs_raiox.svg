@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 480" width="900" height="480">
+  <defs>
+    <linearGradient id="bgGrad5" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f8fafc"/>
+      <stop offset="100%" stop-color="#edf2f7"/>
+    </linearGradient>
+    <filter id="shadow5" x="-5%" y="-5%" width="110%" height="115%">
+      <feDropShadow dx="0" dy="4" stdDeviation="5" flood-color="#0f172a" flood-opacity="0.08"/>
+    </filter>
+  </defs>
+
+  <rect width="900" height="480" rx="16" fill="url(#bgGrad5)"/>
+  <rect x="1" y="1" width="898" height="478" rx="15" fill="none" stroke="#cbd5e1" stroke-width="1.5"/>
+
+  <!-- Cabeçalho -->
+  <rect width="900" height="60" rx="16" fill="#1e3a8a"/>
+  <rect y="44" width="900" height="16" fill="#f59e0b"/>
+  <text x="30" y="38" font-family="Arial, sans-serif" font-size="19" font-weight="bold" fill="#ffffff">
+    PEGADINHA DE PROVA: POR QUE A CINTILOGRAFIA ÓSSEA FALHA NO MIELOMA?
+  </text>
+
+  <!-- Lado Esquerdo: Metástases Típicas / Paget (Cintilografia Positiva) -->
+  <g transform="translate(30, 80)">
+    <rect width="405" height="310" rx="12" fill="#ffffff" stroke="#10b981" stroke-width="1.5" filter="url(#shadow5)"/>
+    <rect width="405" height="36" rx="12" fill="#10b981"/>
+    <rect y="24" width="405" height="12" fill="#10b981"/>
+    <text x="202" y="24" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#ffffff" text-anchor="middle">
+      OUTRAS DOENÇAS ÓSSEAS (Ex.: Próstata, Mama, Paget)
+    </text>
+
+    <text x="20" y="58" font-family="Arial, sans-serif" font-size="11.5" font-weight="bold" fill="#065f46">Mecanismo do Radiofármaco (Tc-99m MDP):</text>
+    <text x="20" y="78" font-family="Arial, sans-serif" font-size="11" fill="#334155">• O Tecnécio-99m liga-se aos cristais de hidroxiapatita</text>
+    <text x="20" y="96" font-family="Arial, sans-serif" font-size="11" fill="#334155">  em áreas de <tspan font-weight="bold" fill="#059669">NOVA FORMAÇÃO ÓSSEA (osteoblastos)</tspan>.</text>
+
+    <rect x="20" y="115" width="365" height="70" rx="8" fill="#ecfdf5" stroke="#a7f3d0"/>
+    <text x="35" y="138" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#065f46">Atividade Osteoblástica Aumentada:</text>
+    <text x="35" y="156" font-family="Arial, sans-serif" font-size="11" fill="#047857">Reação óssea intensa ➔ Captação ávida do radiofármaco</text>
+    <text x="35" y="172" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#059669">➔ Cintilografia altamente positiva ("Hot spots" escuros).</text>
+
+    <rect x="20" y="200" width="365" height="90" rx="8" fill="#f8fafc" stroke="#cbd5e1"/>
+    <text x="35" y="222" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#0f172a">Laboratório Típico:</text>
+    <text x="35" y="240" font-family="Arial, sans-serif" font-size="11" fill="#334155">• Fosfatase Alcalina: <tspan font-weight="bold" fill="#059669">MUITO ELEVADA</tspan> (novo osso).</text>
+    <text x="35" y="258" font-family="Arial, sans-serif" font-size="11" fill="#334155">• Cintilografia: Exame excelente e de primeira linha.</text>
+    <text x="35" y="276" font-family="Arial, sans-serif" font-size="11" fill="#334155">• Radiologia: Lesões blásticas ou mistas com esclerose.</text>
+  </g>
+
+  <!-- Lado Direito: Mieloma Múltiplo (Cintilografia Falso-Negativa!) -->
+  <g transform="translate(465, 80)">
+    <rect width="405" height="310" rx="12" fill="#ffffff" stroke="#ef4444" stroke-width="1.5" filter="url(#shadow5)"/>
+    <rect width="405" height="36" rx="12" fill="#dc2626"/>
+    <rect y="24" width="405" height="12" fill="#dc2626"/>
+    <text x="202" y="24" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#ffffff" text-anchor="middle">
+      MIELOMA MÚLTIPLO (LESÕES PURAMENTE LÍTICAS)
+    </text>
+
+    <text x="20" y="58" font-family="Arial, sans-serif" font-size="11.5" font-weight="bold" fill="#991b1b">Por Que a Cintilografia É "Cega" ao Mieloma?</text>
+    <text x="20" y="78" font-family="Arial, sans-serif" font-size="11" fill="#334155">• DKK-1 e esclerostina <tspan font-weight="bold" fill="#dc2626">BLOQUEIAM os osteoblastos</tspan>.</text>
+    <text x="20" y="96" font-family="Arial, sans-serif" font-size="11" fill="#334155">• Não há síntese de osteoide nem deposição mineral reativa.</text>
+
+    <rect x="20" y="115" width="365" height="70" rx="8" fill="#fef2f2" stroke="#fca5a5"/>
+    <text x="35" y="138" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#b91c1c">CINTILOGRAFIA COM TC-99M É FALSO-NEGATIVA!</text>
+    <text x="35" y="156" font-family="Arial, sans-serif" font-size="11" fill="#7f1d1d">Como não há osso novo se formando, o radiotraçador</text>
+    <text x="35" y="172" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#dc2626">NÃO se fixa, subestimando grosseiramente as fraturas.</text>
+
+    <rect x="20" y="200" width="365" height="90" rx="8" fill="#fef2f2" stroke="#f87171"/>
+    <text x="35" y="222" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#991b1b">O Que Pedir na Suspeita de MM?</text>
+    <text x="35" y="240" font-family="Arial, sans-serif" font-size="11" fill="#7f1d1d">• <tspan font-weight="bold">TC de Baixa Dose de Corpo Inteiro</tspan> (Padrão-Ouro atual).</text>
+    <text x="35" y="258" font-family="Arial, sans-serif" font-size="11" fill="#7f1d1d">• <tspan font-weight="bold">Ressonância Magnética</tspan> (coluna/pelve: infiltração medular).</text>
+    <text x="35" y="276" font-family="Arial, sans-serif" font-size="11" fill="#7f1d1d">• Inventário Ósseo por RX Simples (se TC não disponível).</text>
+  </g>
+
+  <!-- Alerta Inferior -->
+  <rect x="30" y="405" width="840" height="60" rx="10" fill="#fffbeb" stroke="#f59e0b" stroke-width="1.5"/>
+  <text x="45" y="428" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#b45309">DICA DE OURO PARA PROVAS DE RESIDÊNCIA E MORFOFUNCIONAL:</text>
+  <text x="45" y="448" font-family="Arial, sans-serif" font-size="11" fill="#78350f">
+    Questão que traz idoso com múltiplas fraturas, anemia, dor óssea, Fosfatase Alcalina NORMAL e Cintilografia "sem achados relevantes": o diagnóstico é MIELOMA MÚLTIPLO!
+  </text>
+</svg>

@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 480" width="900" height="480">
+  <defs>
+    <linearGradient id="bgGrad13" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f8fafc"/>
+      <stop offset="100%" stop-color="#f1f5f9"/>
+    </linearGradient>
+    <filter id="shadow13" x="-5%" y="-5%" width="110%" height="110%">
+      <feDropShadow dx="2" dy="3" stdDeviation="3" flood-color="#475569" flood-opacity="0.12"/>
+    </filter>
+  </defs>
+
+  <rect width="900" height="480" rx="16" fill="url(#bgGrad13)" stroke="#cbd5e1" stroke-width="2"/>
+
+  <!-- Título -->
+  <rect x="30" y="20" width="840" height="50" rx="10" fill="#1e3a8a" filter="url(#shadow13)"/>
+  <text x="450" y="52" font-family="'Segoe UI', Roboto, sans-serif" font-size="19" font-weight="bold" fill="#ffffff" text-anchor="middle">
+    CRITÉRIOS DE CLASSIFICAÇÃO ACR-EULAR 2010 PARA ARTRITE REUMATOIDE
+  </text>
+
+  <!-- 4 Domínios em Linha (Slide 31) -->
+
+  <!-- Domínio A: Envolvimento Articular (0 a 5 pts) -->
+  <g transform="translate(45, 90)" filter="url(#shadow13)">
+    <rect width="255" height="270" rx="10" fill="#ffffff" stroke="#3b82f6" stroke-width="2"/>
+    <rect x="0" y="0" width="255" height="35" rx="10" fill="#2563eb"/>
+    <text x="127" y="23" font-family="'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="bold" fill="#ffffff" text-anchor="middle">A. ENVOLVIMENTO ARTICULAR</text>
+
+    <text x="20" y="60" font-family="'Segoe UI', Roboto, sans-serif" font-size="10.5" fill="#1e293b">• 1 grande articulação: <tspan font-weight="bold">0 pt</tspan></text>
+    <text x="20" y="85" font-family="'Segoe UI', Roboto, sans-serif" font-size="10.5" fill="#1e293b">• 2 a 10 grandes articulações: <tspan font-weight="bold" fill="#2563eb">1 pt</tspan></text>
+    <text x="20" y="110" font-family="'Segoe UI', Roboto, sans-serif" font-size="10.5" fill="#1e293b">• 1 a 3 pequenas articulações: <tspan font-weight="bold" fill="#2563eb">2 pts</tspan></text>
+    <text x="20" y="135" font-family="'Segoe UI', Roboto, sans-serif" font-size="10.5" fill="#1e293b">• 4 a 10 pequenas articulações: <tspan font-weight="bold" fill="#2563eb">3 pts</tspan></text>
+    <text x="20" y="160" font-family="'Segoe UI', Roboto, sans-serif" font-size="10.5" font-weight="bold" fill="#dc2626">• &gt;10 articulações</text>
+    <text x="28" y="176" font-family="'Segoe UI', Roboto, sans-serif" font-size="9.5" fill="#1e293b">(com ≥1 pequena): <tspan font-weight="bold" fill="#dc2626">5 pts</tspan></text>
+
+    <rect x="15" y="195" width="225" height="60" rx="6" fill="#eff6ff" stroke="#bfdbfe" stroke-width="1"/>
+    <text x="127" y="215" font-family="'Segoe UI', Roboto, sans-serif" font-size="9.5" fill="#1e40af" text-anchor="middle">Grandes: ombros, cotovelos,</text>
+    <text x="127" y="230" font-family="'Segoe UI', Roboto, sans-serif" font-size="9.5" fill="#1e40af" text-anchor="middle">quadris, joelhos, tornozelos</text>
+    <text x="127" y="245" font-family="'Segoe UI', Roboto, sans-serif" font-size="9.5" font-weight="bold" fill="#1d4ed8" text-anchor="middle">Pequenas: MCFs, IFPs, MTFs</text>
+  </g>
+
+  <!-- Domínio B: Sorologia (0 a 3 pts) -->
+  <g transform="translate(325, 90)" filter="url(#shadow13)">
+    <rect width="255" height="270" rx="10" fill="#ffffff" stroke="#10b981" stroke-width="2"/>
+    <rect x="0" y="0" width="255" height="35" rx="10" fill="#059669"/>
+    <text x="127" y="23" font-family="'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="bold" fill="#ffffff" text-anchor="middle">B. SOROLOGIA</text>
+
+    <text x="20" y="65" font-family="'Segoe UI', Roboto, sans-serif" font-size="10.5" fill="#1e293b">• FR e Anti-CCP negativos: <tspan font-weight="bold">0 pt</tspan></text>
+    
+    <rect x="15" y="85" width="225" height="70" rx="6" fill="#f0fdf4" stroke="#86efac" stroke-width="1"/>
+    <text x="25" y="105" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" fill="#1e293b">• FR ou Anti-CCP positivo</text>
+    <text x="25" y="120" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" fill="#1e293b">  em baixos títulos (≤3x LSN):</text>
+    <text x="127" y="142" font-family="'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="bold" fill="#059669" text-anchor="middle">2 PONTOS</text>
+
+    <rect x="15" y="165" width="225" height="75" rx="6" fill="#ecfdf5" stroke="#10b981" stroke-width="1.5"/>
+    <text x="25" y="185" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" fill="#1e293b">• FR ou Anti-CCP positivo</text>
+    <text x="25" y="200" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" fill="#1e293b">  em altos títulos (&gt;3x LSN):</text>
+    <text x="127" y="226" font-family="'Segoe UI', Roboto, sans-serif" font-size="14" font-weight="bold" fill="#047857" text-anchor="middle">3 PONTOS</text>
+
+    <text x="127" y="255" font-family="'Segoe UI', Roboto, sans-serif" font-size="9" fill="#065f46" text-anchor="middle">*LSN = Limite Superior da Normalidade</text>
+  </g>
+
+  <!-- Domínio C e D: Provas de Fase Aguda & Duração -->
+  <g transform="translate(605, 90)" filter="url(#shadow13)">
+    <rect width="255" height="270" rx="10" fill="#ffffff" stroke="#f59e0b" stroke-width="2"/>
+    <rect x="0" y="0" width="255" height="35" rx="10" fill="#d97706"/>
+    <text x="127" y="23" font-family="'Segoe UI', Roboto, sans-serif" font-size="11.5" font-weight="bold" fill="#ffffff" text-anchor="middle">C. FASE AGUDA &amp; D. DURAÇÃO</text>
+
+    <!-- Fase Aguda -->
+    <text x="20" y="60" font-family="'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#b45309">C. Reagentes Fase Aguda:</text>
+    <text x="25" y="80" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" fill="#1e293b">• VHS e PCR normais: <tspan font-weight="bold">0 pt</tspan></text>
+    <text x="25" y="100" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" fill="#1e293b">• VHS ou PCR acima</text>
+    <text x="30" y="115" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" fill="#1e293b">do normal: <tspan font-weight="bold" fill="#d97706">1 PONTO</tspan></text>
+
+    <!-- Duração -->
+    <line x1="20" y1="135" x2="235" y2="135" stroke="#e2e8f0" stroke-width="1.5"/>
+    <text x="20" y="155" font-family="'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#b45309">D. Duração dos Sintomas:</text>
+    <text x="25" y="175" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" fill="#1e293b">• &lt; 6 semanas: <tspan font-weight="bold">0 pt</tspan></text>
+    <text x="25" y="195" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" fill="#1e293b">• ≥ 6 semanas: <tspan font-weight="bold" fill="#d97706">1 PONTO</tspan></text>
+
+    <rect x="15" y="215" width="225" height="45" rx="6" fill="#fffbeb" stroke="#fde68a" stroke-width="1"/>
+    <text x="127" y="235" font-family="'Segoe UI', Roboto, sans-serif" font-size="9.5" font-weight="bold" fill="#92400e" text-anchor="middle">Exclui artrites virais agudas</text>
+    <text x="127" y="250" font-family="'Segoe UI', Roboto, sans-serif" font-size="9" fill="#78350f" text-anchor="middle">(ex: Parvovírus B19, Chikungunya)</text>
+  </g>
+
+  <!-- Barra de Ponto de Corte Inferior -->
+  <rect x="45" y="380" width="815" height="75" rx="10" fill="#1e3a8a" filter="url(#shadow13)"/>
+  <text x="450" y="412" font-family="'Segoe UI', Roboto, sans-serif" font-size="17" font-weight="bold" fill="#fbbf24" text-anchor="middle">
+    REGRA DE OURO DIAGNÓSTICA: PONTUAÇÃO ≥ 6 DE 10 PONTOS
+  </text>
+  <text x="450" y="435" font-family="'Segoe UI', Roboto, sans-serif" font-size="12" fill="#ffffff" text-anchor="middle">
+    Classifica definitivamente como Artrite Reumatoide (foco no diagnóstico precoce sem esperar por erosões radiográficas!)
+  </text>
+</svg>

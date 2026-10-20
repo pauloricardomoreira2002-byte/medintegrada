@@ -1,0 +1,664 @@
+<!DOCTYPE html>
+<html lang="pt-BR" data-theme="dark">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>MedIntegrada • Plataforma de Estudos Médicos • UCT20</title>
+  <meta name="description" content="Plataforma de alto rendimento para o 7º Período de Medicina - UCT20. Resumos detalhados em Markdown, esquemas vetoriais SVG e simulados psicométricos comentados no padrão ENAMED/INEP.">
+
+  <!-- Medical Favicon -->
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='%230ea5e9'><path d='M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-2 10h-4v4h-2v-4H7v-2h4V7h2v4h4v2z'/></svg>">
+
+  <!-- CSS Stylesheets (Cache-Busting v2.0) -->
+  <link rel="stylesheet" href="css/main.css?v=2.0">
+  <link rel="stylesheet" href="css/auth.css?v=2.0">
+  <link rel="stylesheet" href="css/dashboard.css?v=2.3">
+  <link rel="stylesheet" href="css/resumos.css?v=2.3">
+  <link rel="stylesheet" href="css/mapas.css?v=2.3">
+  <link rel="stylesheet" href="css/simulado.css?v=2.3">
+  <link rel="stylesheet" href="css/admin.css?v=2.3">
+</head>
+<body>
+
+  <!-- ================= NOTIFICATIONS CONTAINER ================= -->
+  <div id="toast-container"></div>
+
+  <!-- ================= VIEW 1: AUTHENTICATION / LOGIN ================= -->
+  <main id="view-login" class="auth-viewport" style="display: none;">
+    <div class="auth-bg-grid"></div>
+    <div class="auth-glow-orb"></div>
+
+    <div class="auth-card animate-fade-in">
+      <div class="auth-header">
+        <div class="auth-logo-badge">
+          <svg width="34" height="34" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M4.8 2.3A.3.3 0 1 0 5 2H4a2 2 0 0 0-2 2v5a6 6 0 0 0 6 6v0a6 6 0 0 0 6-6V4a2 2 0 0 0-2-2h-1a.2.2 0 1 0 .3.3"/>
+            <path d="M8 15v1a6 6 0 0 0 6 6v0a6 6 0 0 0 6-6v-4"/>
+            <circle cx="20" cy="10" r="2"/>
+          </svg>
+        </div>
+        <h1 class="auth-title">MedIntegrada</h1>
+        <p class="auth-subtitle">Portal Acadêmico de Estudos Médicos</p>
+      </div>
+
+      <div class="auth-notice-box">
+        🔒 <strong>Acesso Controlado:</strong> Usuário e senha são fornecidos diretamente pelo administrador da disciplina.
+      </div>
+
+      <form id="form-login">
+        <div class="form-group">
+          <label class="form-label" for="login-username">Nome de Usuário</label>
+          <div class="auth-input-wrapper">
+            <span class="auth-input-icon">
+              <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"/><circle cx="12" cy="7" r="4"/></svg>
+            </span>
+            <input type="text" id="login-username" class="form-control" placeholder="Ex: mariana.silva ou admin" required autocomplete="username">
+          </div>
+        </div>
+
+        <div class="form-group">
+          <label class="form-label" for="login-password">Senha de Acesso</label>
+          <div class="auth-input-wrapper">
+            <span class="auth-input-icon">
+              <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="11" width="18" height="11" rx="2" ry="2"/><path d="M7 11V7a5 5 0 0 1 10 0v4"/></svg>
+            </span>
+            <input type="password" id="login-password" class="form-control" placeholder="••••••••" required autocomplete="current-password">
+            <button type="button" id="btn-toggle-password" class="auth-toggle-pwd" title="Mostrar/ocultar senha">
+              <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z"/><circle cx="12" cy="12" r="3"/></svg>
+            </button>
+          </div>
+        </div>
+
+        <div class="auth-options">
+          <label class="auth-checkbox-label">
+            <input type="checkbox" id="login-remember" checked>
+            <span>Lembrar de mim</span>
+          </label>
+          <a href="#" class="auth-help-link" onclick="alert('Solicite seus dados de acesso ao Dr. Paulo (Administrador da plataforma).'); return false;">Esqueceu a senha?</a>
+        </div>
+
+        <button type="submit" class="btn btn-primary auth-btn-submit">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M15 3h4a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2h-4"/><polyline points="10 17 15 12 10 7"/><line x1="15" y1="12" x2="3" y2="12"/></svg>
+          Acessar Plataforma
+        </button>
+      </form>
+
+      <div class="auth-footer-security">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg>
+        <span>Ambiente Acadêmico Seguro • Conexão Criptografada em Nuvem</span>
+      </div>
+    </div>
+  </main>
+
+  <!-- ================= VIEW 2: DASHBOARD (AUTHENTICATED) ================= -->
+  <div id="view-dashboard" class="app-layout" style="display: none;">
+
+    <!-- TOPBAR NAVIGATION -->
+    <header class="app-header">
+      <div class="brand-wrapper">
+        <div class="brand-icon">
+          <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M4.8 2.3A.3.3 0 1 0 5 2H4a2 2 0 0 0-2 2v5a6 6 0 0 0 6 6v0a6 6 0 0 0 6-6V4a2 2 0 0 0-2-2h-1a.2.2 0 1 0 .3.3"/>
+            <path d="M8 15v1a6 6 0 0 0 6 6v0a6 6 0 0 0 6-6v-4"/>
+            <circle cx="20" cy="10" r="2"/>
+          </svg>
+        </div>
+        <div class="brand-text">
+          <span class="brand-title">MedIntegrada</span>
+          <span class="brand-subtitle">7º Período • UCT20</span>
+        </div>
+      </div>
+
+      <!-- MAIN TABS -->
+      <nav class="nav-tabs">
+        <button class="nav-tab-btn active" data-tab="resumos">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"/><path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"/></svg>
+          Resumos
+        </button>
+        <button class="nav-tab-btn" data-tab="mapas">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polygon points="1 6 1 22 8 18 16 22 23 18 23 2 16 6 8 2 1 6"/><line x1="8" y1="2" x2="8" y2="18"/><line x1="16" y1="6" x2="16" y2="22"/></svg>
+          Mapas Comparativos
+        </button>
+        <button class="nav-tab-btn" data-tab="simulados">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><path d="m9 12 2 2 4-4"/></svg>
+          Simulados & Questões
+        </button>
+        <button class="nav-tab-btn" id="nav-btn-admin" data-tab="admin" style="display: none;">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg>
+          Gestão de Usuários
+        </button>
+      </nav>
+
+      <!-- USER PROFILE & THEME TOGGLE -->
+      <div class="header-actions">
+        <button class="theme-toggle-btn" id="btn-theme-toggle" title="Alternar tema claro/escuro">
+          🌙
+        </button>
+
+        <div class="user-profile-badge">
+          <div class="user-avatar" id="header-user-avatar">P</div>
+          <div class="user-info">
+            <span class="user-name" id="header-user-name">Usuário</span>
+            <span class="user-role-label" id="header-user-role">Aluno</span>
+          </div>
+        </div>
+
+        <button class="btn btn-ghost btn-sm" id="btn-logout" title="Sair da plataforma">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M9 21H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h4"/><polyline points="16 17 21 12 16 7"/><line x1="21" y1="12" x2="9" y2="12"/></svg>
+          Sair
+        </button>
+      </div>
+    </header>
+
+    <!-- MAIN CONTENT VIEWPORT -->
+    <main class="app-main">
+
+      <!-- ================= TAB 1: RESUMOS DETALHADOS (.MD) ================= -->
+      <section id="tab-resumos" class="tab-pane active">
+        <div class="section-header">
+          <div class="section-title-group">
+            <span class="section-tag">Cadernos de Raciocínio Clínico</span>
+            <h2 class="section-title">Resumos Teóricos Detalhados</h2>
+            <p class="section-desc">Guias completos de estudo e revisão elaborados pelos docentes da disciplina, estruturados em Markdown com alertas de Foco de Prova, pegadinhas de banca e download em .md e .docx.</p>
+          </div>
+        </div>
+
+        <!-- Seletor de Pastas: Resumos -->
+        <div class="folder-nav-wrapper">
+          <div class="folder-nav-container">
+            <span class="folder-nav-label">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"/></svg>
+              Pastas
+            </span>
+            <div class="folder-nav-tabs" id="resumos-folder-tabs">
+              <button type="button" class="folder-nav-btn active" data-folder="UCT20 CAB">
+                <span class="folder-icon">📁</span>
+                <span>UCT20 CAB</span>
+                <span class="folder-nav-badge" id="badge-count-resumos-cab">5</span>
+              </button>
+              <button type="button" class="folder-nav-btn" data-folder="UCT20 Tutoria">
+                <span class="folder-icon">📁</span>
+                <span>UCT20 Tutoria</span>
+                <span class="folder-nav-badge" id="badge-count-resumos-tutoria">0</span>
+              </button>
+            </div>
+          </div>
+        </div>
+
+        <div class="filter-bar">
+          <div class="search-input-wrapper">
+            <span class="search-icon">🔍</span>
+            <input type="text" id="resumos-search-input" class="form-control" placeholder="Buscar por tema, patologia, professor ou palavra-chave nesta pasta...">
+          </div>
+        </div>
+
+        <div class="resumos-grid" id="resumos-grid-container"></div>
+      </section>
+
+      <!-- ================= TAB 2: MAPAS PANORÂMICOS COMPARATIVOS (SVG) ================= -->
+      <section id="tab-mapas" class="tab-pane">
+        <div class="section-header">
+          <div class="section-title-group">
+            <span class="section-tag">Visão Panorâmica & Diagnóstico Diferencial</span>
+            <h2 class="section-title">Mapas Panorâmicos Comparativos (SVG)</h2>
+            <p class="section-desc">Grandes painéis conceituais de alta resolução vetorial (1920px) confrontando fisiopatologia, clínica diferencial, exames complementares e alvos terapêuticos das patologias da UCT20.</p>
+          </div>
+        </div>
+
+        <!-- Seletor de Pastas: Mapas -->
+        <div class="folder-nav-wrapper">
+          <div class="folder-nav-container">
+            <span class="folder-nav-label">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"/></svg>
+              Pastas
+            </span>
+            <div class="folder-nav-tabs" id="mapas-folder-tabs">
+              <button type="button" class="folder-nav-btn active" data-folder="UCT20 CAB">
+                <span class="folder-icon">📁</span>
+                <span>UCT20 CAB</span>
+                <span class="folder-nav-badge" id="badge-count-mapas-cab">2</span>
+              </button>
+              <button type="button" class="folder-nav-btn" data-folder="UCT20 Tutoria">
+                <span class="folder-icon">📁</span>
+                <span>UCT20 Tutoria</span>
+                <span class="folder-nav-badge" id="badge-count-mapas-tutoria">0</span>
+              </button>
+            </div>
+          </div>
+        </div>
+
+        <!-- Panoramic Maps Cards Grid -->
+        <div id="mapas-panoramicos-container"></div>
+      </section>
+
+      <!-- ================= TAB 3: SIMULADOS & QUESTÕES (ENAMED) ================= -->
+      <section id="tab-simulados" class="tab-pane">
+
+        <!-- 3A: Catálogo de Provas -->
+        <div id="simulados-view-catalog" class="simulados-catalog">
+          <div class="section-header">
+            <div class="section-title-group">
+              <span class="section-tag">Engenharia Psicométrica Avançada</span>
+              <h2 class="section-title">Banco de Questões & Simulados Comentados</h2>
+              <p class="section-desc">Simulados completos com os 6 vetores de distratores de elite, gabarito balanceado anti-bias, grifo interativo persistente, eliminação de alternativas (riscar) e feedback imediato.</p>
+            </div>
+            <button class="btn btn-secondary btn-sm" id="btn-open-exam-importer">
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="17 8 12 3 7 8"/><line x1="12" y1="3" x2="12" y2="15"/></svg>
+              📥 Importar Simulado (JSON)
+            </button>
+          </div>
+
+          <!-- Seletor de Pastas: Simulados -->
+          <div class="folder-nav-wrapper">
+            <div class="folder-nav-container">
+              <span class="folder-nav-label">
+                <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"/></svg>
+                Pastas
+              </span>
+              <div class="folder-nav-tabs" id="simulados-folder-tabs">
+                <button type="button" class="folder-nav-btn active" data-folder="UCT20 CAB">
+                  <span class="folder-icon">📁</span>
+                  <span>UCT20 CAB</span>
+                  <span class="folder-nav-badge" id="badge-count-simulados-cab">5</span>
+                </button>
+                <button type="button" class="folder-nav-btn" data-folder="UCT20 Tutoria">
+                  <span class="folder-icon">📁</span>
+                  <span>UCT20 Tutoria</span>
+                  <span class="folder-nav-badge" id="badge-count-simulados-tutoria">0</span>
+                </button>
+              </div>
+            </div>
+          </div>
+
+          <div class="simulados-grid" id="simulados-catalog-grid"></div>
+        </div>
+
+        <!-- 3B: Active Question Runner View -->
+        <div id="simulados-view-runner" class="exam-runner-container" style="display: none;">
+
+          <!-- 1. Smart Header -->
+          <div class="smart-header">
+            <div class="smart-header-top">
+              <div class="smart-header-title-group">
+                <div class="smart-header-badge-row">
+                  <span class="badge badge-primary" id="exam-runner-badge">ENAMED / Residência</span>
+                  <span class="autosave-badge" id="autosave-indicator">
+                    <span class="pulse-indicator"></span> Progresso salvo automaticamente
+                  </span>
+                </div>
+                <h3 class="smart-header-title" id="exam-runner-title">Título da Prova</h3>
+                <p class="smart-header-subtitle" id="exam-runner-subtitle">Subtítulo Temático</p>
+              </div>
+
+              <div class="smart-header-actions">
+                <button class="btn btn-secondary btn-sm" id="btn-restart-exam" title="Reiniciar simulado do zero">
+                  🔄 Reiniciar Simulado
+                </button>
+                <button class="btn btn-ghost btn-sm" id="btn-back-to-catalog">
+                  ← Voltar aos Simulados
+                </button>
+              </div>
+            </div>
+
+            <div class="smart-header-bottom">
+              <div class="score-counter-badge" id="exam-dynamic-score">
+                Acertos: 0 / 0 (0%)
+              </div>
+              <button class="btn btn-primary btn-sm" id="btn-view-scoreboard">
+                📊 Ver Desempenho & Scoreboard
+              </button>
+            </div>
+          </div>
+
+          <!-- 2. Barra de Progresso & Pílulas de Navegação -->
+          <div class="nav-pills-container">
+            <div class="nav-pills-header">
+              <span>Navegação Rápida entre Questões</span>
+              <span style="font-size: 0.75rem; color: var(--text-dim);">● Cinza: Pendente • 🔵 Anel: Ativa • 🟢 Verde: Correta • 🔴 Vermelho: Incorreta</span>
+            </div>
+            <div class="nav-pills-grid" id="nav-pills-grid"></div>
+          </div>
+
+          <!-- 3. Card da Questão -->
+          <div class="question-card">
+            <div class="question-card-header">
+              <div class="question-meta-group">
+                <span class="question-number-badge" id="q-number-badge">Questão 1 de 40</span>
+                <span class="question-tag" id="q-tag-badge">Clínica Médica</span>
+              </div>
+
+              <!-- 4. Grifo Interativo Toolbar -->
+              <div class="highlighter-toolbar">
+                <button type="button" class="btn-toggle-highlighter active" id="btn-toggle-highlighter" title="Habilitar/Desabilitar modo de marca-texto">
+                  🖊️ Grifo: Ativado
+                </button>
+                <div class="highlighter-color-picker">
+                  <button type="button" class="color-dot-btn color-yellow active" id="color-dot-yellow" title="Grifo Amarelo Flúor"></button>
+                  <button type="button" class="color-dot-btn color-green" id="color-dot-green" title="Grifo Verde Neon"></button>
+                </div>
+                <button type="button" class="btn btn-ghost btn-sm btn-clear-highlights" id="btn-clear-highlights" title="Remover todos os grifos desta questão">
+                  🧹 Limpar Grifos
+                </button>
+              </div>
+            </div>
+
+            <!-- Stem / Enunciado -->
+            <div class="question-stem" id="q-stem-container"></div>
+
+            <!-- 5. Alternativas com Botão de Riscar (btn-strike) -->
+            <div class="options-list" id="q-options-list"></div>
+
+            <!-- 6. Barra de Ações & Navegação -->
+            <div class="question-actions-bar">
+              <button class="btn btn-primary btn-lg" id="btn-confirm-answer" disabled>
+                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="20 6 9 17 4 12"/></svg>
+                Confirmar Resposta
+              </button>
+
+              <div class="nav-buttons-group">
+                <button class="btn btn-secondary" id="btn-prev-question">
+                  ← Anterior
+                </button>
+                <button class="btn btn-secondary" id="btn-next-question">
+                  Próxima →
+                </button>
+              </div>
+            </div>
+
+            <!-- 7. Feedback Imediato (Caixa Expansível) -->
+            <div class="feedback-box" id="q-feedback-box"></div>
+          </div>
+
+        </div>
+      </section>
+
+      <!-- ================= TAB 4: GESTÃO DE USUÁRIOS (ADMIN ONLY) ================= -->
+      <section id="tab-admin" class="tab-pane">
+        <div class="section-header">
+          <div class="section-title-group">
+            <span class="section-tag">Painel de Controle do Administrador</span>
+            <h2 class="section-title">Gestão de Estudantes & Acessos à Turma</h2>
+            <p class="section-desc">Cadastre novos alunos, crie senhas sugeridas seguras e copie mensagens personalizadas prontas para enviar diretamente via WhatsApp ou e-mail.</p>
+          </div>
+        </div>
+
+        <div class="admin-dashboard">
+          <!-- Stats Summary -->
+          <div class="admin-stats-grid">
+            <div class="admin-stat-card">
+              <div class="admin-stat-icon">🎓</div>
+              <div class="admin-stat-info">
+                <span class="admin-stat-value" id="stat-total-students">0</span>
+                <span class="admin-stat-label">Alunos Cadastrados</span>
+              </div>
+            </div>
+            <div class="admin-stat-card">
+              <div class="admin-stat-icon">✅</div>
+              <div class="admin-stat-info">
+                <span class="admin-stat-value" id="stat-active-users">0</span>
+                <span class="admin-stat-label">Contas Ativas</span>
+              </div>
+            </div>
+            <div class="admin-stat-card">
+              <div class="admin-stat-icon">📝</div>
+              <div class="admin-stat-info">
+                <span class="admin-stat-value" id="stat-available-exams">5</span>
+                <span class="admin-stat-label">Simulados Ativos</span>
+              </div>
+            </div>
+          </div>
+
+          <!-- Add User Form -->
+          <div class="admin-card">
+            <div class="admin-card-header">
+              <h3 class="admin-card-title">Liberar Novo Acesso para Estudante</h3>
+            </div>
+            <form id="form-add-student">
+              <div class="admin-form-row">
+                <div class="form-group" style="margin-bottom:0;">
+                  <label class="form-label" for="new-student-name">Nome Completo do Aluno</label>
+                  <input type="text" id="new-student-name" class="form-control" placeholder="Ex: Mariana Silva" required>
+                </div>
+                <div class="form-group" style="margin-bottom:0;">
+                  <label class="form-label" for="new-student-username">Nome de Usuário (Login)</label>
+                  <input type="text" id="new-student-username" class="form-control" placeholder="Ex: mariana.silva" required>
+                </div>
+                <div class="form-group" style="margin-bottom:0;">
+                  <label class="form-label" for="new-student-password">Senha de Acesso</label>
+                  <div class="password-input-group">
+                    <input type="text" id="new-student-password" class="form-control" placeholder="Ex: Med2026!" required>
+                    <button type="button" class="btn btn-secondary btn-sm" id="btn-suggest-password" title="Gerar senha médica segura">
+                      ⚡ Gerar Sugestão
+                    </button>
+                  </div>
+                </div>
+                <button type="submit" class="btn btn-primary" style="height: 42px;">
+                  <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="12" y1="5" x2="12" y2="19"/><line x1="5" y1="12" x2="19" y2="12"/></svg>
+                  Cadastrar e Liberar
+                </button>
+              </div>
+            </form>
+          </div>
+
+          <!-- Users Table -->
+          <div class="admin-card">
+            <div class="admin-card-header">
+              <h3 class="admin-card-title">Estudantes Cadastrados na Plataforma</h3>
+            </div>
+            <div class="users-table-wrapper">
+              <table class="users-table">
+                <thead>
+                  <tr>
+                    <th>Nome Completo</th>
+                    <th>Login</th>
+                    <th>Perfil</th>
+                    <th>Data</th>
+                    <th>Status</th>
+                    <th>Ações Rápidas</th>
+                  </tr>
+                </thead>
+                <tbody id="admin-users-tbody"></tbody>
+              </table>
+            </div>
+          </div>
+        </div>
+      </section>
+
+    </main>
+  </div>
+
+  <!-- ================= FULLPAGE VIEW: RESUMO MARKDOWN READER ================= -->
+  <div class="reader-fullpage-overlay" id="resumo-reader-modal" aria-hidden="true">
+    <div class="reader-container">
+      <!-- TOP BAR -->
+      <header class="reader-header">
+        <div class="reader-header-left">
+          <button class="btn btn-secondary btn-sm btn-back-resumos" id="btn-reader-back" title="Voltar ao catálogo de resumos">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><line x1="19" y1="12" x2="5" y2="12"/><polyline points="12 19 5 12 12 5"/></svg>
+            <span>Voltar aos Resumos</span>
+          </button>
+          <div class="reader-header-divider"></div>
+          <div class="reader-title-info">
+            <h2 class="reader-doc-title" id="reader-title">Título do Resumo</h2>
+            <div class="reader-doc-meta" id="reader-meta">Metadados</div>
+          </div>
+        </div>
+
+        <div class="reader-header-right">
+          <!-- CONTROLE DE TAMANHO DE FONTE -->
+          <div class="reader-font-controls" title="Ajustar tamanho da fonte de leitura">
+            <button class="btn-font-step" id="btn-font-dec" title="Diminuir texto (A-)">A-</button>
+            <span class="font-size-badge" id="reader-font-val" title="Tamanho atual do texto. Clique para redefinir para 100%">100%</span>
+            <button class="btn-font-step" id="btn-font-inc" title="Aumentar texto (A+)">A+</button>
+          </div>
+
+          <div class="reader-header-divider"></div>
+
+          <!-- AÇÕES DO DOCUMENTO -->
+          <button class="btn btn-secondary btn-sm" id="btn-reader-copy-md" title="Copiar texto completo em formato Markdown">
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="9" y="9" width="13" height="13" rx="2" ry="2"/><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"/></svg>
+            Copiar .MD
+          </button>
+          <a href="#" download target="_blank" rel="noopener noreferrer" class="btn btn-secondary btn-sm" id="btn-reader-download-md" title="Baixar arquivo Markdown (.md)">
+            💾 .MD
+          </a>
+          <a href="#" download target="_blank" rel="noopener noreferrer" class="btn btn-secondary btn-sm" id="btn-reader-download-docx" title="Baixar Guia Oficial em Word (.docx)">
+            📄 .DOCX
+          </a>
+          <button class="btn btn-ghost btn-sm btn-icon btn-reader-close" id="btn-close-reader" title="Fechar visualizador">
+            ✕
+          </button>
+        </div>
+      </header>
+
+      <!-- BODY VIEW: SIDEBAR + CONTENT -->
+      <div class="reader-body" id="reader-body-container">
+        <!-- BOTÃO FLUTUANTE DE MOSTRAR ÍNDICE QUANDO RECOLHIDO -->
+        <button class="btn-floating-toc-tab" id="btn-floating-toc" title="Expandir Índice Lateral">
+          <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="15" y2="12"/><line x1="3" y1="18" x2="18" y2="18"/></svg>
+          <span>Índice</span>
+          <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="9 18 15 12 9 6"/></svg>
+        </button>
+
+        <!-- SIDEBAR DE ÍNDICE COM BOTÃO DE RECOLHER -->
+        <aside class="reader-toc-sidebar" id="reader-toc-sidebar">
+          <div class="reader-toc-header">
+            <div class="reader-toc-heading">
+              <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg>
+              <span>ÍNDICE DO GUIA</span>
+            </div>
+            <button class="btn-sidebar-collapse" id="btn-sidebar-collapse" title="Recolher Índice">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="15 18 9 12 15 6"/></svg>
+              <span>Recolher</span>
+            </button>
+          </div>
+          <nav class="reader-toc-scroll" id="reader-toc-list" aria-label="Sumário"></nav>
+        </aside>
+
+        <!-- CONTAINER PRINCIPAL DE LEITURA -->
+        <main class="reader-content-scroll" id="reader-content-scroll">
+          <div class="markdown-render" id="reader-markdown-content"></div>
+        </main>
+      </div>
+    </div>
+  </div>
+
+  <!-- ================= MODAL 2: SVG LIGHTBOX INTERATIVO ================= -->
+  <div class="modal-overlay" id="svg-lightbox-modal">
+    <div class="modal-content svg-lightbox-content">
+      <div class="svg-lightbox-header">
+        <div class="svg-lightbox-title-info">
+          <h3 class="svg-lightbox-title" id="svg-lightbox-title">Título do Esquema</h3>
+          <span class="svg-lightbox-category" id="svg-lightbox-category">Patologia</span>
+        </div>
+        <div class="svg-lightbox-controls">
+          <span class="zoom-badge" id="zoom-percentage-badge">100%</span>
+          <button class="btn btn-secondary btn-sm" id="btn-zoom-out" title="Reduzir zoom">-</button>
+          <button class="btn btn-secondary btn-sm" id="btn-zoom-reset" title="Restaurar tamanho original">100%</button>
+          <button class="btn btn-secondary btn-sm" id="btn-zoom-in" title="Aumentar zoom">+</button>
+          <button class="btn btn-secondary btn-sm" id="btn-toggle-text-selection" title="Alternar entre Modo Mover/Arrastar e Modo Seleção de Texto (um ou outro)">
+            <span id="text-select-icon">✋</span>
+            <span id="text-select-label">Modo: Mover / Arrastar (Texto Bloqueado)</span>
+          </button>
+          <button class="btn btn-primary btn-sm" id="btn-download-svg" title="Baixar arquivo SVG">
+            💾 Baixar SVG
+          </button>
+          <button class="btn btn-ghost btn-sm btn-icon" id="btn-close-svg-lightbox" title="Fechar">
+            ✕
+          </button>
+        </div>
+      </div>
+      <div class="svg-canvas-viewport" id="svg-canvas-viewport">
+        <div class="svg-canvas-inner" id="svg-canvas-inner"></div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ================= MODAL 3: SCOREBOARD FINAL DE RESULTADOS ================= -->
+  <div class="modal-overlay" id="exam-scoreboard-modal">
+    <div class="modal-content" style="max-width: 720px;">
+      <div class="modal-header">
+        <h3 class="modal-title">Painel de Rendimento Psicométrico</h3>
+        <button class="btn btn-ghost btn-sm btn-icon" id="btn-close-scoreboard">✕</button>
+      </div>
+      <div class="modal-body">
+        <div class="scoreboard-card" style="box-shadow: none; border: none; padding: 10px;">
+          <div class="score-circle-wrapper">
+            <svg class="score-circle-svg" width="180" height="180">
+              <circle class="score-circle-bg" cx="90" cy="90" r="70" stroke-width="12" fill="none" />
+              <circle class="score-circle-progress" id="scoreboard-circle-progress" cx="90" cy="90" r="70" stroke-width="12" fill="none" stroke-linecap="round" stroke-dasharray="440" stroke-dashoffset="440" />
+            </svg>
+            <div class="score-circle-center">
+              <span class="score-percent-val" id="scoreboard-pct">0%</span>
+              <span class="score-fraction-val" id="scoreboard-fraction">0/0</span>
+            </div>
+          </div>
+
+          <div class="score-pedagogic-box">
+            <h4 class="pedagogic-title" id="pedagogic-title">Parecer Pedagógico</h4>
+            <p class="pedagogic-desc" id="pedagogic-desc">Avaliação baseada no aproveitamento total.</p>
+          </div>
+
+          <div class="review-grid-section">
+            <span class="review-grid-title">Grade de Revisão Direta (Clique para rever a questão):</span>
+            <div class="review-grid" id="scoreboard-review-grid"></div>
+          </div>
+        </div>
+      </div>
+      <div class="modal-footer">
+        <button class="btn btn-secondary" id="btn-scoreboard-restart">🔄 Reiniciar Simulado</button>
+        <button class="btn btn-primary" onclick="document.getElementById('exam-scoreboard-modal').classList.remove('active');">Fechar e Continuar</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- ================= MODAL 4: IMPORTADOR DE SIMULADOS JSON ================= -->
+  <div class="modal-overlay" id="modal-exam-importer">
+    <div class="modal-content" style="max-width: 650px;">
+      <div class="modal-header">
+        <h3 class="modal-title">📥 Importar Novo Simulado (JSON)</h3>
+        <button class="btn btn-ghost btn-sm btn-icon" id="btn-close-importer">✕</button>
+      </div>
+      <form id="form-exam-importer">
+        <div class="modal-body" style="display: flex; flex-direction: column; gap: 16px;">
+          <p style="font-size: 0.9rem; color: var(--text-muted);">
+            Cole abaixo a estrutura JSON de um novo simulado gerado pela IA ou faça upload do arquivo <code>.json</code>. O simulado será validado e adicionado imediatamente à sua biblioteca de provas.
+          </p>
+
+          <div class="form-group" style="margin-bottom: 0;">
+            <label class="form-label" for="importer-folder-select">Pasta de Destino do Simulado:</label>
+            <select id="importer-folder-select" class="form-control" style="font-weight: 600;">
+              <option value="UCT20 CAB">📁 UCT20 CAB (Casos Atuais da Disciplina)</option>
+              <option value="UCT20 Tutoria">📁 UCT20 Tutoria (Casos de Tutoria / PBL)</option>
+            </select>
+          </div>
+
+          <div class="form-group" style="margin-bottom: 0;">
+            <label class="form-label" for="importer-file-input">Carregar Arquivo .json</label>
+            <input type="file" id="importer-file-input" class="form-control" accept=".json">
+          </div>
+
+          <div class="form-group" style="margin-bottom: 0;">
+            <label class="form-label" for="importer-json-textarea">Ou cole o código JSON aqui:</label>
+            <textarea id="importer-json-textarea" class="form-control font-mono" style="height: 180px; font-size: 0.8rem;" placeholder='{"id": "simulado_exemplo", "title": "Simulado...", "questions": [...] }'></textarea>
+          </div>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-secondary" onclick="document.getElementById('modal-exam-importer').classList.remove('active');">Cancelar</button>
+          <button type="submit" class="btn btn-primary">Salvar e Carregar Simulado</button>
+        </div>
+      </form>
+    </div>
+  </div>
+
+  <!-- JAVASCRIPT BUNDLES & CONTROLLERS (Cache-Busting v2.3) -->
+  <script src="js/data.js?v=2.3"></script>
+  <script src="js/supabase-client.js?v=2.3"></script>
+  <script src="js/auth.js?v=2.3"></script>
+  <script src="js/resumos-viewer.js?v=2.3"></script>
+  <script src="js/mapas-viewer.js?v=2.3"></script>
+  <script src="js/simulado-engine.js?v=2.3"></script>
+  <script src="js/app.js?v=2.3"></script>
+
+</body>
+</html>

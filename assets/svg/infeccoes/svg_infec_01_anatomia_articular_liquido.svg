@@ -1,0 +1,153 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 480" width="900" height="480">
+  <defs>
+    <linearGradient id="bgGrad1" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f8fafc"/>
+      <stop offset="100%" stop-color="#f1f5f9"/>
+    </linearGradient>
+    <linearGradient id="blueCard" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#eff6ff"/>
+    </linearGradient>
+    <linearGradient id="greenCard" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#ecfdf5"/>
+    </linearGradient>
+    <linearGradient id="amberCard" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#fffbeb"/>
+    </linearGradient>
+    <filter id="shadow1" x="-5%" y="-5%" width="110%" height="110%">
+      <feDropShadow dx="2" dy="4" stdDeviation="4" flood-color="#64748b" flood-opacity="0.15"/>
+    </filter>
+  </defs>
+
+  <rect width="900" height="480" rx="16" fill="url(#bgGrad1)" stroke="#cbd5e1" stroke-width="2"/>
+
+  <!-- Cabeçalho -->
+  <rect x="25" y="20" width="850" height="55" rx="10" fill="#1e3a8a" filter="url(#shadow1)"/>
+  <text x="450" y="52" font-family="'Segoe UI', Roboto, sans-serif" font-size="19" font-weight="bold" fill="#ffffff" text-anchor="middle">
+    ANATOMIA DA ARTICULAÇÃO SINOVIAL E FISIOLOGIA DO LÍQUIDO SINOVIAL
+  </text>
+  <text x="450" y="68" font-family="'Segoe UI', Roboto, sans-serif" font-size="11.5" fill="#bfdbfe" text-anchor="middle">
+    A arquitetura diartrodial, a ausência de membrana basal na sinóvia e a vulnerabilidade à invasão hematogênica
+  </text>
+
+  <!-- Painel 1: Anatomia e Ausência de Barreira (Esquerda) -->
+  <g transform="translate(30, 95)" filter="url(#shadow1)">
+    <rect width="265" height="360" rx="12" fill="url(#blueCard)" stroke="#93c5fd" stroke-width="1.5"/>
+    <rect x="0" y="0" width="265" height="42" rx="12" fill="#2563eb"/>
+    <text x="132" y="26" font-family="'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="bold" fill="#ffffff" text-anchor="middle">
+      ARQUITETURA DA DIARTROSE
+    </text>
+
+    <g transform="translate(15, 55)">
+      <rect width="235" height="60" rx="8" fill="#ffffff" stroke="#bfdbfe" stroke-width="1"/>
+      <text x="12" y="22" font-family="'Segoe UI', Roboto, sans-serif" font-size="11.5" font-weight="bold" fill="#1e40af">Cartilagem Hialina</text>
+      <text x="12" y="38" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" fill="#475569">• Avascular e aneural (nutrida pelo LS)</text>
+      <text x="12" y="50" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" fill="#475569">• Sem capacidade de defesa ativa</text>
+    </g>
+
+    <g transform="translate(15, 125)">
+      <rect width="235" height="65" rx="8" fill="#ffffff" stroke="#bfdbfe" stroke-width="1"/>
+      <text x="12" y="20" font-family="'Segoe UI', Roboto, sans-serif" font-size="11.5" font-weight="bold" fill="#1e40af">Membrana Sinovial</text>
+      <text x="12" y="36" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" fill="#475569">• Ricamente vascularizada (plexo capilar)</text>
+      <text x="12" y="48" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" fill="#475569">• Sinoviócitos A (macrofágicos)</text>
+      <text x="12" y="60" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" fill="#475569">• Sinoviócitos B (fibroblastos: ác. hialurônico)</text>
+    </g>
+
+    <g transform="translate(15, 200)">
+      <rect width="235" height="65" rx="8" fill="#fef2f2" stroke="#fca5a5" stroke-width="1.5"/>
+      <text x="12" y="20" font-family="'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#b91c1c">⚠️ A "PORTA ABERTA":</text>
+      <text x="12" y="36" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="bold" fill="#991b1b">Ausência de Membrana Basal!</text>
+      <text x="12" y="50" font-family="'Segoe UI', Roboto, sans-serif" font-size="9.5" fill="#7f1d1d">• Capilares fenestrados expostos</text>
+      <text x="12" y="61" font-family="'Segoe UI', Roboto, sans-serif" font-size="9.5" fill="#7f1d1d">• Bactérias caem direto no líquido sinovial</text>
+    </g>
+
+    <g transform="translate(15, 275)">
+      <rect width="235" height="65" rx="8" fill="#ffffff" stroke="#bfdbfe" stroke-width="1"/>
+      <text x="12" y="20" font-family="'Segoe UI', Roboto, sans-serif" font-size="11.5" font-weight="bold" fill="#1e40af">Cápsula Fibrosa e Osso</text>
+      <text x="12" y="36" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" fill="#475569">• Suporte mecânico e estabilidade articular</text>
+      <text x="12" y="48" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" fill="#475569">• Osso subcondral com vascularização</text>
+      <text x="12" y="60" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" fill="#475569">• Comunicação patológica com metáfise</text>
+    </g>
+  </g>
+
+  <!-- Painel 2: Bioquímica do Líquido Sinovial Normal (Centro) -->
+  <g transform="translate(315, 95)" filter="url(#shadow1)">
+    <rect width="270" height="360" rx="12" fill="url(#greenCard)" stroke="#6ee7b7" stroke-width="1.5"/>
+    <rect x="0" y="0" width="270" height="42" rx="12" fill="#059669"/>
+    <text x="135" y="26" font-family="'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="bold" fill="#ffffff" text-anchor="middle">
+      LÍQUIDO SINOVIAL FISIOLÓGICO
+    </text>
+
+    <g transform="translate(15, 55)">
+      <rect width="240" height="45" rx="8" fill="#ffffff" stroke="#a7f3d0" stroke-width="1"/>
+      <text x="12" y="18" font-family="'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#065f46">Origem e Volume</text>
+      <text x="12" y="34" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" fill="#047857">• Ultrafiltrado plasmático + secreção local</text>
+      <text x="12" y="45" font-family="'Segoe UI', Roboto, sans-serif" font-size="9.5" fill="#047857">• Volume normal: 0,1 a 3,5 mL (fina película)</text>
+    </g>
+
+    <g transform="translate(15, 110)">
+      <rect width="240" height="85" rx="8" fill="#ffffff" stroke="#a7f3d0" stroke-width="1"/>
+      <text x="12" y="18" font-family="'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#065f46">Parâmetros Bioquímicos</text>
+      <text x="12" y="34" font-family="'Segoe UI', Roboto, sans-serif" font-size="9.5" fill="#1e293b"><tspan font-weight="bold">Proteínas:</tspan> 15–20 g/L (sem alto peso mol.)</text>
+      <text x="12" y="48" font-family="'Segoe UI', Roboto, sans-serif" font-size="9.5" fill="#1e293b"><tspan font-weight="bold">Ácido Hialurônico:</tspan> 1,7–4,0 g/L (alta viscos.)</text>
+      <text x="12" y="62" font-family="'Segoe UI', Roboto, sans-serif" font-size="9.5" fill="#1e293b"><tspan font-weight="bold">Glicose:</tspan> ~10% inferior à glicemia plasmática</text>
+      <text x="12" y="76" font-family="'Segoe UI', Roboto, sans-serif" font-size="9.5" fill="#1e293b"><tspan font-weight="bold">Ácido Úrico:</tspan> 25–72 mg/L | Lipídios: 30%</text>
+    </g>
+
+    <g transform="translate(15, 205)">
+      <rect width="240" height="65" rx="8" fill="#ffffff" stroke="#a7f3d0" stroke-width="1"/>
+      <text x="12" y="18" font-family="'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#065f46">Citologia Normal</text>
+      <text x="12" y="34" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" fill="#1e293b">• Leucócitos: <tspan font-weight="bold">&lt; 150 a 200 /µL</tspan></text>
+      <text x="12" y="48" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" fill="#1e293b">• Neutrófilos (PMN): <tspan font-weight="bold">&lt; 25%</tspan></text>
+      <text x="12" y="60" font-family="'Segoe UI', Roboto, sans-serif" font-size="9.5" fill="#64748b">• Predomínio de monócitos e macrófagos</text>
+    </g>
+
+    <g transform="translate(15, 280)">
+      <rect width="240" height="60" rx="8" fill="#ecfdf5" stroke="#10b981" stroke-width="1.5"/>
+      <text x="12" y="18" font-family="'Segoe UI', Roboto, sans-serif" font-size="10.5" font-weight="bold" fill="#065f46">Funções Primordiais</text>
+      <text x="12" y="34" font-family="'Segoe UI', Roboto, sans-serif" font-size="9.5" fill="#047857">1. Lubrificação e redução de atrito articular</text>
+      <text x="12" y="47" font-family="'Segoe UI', Roboto, sans-serif" font-size="9.5" fill="#047857">2. Nutrição e oxigenação da cartilagem</text>
+    </g>
+  </g>
+
+  <!-- Painel 3: Artrocentese e Vias de Infecção (Direita) -->
+  <g transform="translate(605, 95)" filter="url(#shadow1)">
+    <rect width="265" height="360" rx="12" fill="url(#amberCard)" stroke="#fcd34d" stroke-width="1.5"/>
+    <rect x="0" y="0" width="265" height="42" rx="12" fill="#d97706"/>
+    <text x="132" y="26" font-family="'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="bold" fill="#ffffff" text-anchor="middle">
+      ARTROCENTESE &amp; VIAS DE ENTRADA
+    </text>
+
+    <g transform="translate(15, 55)">
+      <rect width="235" height="70" rx="8" fill="#ffffff" stroke="#fde68a" stroke-width="1"/>
+      <text x="12" y="18" font-family="'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#92400e">Vias de Acometimento</text>
+      <text x="12" y="34" font-family="'Segoe UI', Roboto, sans-serif" font-size="9.5" fill="#78350f"><tspan font-weight="bold">1. Hematogênica (80%):</tspan> bacteremia/foco à distância</text>
+      <text x="12" y="48" font-family="'Segoe UI', Roboto, sans-serif" font-size="9.5" fill="#78350f"><tspan font-weight="bold">2. Inoculação direta:</tspan> trauma penetrante, punção</text>
+      <text x="12" y="62" font-family="'Segoe UI', Roboto, sans-serif" font-size="9.5" fill="#78350f"><tspan font-weight="bold">3. Contiguidade:</tspan> osteomielite, celulite adjacente</text>
+    </g>
+
+    <g transform="translate(15, 135)">
+      <rect width="235" height="60" rx="8" fill="#ffffff" stroke="#fde68a" stroke-width="1"/>
+      <text x="12" y="18" font-family="'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#92400e">Indicações da Artrocentese</text>
+      <text x="12" y="34" font-family="'Segoe UI', Roboto, sans-serif" font-size="9.5" fill="#78350f">• <tspan font-weight="bold">Diagnóstica:</tspan> monoartrite aguda, febre + dor</text>
+      <text x="12" y="48" font-family="'Segoe UI', Roboto, sans-serif" font-size="9.5" fill="#78350f">• <tspan font-weight="bold">Terapêutica:</tspan> descompressão, esvaziamento</text>
+    </g>
+
+    <g transform="translate(15, 205)">
+      <rect width="235" height="65" rx="8" fill="#fef2f2" stroke="#f87171" stroke-width="1.5"/>
+      <text x="12" y="18" font-family="'Segoe UI', Roboto, sans-serif" font-size="10.5" font-weight="bold" fill="#991b1b">Contraindicações da Punção</text>
+      <text x="12" y="34" font-family="'Segoe UI', Roboto, sans-serif" font-size="9.5" fill="#7f1d1d">• <tspan font-weight="bold">Absoluta:</tspan> Celulite/infecção no sítio da agulha</text>
+      <text x="12" y="48" font-family="'Segoe UI', Roboto, sans-serif" font-size="9.5" fill="#7f1d1d">• <tspan font-weight="bold">Relativa:</tspan> Coagulopatia grave instável</text>
+      <text x="12" y="60" font-family="'Segoe UI', Roboto, sans-serif" font-size="9" fill="#991b1b">→ Nunca transfixar pele infectada!</text>
+    </g>
+
+    <g transform="translate(15, 280)">
+      <rect width="235" height="60" rx="8" fill="#eff6ff" stroke="#3b82f6" stroke-width="1.5"/>
+      <text x="12" y="18" font-family="'Segoe UI', Roboto, sans-serif" font-size="10.5" font-weight="bold" fill="#1e40af">AXIOMA DE EMERGÊNCIA</text>
+      <text x="12" y="34" font-family="'Segoe UI', Roboto, sans-serif" font-size="9.5" font-weight="bold" fill="#1d4ed8">Monoartrite aguda dolorosa com calor =</text>
+      <text x="12" y="48" font-family="'Segoe UI', Roboto, sans-serif" font-size="9.5" font-weight="bold" fill="#b91c1c">Artrite Séptica até que se prove o contrário!</text>
+    </g>
+  </g>
+</svg>

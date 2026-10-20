@@ -1,0 +1,115 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 480" width="900" height="480">
+
+  <defs>
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f8fafc"/>
+      <stop offset="100%" stop-color="#f1f5f9"/>
+    </linearGradient>
+    <linearGradient id="headerGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#1e3a8a"/>
+      <stop offset="100%" stop-color="#1e40af"/>
+    </linearGradient>
+    <linearGradient id="greenGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#ecfdf5"/>
+      <stop offset="100%" stop-color="#d1fae5"/>
+    </linearGradient>
+    <linearGradient id="redGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#fef2f2"/>
+      <stop offset="100%" stop-color="#fee2e2"/>
+    </linearGradient>
+    <linearGradient id="amberGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#fffbeb"/>
+      <stop offset="100%" stop-color="#fef3c7"/>
+    </linearGradient>
+    <linearGradient id="blueGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#eff6ff"/>
+      <stop offset="100%" stop-color="#dbeafe"/>
+    </linearGradient>
+    <linearGradient id="purpleGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#faf5ff"/>
+      <stop offset="100%" stop-color="#f3e8ff"/>
+    </linearGradient>
+    <filter id="dropShadow" x="-5%" y="-5%" width="110%" height="110%">
+      <feDropShadow dx="2" dy="4" stdDeviation="4" flood-color="#475569" flood-opacity="0.12"/>
+    </filter>
+  </defs>
+
+  <rect width="900" height="480" rx="16" fill="url(#bgGrad)" stroke="#cbd5e1" stroke-width="2"/>
+  
+  <rect x="25" y="20" width="850" height="58" rx="10" fill="url(#headerGrad)" filter="url(#dropShadow)"/>
+  <text x="450" y="47" font-family="'Segoe UI', Roboto, sans-serif" font-size="20" font-weight="bold" fill="#ffffff" text-anchor="middle">
+    PAINEL DE AUTOANTICORPOS ESPECÍFICOS DO LES
+  </text>
+  <text x="450" y="67" font-family="'Segoe UI', Roboto, sans-serif" font-size="12" fill="#bfdbfe" text-anchor="middle">
+    Sensibilidade, especificidade e utilidade clínica de cada marcador sorológico no diagnóstico e seguimento
+  </text>
+
+  <!-- Tabela Visual de Anticorpos -->
+  <!-- Linha de Cabeçalho da Tabela -->
+  <g transform="translate(35, 95)" filter="url(#dropShadow)">
+    <rect width="830" height="32" rx="6" fill="#1e3a8a"/>
+    <text x="90" y="21" font-family="'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#ffffff" text-anchor="middle">AUTOANTICORPO</text>
+    <text x="230" y="21" font-family="'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#ffffff" text-anchor="middle">SENSIBILIDADE</text>
+    <text x="350" y="21" font-family="'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#ffffff" text-anchor="middle">ESPECIFICIDADE</text>
+    <text x="590" y="21" font-family="'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#ffffff" text-anchor="middle">RELEVÂNCIA CLÍNICA &amp; COMPORTAMENTO</text>
+
+    <!-- Linha 1: Anti-Sm -->
+    <rect x="0" y="36" width="830" height="42" fill="#fef2f2" stroke="#e2e8f0" stroke-width="1"/>
+    <text x="90" y="62" font-family="'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="bold" fill="#dc2626" text-anchor="middle">Anti-Sm</text>
+    <text x="230" y="62" font-family="'Segoe UI', Roboto, sans-serif" font-size="11" fill="#475569" text-anchor="middle">20 a 30% (baixa)</text>
+    <text x="350" y="62" font-family="'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#dc2626" text-anchor="middle">&gt; 99% (Máxima!)</text>
+    <text x="430" y="55" font-family="'Segoe UI', Roboto, sans-serif" font-size="10.5" font-weight="bold" fill="#991b1b">★ O MAIS ESPECÍFICO DO LES ("Marca Registrada")</text>
+    <text x="430" y="70" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" fill="#475569">Títulos NÃO variam com a atividade de doença. Pontua 6 pontos no EULAR.</text>
+
+    <!-- Linha 2: Anti-dsDNA -->
+    <rect x="0" y="80" width="830" height="42" fill="#eff6ff" stroke="#e2e8f0" stroke-width="1"/>
+    <text x="90" y="106" font-family="'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="bold" fill="#2563eb" text-anchor="middle">Anti-dsDNA</text>
+    <text x="230" y="106" font-family="'Segoe UI', Roboto, sans-serif" font-size="11" fill="#475569" text-anchor="middle">60 a 70% (moderada)</text>
+    <text x="350" y="106" font-family="'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#2563eb" text-anchor="middle">95 a 97% (alta)</text>
+    <text x="430" y="99" font-family="'Segoe UI', Roboto, sans-serif" font-size="10.5" font-weight="bold" fill="#1e40af">★ CORRELACIONA COM ATIVIDADE &amp; NEFRITE LÚPICA</text>
+    <text x="430" y="114" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" fill="#475569">Queda de C3/C4 + subida de anti-dsDNA = Flare iminente! Pontua 6 pontos.</text>
+
+    <!-- Linha 3: Anti-Histona -->
+    <rect x="0" y="124" width="830" height="42" fill="#fffbeb" stroke="#e2e8f0" stroke-width="1"/>
+    <text x="90" y="150" font-family="'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="bold" fill="#d97706" text-anchor="middle">Anti-Histona</text>
+    <text x="230" y="150" font-family="'Segoe UI', Roboto, sans-serif" font-size="11" fill="#475569" text-anchor="middle">50 a 70% (no LES)</text>
+    <text x="350" y="150" font-family="'Segoe UI', Roboto, sans-serif" font-size="11" fill="#475569" text-anchor="middle">Inespecífico</text>
+    <text x="430" y="143" font-family="'Segoe UI', Roboto, sans-serif" font-size="10.5" font-weight="bold" fill="#b45309">★ LÚPUS INDUZIDO POR DROGAS (LID)</text>
+    <text x="430" y="158" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" fill="#475569">Presente em &gt;95% do LID (hidralazina, procainamida). No LID, anti-dsDNA é negativo!</text>
+
+    <!-- Linha 4: Anti-Ro (SSA) / Anti-La (SSB) -->
+    <rect x="0" y="168" width="830" height="42" fill="#ecfdf5" stroke="#e2e8f0" stroke-width="1"/>
+    <text x="90" y="194" font-family="'Segoe UI', Roboto, sans-serif" font-size="11.5" font-weight="bold" fill="#059669" text-anchor="middle">Anti-Ro / Anti-La</text>
+    <text x="230" y="194" font-family="'Segoe UI', Roboto, sans-serif" font-size="11" fill="#475569" text-anchor="middle">30 a 50% / 15 a 20%</text>
+    <text x="350" y="194" font-family="'Segoe UI', Roboto, sans-serif" font-size="11" fill="#475569" text-anchor="middle">Moderada (Sjögren)</text>
+    <text x="430" y="187" font-family="'Segoe UI', Roboto, sans-serif" font-size="10.5" font-weight="bold" fill="#065f46">★ LÚPUS CUTÂNEO SUBAGUDO &amp; BAVT NEONATAL</text>
+    <text x="430" y="202" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" fill="#475569">Fotossensibilidade intensa, síndrome de Sjögren secundária. Atravessam a placenta.</text>
+
+    <!-- Linha 5: Anti-P Ribossômico -->
+    <rect x="0" y="212" width="830" height="42" fill="#faf5ff" stroke="#e2e8f0" stroke-width="1"/>
+    <text x="90" y="238" font-family="'Segoe UI', Roboto, sans-serif" font-size="11.5" font-weight="bold" fill="#7c3aed" text-anchor="middle">Anti-P Ribossômico</text>
+    <text x="230" y="238" font-family="'Segoe UI', Roboto, sans-serif" font-size="11" fill="#475569" text-anchor="middle">10 a 20% (baixa)</text>
+    <text x="350" y="238" font-family="'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#7c3aed" text-anchor="middle">&gt; 95% (alta)</text>
+    <text x="430" y="231" font-family="'Segoe UI', Roboto, sans-serif" font-size="10.5" font-weight="bold" fill="#5b21b6">★ PSICOSE LÚPICA &amp; DEPRESSÃO GRAVE</text>
+    <text x="430" y="246" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" fill="#475569">Manifestações neuropsiquiátricas centrais e nefrite lúpica membranosa.</text>
+
+    <!-- Linha 6: Anticorpos Antifosfolípides (aPL) -->
+    <rect x="0" y="256" width="830" height="42" fill="#fff1f2" stroke="#e2e8f0" stroke-width="1"/>
+    <text x="90" y="282" font-family="'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#e11d48" text-anchor="middle">aPL (AL, aCL, β2GP1)</text>
+    <text x="230" y="282" font-family="'Segoe UI', Roboto, sans-serif" font-size="11" fill="#475569" text-anchor="middle">30 a 40%</text>
+    <text x="350" y="282" font-family="'Segoe UI', Roboto, sans-serif" font-size="11" fill="#475569" text-anchor="middle">Variável (SAF)</text>
+    <text x="430" y="275" font-family="'Segoe UI', Roboto, sans-serif" font-size="10.5" font-weight="bold" fill="#be123c">★ TROMBOSE ARTERIAL/VENOSA &amp; PERDA GESTACIONAL</text>
+    <text x="430" y="290" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" fill="#475569">Alargamento de TTPA in vitro com trombose in vivo. Pontua 2 pontos no EULAR.</text>
+  </g>
+
+  <!-- Rodapé Didático -->
+  <g transform="translate(35, 410)">
+    <rect width="830" height="50" rx="8" fill="#1e293b"/>
+    <text x="415" y="22" font-family="'Segoe UI', Roboto, sans-serif" font-size="11.5" font-weight="bold" fill="#38bdf8" text-anchor="middle">
+      RESUMO MNEMÔNICO: "QUEM É QUEM NO LES?"
+    </text>
+    <text x="415" y="40" font-family="'Segoe UI', Roboto, sans-serif" font-size="10.5" fill="#ffffff" text-anchor="middle">
+      Anti-Sm = Diagnóstico de Certeza | Anti-dsDNA = Atividade &amp; Rim | Anti-Histona = Remédio causador | Anti-Ro = Sol &amp; Bebê
+    </text>
+  </g>
+</svg>

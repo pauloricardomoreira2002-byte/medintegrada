@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 460" width="900" height="460">
+  <defs>
+    <linearGradient id="bgGrad1" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f8fafc"/>
+      <stop offset="100%" stop-color="#f1f5f9"/>
+    </linearGradient>
+    <linearGradient id="tolGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#ecfdf5"/>
+      <stop offset="100%" stop-color="#d1fae5"/>
+    </linearGradient>
+    <linearGradient id="autoGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#fef2f2"/>
+      <stop offset="100%" stop-color="#fee2e2"/>
+    </linearGradient>
+    <filter id="shadow1" x="-5%" y="-5%" width="110%" height="110%">
+      <feDropShadow dx="2" dy="4" stdDeviation="4" flood-color="#64748b" flood-opacity="0.15"/>
+    </filter>
+  </defs>
+
+  <rect width="900" height="460" rx="16" fill="url(#bgGrad1)" stroke="#cbd5e1" stroke-width="2"/>
+
+  <!-- Título do Bloco -->
+  <rect x="30" y="25" width="840" height="55" rx="10" fill="#1e3a8a" filter="url(#shadow1)"/>
+  <text x="450" y="58" font-family="'Segoe UI', Roboto, sans-serif" font-size="20" font-weight="bold" fill="#ffffff" text-anchor="middle">
+    TOLERÂNCIA IMUNOLÓGICA vs. AUTOIMUNIDADE
+  </text>
+  <text x="450" y="74" font-family="'Segoe UI', Roboto, sans-serif" font-size="12" fill="#bfdbfe" text-anchor="middle">
+    Mecanismo fisiológico de não-responsividade a autoantígenos versus a quebra patológica na AR
+  </text>
+
+  <!-- Painel Esquerdo: Tolerância Fisiológica -->
+  <g transform="translate(45, 100)" filter="url(#shadow1)">
+    <rect width="380" height="330" rx="12" fill="url(#tolGrad)" stroke="#10b981" stroke-width="2"/>
+    <rect x="0" y="0" width="380" height="45" rx="12" fill="#059669"/>
+    <text x="190" y="28" font-family="'Segoe UI', Roboto, sans-serif" font-size="15" font-weight="bold" fill="#ffffff" text-anchor="middle">
+      TOLERÂNCIA IMUNOLÓGICA (Fisiológico)
+    </text>
+
+    <!-- Caixa Antígenos Tolerogênicos -->
+    <rect x="25" y="60" width="330" height="65" rx="8" fill="#ffffff" stroke="#6ee7b7" stroke-width="1.5"/>
+    <circle cx="50" cy="92" r="14" fill="#10b981"/>
+    <text x="50" y="97" font-family="'Segoe UI', Roboto, sans-serif" font-size="14" font-weight="bold" fill="#ffffff" text-anchor="middle">✓</text>
+    <text x="75" y="82" font-family="'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="bold" fill="#065f46">Antígenos Tolerogênicos</text>
+    <text x="75" y="100" font-family="'Segoe UI', Roboto, sans-serif" font-size="11" fill="#047857">Antígenos próprios dos tecidos humanos</text>
+    <text x="75" y="115" font-family="'Segoe UI', Roboto, sans-serif" font-size="11" fill="#0f766e">→ Induzem não responsividade ativa</text>
+
+    <!-- Mecanismos -->
+    <rect x="25" y="135" width="330" height="110" rx="8" fill="#ffffff" stroke="#a7f3d0" stroke-width="1.5"/>
+    <text x="40" y="156" font-family="'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="bold" fill="#047857">Pontos de Controle (Checkpoints):</text>
+    <text x="40" y="176" font-family="'Segoe UI', Roboto, sans-serif" font-size="11" fill="#1f2937">• Tolerância Central (Timo e Medula Óssea)</text>
+    <text x="40" y="194" font-family="'Segoe UI', Roboto, sans-serif" font-size="11" fill="#1f2937">• Anergia e Deleção Clonal Periférica</text>
+    <text x="40" y="212" font-family="'Segoe UI', Roboto, sans-serif" font-size="11" fill="#1f2937">• Supressão por Linfócitos T Reguladores (Treg)</text>
+    <text x="40" y="230" font-family="'Segoe UI', Roboto, sans-serif" font-size="11" fill="#059669">• Reação preservada contra Microrganismos (Imunogênicos)</text>
+
+    <!-- Desfecho Verde -->
+    <rect x="25" y="255" width="330" height="55" rx="8" fill="#ecfdf5" stroke="#10b981" stroke-width="2"/>
+    <text x="190" y="278" font-family="'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="bold" fill="#065f46" text-anchor="middle">INTEGRIDADE TECIDUAL</text>
+    <text x="190" y="296" font-family="'Segoe UI', Roboto, sans-serif" font-size="11" fill="#047857" text-anchor="middle">Ausência de inflamação e destruição contra o "próprio"</text>
+  </g>
+
+  <!-- Painel Direito: Quebra da Tolerância e Autoimunidade -->
+  <g transform="translate(475, 100)" filter="url(#shadow1)">
+    <rect width="380" height="330" rx="12" fill="url(#autoGrad)" stroke="#ef4444" stroke-width="2"/>
+    <rect x="0" y="0" width="380" height="45" rx="12" fill="#dc2626"/>
+    <text x="190" y="28" font-family="'Segoe UI', Roboto, sans-serif" font-size="15" font-weight="bold" fill="#ffffff" text-anchor="middle">
+      AUTOIMUNIDADE (Patológico)
+    </text>
+
+    <!-- Caixa Falha de Autotolerância -->
+    <rect x="25" y="60" width="330" height="65" rx="8" fill="#ffffff" stroke="#fca5a5" stroke-width="1.5"/>
+    <circle cx="50" cy="92" r="14" fill="#dc2626"/>
+    <text x="50" y="97" font-family="'Segoe UI', Roboto, sans-serif" font-size="14" font-weight="bold" fill="#ffffff" text-anchor="middle">✕</text>
+    <text x="75" y="82" font-family="'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="bold" fill="#991b1b">Perda da Autotolerância</text>
+    <text x="75" y="100" font-family="'Segoe UI', Roboto, sans-serif" font-size="11" fill="#b91c1c">Quebra de regulação central/periférica</text>
+    <text x="75" y="115" font-family="'Segoe UI', Roboto, sans-serif" font-size="11" fill="#7f1d1d">→ Reatividade imune a autoantígenos teciduais</text>
+
+    <!-- Mecanismos de Autoimunidade -->
+    <rect x="25" y="135" width="330" height="110" rx="8" fill="#ffffff" stroke="#fecaca" stroke-width="1.5"/>
+    <text x="40" y="156" font-family="'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="bold" fill="#991b1b">Desencadeantes na AR:</text>
+    <text x="40" y="176" font-family="'Segoe UI', Roboto, sans-serif" font-size="11" fill="#1f2937">• Predisposição Genética (HLA-DRB1 / HLA-DR4)</text>
+    <text x="40" y="194" font-family="'Segoe UI', Roboto, sans-serif" font-size="11" fill="#1f2937">• Fatores Ambientais (Tabagismo, Periodontite)</text>
+    <text x="40" y="212" font-family="'Segoe UI', Roboto, sans-serif" font-size="11" fill="#1f2937">• Citrulinização de proteínas gerando Neoantígenos</text>
+    <text x="40" y="230" font-family="'Segoe UI', Roboto, sans-serif" font-size="11" fill="#dc2626">• Ativação crônica de Linfócitos T autorreativos e Linfócitos B</text>
+
+    <!-- Desfecho Vermelho -->
+    <rect x="25" y="255" width="330" height="55" rx="8" fill="#fef2f2" stroke="#dc2626" stroke-width="2"/>
+    <text x="190" y="278" font-family="'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="bold" fill="#991b1b" text-anchor="middle">DOENÇA AUTOIMUNE SISTÊMICA</text>
+    <text x="190" y="296" font-family="'Segoe UI', Roboto, sans-serif" font-size="11" fill="#b91c1c" text-anchor="middle">Sinovite proliferativa, pannus e destruição articular crônica</text>
+  </g>
+</svg>

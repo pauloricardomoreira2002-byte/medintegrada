@@ -1,0 +1,1251 @@
+{
+  "id": "simulado_artrite_septica_osteomielite",
+  "title": "Simulado Comentado • Artrite Séptica e Osteomielite",
+  "subtitle": "40 Questões no Padrão ENAMED/INEP com Raio-X Cognitivo dos Distratores",
+  "badge": "ENAMED / Residência Médica • Nível Avançado",
+  "theme": "Infecções Osteoarticulares",
+  "area": "Clínica Médica • Infectologia e Ortopedia",
+  "total_questions": 40,
+  "questions": [
+    {
+      "id": 1,
+      "tag": "Artrite Séptica • Fisiopatologia Articular",
+      "stem": "Um homem de 58 anos, portador de diabetes mellitus tipo 2, dá entrada no pronto-socorro com dor lancinante e edema importante no joelho direito há 24 horas. Relata episódio de furunculose em membro superior há 5 dias. O médico assistente suspeita de artrite séptica de origem hematogênica. Considerando a anatomia da articulação sinovial e a patogênese da invasão bacteriana, qual característica histológica da membrana sinovial justifica a elevada suscetibilidade dessa estrutura à disseminação hematogênica de patógenos?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A avascularidade estrutural do tecido sinovial que impede o influxo imediato de fatores de defesa humorais e neutrófilos."
+        },
+        {
+          "letter": "B",
+          "text": "A presença de rica rede microvascular na camada subsinovial associada à ausência de membrana basal contínua no revestimento sinovial."
+        },
+        {
+          "letter": "C",
+          "text": "A produção contínua de líquido sinovial alcalino e hiperosmolar que precipita a rápida lise espontânea dos proteoglicanos locais."
+        },
+        {
+          "letter": "D",
+          "text": "A existência de barreira epitelial estratificada densa que retém ativamente os leucócitos e bactérias no espaço extravascular."
+        }
+      ],
+      "answer": "B",
+      "rationale": "A membrana sinovial é intensamente vascularizada e desprovida de uma lâmina basal limitante contínua. Essa particularidade anatômica permite que bactérias circulantes na corrente sanguínea atravessem facilmente os capilares fenestrados e colonizem o espaço articular, tornando a via hematogênica responsável por aproximadamente 80% dos casos de artrite séptica em articulações nativas.",
+      "distractors": [
+        "<strong>A está incorreta [Vetor 1 - Micro-Inversão Conceitual]:</strong> A cartilagem articular hialina é que é avascular; a membrana sinovial é amplamente vascularizada, sendo justamente essa vasculatura a porta de entrada dos êmbolos sépticos. <em>(Ímã cognitivo: Confundir as características da cartilagem hialina avascular com a membrana sinovial.)</em>",
+        "<strong>C está incorreta [Vetor 4 - Mimetismo Clínico / Síndrome Vizinha]:</strong> O líquido sinovial é um ultrafiltrado plasmático isotônico enriquecido com hialuronano e lubricina; a lise da cartilagem não é causada por osmolaridade alterada do líquido, mas pela liberação de enzimas líticas de neutrófilos e citocinas pró-inflamatórias. <em>(Ímã cognitivo: Atribuir a lesão tecidual a um fenômeno de desequilíbrio osmótico e não inflamatório-enzimático.)</em>",
+        "<strong>D está incorreta [Vetor 1 - Micro-Inversão Conceitual]:</strong> A membrana sinovial não possui revestimento epitelial nem lâmina basal contínua; sua ausência de barreira tecidual densa é exatamente o fator que facilita a transudação e colonização bacteriana direta. <em>(Ímã cognitivo: Confundir o tecido sinovial com um epitélio de barreira típico mucoso ou cutâneo.)</em>"
+      ],
+      "pearl": "A membrana sinovial é altamente vascularizada e não tem lâmina basal contínua: isso explica por que 80% das infecções articulares ocorrem por via hematogênica."
+    },
+    {
+      "id": 2,
+      "tag": "Artrite Séptica • Cronologia da Lesão Articular",
+      "stem": "Uma paciente de 64 anos, com artrite reumatoide em uso de metotrexato, é admitida na emergência com quadro de dor aguda incapacitante, rubor e calor no joelho esquerdo iniciado há 30 horas. A análise do líquido sinovial revela exsudato purulento espesso e opaco. O médico assistente explica à equipe a urgência da abordagem descompressiva imediata. De acordo com a cronologia evolutiva da lesão articular na artrite séptica, em qual etapa e janela temporal ocorre o dano estrutural irreversível com degradação condral e lesão óssea?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fase de metaplasia óssea reparadora e anquilose fibrosa, instalando-se a partir de 3 a 4 semanas."
+        },
+        {
+          "letter": "B",
+          "text": "Exsudação purulenta no estágio final, ocorrendo entre 24 e 48 horas após a invasão bacteriana."
+        },
+        {
+          "letter": "C",
+          "text": "Exsudação serofibrinosa intermediária com turvamento, manifestando-se entre 12 e 24 horas de evolução."
+        },
+        {
+          "letter": "D",
+          "text": "Exsudação serosa inicial com congestão e edema, ocorrendo tipicamente entre 6 e 12 horas."
+        }
+      ],
+      "answer": "B",
+      "rationale": "A destruição da articulação na artrite séptica segue três etapas cronológicas: (1) Exsudação serosa (6-12h), (2) Exsudação serofibrinosa (12-24h) e (3) Exsudação purulenta (24-48h). O acúmulo de pus sob alta pressão, associado à liberação maciça de proteases neutrofílicas e citocinas (TNF-α, IL-1), leva a 100% de degradação da cartilagem e 80% de dano ao osso subcondral na janela de 24-48h, caracterizando um estágio irreversível.",
+      "distractors": [
+        "<strong>A está incorreta [Vetor 3 - Salto de Etapa / Precipitação]:</strong> A anquilose e destruição tardia são sequelas crônicas de um tratamento inadequado; a destruição biológica da cartilagem (100%) e do osso subcondral (80%) ocorre agudamente em 24 a 48 horas. <em>(Ímã cognitivo: Focar na fase de sequela tardia ao invés da janela crítica aguda de destruição purulenta.)</em>",
+        "<strong>C está incorreta [Vetor 2 - Janela Biológica e Cronologia]:</strong> A etapa serofibrinosa (12-24h) caracteriza-se por turvamento do líquido e leucocitose neutrofílica intensa, mas a destruição franca e irreversível da cartilagem e do osso subcondral consolida-se na fase purulenta (24-48h). <em>(Ímã cognitivo: Confundir o início da invasão neutrofílica com o marco temporal de dano tecidual não reversível.)</em>",
+        "<strong>D está incorreta [Vetor 2 - Janela Biológica e Cronologia]:</strong> A fase de exsudação serosa (6-12h) cursa apenas com congestão vascular, edema e infiltrado leucocitário inicial, sendo um estágio plenamente reversível se tratada precocemente. <em>(Ímã cognitivo: Precipitar a lesão irreversível para as primeiras horas de vasodilatação e edema articular.)</em>"
+      ],
+      "pearl": "Janela crítica de 24 a 48 horas: atraso terapêutico nesse intervalo causa destruição purulenta irreversível da cartilagem e do osso subcondral."
+    },
+    {
+      "id": 3,
+      "tag": "Artrite Séptica • Mecanismos de Dano Condral",
+      "stem": "Um homem de 72 anos, diabético e hipertenso, procura atendimento após 36 horas do início de dor severa e derrame volumoso no joelho direito. A artrocentese confirma artrite bacteriana aguda. Em discussão clínica sobre a rapidez da perda de função articular nessa afecção, indaga-se quais os principais mediadores e mecanismos patogênicos responsáveis pela necrose condral acelerada. Qual alteração fisiopatológica é determinante para a destruição fulminante da cartilagem articular?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A elevação acentuada da pressão intra-articular associada à liberação de citocinas inflamatórias e enzimas proteolíticas de neutrófilos."
+        },
+        {
+          "letter": "B",
+          "text": "A ativação de osteoclastos subcondrais modulada exclusivamente por anticorpos IgG fixadores de complemento circulantes."
+        },
+        {
+          "letter": "C",
+          "text": "O consumo anaeróbico total de oxigênio pelo estafilococo provocando apoptose direta e seletiva da camada de osteoblastos."
+        },
+        {
+          "letter": "D",
+          "text": "A precipitação primária de cristais de pirofosfato induzida pela alcalinização acentuada do espaço articular infectado."
+        }
+      ],
+      "answer": "A",
+      "rationale": "A cartilagem articular não tolera inflamação purulenta mantida. O rápido acúmulo de exsudato purulento na cavidade fechada eleva vertiginosamente a pressão intra-articular, o que colaba a microcirculação sinovial e induz isquemia. Concomitantemente, os neutrófilos recrutados liberam proteases, colagenases e citocinas (TNF-α, IL-1, IL-6) que degradam diretamente a matriz extracelular cartilaginosa em 24-48h.",
+      "distractors": [
+        "<strong>B está incorreta [Vetor 1 - Micro-Inversão Conceitual]:</strong> A degradação condral decorre da resposta inata com infiltração maciça de neutrófilos (PMN > 90%), proteases lisossomais, TNF-α, IL-1 e IL-6, e não por mecanismo mediado por imunocomplexos ou anticorpos dependentes. <em>(Ímã cognitivo: Supor um mecanismo de hipersensibilidade humoral tipo III ou II na patogênese bacteriana piogênica.)</em>",
+        "<strong>C está incorreta [Vetor 1 - Micro-Inversão Conceitual]:</strong> A cartilagem hialina é constituída por condrócitos em matriz avascular; a lesão é causada pela toxicidade de proteases/citocinas inflamatórias e isquemia pela hipertensão da cápsula, não por apoptose estafilocócica direta de osteoblastos. <em>(Ímã cognitivo: Errar o tipo celular primário acometido na cartilagem e inverter o mecanismo fisiopatológico.)</em>",
+        "<strong>D está incorreta [Vetor 4 - Mimetismo Clínico / Síndrome Vizinha]:</strong> A destruição é enzimática (proteases neutrofílicas) e isquêmica (hipertensão intra-articular), não tendo relação com precipitação alcalina de cristais de pirofosfato (pseudogota). <em>(Ímã cognitivo: Associar a destruição tecidual à artrite microcristalina e não à resposta neutrofílica séptica.)</em>"
+      ],
+      "pearl": "Hipertensão intra-articular + proteases neutrofílicas (TNF-α, IL-1, IL-6) = degradação rápida da cartilagem em cavidade fechada."
+    },
+    {
+      "id": 4,
+      "tag": "Artrite Séptica • Urgência Médica & Epidemiologia",
+      "stem": "Um médico plantonista atende um paciente de 62 anos com dor súbita de forte intensidade e incapacidade de flexionar o joelho direito há 18 horas, sem história de trauma. Ao exame físico, o joelho apresenta eritema acentuado, hipertermia local e volumoso derrame. Sinais vitais: PA: 130/80 mmHg; FC: 96 bpm; Temperatura axilar: 37,9 °C. Diante do quadro de monoartrite aguda, qual é o princípio orientador da conduta clínica imediata e o prognóstico temporal?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tratar empiricamente com anti-inflamatório não esteroidal em altas doses e solicitar ácido úrico sérico ambulatorial para confirmar gota."
+        },
+        {
+          "letter": "B",
+          "text": "Monoartrite aguda é artrite séptica até prova em contrário, exigindo artrocentese precoce devido ao risco de destruição articular em 24 a 48 horas."
+        },
+        {
+          "letter": "C",
+          "text": "Iniciar antibioticoterapia oral com cefalexina ambulatorial e solicitar ressonância magnética eletiva para avaliar integridade ligamentar."
+        },
+        {
+          "letter": "D",
+          "text": "Aguardar 48 horas de observação clínica com analgésicos e compressas mornas antes de indicar qualquer punção diagnóstica invasiva."
+        }
+      ],
+      "answer": "B",
+      "rationale": "A principal mensagem clínica da artrite séptica é que 'monoartrite aguda é artrite séptica até prova em contrário'. Trata-se de uma emergência médica com taxa de mortalidade em 1 ano de 5 a 18% (podendo atingir 50% em maiores de 65 anos) e perda funcional em até um terço dos casos. O atraso de 24 a 48 horas pode resultar em destruição irreversível.",
+      "distractors": [
+        "<strong>A está incorreta [Vetor 3 - Salto de Etapa / Precipitação]:</strong> Mesmo que gota seja comum, monoartrite aguda é artrite séptica até prova em contrário. O atraso na punção e drenagem pode levar à destruição permanente da articulação e bacteremia. <em>(Ímã cognitivo: Confundir artrite séptica com gota aguda e adiar a investigação diagnóstica mandatória.)</em>",
+        "<strong>C está incorreta [Vetor 5 - Protocolo Oficial SUS/PCDT vs Prática Informal]:</strong> Artrite séptica é emergência médica com internação mandatória; antibiótico empírico nunca deve ser oral em ambiente domiciliar nem iniciado antes da coleta de líquido sinovial e hemoculturas. <em>(Ímã cognitivo: Adotar conduta de baixa complexidade em situação que exige internação e via parenteral imediata.)</em>",
+        "<strong>D está incorreta [Vetor 3 - Salto de Etapa / Precipitação]:</strong> Aguardar 48 horas é uma conduta negligente que ultrapassa a janela crítica de 24-48h, momento em que ocorrem lesões articulares purulentas irreversíveis. <em>(Ímã cognitivo: Propor conduta expectante em vigência de uma emergência reumatológica/ortopédica clássica.)</em>"
+      ],
+      "pearl": "Regra áurea: Monoartrite aguda = Artrite séptica até prova em contrário! Artrocentese imediata é obrigatória."
+    },
+    {
+      "id": 5,
+      "tag": "Artrite Séptica • Vias de Infecção",
+      "stem": "Durante uma discussão de caso sobre infecções articulares em articulações nativas no adulto, o preceptor questiona os residentes sobre os mecanismos pelos quais os microrganismos patogênicos ganham acesso ao espaço articular nativo. Qual via de disseminação bacteriana é a mais prevalente na artrite séptica de articulação nativa?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Disseminação hematogênica, sendo responsável por aproximadamente 80% de todas as infecções articulares."
+        },
+        {
+          "letter": "B",
+          "text": "Disseminação por contiguidade a partir de foco de osteomielite cortical adjacente, responsável por 80% dos eventos no adulto."
+        },
+        {
+          "letter": "C",
+          "text": "Inoculação iatrogênica direta por infiltrações articulares prévias, constituindo mais de 70% dos casos documentados."
+        },
+        {
+          "letter": "D",
+          "text": "Migração retrógrada pelos canais linfáticos periarticulares a partir de infecções fúngicas ungueais crônicas."
+        }
+      ],
+      "answer": "A",
+      "rationale": "Em articulações nativas, a via hematogênica responde por cerca de 80% dos casos de artrite séptica. O microrganismo alcança a articulação a partir de uma bacteremia transitória ou foco infeccioso à distância (pele, trato urinário, respiratório) e ganha a cavidade através da sinóvia ricamente vascularizada.",
+      "distractors": [
+        "<strong>B está incorreta [Vetor 1 - Micro-Inversão Conceitual]:</strong> A contiguidade é muito comum na osteomielite no adulto (80%), mas na artrite séptica de articulação nativa a via hematogênica é amplamente dominante (80%). <em>(Ímã cognitivo: Confundir a prevalência da via por contiguidade da osteomielite com a via da artrite séptica.)</em>",
+        "<strong>C está incorreta [Vetor 1 - Micro-Inversão Conceitual]:</strong> Inoculação direta (por trauma, cirurgia ou infiltração) e contiguidade representam vias secundárias, somando apenas cerca de 20% dos casos em articulações nativas. <em>(Ímã cognitivo: Superestimar causas iatrogênicas locais em detrimento da rota fisiopatológica primária hematogênica.)</em>",
+        "<strong>D está incorreta [Vetor 4 - Mimetismo Clínico / Síndrome Vizinha]:</strong> A via linfática é rara e não constitui mecanismo representativo de infecção articular nativa; a via hematogênica é a principal. <em>(Ímã cognitivo: Criar um mecanismo fisiopatológico plausível anatomicamente, mas sem relevância clínica epidemiológica.)</em>"
+      ],
+      "pearl": "80% das artrites sépticas de articulações nativas ocorrem por disseminação hematogênica."
+    },
+    {
+      "id": 6,
+      "tag": "Artrite Séptica • Apresentação Clínica & Semiologia",
+      "stem": "Um jovem de 24 anos procura a Unidade de Pronto Atendimento com dor articular súbita e intensa, calor e inchaço no joelho direito há 2 dias. Nega histórico de artrite ou comorbidades. Ao exame físico, o paciente mantém o membro inferior em discreta flexão antálgica e recusa qualquer tentativa de mobilização ativa ou passiva devido à dor extrema. Qual é a distribuição típica de acometimento articular observada na apresentação clínica da artrite séptica em articulações nativas?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Oligoarticular assimétrica com envolvimento axial obrigatório em mais de 75% dos casos registrados."
+        },
+        {
+          "letter": "B",
+          "text": "Poliarticular simétrica distal em 85% dos pacientes, com predomínio franco em pequenas articulações."
+        },
+        {
+          "letter": "C",
+          "text": "Poliartrite migratória obrigatória sem derrame articular volumoso em 90% das infecções estafilocócicas."
+        },
+        {
+          "letter": "D",
+          "text": "Monoarticular em 80% dos pacientes, enquanto oligoarticular ou poliarticular ocorre em 20%."
+        }
+      ],
+      "answer": "D",
+      "rationale": "A apresentação clínica da artrite séptica é monoarticular em 80% dos casos. Apenas 20% manifestam-se como oligo ou poliartrite (situação mais frequente em artrite gonocócica disseminada, pneumocócica ou em imunossuprimidos graves). Os sinais cardinais locais são dor súbita e intensa, tumefação, calor, rubor e impotência funcional acentuada.",
+      "distractors": [
+        "<strong>A está incorreta [Vetor 4 - Mimetismo Clínico / Síndrome Vizinha]:</strong> Oligoartrite assimétrica com dor lombar inflamatória é padrão de espondiloartrites (artrite reativa, espondilite anquilosante), não da artrite piogênica bacteriana. <em>(Ímã cognitivo: Mimetizar o padrão articular típico das espondiloartropatias soronegativas.)</em>",
+        "<strong>B está incorreta [Vetor 4 - Mimetismo Clínico / Síndrome Vizinha]:</strong> Poliartrite simétrica de pequenas articulações é o padrão clássico da artrite reumatoide crônica, e não da artrite bacteriana nativa. <em>(Ímã cognitivo: Confundir a clínica da artrite séptica com a artrite reumatoide.)</em>",
+        "<strong>C está incorreta [Vetor 1 - Micro-Inversão Conceitual]:</strong> O padrão migratório com tenossinovite é típico da infecção gonocócica disseminada; a artrite não gonocócica típica (S. aureus) é monoarticular fixa em 80%. <em>(Ímã cognitivo: Atribuir o padrão clássico da artrite gonocócica à artrite séptica não gonocócica.)</em>"
+      ],
+      "pearl": "80% das artrites sépticas são monoarticulares; apenas 20% manifestam acometimento oligo ou poliarticular."
+    },
+    {
+      "id": 7,
+      "tag": "Artrite Séptica • Topografia Articular",
+      "stem": "Um homem de 67 anos procura a emergência com dor lancinante, aumento de volume, calor e limitação quase completa dos movimentos do membro inferior direito há 24 horas. Considerando os dados epidemiológicos consolidados sobre artrite séptica em articulações nativas de adultos, qual é a articulação mais frequentemente acometida e qual a sua ordem decrescente de frequência?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Quadril (51%), seguido por joelho (25%), cotovelo (15%) e primeira metatarsofalângica (9%)."
+        },
+        {
+          "letter": "B",
+          "text": "Joelho (51%), seguido por ombro (18%), tornozelo (14%) e quadril (10%)."
+        },
+        {
+          "letter": "C",
+          "text": "Ombro (51%), seguido por joelho (28%), cotovelo (11%) e articulações interfalangianas (10%)."
+        },
+        {
+          "letter": "D",
+          "text": "Tornozelo (45%), seguido por punho (25%), joelho (18%) e articulação sacroilíaca (12%)."
+        }
+      ],
+      "answer": "B",
+      "rationale": "Na artrite séptica de articulações nativas em adultos, a articulação mais frequentemente acometida é o joelho, correspondendo a mais de 50% dos casos (51%). A sequência decrescente demonstrada nas diretrizes é: Joelho (51%) > Ombro (18%) > Tornozelo (14%) > Quadril (10%) > Cotovelo > Punho.",
+      "distractors": [
+        "<strong>A está incorreta [Vetor 1 - Micro-Inversão Conceitual]:</strong> O joelho é a articulação mais acometida em mais da metade dos casos (>50%); o quadril responde por apenas cerca de 10% em adultos nativos (embora seja clássico na infância). <em>(Ímã cognitivo: Inverter a prevalência topográfica entre quadril e joelho.)</em>",
+        "<strong>C está incorreta [Vetor 1 - Micro-Inversão Conceitual]:</strong> O ombro é o segundo colocado (18%), ficando atrás do joelho, que concentra mais de 50% de todas as infecções. <em>(Ímã cognitivo: Inverter o primeiro colocado (joelho 51%) com o segundo (ombro 18%).)</em>",
+        "<strong>D está incorreta [Vetor 1 - Micro-Inversão Conceitual]:</strong> O tornozelo representa apenas 14% dos casos, e o joelho lidera isoladamente com 51% das infecções em articulações nativas. <em>(Ímã cognitivo: Colocar articulações distais em primeiro lugar na frequência epidemiológica.)</em>"
+      ],
+      "pearl": "Sequência topográfica da artrite séptica nativa: Joelho (51%) > Ombro (18%) > Tornozelo (14%) > Quadril (10%)."
+    },
+    {
+      "id": 8,
+      "tag": "Artrite Séptica • Fatores de Risco & Populações Especiais",
+      "stem": "Uma mulher de 78 anos, portadora de osteoartrite grave de joelhos e diabetes mellitus descompensado, é trazida pelos familiares à emergência hospitalar por prostração e dor intensa no joelho direito há 2 dias. A filha relata que a paciente realizou uma infiltração intra-articular de corticoide há duas semanas. Qual conjunto de fatores presentes na vinheta representa o grupo de maior risco epidemiológico para o desenvolvimento de artrite séptica?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Exposição solar crônica desprotegida, tabagismo pregresso cessado há 15 anos e deficiência subclínica de vitamina D."
+        },
+        {
+          "letter": "B",
+          "text": "Uso crônico de anti-inflamatórios orais, obesidade grau I, sexo feminino e sedentarismo comportamental."
+        },
+        {
+          "letter": "C",
+          "text": "Histórico familiar de gota primária, consumo eventual de carne vermelha e síndrome metabólica isolada."
+        },
+        {
+          "letter": "D",
+          "text": "Idade superior a 65 anos, presença de artropatia prévia, diabetes mellitus e procedimento articular invasivo recente."
+        }
+      ],
+      "answer": "D",
+      "rationale": "Os principais fatores de risco para artrite séptica em adultos são: idade >65 anos, doença articular prévia (artrite reumatoide, osteoartrite), procedimentos articulares recentes (cirurgia ou infiltração), infecções cutâneas ou celulite ativa, diabetes mellitus, uso de drogas intravenosas, bacteremia e imunossupressão.",
+      "distractors": [
+        "<strong>A está incorreta [Vetor 4 - Mimetismo Clínico / Síndrome Vizinha]:</strong> Tabagismo cessado e hipovitaminose D não figuram como fatores de risco definidos nas diretrizes de artrite séptica de articulações nativas. <em>(Ímã cognitivo: Distrair o candidato com marcadores metabólicos inespecíficos.)</em>",
+        "<strong>B está incorreta [Vetor 4 - Mimetismo Clínico / Síndrome Vizinha]:</strong> Obesidade, sedentarismo e AINEs não são os principais fatores de risco biológicos para infecção séptica grave; artropatia prévia, infiltrações, idade avançada e diabetes são os determinantes maiores. <em>(Ímã cognitivo: Apontar fatores de risco genéricos para osteoartrite mecânica em vez de fatores imunológicos/infecciosos.)</em>",
+        "<strong>C está incorreta [Vetor 4 - Mimetismo Clínico / Síndrome Vizinha]:</strong> História familiar de gota e carne vermelha são fatores de risco para hiperuricemia, mas não justificam a vulnerabilidade séptica da paciente da vinheta. <em>(Ímã cognitivo: Mimetizar fatores de risco de artrite por deposição de urato monossódico.)</em>"
+      ],
+      "pearl": "Fatores de risco maiores: Idade >65 anos, artropatia prévia, infiltração recente, diabetes, celulite e drogas IV."
+    },
+    {
+      "id": 9,
+      "tag": "Artrite Séptica • Armadilha Diagnóstica da Febre",
+      "stem": "Um homem de 81 anos, institucionalizado, acamado e com sequela de AVC, apresenta aumento de volume, calor e gemidos de dor à mobilização passiva do ombro esquerdo há 36 horas. Ao exame: afebril (temperatura axilar de 36,6 °C), PA: 120/75 mmHg, FC: 84 bpm. O residente de primeiro ano pondera afastar artrite séptica devido à ausência de febre e propor apenas analgesia. Qual orientação clínica do preceptor está tecnicamente correta?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A febre só pode estar ausente em infecções por micobactérias ou fungos, o que descarta qualquer possibilidade de bactéria piogênica."
+        },
+        {
+          "letter": "B",
+          "text": "A ausência de febre comprova processo puramente mecânico ou osteoartrite descompensada, contraindicando a punção articular."
+        },
+        {
+          "letter": "C",
+          "text": "A ausência de febre não descarta artrite séptica, pois a resposta pirética encontra-se frequentemente atenuada ou ausente em idosos e imunossuprimidos."
+        },
+        {
+          "letter": "D",
+          "text": "A presença de temperatura normal exclui bacteremia estafilocócica, autorizando alta imediata com fisioterapia motora leve."
+        }
+      ],
+      "answer": "C",
+      "rationale": "Nas aulas oficiais e diretrizes internacionais, destaca-se explicitamente como armadilha clínica comum considerar que a ausência de febre exclui artrite séptica. Em idosos e pacientes imunossuprimidos, a febre pode estar totalmente ausente devido à imunossenescência e resposta inflamatória sistêmica atenuada.",
+      "distractors": [
+        "<strong>A está incorreta [Vetor 1 - Micro-Inversão Conceitual]:</strong> Bactérias piogênicas comuns, como S. aureus, cursam com frequência sem febre em idosos devido à imunossenescência e menor produção de citocinas pirógenas sistêmicas. <em>(Ímã cognitivo: Associar erroneamente a ausência de febre exclusivamente a patógenos atípicos.)</em>",
+        "<strong>B está incorreta [Vetor 1 - Micro-Inversão Conceitual]:</strong> Trata-se de um erro clássico: a febre pode estar ausente em populações vulneráveis; afastar infecção pela ausência de febre atrasa o diagnóstico e aumenta a mortalidade. <em>(Ímã cognitivo: Cometer a armadilha de usar a febre como critério de exclusão obrigatório.)</em>",
+        "<strong>D está incorreta [Vetor 3 - Salto de Etapa / Precipitação]:</strong> A temperatura normal não exclui bacteremia nem artrite séptica; liberar o paciente causará destruição articular irreversível e sepse grave. <em>(Ímã cognitivo: Subestimar a gravidade da infecção articular no idoso acamado.)</em>"
+      ],
+      "pearl": "Armadilha de prova: Febre pode estar ausente em idosos e imunossuprimidos! Nunca use a temperatura normal para excluir artrite séptica."
+    },
+    {
+      "id": 10,
+      "tag": "Artrite Séptica • Coexistência com Microcristais",
+      "stem": "Um homem de 54 anos, com histórico de hiperuricemia e crises prévias de podagra, procura o pronto-atendimento com monoartrite aguda e muito dolorosa no joelho direito há 24 horas. Realizada artrocentese diagnóstica imediata, a microscopia sob luz polarizada compensada evidencia numerosos neutrófilos com cristais intracelulares em formato de agulha com forte birrefringência negativa. O interno de medicina sugere suspender a investigação infecciosa e prescrever apenas colchicina. Qual a conduta e justificativa técnica correta?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Considerar o líquido estéril apenas se a glicose do aspirado for superior a 150 mg/dL na presença confirmada de cristais birrefringentes."
+        },
+        {
+          "letter": "B",
+          "text": "Cancelar o pedido de antibiótico e orientar alta hospitalar com gelo local, pois bactérias piogênicas não conseguem proliferar em meio com cristais."
+        },
+        {
+          "letter": "C",
+          "text": "Suspender as culturas bacterianas e iniciar de imediato alopurinol em dose plena, já que a visualização de cristais é patognomônica de crise gotosa pura."
+        },
+        {
+          "letter": "D",
+          "text": "Manter a investigação microbiológica completa com Gram e culturas, pois a presença de cristais não exclui infecção articular bacteriana concomitante."
+        }
+      ],
+      "answer": "D",
+      "rationale": "Pérola clínica destacada na aula de Dra. Ana Caroline: 'Cristais no líquido sinovial NÃO descartam infecção. Gota e artrite séptica podem coexistir na mesma articulação'. Descartar infecção puramente pela visualização de cristais é um erro grave e frequente em provas e na prática médica.",
+      "distractors": [
+        "<strong>A está incorreta [Vetor 4 - Mimetismo Clínico / Síndrome Vizinha]:</strong> A glicose pode variar e não serve isoladamente para descartar infecção; a cultura é o teste microbiológico central que não pode ser omitido. <em>(Ímã cognitivo: Criar um falso critério substitutivo de esterilidade laboratorial.)</em>",
+        "<strong>B está incorreta [Vetor 1 - Micro-Inversão Conceitual]:</strong> Bactérias piogênicas proliferam perfeitamente na presença de urato monossódico; cristais e bactérias coexistem com frequência descrita em literatura. <em>(Ímã cognitivo: Inventar uma incompatibilidade biológica inexistente entre bactérias e cristais.)</em>",
+        "<strong>C está incorreta [Vetor 3 - Salto de Etapa / Precipitação]:</strong> A presença de cristais não exclui infecção associada; além disso, alopurinol nunca deve ser iniciado na crise aguda por risco de precipitar flutuações e piora inflamatória. <em>(Ímã cognitivo: Confundir o diagnóstico de gota com exclusão de artrite séptica e cometer salto farmacológico ao prescrever alopurinol.)</em>"
+      ],
+      "pearl": "Pérola de ouro: Cristais no líquido sinovial NÃO descartam infecção! Gota e artrite séptica podem coexistir."
+    },
+    {
+      "id": 11,
+      "tag": "Artrite Séptica • Mortalidade e Prognóstico",
+      "stem": "Uma paciente de 70 anos é admitida em estado séptico decorrente de artrite séptica estafilocócica de joelho com 72 horas de evolução prévia sem tratamento. Ao discutir o prognóstico da paciente com a equipe multiprofissional, o médico enfatiza os dados epidemiológicos de desfecho funcional e sobrevida. Quais são as taxas aproximadas de mortalidade global em 1 ano e o percentual de pacientes que evoluem com sequelas funcionais ou perda articular permanente?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mortalidade em torno de 80% independentemente da idade e necessidade obrigatória de amputação primária em metade dos casos."
+        },
+        {
+          "letter": "B",
+          "text": "Mortalidade inferior a 1% em todas as faixas etárias e recuperação funcional completa em mais de 98% dos pacientes tratados."
+        },
+        {
+          "letter": "C",
+          "text": "Mortalidade restrita a pacientes com choque refratário terminal, com morbidade articular negligenciável na evolução tardia."
+        },
+        {
+          "letter": "D",
+          "text": "Mortalidade de 5 a 18% em 1 ano (chegando a 50% em idosos > 65 anos) e perda funcional articular definitiva em cerca de um terço dos casos."
+        }
+      ],
+      "answer": "D",
+      "rationale": "De acordo com os dados apresentados na aula da Dra. Ana Caroline (UpToDate 2024 e Guideline GEIO 2024), a artrite séptica nativa apresenta mortalidade em 1 ano de 5 a 18% (mortalidade geral de 10 a 20%, podendo atingir 50% em pacientes com idade superior a 65 anos) e acarreta morbidade funcional com dano articular permanente em um terço (1/3) dos sobreviventes.",
+      "distractors": [
+        "<strong>A está incorreta [Vetor 1 - Micro-Inversão Conceitual]:</strong> Valores manifestamente exagerados; a mortalidade geral gira entre 5 e 18% (10-20% global), e as sequelas funcionais atingem 1/3 dos casos. <em>(Ímã cognitivo: Hiperbolizar os desfechos fatais e cirúrgicos radicais fora dos dados dos estudos.)</em>",
+        "<strong>B está incorreta [Vetor 1 - Micro-Inversão Conceitual]:</strong> A artrite séptica é uma condição grave com mortalidade significativa (5-18% em 1 ano, 10-20% geral) e perda de função em 1/3 dos pacientes em articulações nativas. <em>(Ímã cognitivo: Subestimar drasticamente o impacto prognóstico e a gravidade da artrite séptica.)</em>",
+        "<strong>C está incorreta [Vetor 1 - Micro-Inversão Conceitual]:</strong> Mesmo sem choque inicial, a mortalidade atinge 10-20% e até 50% nos idosos; e morbidade articular (artrodese, perda funcional) acomete 1/3 dos indivíduos. <em>(Ímã cognitivo: Ignorar os dados epidemiológicos formais de morbimortalidade das diretrizes.)</em>"
+      ],
+      "pearl": "Mortalidade: 5 a 18% em 1 ano (até 50% em >65 anos). Morbidade: 1/3 dos pacientes evolui com perda funcional definitiva."
+    },
+    {
+      "id": 12,
+      "tag": "Líquido Sinovial • Fisiologia e Composição",
+      "stem": "Durante uma aula prática de análise laboratorial, os estudantes analisam as características normais do líquido sinovial obtido por artrocentese de uma articulação saudável. O preceptor solicita que identifiquem a composição bioquímica e física que define a fisiologia normal deste fluido. Qual afirmação descreve corretamente a composição fisiológica do líquido sinovial nativo?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Consiste em um exsudato celular inflamatório rico em fibrinogênio, imunoglobulinas IgM e glicose 50% superior aos níveis séricos."
+        },
+        {
+          "letter": "B",
+          "text": "É um ultrafiltrado plasmático produzido pela membrana sinovial, desprovido de proteínas de alto peso molecular e com glicose cerca de 10% inferior ao plasma."
+        },
+        {
+          "letter": "C",
+          "text": "Apresenta concentração de ácido hialurônico superior a 50 g/L, o que confere consistência sólida e ausência de viscosidade elástica."
+        },
+        {
+          "letter": "D",
+          "text": "Possui volume articular fisiológico médio variando entre 15 e 30 mL em articulações periféricas como o punho e tornozelo."
+        }
+      ],
+      "answer": "B",
+      "rationale": "O líquido sinovial fisiológico é um ultrafiltrado plasmático produzido pelo leito capilar da membrana sinovial, enriquecido com hialuronano e lubricina sintetizados por sinoviócitos. Não contém proteínas de alto peso molecular (como fibrinogênio), tem volume habitual de 0,1 a 3,5 mL, glicose ~10% inferior ao plasma, proteínas entre 15-20 g/L e ácido hialurônico de 1,7 a 4 g/L.",
+      "distractors": [
+        "<strong>A está incorreta [Vetor 1 - Micro-Inversão Conceitual]:</strong> O líquido sinovial normal é um ultrafiltrado (transudato especializado), não tem moléculas proteicas de alto peso molecular e sua glicose é ligeiramente menor (~10%) que a glicemia sérica. <em>(Ímã cognitivo: Confundir o líquido sinovial normal com um exsudato inflamatório.)</em>",
+        "<strong>C está incorreta [Vetor 1 - Micro-Inversão Conceitual]:</strong> A concentração normal de ácido hialurônico é de 1,7 a 4 g/L, e é ele quem confere a elevada viscosidade fluida normal (que se reduz na infecção). <em>(Ímã cognitivo: Inverter a ordem de grandeza do ácido hialurônico e errar sua propriedade reológica.)</em>",
+        "<strong>D está incorreta [Vetor 1 - Micro-Inversão Conceitual]:</strong> O volume normal do líquido sinovial em uma articulação é escasso, variando de 0,1 a 3,5 mL na cavidade articular normal. <em>(Ímã cognitivo: Superestimar o volume de líquido sinovial normal fisiológico em quase dez vezes.)</em>"
+      ],
+      "pearl": "Líquido sinovial normal: 0,1 a 3,5 mL, ultrafiltrado sem proteínas de alto peso, ácido hialurônico 1,7-4 g/L e glicose ~10% menor que o plasma."
+    },
+    {
+      "id": 13,
+      "tag": "Líquido Sinovial • Classificação Citológica Séptica",
+      "stem": "Um homem de 49 anos procura a emergência com dor intensa, edema e calor incapacitante no joelho esquerdo iniciado há 24 horas. Realizada artrocentese com aspiração de 35 mL de líquido articular de aspecto francamente purulento e opaco. A análise citológica e bioquímica inicial revela viscosidade baixa. Quais achados adicionais na celularidade e glicose confirmam o enquadramento deste fluido no grupo séptico (Grupo IV/III)?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Contagem de leucócitos entre 2.000 e 50.000/µL com mais de 80% de monócitos e glicose normal."
+        },
+        {
+          "letter": "B",
+          "text": "Contagem de leucócitos inferior a 150/µL com predomínio absoluto de eosinófilos e viscosidade extremamente elevada."
+        },
+        {
+          "letter": "C",
+          "text": "Contagem de leucócitos tipicamente superior a 50.000/µL com predomínio de neutrófilos acima de 90% e glicose sinovial diminuída."
+        },
+        {
+          "letter": "D",
+          "text": "Contagem de leucócitos entre 200 e 2.000/µL com predomínio de neutrófilos inferior a 25% e glicose idêntica à sérica."
+        }
+      ],
+      "answer": "C",
+      "rationale": "O líquido sinovial séptico (Grupo IV da classificação de Ropes e Bauer / Grupo III de algumas classificações didáticas) apresenta aspecto turvo/purulento, opaco ou amarelo-esverdeado, perda de viscosidade, contagem de leucócitos tipicamente > 50.000/µL (muitas vezes > 100.000/µL), mais de 90% de neutrófilos polimorfonucleares e acentuada redução da glicose.",
+      "distractors": [
+        "<strong>A está incorreta [Vetor 4 - Mimetismo Clínico / Síndrome Vizinha]:</strong> Contagem entre 2.000 e 50.000 com predomínio monomolecular sugere processo inflamatório crônico (Grupo II); na artrite séptica clássica os leucócitos superam 50.000 com neutrófilos > 90%. <em>(Ímã cognitivo: Confundir o perfil citológico séptico com artrite inflamatória crônica monomacrofágica.)</em>",
+        "<strong>B está incorreta [Vetor 1 - Micro-Inversão Conceitual]:</strong> Contagem < 150 leucócitos/µL é o padrão de líquido sinovial normal límpido; além disso, a viscosidade no líquido séptico é baixa pela degradação do hialuronano. <em>(Ímã cognitivo: Inverter completamente os parâmetros celulares e reológicos de um derrame purulento.)</em>",
+        "<strong>D está incorreta [Vetor 4 - Mimetismo Clínico / Síndrome Vizinha]:</strong> Valores de 200 a 2.000 leucócitos com < 25% de neutrófilos definem líquido não inflamatório / mecânico (Grupo I de Ropes e Bauer). <em>(Ímã cognitivo: Classificar o líquido purulento com os parâmetros de um derrame mecânico / osteoartrite.)</em>"
+      ],
+      "pearl": "Líquido Séptico: Opaco/purulento, Leucócitos > 50.000/µL, Neutrófilos > 90%, glicose diminuída e perda de viscosidade."
+    },
+    {
+      "id": 14,
+      "tag": "Líquido Sinovial • Diagnóstico Citológico Diferencial",
+      "stem": "Durante uma sessão anátomo-clínica, discute-se o diagnóstico diferencial das efusões articulares a partir da contagem diferencial de leucócitos no líquido sinovial exsudativo. O preceptor apresenta lâminas citológicas com diferentes padrões de predomínio celular. De acordo com as diretrizes e a aula de morfofuncional, qual tipo celular é o marco característico de infecções bacterianas agudas e qual predomina em infecções por tuberculose e causas tumorais?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Polimorfonucleares neutrófilos na infecção bacteriana aguda; linfócitos na tuberculose e neoplasias."
+        },
+        {
+          "letter": "B",
+          "text": "Eosinófilos desgranulados na artrite bacteriana; plasmócitos policlonais exclusivos na tuberculose articular."
+        },
+        {
+          "letter": "C",
+          "text": "Basófilos teciduais na artrite piogênica; células gigantes multinucleadas de Langerhans exclusivas nos tumores."
+        },
+        {
+          "letter": "D",
+          "text": "Linfócitos CD4 na infecção bacteriana aguda; mastócitos e neutrófilos na tuberculose articular crônica."
+        }
+      ],
+      "answer": "A",
+      "rationale": "Conforme sintetizado na aula da Profa. Paula (slide 12) sobre líquidos exsudativos: infecção bacteriana aguda cursa com predomínio absoluto de polimorfonucleares (segmentados neutrófilos); tuberculose e tumores cursam com predomínio de linfócitos (inflamação crônica); infecções parasitárias cursam com eosinófilos.",
+      "distractors": [
+        "<strong>B está incorreta [Vetor 4 - Mimetismo Clínico / Síndrome Vizinha]:</strong> Eosinófilos predominam em infecções parasitárias raras ou alergias; neutrófilos são a linhagem típica da infecção bacteriana piogênica. <em>(Ímã cognitivo: Atribuir eosinofilia à infecção bacteriana articular típica.)</em>",
+        "<strong>C está incorreta [Vetor 4 - Mimetismo Clínico / Síndrome Vizinha]:</strong> Basófilos não predominam em infecções bacterianas; a tabela de citologia do líquido sinovial estabelece: infecção bacteriana = polimorfonucleares; tuberculose e tumor = linfócitos. <em>(Ímã cognitivo: Confundir citologia de aspirado sinovial com histopatologia tecidual granulomatosa.)</em>",
+        "<strong>D está incorreta [Vetor 1 - Micro-Inversão Conceitual]:</strong> Bactérias piogênicas agudas recrutam neutrófilos polimorfonucleares de forma maciça (> 90%), enquanto a tuberculose é uma infecção granulomatosa crônica com predomínio linfocítico. <em>(Ímã cognitivo: Inverter as linhagens celulares entre a resposta imune inata bacteriana e a resposta celular crônica.)</em>"
+      ],
+      "pearl": "Citologia sinovial: Bactéria aguda = Neutrófilos (PMN); Tuberculose e Neoplasia = Linfócitos; Parasitas = Eosinófilos."
+    },
+    {
+      "id": 15,
+      "tag": "Líquido Sinovial • Aforismo Clínico das Contagens Baixas",
+      "stem": "Uma mulher de 60 anos, em tratamento quimioterápico adjuvante para câncer de mama, comparece com monoartrite aguda no joelho esquerdo há 2 dias. Fez uso de amoxicilina por 48 horas prescrita em teleconsulta. A artrocentese revela líquido ligeiramente turvo com 28.000 leucócitos/µL e 88% de neutrófilos. O médico assistente recorda o aforismo clínico: 'Leucócito alto ajuda, mas leucócito baixo não inocenta'. Qual percentual de pacientes com artrite séptica confirmada pode apresentar contagens celulares inferiores a 50.000 leucócitos/µL e quais fatores justificam essa apresentação?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mais de 80% dos casos, uma vez que a leucocitose sinovial raramente se correlaciona com a presença de bactérias."
+        },
+        {
+          "letter": "B",
+          "text": "Cerca de 15 a 25% dos casos, decorrente de uso prévio de antibióticos, infecção por gonococo ou leucopenia em imunossuprimidos."
+        },
+        {
+          "letter": "C",
+          "text": "Menos de 0,1% dos casos, visto que a contagem de 50.000/µL constitui ponto de corte absoluto e infalível para infecção."
+        },
+        {
+          "letter": "D",
+          "text": "Exclusivamente casos associados a infecção fúngica por Candida albicans, sem possibilidade de ocorrer em bactérias piogênicas."
+        }
+      ],
+      "answer": "B",
+      "rationale": "O Guideline GEIO 2024 e o UpToDate enfatizam que 'não existe ponto de corte absoluto' no líquido sinovial. Aproximadamente 15 a 25% dos pacientes com artrite séptica comprovada apresentam contagens de leucócitos inferiores a 50.000/µL. Esse fenômeno é comum em vigência de antibioticoterapia prévia, infecção por Neisseria gonorrhoeae, fases ultra-iniciais ou pacientes neutropênicos/imunossuprimidos.",
+      "distractors": [
+        "<strong>A está incorreta [Vetor 1 - Micro-Inversão Conceitual]:</strong> A imensa maioria (75-85%) cursa com leucócitos francamente elevados (> 50.000 e frequentemente > 100.000); 15-25% são a minoria atípica que exige cautela. <em>(Ímã cognitivo: Exagerar a proporção de casos atípicos, desvalorizando a leucocitose do líquido.)</em>",
+        "<strong>C está incorreta [Vetor 1 - Micro-Inversão Conceitual]:</strong> Não existe ponto de corte biológico absoluto. As diretrizes mostram que até 15-25% das artrites sépticas apresentam < 50.000 leucócitos/µL. <em>(Ímã cognitivo: Acreditar piamente que 50.000 leucócitos é uma linha de corte biológica perfeita.)</em>",
+        "<strong>D está incorreta [Vetor 4 - Mimetismo Clínico / Síndrome Vizinha]:</strong> Bactérias piogênicas comuns como S. aureus e N. gonorrhoeae frequentemente apresentam contagens inferiores a 50.000 se houver imunossupressão ou uso prévio de antibióticos. <em>(Ímã cognitivo: Restringir uma exceção imunofarmacológica clínica a um agente fúngico específico.)</em>"
+      ],
+      "pearl": "Regra clínica: 15 a 25% das artrites sépticas têm < 50.000 leucócitos! Uso de antibiótico prévio, gonococo e imunossupressão explicam o achado."
+    },
+    {
+      "id": 16,
+      "tag": "Diagnóstico Laboratorial • Sensibilidade do Gram e Cultura",
+      "stem": "Um residente de ortopedia aspira líquido turvo do joelho de um paciente com suspeita de artrite séptica e solicita coloração pelo método de Gram e cultura com antibiograma. Trinta minutos depois, o laboratório informa que o Gram não evidenciou bactérias observáveis. Diante desse resultado negativo na bacterioscopia, qual conduta diagnóstica e terapêutica deve ser adotada com base no rendimento conhecido dos métodos diagnósticos?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aguardar a liberação da cultura definitiva em 48 a 72 horas para somente então decidir sobre a introdução de antibióticos."
+        },
+        {
+          "letter": "B",
+          "text": "Manter a hipótese e o tratamento, pois o Gram possui sensibilidade de apenas 30 a 50%, enquanto a cultura identifica 70 a 90% dos casos."
+        },
+        {
+          "letter": "C",
+          "text": "Realizar artrografia contrastada imediata para esterilização química percutânea da cápsula antes de aguardar novas culturas."
+        },
+        {
+          "letter": "D",
+          "text": "Suspender o internamento hospitalar e descartar infecção, visto que a sensibilidade do Gram no líquido sinovial é de 99%."
+        }
+      ],
+      "answer": "B",
+      "rationale": "A bacterioscopia pelo método de Gram no líquido sinovial apresenta sensibilidade moderada a baixa, oscilando entre 30 e 50% (aproximadamente 50% nas aulas). Portanto, um resultado negativo no Gram nunca exclui o diagnóstico de artrite séptica. Já a cultura do líquido sinovial é o padrão-ouro e possui sensibilidade de 70 a 90% em casos não gonocócicos (desde que colhida antes do início de antibióticos).",
+      "distractors": [
+        "<strong>A está incorreta [Vetor 2 - Janela Biológica e Cronologia]:</strong> Aguardar a cultura para iniciar antibiótico é um erro grave catalogado nas aulas; em 24-48h de atraso ocorre destruição articular irreversível. <em>(Ímã cognitivo: Retardar o início da antibioticoterapia empírica enquanto aguarda cultura de 48-72h.)</em>",
+        "<strong>C está incorreta [Vetor 3 - Salto de Etapa / Precipitação]:</strong> A injeção de contraste intra-articular não esteriliza a cápsula e pode irritar a membrana sinovial; o tratamento padrão é drenagem e antibioticoterapia sistêmica. <em>(Ímã cognitivo: Propor intervenção agressiva e inadequada em substituição ao manejo consagrado.)</em>",
+        "<strong>D está incorreta [Vetor 1 - Micro-Inversão Conceitual]:</strong> O Gram possui sensibilidade baixa (30 a 50%); um Gram negativo jamais descarta artrite séptica. <em>(Ímã cognitivo: Confundir sensibilidade com especificidade e confiar cegamente em bacterioscopia negativa.)</em>"
+      ],
+      "pearl": "Rendimento do Líquido Sinovial: Gram tem baixa sensibilidade (30-50%); Cultura é o padrão-ouro (70-90%). Gram negativo NÃO exclui infecção!"
+    },
+    {
+      "id": 17,
+      "tag": "Diagnóstico Laboratorial • Papel das Hemoculturas",
+      "stem": "Um homem de 63 anos é internado com suspeita de artrite séptica em joelho direito. O médico assistente programa a realização imediata de artrocentese diagnóstica. Antes de prescrever a antibioticoterapia empírica intravenosa, questiona-se sobre a obrigatoriedade e o momento oportuno para coleta de hemoculturas periféricas. Qual é a recomendação formal das diretrizes quanto à solicitação de hemoculturas na artrite séptica?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Devem ser solicitadas apenas após 48 horas de falha terapêutica documentada com antibioticoterapia oral de primeira linha."
+        },
+        {
+          "letter": "B",
+          "text": "São contraindicadas devido ao alto índice de contaminação cruzada que induz o uso desnecessário de vancomicina hospitalar."
+        },
+        {
+          "letter": "C",
+          "text": "Devem ser colhidos dois conjuntos de hemoculturas em todos os pacientes com suspeita de artrite séptica, obrigatoriamente antes do antibiótico."
+        },
+        {
+          "letter": "D",
+          "text": "São indicadas exclusivamente se o paciente apresentar hipotensão refratária com necessidade de aminas vasopressoras em ambiente de UTI."
+        }
+      ],
+      "answer": "C",
+      "rationale": "As diretrizes (GEIO/SEIMC 2024 e UpToDate) recomendam categoricamente que hemoculturas (no mínimo dois frascos/conjuntos) devem ser colhidas em TODOS os pacientes com suspeita de artrite séptica, idealmente antes da infusão do antimicrobiano, visto que a via hematogênica é a principal causadora (80%) e a hemocultura pode identificar o agente mesmo se o líquido sinovial for inconclusivo.",
+      "distractors": [
+        "<strong>A está incorreta [Vetor 2 - Janela Biológica e Cronologia]:</strong> As hemoculturas devem ser coletadas no momento zero, antes de qualquer antimicrobiano, pois a bacteremia primária antecede a colonização articular. <em>(Ímã cognitivo: Adiar a investigação microbiológica sistêmica para após a falha clínica tardia.)</em>",
+        "<strong>B está incorreta [Vetor 5 - Protocolo Oficial SUS/PCDT vs Prática Informal]:</strong> Hemoculturas têm sensibilidade e especificidade elevadas (85-90%) e são recomendação classe A das diretrizes para todos os casos. <em>(Ímã cognitivo: Rotular um exame padrão como contraindicado alegando viés contrafactual de contaminação.)</em>",
+        "<strong>D está incorreta [Vetor 3 - Salto de Etapa / Precipitação]:</strong> Hemoculturas devem ser colhidas em 100% dos pacientes com suspeita de artrite séptica nativa, independentemente de choque ou sepse grave. <em>(Ímã cognitivo: Reservar um exame simples de rotina apenas para quadros em choque séptico terminal.)</em>"
+      ],
+      "pearl": "Conduta padrão: Coletar 2 frascos de hemocultura em TODOS os pacientes, sempre ANTES de iniciar o antibiótico."
+    },
+    {
+      "id": 18,
+      "tag": "Artrocentese • Indicações e Contraindicações",
+      "stem": "Um médico de pronto-atendimento avalia um paciente com suspeita clínica de artrite séptica em joelho esquerdo. Ao examinar a superfície cutânea da articulação para posicionar a agulha de punção articular, nota celulite eritematosa extensa e ferida exsudativa com lesões impetiginizadas cobrindo integralmente a face anterior e anterolateral do joelho. De acordo com as contraindicações formais da artrocentese descritas na aula de Profa. Paula, qual é a conduta correta?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Submeter o paciente a punção percutânea às cegas com agulha calibrosa sem anestesia para evitar diluição do exsudato purulento."
+        },
+        {
+          "letter": "B",
+          "text": "Contraindicar formal e permanentemente qualquer drenagem articular, iniciando apenas compressas frias e fisioterapia imediata."
+        },
+        {
+          "letter": "C",
+          "text": "Puncionar diretamente no centro da lesão celulítica cutânea para drenar simultaneamente a pele e a cavidade articular na mesma manobra."
+        },
+        {
+          "letter": "D",
+          "text": "A presença de infecção superficial ou lesão de pele no local proposto para punção constitui contraindicação à punção através dessa área, devendo-se buscar via íntegra ou guiar por imagem."
+        }
+      ],
+      "answer": "D",
+      "rationale": "Na aula de Profa. Paula (slide 8), as contraindicações à artrocentese são: infecções superficiais ou lesões de pele no sítio proposto da punção (risco de inocular patógenos cutâneos em articulação estéril) e coagulopatias instáveis/graves. Se houver lesão de pele local, deve-se eleger uma via de acesso alternativa com pele íntegra, frequentemente guiada por ultrassom.",
+      "distractors": [
+        "<strong>A está incorreta [Vetor 5 - Protocolo Oficial SUS/PCDT vs Prática Informal]:</strong> A assepsia perfeita é mandatória e a punção em área celulítica não deve ser feita; anestesia local nos planos superficiais sem penetrar a cápsula é a boa prática. <em>(Ímã cognitivo: Propor técnica agressiva inadequada desrespeitando o conforto e a biossegurança do procedimento.)</em>",
+        "<strong>B está incorreta [Vetor 3 - Salto de Etapa / Precipitação]:</strong> A drenagem da articulação é indispensável; se a pele anterior estiver infectada, busca-se um sítio anatômico alternativo livre de lesão ou punção guiada por ultrassonografia. <em>(Ímã cognitivo: Abandonar a drenagem de uma infecção purulenta por medo de contaminação dérmica.)</em>",
+        "<strong>C está incorreta [Vetor 5 - Protocolo Oficial SUS/PCDT vs Prática Informal]:</strong> Transfixar tecido celulítico ou infectado é terminantemente contraindicado, pois carreia bactérias da pele para o espaço articular que poderia estar apenas reativo. <em>(Ímã cognitivo: Violar a regra de assepsia inoculando bactérias cutâneas na cavidade articular.)</em>"
+      ],
+      "pearl": "Contraindicação à artrocentese: Celulite ou lesão infecciosa de pele sobre o sítio de punção (risco de inoculação direta) e coagulopatia instável."
+    },
+    {
+      "id": 19,
+      "tag": "Artrite Séptica • Microbiologia Global",
+      "stem": "Um homem de 52 anos, previamente hígido, desenvolve monoartrite séptica aguda de joelho direito após pequeno ferimento corto-contuso superficial em antebraço. Em articulações nativas no adulto, qual é o microrganismo isolado com maior frequência e qual a sua prevalência percentual aproximada?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pseudomonas aeruginosa, responsável por mais de 60% das infecções comunitárias em indivíduos hígidos."
+        },
+        {
+          "letter": "B",
+          "text": "Neisseria meningitidis, constituindo mais de metade dos diagnósticos em adultos de meia-idade sem comorbidades."
+        },
+        {
+          "letter": "C",
+          "text": "Streptococcus pneumoniae, isolado em 75% de todas as artrites bacterianas em pacientes adultos e idosos."
+        },
+        {
+          "letter": "D",
+          "text": "Staphylococcus aureus, responsável por cerca de 58% dos casos (sendo 43% MSSA e 15% MRSA)."
+        }
+      ],
+      "answer": "D",
+      "rationale": "O Staphylococcus aureus é a causa mais comum de artrite séptica em adultos de todas as faixas etárias, responsável por aproximadamente 58% dos casos (MSSA em cerca de 43% e MRSA em 15 a 25%). Os estreptococos ocupam a segunda posição com 28%, seguidos pelos bacilos Gram-negativos com 19%.",
+      "distractors": [
+        "<strong>A está incorreta [Vetor 4 - Mimetismo Clínico / Síndrome Vizinha]:</strong> Pseudomonas aeruginosa é responsável por cerca de 5% dos casos, restrita a contextos especiais (drogas IV, perfuração de calcâneo, ambiente nosocomial). <em>(Ímã cognitivo: Atribuir a prevalência comunitária geral a um bacilo Gram-negativo oportunista.)</em>",
+        "<strong>B está incorreta [Vetor 4 - Mimetismo Clínico / Síndrome Vizinha]:</strong> N. meningitidis é raríssima como causa de artrite nativa primária isolada; a espécie mais comum da família é N. gonorrhoeae em jovens sexualmente ativos. <em>(Ímã cognitivo: Confundir N. meningitidis com N. gonorrhoeae ou com agentes estafilocócicos.)</em>",
+        "<strong>C está incorreta [Vetor 1 - Micro-Inversão Conceitual]:</strong> S. pneumoniae responde por cerca de 7% das artrites sépticas; o S. aureus é o líder disparado com 58%. <em>(Ímã cognitivo: Trocar o estafilococo pelo pneumococo como o principal patógeno.)</em>"
+      ],
+      "pearl": "Agente etiológico nº 1: Staphylococcus aureus (58% dos casos totais, somando MSSA 43% e MRSA 15-25%)."
+    },
+    {
+      "id": 20,
+      "tag": "Artrite Séptica • Foco Cutâneo & Estreptococos",
+      "stem": "Uma paciente de 55 anos apresenta eritema ascendente com bordas nítidas em perna direita há 4 dias (diagnóstico clínico de celulite/erisipela). Há 24 horas evoluiu com dor incapacitante, aumento importante de volume e calor no tornozelo ipsilateral. A artrocentese dá saída a líquido purulento. Considerando a associação direta entre infecções de pele e partes moles com a etiologia da artrite séptica, qual é o agente etiológico mais fortemente relacionado a esse contexto?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Kingella kingae, bactéria anaeróbia restrita a feridas cutâneas necróticas crônicas do idoso frágil."
+        },
+        {
+          "letter": "B",
+          "text": "Escherichia coli enteropatogênica, microrganismo tipicamente carreado por fômites cutâneos superficiais."
+        },
+        {
+          "letter": "C",
+          "text": "Streptococcus pyogenes (estreptococo do grupo A), principal agente estreptocócico associado a celulite prévia."
+        },
+        {
+          "letter": "D",
+          "text": "Haemophilus influenzae tipo b, cuja porta de entrada cutânea determina sinovite aguda em adultos imunocompetentes."
+        }
+      ],
+      "answer": "C",
+      "rationale": "Os estreptococos são o segundo grupo etiológico mais comum na artrite séptica (28% dos casos), sendo o Streptococcus pyogenes (18%) o mais frequente, com uma correlação clínica clássica com infecções cutâneas adjacentes ou prévias (celulite, erisipela e feridas superficiais).",
+      "distractors": [
+        "<strong>A está incorreta [Vetor 4 - Mimetismo Clínico / Síndrome Vizinha]:</strong> Kingella kingae é um cocobacilo Gram-negativo que coloniza a orofaringe de crianças de 6 meses a 4 anos, não estando ligada a celulite em adultos. <em>(Ímã cognitivo: Confundir patógenos da infância com agentes estreptocócicos de celulite no adulto.)</em>",
+        "<strong>B está incorreta [Vetor 4 - Mimetismo Clínico / Síndrome Vizinha]:</strong> E. coli é um bacilo Gram-negativo associado a infecções do trato urinário ou foco intra-abdominal em idosos, não à celulite de membros inferiores. <em>(Ímã cognitivo: Associar erradamente um patógeno entérico com celulite de membros inferiores.)</em>",
+        "<strong>D está incorreta [Vetor 2 - Janela Biológica e Cronologia]:</strong> H. influenzae tipo b é causa pediátrica em crianças não vacinadas (< 5 anos), não tendo relação com celulite de membros inferiores em adultos. <em>(Ímã cognitivo: Transpor um agente clássico pediátrico para o contexto de celulite em adultos.)</em>"
+      ],
+      "pearl": "Artrite séptica associada a celulite/erisipela recente = pensar imediatamente em Streptococcus pyogenes (18% dos casos totais)."
+    },
+    {
+      "id": 21,
+      "tag": "Artrite Séptica • Bacilos Gram-Negativos em Idosos",
+      "stem": "Um homem de 79 anos, com hiperplasia prostática benigna e uso intermitente de sonda vesical de demora, apresenta confusão mental, dor intensa e derrame articular volumoso no quadril direito. Exames de urina mostram piúria maciça e urocultura prévia positiva para Escherichia coli. Qual perfil etiológico representa os bacilos Gram-negativos na artrite séptica de idosos institucionalizados?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Bacilos Gram-negativos como E. coli, Pseudomonas aeruginosa e Klebsiella pneumoniae, associados a infecções urinárias e imunossupressão."
+        },
+        {
+          "letter": "B",
+          "text": "Streptococcus pneumoniae capsulado, colonizador exclusivo do urotélio prostático de pacientes idosos acamados."
+        },
+        {
+          "letter": "C",
+          "text": "Neisseria gonorrhoeae e Chlamydia trachomatis, decorrentes de hipertrofia prostática obstrutiva mecânica primária."
+        },
+        {
+          "letter": "D",
+          "text": "Clostridium difficile e Bacteroides fragilis, carreados exclusivamente através da mucosa gástrica atrófica do idoso."
+        }
+      ],
+      "answer": "A",
+      "rationale": "Os bacilos Gram-negativos respondem por 19% dos casos de artrite séptica em adultos. Ocorrem preferencialmente em idosos, indivíduos imunossuprimidos ou com comorbidades graves, tendo como porta de entrada típica o trato geniturinário (E. coli 8%, Klebsiella 4%) ou cateteres/ambiente hospitalar (Pseudomonas 5%).",
+      "distractors": [
+        "<strong>B está incorreta [Vetor 1 - Micro-Inversão Conceitual]:</strong> O pneumococo é um coco Gram-positivo colonizador da nasofaringe e via aérea, não sendo patógeno habitual do trato urinário. <em>(Ímã cognitivo: Inverter a morfologia e o tropismo do pneumococo para o trato urinário.)</em>",
+        "<strong>C está incorreta [Vetor 4 - Mimetismo Clínico / Síndrome Vizinha]:</strong> N. gonorrhoeae e Chlamydia são patógenos de adultos jovens sexualmente ativos, sem relação com sonda vesical e urosepse em idosos institucionalizados. <em>(Ímã cognitivo: Confundir infecção urinária obstrutiva em idoso com infecções sexualmente transmissíveis.)</em>",
+        "<strong>D está incorreta [Vetor 4 - Mimetismo Clínico / Síndrome Vizinha]:</strong> Anaeróbios estritos intestinais respondem por proporção ínfima de artrites nativas e não decorrem de urosepse clássica por E. coli. <em>(Ímã cognitivo: Substituir bacilos Gram-negativos aeróbios por anaeróbios intestinais.)</em>"
+      ],
+      "pearl": "Idosos com infecção urinária / cateterismo vesical = risco elevado de artrite séptica por Bacilos Gram-Negativos (E. coli, Pseudomonas, Klebsiella)."
+    },
+    {
+      "id": 22,
+      "tag": "Artrite Séptica • Mordeduras e Polimicrobianos",
+      "stem": "Uma médica veterinária de 32 anos é atendida com dor intensa, edema e saída de secreção purulenta na articulação metacarpofalângica do indicador direito, 24 horas após sofrer uma mordedura profunda infligida por um gato doméstico. Considerando a microbiologia específica em casos de ferimentos por mordedura animal e humana, quais microrganismos devem ser obrigatoriamente considerados no manejo terapêutico?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Borrelia burgdorferi após arranhadura de cães e Bartonella henselae restrita a picadas de carrapatos bovinos."
+        },
+        {
+          "letter": "B",
+          "text": "Streptococcus agalactiae em mordeduras de gatos e Neisseria meningitidis em ferimentos por dentes humanos."
+        },
+        {
+          "letter": "C",
+          "text": "Pseudomonas putida exclusiva de caninos e Staphylococcus saprophyticus restrito a felinos vacinados."
+        },
+        {
+          "letter": "D",
+          "text": "Pasteurella multocida após mordedura de gato/cão e Eikenella corrodens em mordeduras humanas."
+        }
+      ],
+      "answer": "D",
+      "rationale": "Na aula de Dra. Ana Caroline (slide 9), as infecções articulares decorrentes de mordeduras ou ferimentos perfurantes por dentes envolvem flora oral mista: Pasteurella multocida (mordeduras de gatos e cães) e Eikenella corrodens (mordeduras humanas ou ferimentos por soco na boca).",
+      "distractors": [
+        "<strong>A está incorreta [Vetor 4 - Mimetismo Clínico / Síndrome Vizinha]:</strong> Borrelia causa doença de Lyme transmitida por carrapato Ixodes; Bartonella causa doença da arranhadura do gato, mas a infecção articular purulenta aguda fulminante pós-mordedura de gato é por Pasteurella multocida. <em>(Ímã cognitivo: Confundir infecção articular bacteriana piogênica rápida com infecções crônicas por espiroquetas e Bartonella.)</em>",
+        "<strong>B está incorreta [Vetor 4 - Mimetismo Clínico / Síndrome Vizinha]:</strong> Streptococcus agalactiae é do trato genital/neonatal e N. meningitidis é de nasofaringe; os agentes clássicos de mordedura são Pasteurella e Eikenella. <em>(Ímã cognitivo: Desviar para patógenos neonatais e respiratórios.)</em>",
+        "<strong>C está incorreta [Vetor 4 - Mimetismo Clínico / Síndrome Vizinha]:</strong> Os agentes clássicos documentados nas diretrizes e na aula são Pasteurella multocida e Eikenella corrodens. <em>(Ímã cognitivo: Inventar associações fictícias de patógenos com animais domésticos.)</em>"
+      ],
+      "pearl": "Mordedura animal/humana: Mordedura de cão/gato = Pasteurella multocida; Mordedura humana = Eikenella corrodens."
+    },
+    {
+      "id": 23,
+      "tag": "Artrite Séptica • Antibioticoterapia Empírica Inicial",
+      "stem": "Um homem de 66 anos, hipertenso e diabético, é admitido com monoartrite aguda de joelho esquerdo. A artrocentese dá saída a líquido francamente purulento. O Gram rápido demonstra incontáveis leucócitos, sem visualização clara de bactérias nas lâminas iniciais. As hemoculturas e o líquido foram semeados em meios adequados. Considerando as recomendações do Guideline GEIO/SEIMC 2024 e do UpToDate apresentadas nas aulas oficiais, qual é a conduta antimicrobiana empírica inicial recomendada?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aguardar 48 a 72 horas pelo resultado do antibiograma definitivo antes de infundir qualquer agente antimicrobiano na veia."
+        },
+        {
+          "letter": "B",
+          "text": "Administrar injeções intra-articulares diárias de gentamicina sem qualquer terapia antimicrobiana parenteral sistêmica."
+        },
+        {
+          "letter": "C",
+          "text": "Iniciar Vancomicina intravenosa associada à Ceftriaxona para garantir cobertura mandatória de S. aureus (incluindo MRSA) e Gram-negativos."
+        },
+        {
+          "letter": "D",
+          "text": "Prescrever ciprofloxacino oral associado a sulfametoxazol-trimetoprima ambulatorial por 7 dias com retorno em caso de piora."
+        }
+      ],
+      "answer": "C",
+      "rationale": "As diretrizes (Guideline GEIO 2024 e UpToDate) estabelecem que a cobertura de Staphylococcus aureus é mandatória em todos os pacientes com suspeita de artrite séptica de articulação nativa. O esquema empírico inicial padrão para adultos internados consiste em Vancomicina (15-20 mg/kg q12h para cobrir MRSA) associada à Ceftriaxona (1-2g q24h para cobrir bacilos Gram-negativos e cocos Gram-negativos), ajustando-se após resultado do Gram e culturas.",
+      "distractors": [
+        "<strong>A está incorreta [Vetor 2 - Janela Biológica e Cronologia]:</strong> Aguardar cultura para iniciar antibiótico é contraindicado, pois a lesão destrutiva irreversível ocorre nas primeiras 24 a 48 horas. <em>(Ímã cognitivo: Retardar a antibioticoterapia empírica enquanto se aguarda o crescimento bacteriano in vitro.)</em>",
+        "<strong>B está incorreta [Vetor 5 - Protocolo Oficial SUS/PCDT vs Prática Informal]:</strong> Antibióticos intra-articulares diretos não são recomendados rotineiramente e podem causar sinovite química; a terapia deve ser sempre sistêmica intravenosa. <em>(Ímã cognitivo: Propor via de administração intra-articular não padronizada e lesiva.)</em>",
+        "<strong>D está incorreta [Vetor 5 - Protocolo Oficial SUS/PCDT vs Prática Informal]:</strong> Artrite séptica de joelho requer internação imediata e antibioticoterapia intravenosa de amplo espectro; ciprofloxacino oral é inadequado para S. aureus e MRSA. <em>(Ímã cognitivo: Prescrever terapia oral de baixa biodisponibilidade para MRSA em ambiente ambulatorial.)</em>"
+      ],
+      "pearl": "Terapia empírica na artrite séptica nativa: Vancomicina (MRSA) + Ceftriaxona (Gram-negativos). Cobertura de S. aureus é obrigatória em 100% dos casos!"
+    },
+    {
+      "id": 24,
+      "tag": "Artrite Séptica • Duração do Tratamento",
+      "stem": "Uma paciente de 61 anos com artrite séptica de joelho por Staphylococcus aureus meticilino-sensível (MSSA) apresentou excelente resposta após drenagem por artroscopia e início de antibioticoterapia intravenosa guiada por antibiograma. A paciente atinge apirexia no D3 e queda expressiva da PCR no D7. Qual é o tempo total de tratamento antibiótico preconizado para artrite séptica não gonocócica de articulação nativa?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Duração total de 3 a 4 semanas, combinando fase intravenosa inicial e transição oral conforme resposta clínica e laboratorial."
+        },
+        {
+          "letter": "B",
+          "text": "Duração ultracurta de 5 a 7 dias por via oral, suspendendo o tratamento assim que a paciente cessar a queixa de dor ao repouso."
+        },
+        {
+          "letter": "C",
+          "text": "Manutenção obrigatória de antibioticoterapia venosa contínua por 6 a 12 meses ininterruptos sem possibilidade de troca para via oral."
+        },
+        {
+          "letter": "D",
+          "text": "Duração de 1 a 2 semanas exclusivamente para todos os casos não gonocócicos, idêntica ao protocolo de infecção gonocócica disseminada."
+        }
+      ],
+      "answer": "A",
+      "rationale": "Conforme a comparação clínica oficial das diretrizes e das aulas (slides 17 e 18 da Profa. Ana), o tempo total de antibioticoterapia para a artrite séptica não gonocócica de articulação nativa é de 3 a 4 semanas (combinando antibioticoterapia venosa inicial e transição para via oral após controle clínico e de provas inflamatórias). Em contraste, a forma gonocócica exige apenas 1 a 2 semanas.",
+      "distractors": [
+        "<strong>B está incorreta [Vetor 2 - Janela Biológica e Cronologia]:</strong> Sete dias é um tempo insuficiente para erradicar a infecção na membrana sinovial e osso subcondral na forma não gonocócica, com altíssimo risco de recidiva e cronificação. <em>(Ímã cognitivo: Confundir o tempo de infecções urinárias ou gonocócicas com o tempo de artrite estafilocócica.)</em>",
+        "<strong>C está incorreta [Vetor 3 - Salto de Etapa / Precipitação]:</strong> Seis a 12 meses é tempo de osteomielite crônica extensa recalcitrante com prótese, e não de artrite séptica nativa desbridada, cujo tempo é de 3 a 4 semanas. <em>(Ímã cognitivo: Exagerar desproporcionalmente o tempo de antibioticoterapia para articulações nativas.)</em>",
+        "<strong>D está incorreta [Vetor 4 - Mimetismo Clínico / Síndrome Vizinha]:</strong> O período de 1 a 2 semanas é específico para a artrite gonocócica; infecções não gonocócicas (especialmente S. aureus) exigem de 3 a 4 semanas. <em>(Ímã cognitivo: Equiparar a duração do tratamento da artrite não gonocócica à forma gonocócica.)</em>"
+      ],
+      "pearl": "Duração do antibiótico: Não-Gonocócica = 3 a 4 semanas; Gonocócica = 1 a 2 semanas."
+    },
+    {
+      "id": 25,
+      "tag": "Artrite Séptica • Drenagem Articular Mandatória",
+      "stem": "Um homem de 58 anos é internado com artrite séptica volumosa em joelho esquerdo. O médico assistente prescreve vancomicina e ceftriaxona intravenosas, mas não solicita parecer ortopédico nem programa evacuação do líquido purulento, argumentando que a alta concentração tecidual do antimicrobiano é suficiente para esterilizar a cavidade. Em relação à drenagem articular na artrite bacteriana periférica, qual princípio técnico orienta a boa prática médica?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Antibiótico sozinho não basta; a drenagem articular é componente obrigatório do tratamento para evacuar enzimas líticas, reduzir a pressão e preservar a articulação."
+        },
+        {
+          "letter": "B",
+          "text": "A drenagem está formalmente contraindicada nos primeiros 10 dias, pois a manipulação mecânica dissemina as bactérias para a corrente sanguínea."
+        },
+        {
+          "letter": "C",
+          "text": "A drenagem só é indicada se houver fratura exposta concomitante, sendo suficiente o uso isolado de antibióticos venosos em articulações fechadas."
+        },
+        {
+          "letter": "D",
+          "text": "A drenagem percutânea por agulha deve ser realizada em sessão única inicial, sendo proibido repetir punções devido ao risco de fístula sinovial."
+        }
+      ],
+      "answer": "A",
+      "rationale": "Pérola crítica destacada em letras garrafais no slide 19 da Dra. Ana: 'ANTIBIÓTICO SOZINHO NÃO BASTA - drenagem é componente obrigatório do tratamento'. A evacuação do material purulento é essencial para diminuir a pressão intra-articular e remover produtos bacterianos, neutrófilos e enzimas lisossomais que destroem a cartilagem.",
+      "distractors": [
+        "<strong>B está incorreta [Vetor 1 - Micro-Inversão Conceitual]:</strong> A drenagem deve ser imediata e mantida nos primeiros dias (aspiração diária nos primeiros 5 dias); adiar a drenagem causa necrose condral irreversível. <em>(Ímã cognitivo: Inverter uma indicação obrigatória emergencial rotulando-a como contraindicação.)</em>",
+        "<strong>C está incorreta [Vetor 5 - Protocolo Oficial SUS/PCDT vs Prática Informal]:</strong> A drenagem é recomendada para TODAS as artrites bacterianas periféricas nativas, independentemente de trauma ou fratura. <em>(Ímã cognitivo: Restringir a drenagem purulenta articular apenas ao trauma ortopédico aberto.)</em>",
+        "<strong>D está incorreta [Vetor 2 - Janela Biológica e Cronologia]:</strong> As diretrizes recomendam aspirações diárias por agulha nos primeiros 5 dias de tratamento, reavaliando leucócitos, PMN, Gram e culturas a cada coleta. <em>(Ímã cognitivo: Limitar a aspiração a um procedimento único estático quando as diretrizes preconizam repetição diária nos primeiros 5 dias.)</em>"
+      ],
+      "pearl": "Princípio inegociável: Antibiótico sozinho NÃO basta! Drenagem articular é obrigatória em 100% dos casos de artrite séptica periférica."
+    },
+    {
+      "id": 26,
+      "tag": "Artrite Séptica • Métodos de Drenagem no Joelho",
+      "stem": "Uma mulher de 45 anos, com artrite séptica confirmada em joelho direito, apresenta líquido viscoso espesso com traves fibrinosas e lojas purulentas loculadas observadas ao ultrassom. A equipe médica debate a melhor técnica de descompressão e limpeza articular. De acordo com o Guideline GEIO 2024 e o UpToDate, qual é o método de drenagem considerado de primeira linha para o joelho séptico?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Artrodese aberta imediata com ressecção completa dos côndilos femorais e colocação de fixador externo na primeira hora."
+        },
+        {
+          "letter": "B",
+          "text": "Artroscopia articular, pois proporciona visualização direta da cavidade, lise de aderências, sinovectomia e lavagem abundante sob baixa pressão."
+        },
+        {
+          "letter": "C",
+          "text": "Instilação contínua de etanol a 70% sob pressão na cavidade articular associada a sucção a vácuo fechada."
+        },
+        {
+          "letter": "D",
+          "text": "Injeção intra-articular de corticoesteroide de depósito associada a repouso absoluto com gesso circular inguino-podálico por 60 dias."
+        }
+      ],
+      "answer": "B",
+      "rationale": "A artroscopia é considerada o método cirúrgico de primeira linha para a drenagem de artrite séptica no joelho. Ela permite visualização direta de toda a articulação, desbridamento mecânico de tecidos necróticos, lise de lojas e septações purulentas, sinovectomia parcial e lavagem exaustiva com soro fisiológico, com menor morbidade que a artrotomia aberta.",
+      "distractors": [
+        "<strong>A está incorreta [Vetor 3 - Salto de Etapa / Precipitação]:</strong> Artrodese é uma cirurgia de resgate para destruição crônica refratária de articulação inviável, e não o método inicial de drenagem de um joelho séptico agudo. <em>(Ímã cognitivo: Propor procedimento mutilador de resgate extremo como conduta inicial.)</em>",
+        "<strong>C está incorreta [Vetor 5 - Protocolo Oficial SUS/PCDT vs Prática Informal]:</strong> Instilação de agentes tóxicos como etanol causa necrose química condral severa; a lavagem artroscópica é feita com solução salina estéril. <em>(Ímã cognitivo: Adotar substâncias antissépticas cáusticas intra-articulares.)</em>",
+        "<strong>D está incorreta [Vetor 5 - Protocolo Oficial SUS/PCDT vs Prática Informal]:</strong> Corticoide intra-articular em articulação séptica ativa é terminantemente contraindicado por agravar a replicação bacteriana e acelerar a destruição. <em>(Ímã cognitivo: Cometer o erro gravíssimo de injetar corticoide em cavidade séptica infectada.)</em>"
+      ],
+      "pearl": "Drenagem do joelho: Artroscopia é a 1ª linha (visualização direta, debridamento e menor morbidade). Artrotomia aberta é reservada para falhas ou inacessibilidade."
+    },
+    {
+      "id": 27,
+      "tag": "Artrite Séptica • Monitoramento e Recuperação Funcional",
+      "stem": "Durante a evolução de um paciente internado com artrite séptica de joelho submetido a aspirações articulares repetidas por agulha nos primeiros 5 dias de internação, o médico solicita exames de controle do líquido sinovial aspirado. Quais parâmetros do líquido sinovial e quais marcadores séricos devem ser monitorados para atestar a eficácia do tratamento e qual o prognóstico de recuperação funcional na infecção por S. aureus?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Normalização do hemograma dentro das primeiras 6 horas de antibioticoterapia venosa, com sequelas funcionais restritas a menos de 1% dos casos."
+        },
+        {
+          "letter": "B",
+          "text": "Elevação progressiva dos neutrófilos acima de 98% com persistência de culturas positivas; recuperação funcional ocorre em 100% dos pacientes com S. aureus."
+        },
+        {
+          "letter": "C",
+          "text": "Redução progressiva da contagem de leucócitos, queda da porcentagem de neutrófilos e negativação do Gram/cultura no líquido; recuperação funcional ocorre em cerca de 46 a 50% no S. aureus."
+        },
+        {
+          "letter": "D",
+          "text": "Monitoramento exclusivo da urina tipo I de 24 horas, visto que alterações no líquido sinovial demoram meses para regredir após drenagem eficaz."
+        }
+      ],
+      "answer": "C",
+      "rationale": "Nas aspirações diárias dos primeiros 5 dias, avalia-se a resposta terapêutica através da contagem decrescente de leucócitos, redução do percentual de neutrófilos, negativação do Gram e cultura do líquido sinovial, somada à queda de PCR sérica. Além disso, as estatísticas das aulas (slide 21) mostram que a recuperação funcional após artrite por S. aureus ocorre em apenas 46 a 50% dos casos (em comparação a 95% no pneumococo).",
+      "distractors": [
+        "<strong>A está incorreta [Vetor 2 - Janela Biológica e Cronologia]:</strong> O hemograma não normaliza em 6 horas (provas inflamatórias levam dias a semanas); e as sequelas estafilocócicas atingem metade dos pacientes. <em>(Ímã cognitivo: Subestimar os prazos de resposta imunológica e a morbidade da infecção por S. aureus.)</em>",
+        "<strong>B está incorreta [Vetor 1 - Micro-Inversão Conceitual]:</strong> A resposta terapêutica é evidenciada pela queda dos leucócitos e negativação das culturas; a recuperação funcional plena na artrite por S. aureus ocorre em apenas 46-50% dos casos. <em>(Ímã cognitivo: Inverter os parâmetros laboratoriais de melhora e superestimar a recuperação funcional do estafilococo.)</em>",
+        "<strong>D está incorreta [Vetor 4 - Mimetismo Clínico / Síndrome Vizinha]:</strong> O líquido sinovial responde rapidamente com queda de celularidade nos primeiros 5 dias; monitorar urina não tem relação com controle de artrite nativa periférica. <em>(Ímã cognitivo: Desviar o foco do líquido articular para exames renais não correlacionados.)</em>"
+      ],
+      "pearl": "Recuperação funcional: Apenas 46 a 50% na artrite por S. aureus recuperam a função articular plena (contra 95% no pneumococo)."
+    },
+    {
+      "id": 28,
+      "tag": "Artrite Gonocócica • Síndrome Artrite-Dermatite",
+      "stem": "Uma jovem de 21 anos, sexualmente ativa, procura o pronto-atendimento com febre baixa, mialgias, dor articular migratória em punhos e tornozelos há 7 dias, que evoluiu nas últimas 24 horas para dor intensa e tumefação exuberante no joelho direito. Ao exame físico, nota-se dor à palpação de bainhas tendíneas nos punhos (tenossinovite) e presença de pápulas e pústulas necróticas esparsas no dorso das mãos. Qual síndrome clínica e agente etiológico explicam essa clássica apresentação?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Febre reumática aguda pós-estreptocócica com eritema marginado e coreia de Sydenham induzida por mimetismo molecular."
+        },
+        {
+          "letter": "B",
+          "text": "Síndrome de Reiter/Artrite reativa clássica secundária a infecção respiratória por Mycoplasma pneumoniae com ceratodermia blenorrágica pura."
+        },
+        {
+          "letter": "C",
+          "text": "Lúpus eritematoso sistêmico com vasculite cutânea lúpica em atividade aguda grave mediada por autoanticorpos anti-Sm."
+        },
+        {
+          "letter": "D",
+          "text": "Síndrome Artrite-Dermatite da infecção gonocócica disseminada, causada pela bactéria Neisseria gonorrhoeae."
+        }
+      ],
+      "answer": "D",
+      "rationale": "A apresentação clínica da paciente representa a forma clássica de infecção gonocócica disseminada (Síndrome Artrite-Dermatite), que cursa com a tríade característica: (1) poliartralgia migratória assimétrica, (2) tenossinovite (frequentemente em punhos, tornozelos e dedos) e (3) lesões dermatológicas típicas (pápulas, vesículas ou pústulas necróticas esparsas em extremidades). Frequentemente evolui para monoartrite purulenta franca (geralmente joelho).",
+      "distractors": [
+        "<strong>A está incorreta [Vetor 4 - Mimetismo Clínico / Síndrome Vizinha]:</strong> A febre reumática cursa com poliartrite migratória e nódulos/eritema marginado em crianças e adolescentes pós-faringite, mas não com tenossinovite purulenta e pústulas gonocócicas com monoartrite. <em>(Ímã cognitivo: Associar a poliartralgia migratória à febre reumática ignorando os achados cutâneos e a faixa etária.)</em>",
+        "<strong>B está incorreta [Vetor 4 - Mimetismo Clínico / Síndrome Vizinha]:</strong> Artrite reativa envolve oligoartrite assimétrica de membros inferiores, entesite e conjuntivite pós-gastroenterite ou uretrite; o caso clínico da vinheta reproduz ipsis litteris a infecção gonocócica disseminada. <em>(Ímã cognitivo: Mimetizar a clínica gonocócica com artrite reativa soronegativa.)</em>",
+        "<strong>C está incorreta [Vetor 4 - Mimetismo Clínico / Síndrome Vizinha]:</strong> A tríade tenossinovite + poliartralgia migratória assimétrica + pústulas cutâneas em adulto jovem sexualmente ativo é a Síndrome Artrite-Dermatite clássica por N. gonorrhoeae. <em>(Ímã cognitivo: Confundir infecção gonocócica disseminada com doença autoimune reumatológica sistêmica.)</em>"
+      ],
+      "pearl": "Tríade da Artrite Gonocócica: Poliartralgia migratória + Tenossinovite + Lesões cutâneas (pústulas necróticas) em jovem sexualmente ativo."
+    },
+    {
+      "id": 29,
+      "tag": "Artrite Gonocócica • Rendimento Microbiológico & Diagnóstico",
+      "stem": "Uma paciente de 22 anos com quadro típico de artrite gonocócica disseminada é submetida a artrocentese do joelho. O líquido sinovial apresenta 26.000 leucócitos/µL com 89% de neutrófilos, porém a bacterioscopia pelo método de Gram e as culturas em meios rotineiros de ágar sangue e chocolate resultam negativas. Em relação ao rendimento microbiológico e à estratégia confirmatória na artrite gonocócica, qual conduta diagnóstica está indicada?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A cultura do líquido sinovial é frequentemente negativa (positiva em apenas 25 a 70%), devendo-se colher testes de amplificação de ácidos nucleicos (NAAT) ou culturas de sítios mucosos geniturinário, retal e orofaríngeo."
+        },
+        {
+          "letter": "B",
+          "text": "A cultura do líquido sinovial tem sensibilidade de 99% na infecção gonocócica; seu resultado negativo exclui sumariamente o gonococo e confirma artrite viral."
+        },
+        {
+          "letter": "C",
+          "text": "Realizar biópsia óssea transcutânea da patela com cultura para anaeróbios em meio tioglicolato como método confirmatório prioritário."
+        },
+        {
+          "letter": "D",
+          "text": "Solicitar sorologia com pesquisa de anticorpos IgM e IgG específicos anti-pili gonocócicos como único padrão-ouro validado."
+        }
+      ],
+      "answer": "A",
+      "rationale": "Conforme enfatizado nas aulas oficiais (slide 15 de Dra. Ana e caso clínico da Profa. Paula), a cultura do líquido sinovial na artrite gonocócica possui rendimento baixo a moderado (positiva em apenas 25 a 70% dos casos). Por isso, a investigação microbiológica diagnóstica OBRIGATORIAMENTE deve incluir testes de biologia molecular (NAAT) ou culturas em meios seletivos (Thayer-Martin) coletadas de sítios mucosos: endocérvice/uretra, urina, reto e orofaringe.",
+      "distractors": [
+        "<strong>B está incorreta [Vetor 1 - Micro-Inversão Conceitual]:</strong> A Neisseria gonorrhoeae é uma bactéria fastidiosa cujo isolamento no líquido sinovial é historicamente baixo (25 a 70%); o exame em sítios mucosos (uretra, cérvice, reto, faringe) é indispensável. <em>(Ímã cognitivo: Cometer o erro clássico de descartar artrite gonocócica devido a líquido sinovial com cultura negativa.)</em>",
+        "<strong>C está incorreta [Vetor 3 - Salto de Etapa / Precipitação]:</strong> Biópsia óssea não é indicada para gonococo; a identificação do agente é feita por NAAT ou cultura em meio seletivo de Thayer-Martin a partir de mucosas acessíveis. <em>(Ímã cognitivo: Indicar procedimento ósseo invasivo sem fundamento biológico para infecção mucosal disseminada.)</em>",
+        "<strong>D está incorreta [Vetor 5 - Protocolo Oficial SUS/PCDT vs Prática Informal]:</strong> Não existe teste sorológico validado para diagnóstico rotineiro de gonococo; o diagnóstico microbiológico se baseia em NAAT e cultura em meios enriquecidos. <em>(Ímã cognitivo: Propor método sorológico obsoleto/inexistente em detrimento do padrão-ouro molecular (NAAT).)</em>"
+      ],
+      "pearl": "Artrite Gonocócica: Cultura do líquido sinovial é positiva em apenas 25-70%! A chave diagnóstica é colher NAAT / culturas em mucosas (genital, reto, faringe)."
+    },
+    {
+      "id": 30,
+      "tag": "Artrite Gonocócica • Tratamento & Epidemiologia Feminina",
+      "stem": "Uma paciente de 20 anos, nuligesta, solteira, é internada com diagnóstico confirmado de artrite gonocócica disseminada com tenossinovite e derrame em joelho direito. A paciente relata que o início dos sintomas coincidiu com o quarto dia do seu fluxo menstrual. Qual é o esquema farmacológico de escolha, a duração recomendada e a explicação fisiopatológica para a maior prevalência da doença em mulheres no período peri-menstrual?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ciprofloxacino 500 mg oral a cada 8 horas por 4 semanas associado a drenagem aberta do útero para controle de foco."
+        },
+        {
+          "letter": "B",
+          "text": "Ceftriaxona 1g intravenosa q24h por 1 a 2 semanas; as mulheres são mais acometidas (3-4x) devido a alterações da mucosa endocervical na primeira semana da menstruação e na gravidez."
+        },
+        {
+          "letter": "C",
+          "text": "Vancomicina 1g IV de 12/12h por 6 semanas; o sexo feminino é mais suscetível exclusivamente devido ao uso prévio de anticoncepcionais orais combinados."
+        },
+        {
+          "letter": "D",
+          "text": "Penicilina benzatina 1.200.000 UI em dose única intramuscular profunda sem internação; o risco decorre de baixa imunidade humoral genética associada ao cromossomo X."
+        }
+      ],
+      "answer": "B",
+      "rationale": "A infecção gonocócica disseminada acomete mulheres cerca de 3 a 4 vezes mais que homens. Fatores predisponentes bem descritos na aula de Profa. Paula (slide 23) incluem a primeira semana do ciclo menstrual (rompimento da barreira endometrial cervical facilitando bacteremia), a gravidez e o puerpério. O tratamento de escolha é a Ceftriaxona 1g IV a cada 24 horas por 1 a 2 semanas (com transição para terapia oral guiada após melhora clínica). O prognóstico articular costuma ser excelente.",
+      "distractors": [
+        "<strong>A está incorreta [Vetor 5 - Protocolo Oficial SUS/PCDT vs Prática Informal]:</strong> Ciprofloxacino tem elevada resistência e não é primeira linha; intervenções uterinas abertas não têm qualquer indicação na artrite gonocócica. <em>(Ímã cognitivo: Adotar fluorquinolona em desuso por resistência e propor intervenção uterina descabida.)</em>",
+        "<strong>C está incorreta [Vetor 4 - Mimetismo Clínico / Síndrome Vizinha]:</strong> O tratamento de escolha para o gonococo é a Ceftriaxona (1-2 semanas) e não Vancomicina; o risco aumentado decorre de alterações anatômicas e do pH na 1ª semana menstrual, gravidez e puerpério. <em>(Ímã cognitivo: Indicar antibiótico de perfil Gram-positivo (vancomicina) para gonococo e errar a duração.)</em>",
+        "<strong>D está incorreta [Vetor 5 - Protocolo Oficial SUS/PCDT vs Prática Informal]:</strong> A Neisseria gonorrhoeae apresenta altas taxas de resistência a penicilinas; o tratamento de infecção disseminada exige Ceftriaxona parenteral por 7 a 14 dias. <em>(Ímã cognitivo: Utilizar esquema de sífilis primária em dose única para infecção gonocócica disseminada.)</em>"
+      ],
+      "pearl": "Artrite Gonocócica: Ceftriaxona 1g IV por 1 a 2 semanas. Mulheres são acometidas 3-4x mais, sobretudo na 1ª semana da menstruação, gravidez e puerpério."
+    },
+    {
+      "id": 31,
+      "tag": "Artrite Séptica • Gonocócica vs Não Gonocócica",
+      "stem": "Durante um seminário de infectologia clínica, o preceptor solicita a um aluno que trace o perfil diferencial entre a artrite séptica gonocócica e a não gonocócica quanto a perfil de paciente, padrão clínico predominante, rendimento de cultura e duração de tratamento. Qual afirmação sintetiza com exatidão essas diferenças fundamentais?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A gonocócica exige antibioticoterapia venosa por 8 a 12 semanas com artrotomia de emergência; a não gonocócica é tratada ambulatorialmente com analgésicos e compressas em 48 horas."
+        },
+        {
+          "letter": "B",
+          "text": "A gonocócica é sempre monoarticular com destruição da cartilagem em 12 horas; a não gonocócica manifesta-se por eritema nodoso periarticular sem efusão líquida sinovial."
+        },
+        {
+          "letter": "C",
+          "text": "A gonocócica acomete jovens saudáveis (18-35 anos), tem padrão migratório/tenossinovite, culturas sinoviais frequentemente negativas e dura 1-2 semanas; a não gonocócica acomete idosos com comorbidades, é monoarticular aguda, culturas sinoviais são positivas em 70-90% e o tratamento dura 3-4 semanas."
+        },
+        {
+          "letter": "D",
+          "text": "A cultura do líquido sinovial é positiva em 100% dos pacientes com artrite gonocócica e sistematicamente negativa nas infecções causadas por Staphylococcus aureus."
+        }
+      ],
+      "answer": "C",
+      "rationale": "Conforme a tabela comparativa oficial das aulas (slide 17 da Dra. Ana): (1) Perfil: Gonocócica = jovem sexualmente ativo (18-35 anos), saudável; Não gonocócica = idosos (> 65 anos), artropatia prévia, comorbidades. (2) Clínica: Gonocócica = síndrome artrite-dermatite, tenossinovite, poliartralgia migratória; Não gonocócica = monoartrite aguda fulminante. (3) Cultura do LS: Gonocócica = 25-70% (frequentemente negativa); Não gonocócica = 70-90% (padrão-ouro). (4) Tratamento: Gonocócica = Ceftriaxona 1-2 semanas; Não gonocócica = 3-4 semanas.",
+      "distractors": [
+        "<strong>A está incorreta [Vetor 1 - Micro-Inversão Conceitual]:</strong> A não gonocócica é a forma mais agressiva e destrutiva que exige drenagem mandatória e 3-4 semanas de antibiótico; a gonocócica exige menor drenagem, tem bom prognóstico e dura 1-2 semanas. <em>(Ímã cognitivo: Inverter radicalmente a gravidade e a duração do tratamento entre as duas entidades nosológicas.)</em>",
+        "<strong>B está incorreta [Vetor 1 - Micro-Inversão Conceitual]:</strong> A gonocócica manifesta-se tipicamente com artrite-dermatite e poliartralgia migratória; a não gonocócica cursa com monoartrite purulenta volumosa com grande destruição articular. <em>(Ímã cognitivo: Trocar as características semiológicas essenciais de cada uma das formas clínicas.)</em>",
+        "<strong>D está incorreta [Vetor 1 - Micro-Inversão Conceitual]:</strong> Exatamente o oposto: na artrite gonocócica a cultura sinovial é positiva em apenas 25-70%; no S. aureus a cultura é positiva em 70-90% dos casos. <em>(Ímã cognitivo: Inverter completamente as taxas de sensibilidade das culturas microbiológicas.)</em>"
+      ],
+      "pearl": "Gonocócica (jovem, migratória/pústulas, cultura LS 25-70%, 1-2 semanas, cura sem sequela) vs Não-Gonocócica (idoso, monoartrite, cultura LS 70-90%, 3-4 semanas, 50% de sequela)."
+    },
+    {
+      "id": 32,
+      "tag": "Artrite Séptica Pediátrica • Critérios de Kocher",
+      "stem": "Um menino de 3 anos é levado ao pronto-socorro infantil com irritabilidade, claudicação e recusa em apoiar o membro inferior direito no solo há 24 horas. Ao exame, chora intensamente ao exame do quadril direito. Sinais vitais: Temperatura axilar: 38,9 °C. Exames laboratoriais colhidos na admissão: Leucócitos: 15.400/mm³ com 78% de segmentados; VHS: 52 mm/1ª hora; PCR: 45 mg/L. Na avaliação da suspeita de artrite séptica de quadril na infância, quais são os 4 parâmetros clássicos estabelecidos pelos Critérios de Kocher?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Febre superior a 37,5 °C, presença de sopro cardíaco diastólico, dor articular migratória e VHS superior a 20 mm/h."
+        },
+        {
+          "letter": "B",
+          "text": "Dor lombar bilateral, rigidez matinal superior a 60 minutos, PCR superior a 100 mg/L e positividade do HLA-B27."
+        },
+        {
+          "letter": "C",
+          "text": "Febre superior a 38,5 °C, recusa em apoiar o membro acometido, VHS superior a 40 mm/h e contagem de leucócitos no sangue superior a 12.000/mm³."
+        },
+        {
+          "letter": "D",
+          "text": "Temperatura axilar menor que 36,0 °C, plaquetopenia inferior a 100.000/mm³, hipoglicemia e edema escrotal reflexo."
+        }
+      ],
+      "answer": "C",
+      "rationale": "Os Critérios de Kocher são amplamente utilizados na pediatria para diferenciar artrite séptica de quadril de sinovite transitória. São 4 critérios clássicos: (1) Febre > 38,5 °C; (2) Incapacidade/recusa de apoiar o membro (não apoia); (3) VHS > 40 mm/h; (4) Leucócitos séricos > 12.000/mm³. Adicionalmente, PCR > 20 mg/L é um marcador moderno que eleva a acurácia.",
+      "distractors": [
+        "<strong>A está incorreta [Vetor 4 - Mimetismo Clínico / Síndrome Vizinha]:</strong> Esses parâmetros lembram os critérios de Jones para febre reumática; os critérios de Kocher para artrite séptica de quadril usam cortes objetivos: T > 38,5°C, não apoiar, VHS > 40 e leucócitos > 12.000. <em>(Ímã cognitivo: Confundir os critérios de Kocher com os critérios de Jones para febre reumática.)</em>",
+        "<strong>B está incorreta [Vetor 4 - Mimetismo Clínico / Síndrome Vizinha]:</strong> Critérios relacionados a espondiloartropatias juvenis, sem correlação com os Critérios de Kocher de artrite séptica. <em>(Ímã cognitivo: Utilizar critérios diagnósticos reumatológicos de artrite crônica juvenil.)</em>",
+        "<strong>D está incorreta [Vetor 4 - Mimetismo Clínico / Síndrome Vizinha]:</strong> Critérios absurdos sem qualquer relação com a estratificação ortopédica pediátrica de Kocher. <em>(Ímã cognitivo: Propor critérios de sepse neonatal / choque em substituição aos critérios específicos de quadril.)</em>"
+      ],
+      "pearl": "Critérios de Kocher para quadril séptico: (1) Febre > 38,5°C; (2) Não apoia o membro; (3) VHS > 40 mm/h; (4) Leucócitos > 12.000/mm³ (+ PCR > 20)."
+    },
+    {
+      "id": 33,
+      "tag": "Artrite Séptica Pediátrica • Estratificação de Risco de Kocher",
+      "stem": "No caso do menino de 3 anos citado na questão anterior, o paciente preenche simultaneamente os 4 critérios de Kocher (temperatura de 38,9 °C, incapacidade total de carga no membro, VHS de 52 mm/h e leucócitos de 15.400/mm³). Com base na tabela de probabilidades de Kocher apresentada na aula de Profa. Paula (slide 20), qual é a probabilidade estimada de o paciente ser portador de artrite séptica de quadril e qual a conduta ortopédica mandatória?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Probabilidade superior a 99% de artrite séptica, exigindo punção articular diagnóstica e descompressão/artrotomia cirúrgica de urgência."
+        },
+        {
+          "letter": "B",
+          "text": "Probabilidade em torno de 3%, tratando-se de sinovite transitória do quadril com indicação de anti-inflamatório oral exclusivo."
+        },
+        {
+          "letter": "C",
+          "text": "Probabilidade indeterminada, devendo-se aguardar ressonância magnética com contraste sob anestesia geral antes de qualquer intervenção."
+        },
+        {
+          "letter": "D",
+          "text": "Probabilidade de apenas 40%, recomendando-se alta com paracetamol e retorno ambulatorial em 7 dias se persistir claudicação."
+        }
+      ],
+      "answer": "A",
+      "rationale": "A estratificação de risco de Kocher prevê: 0 critérios = probabilidade < 0,2%; 1 critério = ~3%; 2 critérios = ~40%; 3 critérios = ~93%; e 4 critérios = > 99%. Com 4 critérios positivos, a probabilidade de artrite séptica é superior a 99%, constituindo uma emergência ortopédica cirúrgica absoluta para drenagem/artrotomia imediata, visando descompressão capsular para evitar necrose isquêmica da cabeça femoral.",
+      "distractors": [
+        "<strong>B está incorreta [Vetor 4 - Mimetismo Clínico / Síndrome Vizinha]:</strong> Probabilidade de ~3% ocorre quando apenas 1 critério é preenchido; com 4 critérios a chance de artrite séptica é praticamente certa (>99%). <em>(Ímã cognitivo: Classificar o risco máximo de infecção bacteriana como o risco mínimo de sinovite transitória.)</em>",
+        "<strong>C está incorreta [Vetor 3 - Salto de Etapa / Precipitação]:</strong> Aguardar ressonância quando a probabilidade é > 99% atrasa o tratamento cirúrgico descompressivo emergencial indispensável para salvar a cabeça femoral da necrose. <em>(Ímã cognitivo: Adiar procedimento cirúrgico urgente para realizar exame de imagem avançado desnecessário no momento zero.)</em>",
+        "<strong>D está incorreta [Vetor 2 - Janela Biológica e Cronologia]:</strong> Com 4 critérios, a probabilidade é superior a 99% (40% ocorre quando há apenas 2 critérios preenchidos); liberar o paciente causará necrose avascular da cabeça femoral. <em>(Ímã cognitivo: Confundir a probabilidade de 2 critérios (40%) com a probabilidade máxima de 4 critérios (>99%).)</em>"
+      ],
+      "pearl": "Probabilidade de Kocher: 0 critérios = <0,2%; 1 critério = ~3%; 2 critérios = ~40%; 3 critérios = ~93%; 4 critérios = >99% (cirurgia urgente!)."
+    },
+    {
+      "id": 34,
+      "tag": "Artrite Séptica Pediátrica • Postura Antálgica do Quadril",
+      "stem": "Uma lactente de 14 meses é levada à emergência pediátrica com febre alta e irritabilidade extrema ao ser trocada pelos pais. Ao exame físico na maca, a criança chora copiosamente a qualquer tentativa de mobilização do quadril esquerdo, mantendo espontaneamente a articulação coxofemoral em atitude típica de flexão, abdução e rotação externa. Qual é a justificativa anatômica e hidrodinâmica para a adoção dessa postura espontânea?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Essa posição promove o fechamento completo da fenda articular, bloqueando o extravasamento de pus para o peritônio pélvico."
+        },
+        {
+          "letter": "B",
+          "text": "Trata-se de uma contratura reflexa fixa secundária a luxação congênita do quadril associada a encurtamento do tendão de Aquiles."
+        },
+        {
+          "letter": "C",
+          "text": "A postura decorre de espasmo tetânico involuntário do músculo glúteo máximo provocado por neurotoxinas bacterianas sinoviais."
+        },
+        {
+          "letter": "D",
+          "text": "Essa atitude postural atinge o maior volume da cápsula articular, minimizando a pressão hidrostática intra-articular e aliviando a dor."
+        }
+      ],
+      "answer": "D",
+      "rationale": "Conforme explicitado na aula da Profa. Paula (slide 19): na artrite séptica do quadril infantil, a posição típica é 'flexão + abdução + rotação externa'. O quadril 'foge da dor' porque é exatamente nessa conformação tridimensional que a cápsula articular relaxa e atinge sua capacidade volumétrica máxima, reduzindo a pressão hidrostática interna sobre os nociceptores e vasos intracapsulares.",
+      "distractors": [
+        "<strong>A está incorreta [Vetor 1 - Micro-Inversão Conceitual]:</strong> A cápsula não se fecha; a posição de flexão + abdução + rotação externa é a de máxima complacência e capacidade volumétrica da cápsula articular. <em>(Ímã cognitivo: Inverter a mecânica articular alegando fechamento da cavidade ao invés de aumento do volume.)</em>",
+        "<strong>B está incorreta [Vetor 4 - Mimetismo Clínico / Síndrome Vizinha]:</strong> A atitude descrita é aguda, antálgica e típica da artrite séptica do quadril ('posição onde a cápsula atinge maior volume para diminuir a dor'). <em>(Ímã cognitivo: Confundir uma atitude postural inflamatória aguda com deformidades congênitas ortopédicas crônicas.)</em>",
+        "<strong>C está incorreta [Vetor 4 - Mimetismo Clínico / Síndrome Vizinha]:</strong> Não decorre de ação de neurotoxinas ou tétano; é uma posição mecânica antálgica adotada pelo paciente para 'fugir da dor' pelo relaxamento da cápsula articular. <em>(Ímã cognitivo: Atribuir a postura do quadril a um efeito neurotóxico infeccioso muscular.)</em>"
+      ],
+      "pearl": "Postura típica do quadril séptico: Flexão + Abdução + Rotação Externa ('cápsula atinge maior volume' para diminuir a dor)."
+    },
+    {
+      "id": 35,
+      "tag": "Artrite Séptica Pediátrica • Microbiologia por Idade",
+      "stem": "Um recém-nascido de 18 dias de vida, nascido de parto vaginal sem complicações aparentes, desenvolve pseudoparalisia de membro inferior esquerdo associada a edema, calor local e febre. Simultaneamente, na enfermaria ao lado, uma criança de 2 anos vacinada de acordo com o PNI apresenta monoartrite séptica de joelho. Considerando a distribuição dos agentes etiológicos por faixa etária na artrite séptica (Paula SP3, slide 18), quais são os principais patógenos a serem cobertos em cada um dos dois pacientes, respectivamente?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No recém-nascido: Neisseria gonorrhoeae disseminada; na criança de 2 anos: Pseudomonas aeruginosa pós-arranhadura de animais."
+        },
+        {
+          "letter": "B",
+          "text": "No recém-nascido: Pasteurella multocida e Eikenella corrodens; na criança de 2 anos: Chlamydia trachomatis congênita tardia."
+        },
+        {
+          "letter": "C",
+          "text": "No recém-nascido: Streptococcus agalactiae (grupo B), S. aureus e bacilos Gram-negativos; na criança de 2 anos vacinada: S. aureus e Kingella kingae."
+        },
+        {
+          "letter": "D",
+          "text": "No recém-nascido: Haemophilus influenzae tipo b exclusivo; na criança de 2 anos: Mycobacterium tuberculosis resistente."
+        }
+      ],
+      "answer": "C",
+      "rationale": "A distribuição de agentes por faixa etária na infância é um ponto clássico: (1) Recém-nascidos: S. aureus, Streptococcus do grupo B (S. agalactiae) e bacilos Gram-negativos entéricos. (2) Crianças de 1 mês a 5 anos: se vacinadas, S. aureus, Kingella kingae e estreptococos; se NÃO vacinadas, atentar fortemente para Haemophilus influenzae tipo b. (3) Acima de 5 anos: S. aureus e Streptococcus pyogenes.",
+      "distractors": [
+        "<strong>A está incorreta [Vetor 4 - Mimetismo Clínico / Síndrome Vizinha]:</strong> Gonococo causa conjuntivite neonatal (oftalmia), mas a artrite neonatal clássica é por estreptococo do grupo B e S. aureus; e Pseudomonas exige contexto especial de punção. <em>(Ímã cognitivo: Deslocar patógenos específicos de adultos jovens e perfurações para a pediatria rotineira.)</em>",
+        "<strong>B está incorreta [Vetor 4 - Mimetismo Clínico / Síndrome Vizinha]:</strong> Pasteurella e Eikenella são de mordeduras, e Chlamydia congênita tardia não causa artrite séptica de joelho típica aos 2 anos de idade. <em>(Ímã cognitivo: Misturar patógenos de trauma por mordeduras com infecções congênitas.)</em>",
+        "<strong>D está incorreta [Vetor 2 - Janela Biológica e Cronologia]:</strong> H. influenzae tipo b acomete crianças não vacinadas entre 1 mês e 5 anos, não sendo o patógeno neonatal típico; e tuberculose é causa rara/crônica. <em>(Ímã cognitivo: Misturar faixas etárias e agentes de crianças não vacinadas com o período neonatal.)</em>"
+      ],
+      "pearl": "Microbiologia Pediátrica: RN = Estreptococo do grupo B (EGB), S. aureus e BGN. 1m a 5 anos vacinada = S. aureus e Kingella kingae (não vacinada = H. influenzae!)."
+    },
+    {
+      "id": 36,
+      "tag": "Osteomielite • Definição, Epidemiologia e Localização",
+      "stem": "Um menino de 9 anos é levado ao pronto-socorro com queixa de febre alta há 3 dias, prostração e dor intensa de início súbito na coxa direita, sem histórico de trauma. Ao exame, chora intensamente ao toque pontual na região distal do fêmur. Em relação à definição, epidemiologia e sítio preferencial de acometimento da osteomielite hematogênica aguda na infância, qual afirmação é correta?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Consiste em uma infecção restrita exclusivamente ao periósteo externo sem envolvimento do canal medular, predominando em meninas acima de 15 anos nos ossos chatos do crânio."
+        },
+        {
+          "letter": "B",
+          "text": "É um processo infeccioso que compromete a cortical, a esponjosa e o canal medular, acometendo mais frequentemente meninos com menos de 13 anos na metáfise de ossos longos dos membros inferiores."
+        },
+        {
+          "letter": "C",
+          "text": "Trata-se de necrose óssea avascular autoimune que compromete predominantemente a epífise distal das falanges das mãos em idosos diabéticos."
+        },
+        {
+          "letter": "D",
+          "text": "Representa proliferação osteoblástica neoplásica benigna induzida por vírus da família Herpesviridae com fixação exclusiva nas costelas."
+        }
+      ],
+      "answer": "B",
+      "rationale": "De acordo com a aula de Profa. Paula (slide 26), a osteomielite é um processo infeccioso do tecido ósseo (comprometendo porções cortical, esponjosa e canal medular). É mais comum em crianças com menos de 13 anos, com nítido predomínio em meninos, localizando-se preferencialmente na metáfise de ossos longos dos membros inferiores (fêmur, tíbia e úmero) devido à vascularização com laços capilares sinusoidais lentos.",
+      "distractors": [
+        "<strong>A está incorreta [Vetor 1 - Micro-Inversão Conceitual]:</strong> A osteomielite acomete cortical, esponjosa e canal medular; acomete mais meninos com menos de 13 anos e localiza-se nos ossos longos (fêmur, tíbia e úmero). <em>(Ímã cognitivo: Restringir anatomicamente a infecção ao periósteo e inverter sexo, idade e ossos acometidos.)</em>",
+        "<strong>C está incorreta [Vetor 4 - Mimetismo Clínico / Síndrome Vizinha]:</strong> Osteomielite hematogênica é um processo infeccioso bacteriano que acomete a metáfise de ossos longos em crianças, não tendo relação com osteonecrose autoimune digital. <em>(Ímã cognitivo: Confundir osteomielite bacteriana pediátrica com osteonecrose crônica em idosos.)</em>",
+        "<strong>D está incorreta [Vetor 4 - Mimetismo Clínico / Síndrome Vizinha]:</strong> Osteomielite é infecção óssea piogênica bacteriana, e não proliferação neoplásica viral de costelas. <em>(Ímã cognitivo: Atribuir etiologia viral oncogênica benigna a uma doença infecciosa bacteriana destrutiva.)</em>"
+      ],
+      "pearl": "Osteomielite hematogênica aguda: Crianças < 13 anos, meninos, metáfise de ossos longos (fêmur, tíbia, úmero). Compromete cortical, esponjosa e canal medular."
+    },
+    {
+      "id": 37,
+      "tag": "Osteomielite • Vias de Infecção no Adulto vs Criança",
+      "stem": "Um médico residente de ortopedia atende dois pacientes na mesma manhã: o primeiro é um menino de 7 anos com osteomielite metafisária aguda na tíbia sem história de ferimento cutâneo; o segundo é um homem de 58 anos, portador de diabetes mellitus descompensado e neuropatia periférica, apresentando úlcera plantar crônica profunda infectada com exposição óssea no primeiro metatarso. Quais são as principais vias de infecção determinantes nesses dois cenários clínicos, respectivamente?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Transmissão respiratória por gotículas inaladas no paciente pediátrico e transmissão venérea retrógrada no paciente adulto diabético."
+        },
+        {
+          "letter": "B",
+          "text": "Inoculação iatrogênica direta em ambos os pacientes devido a microtraumas despercebidos do leito ungueal."
+        },
+        {
+          "letter": "C",
+          "text": "Disseminação por contiguidade no paciente pediátrico e via hematogênica exclusiva no paciente adulto com úlcera neuropática."
+        },
+        {
+          "letter": "D",
+          "text": "Via hematogênica no paciente pediátrico; disseminação por contiguidade no paciente adulto com pé diabético (responsável por cerca de 80% das infecções em adultos)."
+        }
+      ],
+      "answer": "D",
+      "rationale": "As vias de infecção na osteomielite são divididas didaticamente: (1) Hematogênica: mais comum em crianças saudáveis a partir de bacteremias subclínicas; (2) Contiguidade: mais comum em adultos (representando cerca de 80% dos casos), decorrente de pé diabético, úlceras por pressão, celulite adjacente ou infecção cirúrgica; (3) Inoculação direta: traumas penetrantes ou fraturas expostas.",
+      "distractors": [
+        "<strong>A está incorreta [Vetor 4 - Mimetismo Clínico / Síndrome Vizinha]:</strong> As vias consagradas de osteomielite são hematogênica, contiguidade e inoculação direta, não existindo infecção óssea por contágio inalatório ou venéreo direto. <em>(Ímã cognitivo: Propor vias epidemiológicas inexistentes para a fisiopatologia das infecções ósseas.)</em>",
+        "<strong>B está incorreta [Vetor 1 - Micro-Inversão Conceitual]:</strong> Na criança a via clássica é a hematogênica; no adulto, contiguidade a partir de úlcera cutânea (pé diabético, celulite, cirurgia) responde por 80% dos casos. <em>(Ímã cognitivo: Uniformizar artificialmente uma única via para públicos biológicos totalmente distintos.)</em>",
+        "<strong>C está incorreta [Vetor 1 - Micro-Inversão Conceitual]:</strong> Inversão completa: a via hematogênica predomina nas crianças; a via por contiguidade (a partir de úlcera/pé diabético) é a regra (80%) nos adultos. <em>(Ímã cognitivo: Inverter as vias clássicas de infecção entre a faixa etária pediátrica e a adulta.)</em>"
+      ],
+      "pearl": "Vias de osteomielite: Crianças = Via Hematogênica. Adultos = Contiguidade em 80% (pé diabético, úlcera, celulite, cirurgias)."
+    },
+    {
+      "id": 38,
+      "tag": "Osteomielite • Patogênese da Cronificação e Sequestro Ósseo",
+      "stem": "Um paciente de 42 anos apresenta evolução arrastada de fratura exposta de tíbia tratada inadequadamente há 2 meses. O ortopedista informa que a infecção ultrapassou a fase aguda e consolidou o diagnóstico de osteomielite crônica. De acordo com a patogênese descrita na aula de Profa. Paula (slides 31 a 37), qual alteração anatomopatológica determina a transição da inflamação aguda para a crônica e em que momento temporal ela se inicia?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A regeneração óssea completa com restituição ad integrum de toda a arquitetura trabecular que se estabelece em 12 horas."
+        },
+        {
+          "letter": "B",
+          "text": "A produção maciça de líquido sinovial límpido enriquecido com ácido hialurônico que tampona a infecção no canal medular."
+        },
+        {
+          "letter": "C",
+          "text": "A formação de osso necrosado por isquemia (sequestro ósseo), decorrente do descolamento periosteal e trombose vascular que se inicia aproximadamente 48 horas após a infecção."
+        },
+        {
+          "letter": "D",
+          "text": "O surgimento de calcificações distróficas peritendíneas puras sem qualquer isquemia ou necrose trabecular após 6 meses de evolução."
+        }
+      ],
+      "answer": "C",
+      "rationale": "Conforme enfatizado no slide 35 e na pergunta do slide 37 da Profa. Paula: 'A transição aguda → crônica é determinada pela formação de osso necrosado por isquemia (sequestro ósseo), que se inicia aproximadamente 48 horas após a infecção'. O aumento de pressão intraóssea e a drenagem de pus pelos canais de Havers/Volkmann descolam o periósteo, colapsando o fluxo sanguíneo cortical e gerando necrose segmentar isquêmica irreversível.",
+      "distractors": [
+        "<strong>A está incorreta [Vetor 1 - Micro-Inversão Conceitual]:</strong> A osteomielite crônica caracteriza-se por falha de regeneração, formação de sequestro (osso cortical necrótico) e invólucro periosteal reativo, e não regeneração normal. <em>(Ímã cognitivo: Confundir o marco patológico de cronificação com um processo regenerativo ideal.)</em>",
+        "<strong>B está incorreta [Vetor 4 - Mimetismo Clínico / Síndrome Vizinha]:</strong> A osteomielite ocorre no tecido ósseo (canais de Havers e Volkmann), formando exsudato purulento e abscesso subperiosteal, e não líquido sinovial. <em>(Ímã cognitivo: Confundir tecido ósseo compacto/esponjoso com cavidade sinovial articular.)</em>",
+        "<strong>D está incorreta [Vetor 2 - Janela Biológica e Cronologia]:</strong> A transição aguda para crônica ocorre precocemente em cerca de 48 horas, sendo marcada histologicamente pelo sequestro ósseo isquêmico. <em>(Ímã cognitivo: Adiar o início dos fenômenos necróticos estruturais para muitos meses após a infecção.)</em>"
+      ],
+      "pearl": "Marco de cronificação da osteomielite: Formação de SEQUESTRO ÓSSEO (tecido ósseo necrosado por isquemia) a partir de 48 horas de infecção."
+    },
+    {
+      "id": 39,
+      "tag": "Osteomielite • Classificação de Cierny-Mader",
+      "stem": "Um homem de 50 anos com osteomielite de fêmur é avaliado para planejamento cirúrgico. A tomografia e a ressonância magnética mostram infecção difusa que acomete toda a espessura cortical e medular de um segmento ósseo completo, determinando instabilidade mecânica e estrutural do membro antes mesmo de qualquer intervenção cirúrgica. Com base na classificação anatômica de Cierny-Mader para osteomielite (Paula SP3, slide 28), como esse caso deve ser classificado e qual a sua estabilidade?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cierny-Mader Tipo 4 (Acometimento Difuso), caracterizado como anatomicamente instável."
+        },
+        {
+          "letter": "B",
+          "text": "Cierny-Mader Tipo 3 (Acometimento Localizado), caracterizado obrigatoriamente como instável e refratário."
+        },
+        {
+          "letter": "C",
+          "text": "Cierny-Mader Tipo 2 (Acometimento Superficial), caracterizado como instável com perda de todo o suporte axial."
+        },
+        {
+          "letter": "D",
+          "text": "Cierny-Mader Tipo 1 (Acometimento Medular), caracterizado como instável com indicação de amputação sumária."
+        }
+      ],
+      "answer": "A",
+      "rationale": "A classificação anatômica de Cierny-Mader estabelece 4 tipos: Tipo 1: Medular (estável); Tipo 2: Superficial (estável); Tipo 3: Cortical + medular localizada (estável); Tipo 4: Difuso (instável). No Tipo 4, a infecção acomete difusamente toda a circunferência e espessura óssea, gerando instabilidade mecânica que exige estabilização cirúrgica com placas ou fixadores externos.",
+      "distractors": [
+        "<strong>B está incorreta [Vetor 1 - Micro-Inversão Conceitual]:</strong> O Tipo 3 envolve medular e cortical de forma circunscrita (sequestro localizado), mas preserva estabilidade antes e depois do desbridamento. <em>(Ímã cognitivo: Classificar o acometimento localizado (Tipo 3) como estruturalmente instável.)</em>",
+        "<strong>C está incorreta [Vetor 1 - Micro-Inversão Conceitual]:</strong> O Tipo 2 é restrito à cortical externa superficial (geralmente por contiguidade) e mantém a estabilidade estrutural do osso longo. <em>(Ímã cognitivo: Confundir infecção cortical superficial estável com infecção difusa instável.)</em>",
+        "<strong>D está incorreta [Vetor 1 - Micro-Inversão Conceitual]:</strong> O Tipo 1 acomete apenas o canal medular e é biomecanicamente estável; o tipo difuso instável é o Tipo 4. <em>(Ímã cognitivo: Trocar o acometimento medular restrito pelo difuso e classificar a estabilidade de forma errônea.)</em>"
+      ],
+      "pearl": "Classificação de Cierny-Mader: Tipo 1 Medular (estável); Tipo 2 Superficial (estável); Tipo 3 Localizada (estável); Tipo 4 Difusa (INSTÁVEL!)."
+    },
+    {
+      "id": 40,
+      "tag": "Osteomielite • Diagnóstico por Imagem, Laboratório e Agentes Específicos",
+      "stem": "Um paciente de 10 anos, portador de anemia falciforme (SS), é admitido com febre alta e dor óssea pontual intensa ('one finger pain') na metáfise proximal da tíbia direita há 4 dias. A radiografia simples do membro encontra-se rigorosamente normal. Os exames laboratoriais revelam leucocitose de 18.000/mm³ e elevação substancial de PCR e VHS. Em relação à cronologia dos métodos de imagem, acompanhamento laboratorial de cura e etiologia específica da osteomielite em falcêmicos, qual conjunto de informações está correto?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A radiografia simples é normal nos primeiros 10 a 14 dias; a ressonância magnética é o exame precoce de escolha; a normalização do VHS é o critério laboratorial de cura; e deve-se cobrir Salmonella sp. e S. aureus."
+        },
+        {
+          "letter": "B",
+          "text": "A radiografia simples altera-se nas primeiras 12 horas com periostite exuberante; a tomografia é o exame de escolha no momento zero; e a cura é definida pela queda de ferritina."
+        },
+        {
+          "letter": "C",
+          "text": "O exame radiográfico normal afasta sumariamente osteomielite; a ultrassonografia é o padrão-ouro definitivo; e a bactéria exclusiva em falcêmicos é a Neisseria meningitidis."
+        },
+        {
+          "letter": "D",
+          "text": "A cintilografia é altamente específica e substitui a biópsia óssea; o PCR é o critério de cura tardia; e o microrganismo típico do falcêmico é a Pseudomonas aeruginosa adquirida por calçado de borracha."
+        }
+      ],
+      "answer": "A",
+      "rationale": "Conforme consolidado na aula de Profa. Paula: (1) Imagem: a radiografia simples é NORMAL na fase inicial (as alterações de periostite, lise óssea e sequestro surgem apenas após 10 a 14 dias). A ressonância magnética é o exame mais precoce, sensível e específico (exame de escolha). (2) Laboratório: a normalização do VHS é considerada o critério laboratorial de cura da osteomielite (o PCR sobe e cai mais rapidamente, servindo para monitorar a resposta terapêutica imediata). (3) Microbiologia especial: em pacientes com anemia falciforme, o agente bacteriano clássico associado é a Salmonella sp. (juntamente com o S. aureus); já a Pseudomonas aeruginosa destaca-se em ferimentos perfurantes do calcâneo através de solados de borracha.",
+      "distractors": [
+        "<strong>B está incorreta [Vetor 2 - Janela Biológica e Cronologia]:</strong> A radiografia simples demora de 10 a 14 dias para mostrar alterações na osteomielite; a ressonância magnética é o método precoce de escolha; e o VHS é o critério de cura. <em>(Ímã cognitivo: Precipitar alterações do raio-X simples para as primeiras horas e errar o marcador de cura.)</em>",
+        "<strong>C está incorreta [Vetor 1 - Micro-Inversão Conceitual]:</strong> RX normal nos primeiros dias não afasta infecção; RM é a escolha; e os agentes clássicos no falcêmico são Salmonella sp. e S. aureus. <em>(Ímã cognitivo: Usar radiografia inicial normal como critério de exclusão de osteomielite aguda.)</em>",
+        "<strong>D está incorreta [Vetor 4 - Mimetismo Clínico / Síndrome Vizinha]:</strong> A cintilografia é sensível mas pouco específica; a Pseudomonas associada a calçado de borracha ocorre em perfurações de calcâneo; no falcêmico, o agente clássico é Salmonella sp., e o VHS normalizado define a cura. <em>(Ímã cognitivo: Confundir o contexto de perfuração de calcâneo por calçado de borracha (Pseudomonas) com anemia falciforme (Salmonella).)</em>"
+      ],
+      "pearl": "Osteomielite: Radiografia simples normal nos primeiros 10-14 dias! RM é a escolha precoce. Normalização do VHS = critério de cura! Anemia falciforme = Salmonella sp. + S. aureus."
+    }
+  ]
+}

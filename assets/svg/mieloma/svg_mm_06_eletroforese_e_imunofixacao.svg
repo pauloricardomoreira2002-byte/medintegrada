@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 480" width="900" height="480">
+  <defs>
+    <linearGradient id="bgGrad6" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f8fafc"/>
+      <stop offset="100%" stop-color="#edf2f7"/>
+    </linearGradient>
+    <filter id="shadow6" x="-5%" y="-5%" width="110%" height="115%">
+      <feDropShadow dx="0" dy="4" stdDeviation="5" flood-color="#0f172a" flood-opacity="0.08"/>
+    </filter>
+  </defs>
+
+  <rect width="900" height="480" rx="16" fill="url(#bgGrad6)"/>
+  <rect x="1" y="1" width="898" height="478" rx="15" fill="none" stroke="#cbd5e1" stroke-width="1.5"/>
+
+  <!-- Cabeçalho -->
+  <rect width="900" height="60" rx="16" fill="#1e3a8a"/>
+  <rect y="44" width="900" height="16" fill="#2563eb"/>
+  <text x="30" y="38" font-family="Arial, sans-serif" font-size="19" font-weight="bold" fill="#ffffff">
+    ELETROFORESE DE PROTEÍNAS SÉRICAS E O PICO MONOCLONAL (COMPONENTE M)
+  </text>
+
+  <!-- Lado Esquerdo: Eletroforese Normal -->
+  <g transform="translate(30, 80)">
+    <rect width="405" height="305" rx="12" fill="#ffffff" stroke="#94a3b8" stroke-width="1.5" filter="url(#shadow6)"/>
+    <rect width="405" height="34" rx="12" fill="#0284c7"/>
+    <rect y="22" width="405" height="12" fill="#0284c7"/>
+    <text x="202" y="23" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#ffffff" text-anchor="middle">
+      1. ELETROFORESE NORMAL (POLICLONAL)
+    </text>
+
+    <!-- Curva Normal -->
+    <path d="M 30 200 Q 55 50 80 200 Q 110 180 135 200 Q 165 160 195 200 Q 225 170 255 200 Q 315 150 375 200" 
+          fill="none" stroke="#0284c7" stroke-width="3"/>
+    <line x1="30" y1="200" x2="375" y2="200" stroke="#94a3b8" stroke-width="1.5"/>
+
+    <!-- Rótulos dos Picos -->
+    <text x="80" y="45" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#0369a1" text-anchor="middle">Albumina</text>
+    <text x="80" y="218" font-family="Arial, sans-serif" font-size="10" fill="#64748b" text-anchor="middle">(3,5-5,5)</text>
+
+    <text x="135" y="170" font-family="Arial, sans-serif" font-size="10" fill="#475569" text-anchor="middle">α1</text>
+    <text x="195" y="150" font-family="Arial, sans-serif" font-size="10" fill="#475569" text-anchor="middle">α2</text>
+    <text x="255" y="160" font-family="Arial, sans-serif" font-size="10" fill="#475569" text-anchor="middle">β</text>
+
+    <text x="315" y="135" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#0369a1" text-anchor="middle">Gama (γ)</text>
+    <text x="315" y="218" font-family="Arial, sans-serif" font-size="10" fill="#64748b" text-anchor="middle">Base Larga (0,8-1,6)</text>
+
+    <rect x="20" y="235" width="365" height="58" rx="6" fill="#f0f9ff" stroke="#bae6fd"/>
+    <text x="35" y="255" font-family="Arial, sans-serif" font-size="10.5" font-weight="bold" fill="#0369a1">Interpretação Fisiológica:</text>
+    <text x="35" y="272" font-family="Arial, sans-serif" font-size="10" fill="#0c4a6e">Fração gama suave e difusa = múltiplos clones de linfócitos B</text>
+    <text x="35" y="286" font-family="Arial, sans-serif" font-size="10" fill="#0c4a6e">produzindo diversas classes de anticorpos para defesa.</text>
+  </g>
+
+  <!-- Lado Direito: Pico Monoclonal (Mieloma Múltiplo) -->
+  <g transform="translate(465, 80)">
+    <rect width="405" height="305" rx="12" fill="#ffffff" stroke="#ef4444" stroke-width="1.5" filter="url(#shadow6)"/>
+    <rect width="405" height="34" rx="12" fill="#dc2626"/>
+    <rect y="22" width="405" height="12" fill="#dc2626"/>
+    <text x="202" y="23" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#ffffff" text-anchor="middle">
+      2. PICO MONOCLONAL ("SPIKE" EM GAMA OU BETA)
+    </text>
+
+    <!-- Curva Patológica -->
+    <path d="M 30 200 Q 55 90 80 200 Q 110 185 135 200 Q 165 170 195 200 Q 225 180 255 200 Q 305 20 315 20 Q 325 20 335 200 Q 355 195 375 200" 
+          fill="none" stroke="#dc2626" stroke-width="3"/>
+    <line x1="30" y1="200" x2="375" y2="200" stroke="#94a3b8" stroke-width="1.5"/>
+
+    <!-- Rótulos -->
+    <text x="80" y="85" font-family="Arial, sans-serif" font-size="10.5" fill="#64748b" text-anchor="middle">Albumina ↓</text>
+    <text x="315" y="15" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#b91c1c" text-anchor="middle">PICO M ("SPIKE")</text>
+    <text x="315" y="218" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#dc2626" text-anchor="middle">Base Estreita e Alta!</text>
+
+    <rect x="20" y="235" width="365" height="58" rx="6" fill="#fef2f2" stroke="#fca5a5"/>
+    <text x="35" y="253" font-family="Arial, sans-serif" font-size="10.5" font-weight="bold" fill="#b91c1c">Imunoparesia Concomitante:</text>
+    <text x="35" y="270" font-family="Arial, sans-serif" font-size="10" fill="#7f1d1d">O restante da banda gama cai para perto de zero (imunoparesia).</text>
+    <text x="35" y="285" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#991b1b">➔ O paciente perde a defesa polivalente (risco de infecção!).</text>
+  </g>
+
+  <!-- Rodapé sobre Imunofixação -->
+  <rect x="30" y="398" width="840" height="70" rx="10" fill="#1e293b"/>
+  <text x="45" y="420" font-family="Arial, sans-serif" font-size="11.5" font-weight="bold" fill="#38bdf8">PAPEL MANDATÓRIO DA IMUNOFIXAÇÃO SÉRICA E URINÁRIA:</text>
+  <text x="45" y="438" font-family="Arial, sans-serif" font-size="10.5" fill="#f1f5f9">
+    A eletroforese apenas detecta a presença do pico (sensibilidade ~82%). A <tspan font-weight="bold" fill="#facc15">IMUNOFIXAÇÃO</tspan> (sensibilidade &gt;92%) usa antissoros específicos para definir a CLASSE exata da cadeia pesada (IgG 55%, IgA 20%, IgD 2%) e da cadeia leve monoclonal (Kappa ou Lambda).
+  </text>
+</svg>

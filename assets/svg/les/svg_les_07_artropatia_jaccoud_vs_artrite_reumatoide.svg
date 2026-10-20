@@ -1,0 +1,124 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 480" width="900" height="480">
+
+  <defs>
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f8fafc"/>
+      <stop offset="100%" stop-color="#f1f5f9"/>
+    </linearGradient>
+    <linearGradient id="headerGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#1e3a8a"/>
+      <stop offset="100%" stop-color="#1e40af"/>
+    </linearGradient>
+    <linearGradient id="greenGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#ecfdf5"/>
+      <stop offset="100%" stop-color="#d1fae5"/>
+    </linearGradient>
+    <linearGradient id="redGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#fef2f2"/>
+      <stop offset="100%" stop-color="#fee2e2"/>
+    </linearGradient>
+    <linearGradient id="amberGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#fffbeb"/>
+      <stop offset="100%" stop-color="#fef3c7"/>
+    </linearGradient>
+    <linearGradient id="blueGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#eff6ff"/>
+      <stop offset="100%" stop-color="#dbeafe"/>
+    </linearGradient>
+    <linearGradient id="purpleGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#faf5ff"/>
+      <stop offset="100%" stop-color="#f3e8ff"/>
+    </linearGradient>
+    <filter id="dropShadow" x="-5%" y="-5%" width="110%" height="110%">
+      <feDropShadow dx="2" dy="4" stdDeviation="4" flood-color="#475569" flood-opacity="0.12"/>
+    </filter>
+  </defs>
+
+  <rect width="900" height="480" rx="16" fill="url(#bgGrad)" stroke="#cbd5e1" stroke-width="2"/>
+  
+  <rect x="25" y="20" width="850" height="58" rx="10" fill="url(#headerGrad)" filter="url(#dropShadow)"/>
+  <text x="450" y="47" font-family="'Segoe UI', Roboto, sans-serif" font-size="20" font-weight="bold" fill="#ffffff" text-anchor="middle">
+    ACOMETIMENTO ARTICULAR: JACCOUD vs. ARTRITE REUMATOIDE
+  </text>
+  <text x="450" y="67" font-family="'Segoe UI', Roboto, sans-serif" font-size="12" fill="#bfdbfe" text-anchor="middle">
+    A diferença anatomopatológica crucial entre deformidade redutível não-erosiva e dano osteocartilaginoso destrutivo
+  </text>
+
+  <!-- Lado Esquerdo: Artropatia de Jaccoud no LES -->
+  <g transform="translate(35, 95)" filter="url(#dropShadow)">
+    <rect width="400" height="360" rx="12" fill="url(#blueGrad)" stroke="#2563eb" stroke-width="2"/>
+    <rect x="0" y="0" width="400" height="42" rx="12" fill="#1d4ed8"/>
+    <text x="200" y="27" font-family="'Segoe UI', Roboto, sans-serif" font-size="14" font-weight="bold" fill="#ffffff" text-anchor="middle">
+      ARTROPATIA DE JACCOUD (Típica do LES)
+    </text>
+
+    <rect x="18" y="55" width="364" height="80" rx="8" fill="#ffffff" stroke="#93c5fd" stroke-width="1.5"/>
+    <circle cx="45" cy="95" r="14" fill="#2563eb"/>
+    <text x="45" y="100" font-family="'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="bold" fill="#ffffff" text-anchor="middle">✓</text>
+    <text x="70" y="78" font-family="'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="bold" fill="#1e3a8a">Mecanismo: Frouxidão Tendínea</text>
+    <text x="70" y="96" font-family="'Segoe UI', Roboto, sans-serif" font-size="11" fill="#334155">• Fibrose e encurtamento periarticular/cápsula</text>
+    <text x="70" y="112" font-family="'Segoe UI', Roboto, sans-serif" font-size="11" fill="#334155">• Desalinhamento tendíneo SEM sinovite destrutiva</text>
+    <text x="70" y="128" font-family="'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#2563eb">• O osso e a cartilagem estão PRESERVADOS!</text>
+
+    <!-- Card Deformidades -->
+    <rect x="18" y="145" width="364" height="95" rx="8" fill="#ffffff" stroke="#93c5fd" stroke-width="1.5"/>
+    <text x="30" y="167" font-family="'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="bold" fill="#1e3a8a">Deformidades Clínicas (Simulam a AR):</text>
+    <text x="30" y="187" font-family="'Segoe UI', Roboto, sans-serif" font-size="11" fill="#1e293b">• Desvio ulnar redutível das metacarpofalângicas</text>
+    <text x="30" y="205" font-family="'Segoe UI', Roboto, sans-serif" font-size="11" fill="#1e293b">• Deformidade em "pescoço de cisne" e "botoeira"</text>
+    <text x="30" y="223" font-family="'Segoe UI', Roboto, sans-serif" font-size="11" fill="#1e293b">• "Polegar em Z" (hiperextensão interfalângica)</text>
+
+    <!-- Cartão Dourado de Prova -->
+    <rect x="18" y="250" width="364" height="95" rx="8" fill="#ecfdf5" stroke="#10b981" stroke-width="2"/>
+    <text x="200" y="275" font-family="'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="bold" fill="#065f46" text-anchor="middle">
+      ★ A PEGADINHA CLÁSSICA DE PROVA:
+    </text>
+    <text x="200" y="295" font-family="'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="bold" fill="#047857" text-anchor="middle">
+      DEFORMIDADE 100% REDUTÍVEL MANUALMENTE!
+    </text>
+    <text x="200" y="315" font-family="'Segoe UI', Roboto, sans-serif" font-size="11" fill="#065f46" text-anchor="middle">
+      Ao apoiar a mão sobre a mesa, os dedos voltam ao alinhamento normal.
+    </text>
+    <text x="200" y="332" font-family="'Segoe UI', Roboto, sans-serif" font-size="10.5" font-weight="bold" fill="#059669" text-anchor="middle">
+      Raio-X: Articulações íntegras, SEM EROSÃO MARGINAL!
+    </text>
+  </g>
+
+  <!-- Lado Direito: Artrite Reumatoide -->
+  <g transform="translate(465, 95)" filter="url(#dropShadow)">
+    <rect width="400" height="360" rx="12" fill="url(#redGrad)" stroke="#ef4444" stroke-width="2"/>
+    <rect x="0" y="0" width="400" height="42" rx="12" fill="#dc2626"/>
+    <text x="200" y="27" font-family="'Segoe UI', Roboto, sans-serif" font-size="14" font-weight="bold" fill="#ffffff" text-anchor="middle">
+      ARTRITE REUMATOIDE (Sinovite Erosiva)
+    </text>
+
+    <rect x="18" y="55" width="364" height="80" rx="8" fill="#ffffff" stroke="#fca5a5" stroke-width="1.5"/>
+    <circle cx="45" cy="95" r="14" fill="#dc2626"/>
+    <text x="45" y="100" font-family="'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="bold" fill="#ffffff" text-anchor="middle">✕</text>
+    <text x="70" y="78" font-family="'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="bold" fill="#991b1b">Mecanismo: Formação do Pannus</text>
+    <text x="70" y="96" font-family="'Segoe UI', Roboto, sans-serif" font-size="11" fill="#334155">• Proliferação celular agressiva e invasiva</text>
+    <text x="70" y="112" font-family="'Segoe UI', Roboto, sans-serif" font-size="11" fill="#334155">• Liberação maciça de Metaloproteinases (MMP)</text>
+    <text x="70" y="128" font-family="'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#b91c1c">• Destruição direta da cartilagem e osso subcondral</text>
+
+    <!-- Card Deformidades -->
+    <rect x="18" y="145" width="364" height="95" rx="8" fill="#ffffff" stroke="#fca5a5" stroke-width="1.5"/>
+    <text x="30" y="167" font-family="'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="bold" fill="#991b1b">Deformidades Clínicas da AR:</text>
+    <text x="30" y="187" font-family="'Segoe UI', Roboto, sans-serif" font-size="11" fill="#1e293b">• Desvio ulnar <tspan font-weight="bold" fill="#dc2626">FIXO E IRREDUTÍVEL</tspan></text>
+    <text x="30" y="205" font-family="'Segoe UI', Roboto, sans-serif" font-size="11" fill="#1e293b">• Subluxação e anquilose óssea definitiva</text>
+    <text x="30" y="223" font-family="'Segoe UI', Roboto, sans-serif" font-size="11" fill="#1e293b">• Perda permanente da mobilidade funcional</text>
+
+    <!-- Desfecho Radiográfico -->
+    <rect x="18" y="250" width="364" height="95" rx="8" fill="#fef2f2" stroke="#ef4444" stroke-width="2"/>
+    <text x="200" y="275" font-family="'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="bold" fill="#991b1b" text-anchor="middle">
+      DESFECHO NA ARTRITE REUMATOIDE:
+    </text>
+    <text x="200" y="295" font-family="'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="bold" fill="#b91c1c" text-anchor="middle">
+      DEFORMIDADE FIXA + EROSÃO MARGINAL GRAVE
+    </text>
+    <text x="200" y="315" font-family="'Segoe UI', Roboto, sans-serif" font-size="11" fill="#7f1d1d" text-anchor="middle">
+      Não reduz à manipulação passiva. Danos articulares irreversíveis.
+    </text>
+    <text x="200" y="332" font-family="'Segoe UI', Roboto, sans-serif" font-size="10.5" font-weight="bold" fill="#991b1b" text-anchor="middle">
+      Raio-X: Erosão óssea justa-articular e pinçamento do espaço articular.
+    </text>
+  </g>
+</svg>

@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 480" width="900" height="480">
+  <defs>
+    <linearGradient id="bgGrad12" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f8fafc"/>
+      <stop offset="100%" stop-color="#edf2f7"/>
+    </linearGradient>
+    <filter id="shadow12" x="-5%" y="-5%" width="110%" height="115%">
+      <feDropShadow dx="0" dy="4" stdDeviation="5" flood-color="#0f172a" flood-opacity="0.08"/>
+    </filter>
+  </defs>
+
+  <rect width="900" height="480" rx="16" fill="url(#bgGrad12)"/>
+  <rect x="1" y="1" width="898" height="478" rx="15" fill="none" stroke="#cbd5e1" stroke-width="1.5"/>
+
+  <!-- Cabeçalho -->
+  <rect width="900" height="60" rx="16" fill="#1e3a8a"/>
+  <rect y="44" width="900" height="16" fill="#059669"/>
+  <text x="30" y="38" font-family="Arial, sans-serif" font-size="19" font-weight="bold" fill="#ffffff">
+    FLUXOGRAMA TERAPÊUTICO MODERNO: ELEGIBILIDADE AO TRANSPLANTE
+  </text>
+
+  <!-- Bifurcação Central: Elegível vs. Não Elegível -->
+  <!-- Elegível ao TCTH Autólogo -->
+  <g transform="translate(30, 80)">
+    <rect width="405" height="310" rx="12" fill="#ffffff" stroke="#059669" stroke-width="2" filter="url(#shadow12)"/>
+    <rect width="405" height="36" rx="12" fill="#059669"/>
+    <rect y="24" width="405" height="12" fill="#059669"/>
+    <text x="202" y="24" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#ffffff" text-anchor="middle">
+      PACIENTE ELEGÍVEL AO TRANSPLANTE AUTÓLOGO (TCTH)
+    </text>
+
+    <text x="20" y="58" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#065f46">Critérios: Geralmente idade &lt; 65-70 anos e bom status (KPS/ECOG)</text>
+
+    <!-- Etapas do Tratamento -->
+    <rect x="20" y="70" width="365" height="60" rx="6" fill="#ecfdf5" stroke="#a7f3d0"/>
+    <text x="30" y="88" font-family="Arial, sans-serif" font-size="10.5" font-weight="bold" fill="#065f46">1. Indução Tripla ou Quádrupla (3-4 ciclos):</text>
+    <text x="30" y="104" font-family="Arial, sans-serif" font-size="10" fill="#047857">• Inibidor de Proteassoma (Bortezomibe - Velcade)</text>
+    <text x="30" y="118" font-family="Arial, sans-serif" font-size="10" fill="#047857">• Imunomodulador (Lenalidomida) + Dexametasona ± Anti-CD38</text>
+
+    <rect x="20" y="138" width="365" height="60" rx="6" fill="#ecfdf5" stroke="#a7f3d0"/>
+    <text x="30" y="156" font-family="Arial, sans-serif" font-size="10.5" font-weight="bold" fill="#065f46">2. Coleta de Células-Tronco + Condicionamento:</text>
+    <text x="30" y="172" font-family="Arial, sans-serif" font-size="10" fill="#047857">• Mobilização com G-CSF e coleta por aférese.</text>
+    <text x="30" y="186" font-family="Arial, sans-serif" font-size="10" fill="#047857">• Quimioterapia em altas doses com <tspan font-weight="bold">Melfalano 200 mg/m²</tspan>.</text>
+
+    <rect x="20" y="206" width="365" height="70" rx="6" fill="#ecfdf5" stroke="#a7f3d0"/>
+    <text x="30" y="224" font-family="Arial, sans-serif" font-size="10.5" font-weight="bold" fill="#065f46">3. Resgate Autólogo + Terapia de Manutenção:</text>
+    <text x="30" y="240" font-family="Arial, sans-serif" font-size="10" fill="#047857">• Infusão das células progenitoras autólogas ("pega" da medula).</text>
+    <text x="30" y="256" font-family="Arial, sans-serif" font-size="10" fill="#047857">• <tspan font-weight="bold">Manutenção contínua com Lenalidomida</tspan> até progressão.</text>
+    <text x="30" y="270" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#059669">➔ Sobrevida livre de progressão prolongada!</text>
+  </g>
+
+  <!-- Não Elegível ao TCTH -->
+  <g transform="translate(465, 80)">
+    <rect width="405" height="310" rx="12" fill="#ffffff" stroke="#3b82f6" stroke-width="2" filter="url(#shadow12)"/>
+    <rect width="405" height="36" rx="12" fill="#2563eb"/>
+    <rect y="24" width="405" height="12" fill="#2563eb"/>
+    <text x="202" y="24" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#ffffff" text-anchor="middle">
+      PACIENTE NÃO ELEGÍVEL AO TRANSPLANTE
+    </text>
+
+    <text x="20" y="58" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#1e40af">Perfil: Idade &gt; 70-75 anos, fragilidade ou insuficiência de órgãos</text>
+
+    <rect x="20" y="70" width="365" height="70" rx="6" fill="#eff6ff" stroke="#bfdbfe"/>
+    <text x="30" y="90" font-family="Arial, sans-serif" font-size="10.5" font-weight="bold" fill="#1d4ed8">1. Regimes Contínuos de Alta Eficácia:</text>
+    <text x="30" y="108" font-family="Arial, sans-serif" font-size="10" fill="#1e3a8a">• <tspan font-weight="bold">Daratumumabe + Lenalidomida + Dexametasona (Dara-Rd)</tspan></text>
+    <text x="30" y="124" font-family="Arial, sans-serif" font-size="10" fill="#1e3a8a">• Ou VRd atenuado (Bortezomibe + Lenalidomida + Dexa).</text>
+
+    <rect x="20" y="148" width="365" height="128" rx="6" fill="#eff6ff" stroke="#bfdbfe"/>
+    <text x="30" y="168" font-family="Arial, sans-serif" font-size="10.5" font-weight="bold" fill="#1d4ed8">2. Terapia de Suporte Fundamental (Para Todos):</text>
+    <text x="30" y="186" font-family="Arial, sans-serif" font-size="10" fill="#334155">• <tspan font-weight="bold">Antirreabsortivos ósseos:</tspan> Ácido Zoledrônico ou Denosumabe.</text>
+    <text x="30" y="202" font-family="Arial, sans-serif" font-size="10" fill="#334155">• <tspan font-weight="bold">Profilaxia de Herpes Zóster:</tspan> Aciclovir (com inibidores proteassoma).</text>
+    <text x="30" y="218" font-family="Arial, sans-serif" font-size="10" fill="#334155">• <tspan font-weight="bold">Profilaxia Antitrombótica:</tspan> AAS ou HBPM (com imunomoduladores).</text>
+    <text x="30" y="234" font-family="Arial, sans-serif" font-size="10" fill="#334155">• <tspan font-weight="bold">Vacinação:</tspan> Pneumococo, influenza e Covid-19 (nunca vírus vivo!).</text>
+    <text x="30" y="250" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#2563eb">➔ Sobrevida global ultrapassando 7 a 10 anos!</text>
+  </g>
+
+  <!-- Rodapé -->
+  <rect x="30" y="405" width="840" height="58" rx="10" fill="#1e293b"/>
+  <text x="45" y="428" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#facc15">REGRA DE OURO NO MANEJO INICIAL DO CANDIDATO AO TCTH:</text>
+  <text x="45" y="446" font-family="Arial, sans-serif" font-size="11" fill="#e2e8f0">
+    NUNCA prescrever Melfalano oral antes da coleta de células-tronco! O Melfalano lesa irreversivelmente a célula-tronco hematopoética, inviabilizando o transplante futuro.
+  </text>
+</svg>

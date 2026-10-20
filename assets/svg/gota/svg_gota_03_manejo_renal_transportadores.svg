@@ -1,0 +1,103 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 480" width="900" height="480">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f8fafc"/>
+      <stop offset="100%" stop-color="#edf2f7"/>
+    </linearGradient>
+    <filter id="dropShadow" x="-5%" y="-5%" width="110%" height="115%" filterUnits="userSpaceOnUse">
+      <feDropShadow dx="0" dy="4" stdDeviation="6" flood-color="#0f172a" flood-opacity="0.08"/>
+    </filter>
+    <linearGradient id="headerGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#1e3a8a"/>
+      <stop offset="100%" stop-color="#2563eb"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="900" height="480" rx="16" fill="url(#bgGrad)"/>
+  <rect x="1" y="1" width="898" height="478" rx="15" fill="none" stroke="#cbd5e1" stroke-width="1.5"/>
+
+  <!-- Cabeçalho -->
+  <rect x="0" y="0" width="900" height="60" rx="16" fill="url(#headerGrad)"/>
+  <rect x="0" y="44" width="900" height="16" fill="#2563eb"/>
+  <text x="30" y="38" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#ffffff">
+    MANEJO RENAL &amp; INTESTINAL DO URATO: A DINÂMICA DO TÚBULO PROXIMAL
+  </text>
+
+  <!-- Painel Esquerdo: Divisão de Excreção Sistêmica -->
+  <g transform="translate(30, 80)">
+    <rect width="250" height="375" rx="12" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.5" filter="url(#dropShadow)"/>
+    <rect width="250" height="38" rx="12" fill="#1e3a8a"/>
+    <rect y="26" width="250" height="12" fill="#1e3a8a"/>
+    <text x="125" y="25" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#ffffff" text-anchor="middle">
+      DISTRIBUIÇÃO DA EXCREÇÃO
+    </text>
+
+    <!-- Excreção Renal -->
+    <rect x="16" y="55" width="218" height="95" rx="8" fill="#eff6ff" stroke="#3b82f6" stroke-width="1.2"/>
+    <circle cx="45" cy="102" r="22" fill="#2563eb"/>
+    <text x="45" y="108" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#ffffff" text-anchor="middle">65%</text>
+    <text x="78" y="85" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1e3a8a">Excreção Renal</text>
+    <text x="78" y="103" font-family="Arial, sans-serif" font-size="10" fill="#3b82f6">• Principal via reguladora</text>
+    <text x="78" y="119" font-family="Arial, sans-serif" font-size="10" fill="#3b82f6">• Manejo tubular dinâmico</text>
+    <text x="78" y="135" font-family="Arial, sans-serif" font-size="10" fill="#1e40af">Uricosúria: 240-750 mg/24h</text>
+
+    <!-- Excreção Intestinal -->
+    <rect x="16" y="162" width="218" height="95" rx="8" fill="#fffbeb" stroke="#f59e0b" stroke-width="1.2"/>
+    <circle cx="45" cy="209" r="22" fill="#d97706"/>
+    <text x="45" y="215" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#ffffff" text-anchor="middle">35%</text>
+    <text x="78" y="192" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#92400e">Excreção Intestinal</text>
+    <text x="78" y="210" font-family="Arial, sans-serif" font-size="10" fill="#b45309">• Secreção via ABCG2</text>
+    <text x="78" y="226" font-family="Arial, sans-serif" font-size="10" fill="#b45309">• Degradação bacteriana</text>
+    <text x="78" y="242" font-family="Arial, sans-serif" font-size="10" fill="#78350f">(uricolise por microbioma)</text>
+
+    <!-- Destaque Reabsorção -->
+    <rect x="16" y="270" width="218" height="88" rx="8" fill="#fef2f2" stroke="#dc2626" stroke-width="1.5"/>
+    <text x="125" y="292" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#991b1b" text-anchor="middle">PARADOXO RENAL</text>
+    <text x="125" y="312" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#dc2626" text-anchor="middle">~90% REABSORVIDO!</text>
+    <text x="125" y="332" font-family="Arial, sans-serif" font-size="10" fill="#7f1d1d" text-anchor="middle">Quase todo o urato filtrado</text>
+    <text x="125" y="346" font-family="Arial, sans-serif" font-size="10" fill="#7f1d1d" text-anchor="middle">retorna para o sangue no TCP.</text>
+  </g>
+
+  <!-- Painel Direito: O Néfron e os 4 Passos do Túbulo Proximal -->
+  <g transform="translate(300, 80)">
+    <rect width="570" height="375" rx="12" fill="#ffffff" stroke="#2563eb" stroke-width="1.5" filter="url(#dropShadow)"/>
+    <rect width="570" height="38" rx="12" fill="#2563eb"/>
+    <rect y="26" width="570" height="12" fill="#2563eb"/>
+    <text x="285" y="25" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#ffffff" text-anchor="middle">
+      ARQUITETURA TUBULAR PROXIMAL &amp; TRANSPORTADORES ESPECÍFICOS
+    </text>
+
+    <!-- Passo 1: Filtração Glomerular -->
+    <rect x="20" y="52" width="530" height="64" rx="8" fill="#f8fafc" stroke="#94a3b8" stroke-width="1.2"/>
+    <circle cx="50" cy="84" r="18" fill="#3b82f6"/>
+    <text x="50" y="89" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#ffffff" text-anchor="middle">1</text>
+    <text x="80" y="74" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1e293b">Filtração Glomerular (100% Livre)</text>
+    <text x="80" y="92" font-family="Arial, sans-serif" font-size="10.5" fill="#475569">O ácido úrico é um soluto pequeno não ligado a proteínas plasmáticas, sendo</text>
+    <text x="80" y="106" font-family="Arial, sans-serif" font-size="10.5" fill="#475569">completamente filtrado pelo glomérulo renal para o espaço de Bowman.</text>
+
+    <!-- Passo 2: Reabsorção Tubular Proximal via URAT1 / GLUT9 -->
+    <rect x="20" y="126" width="530" height="82" rx="8" fill="#eff6ff" stroke="#3b82f6" stroke-width="1.5"/>
+    <circle cx="50" cy="167" r="18" fill="#2563eb"/>
+    <text x="50" y="172" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#ffffff" text-anchor="middle">2</text>
+    <text x="80" y="148" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1e3a8a">Reabsorção Maciça no Túbulo Proximal (S1/S2) ~90%</text>
+    <text x="80" y="166" font-family="Arial, sans-serif" font-size="10.5" fill="#1e40af">• Membrana Apical (Lúmen ➔ Célula): Transportador <tspan font-weight="bold">URAT1 (SLC22A12)</tspan>.</text>
+    <text x="80" y="182" font-family="Arial, sans-serif" font-size="10.5" fill="#1e40af">• Membrana Basolateral (Célula ➔ Sangue): Transportador <tspan font-weight="bold">GLUT9 (SLC2A9)</tspan>.</text>
+    <text x="80" y="198" font-family="Arial, sans-serif" font-size="10.5" font-weight="bold" fill="#059669">➔ Alvo da Benzbromarona, Probenecide e LOSARTANA (bloqueiam URAT1)!</text>
+
+    <!-- Passo 3: Secreção Tubular -->
+    <rect x="20" y="218" width="530" height="70" rx="8" fill="#fffbeb" stroke="#f59e0b" stroke-width="1.2"/>
+    <circle cx="50" cy="253" r="18" fill="#d97706"/>
+    <text x="50" y="258" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#ffffff" text-anchor="middle">3</text>
+    <text x="80" y="238" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#92400e">Secreção Tubular (S2) via OAT1/OAT3 e ABCG2</text>
+    <text x="80" y="256" font-family="Arial, sans-serif" font-size="10.5" fill="#b45309">Uma fração é secretada do sangue para o lúmen urinário por carreadores de ânions.</text>
+    <text x="80" y="272" font-family="Arial, sans-serif" font-size="10.5" font-weight="bold" fill="#b91c1c">⚠️ Diuréticos (HCTZ e Furosemida) competem aqui, reduzindo a excreção!</text>
+
+    <!-- Passo 4: Pós-Reabsorção e Excreção Final -->
+    <rect x="20" y="298" width="530" height="62" rx="8" fill="#f8fafc" stroke="#94a3b8" stroke-width="1.2"/>
+    <circle cx="50" cy="329" r="18" fill="#64748b"/>
+    <text x="50" y="334" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#ffffff" text-anchor="middle">4</text>
+    <text x="80" y="318" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1e293b">Pós-Reabsorção e Excreção Urinária Final (~10%)</text>
+    <text x="80" y="336" font-family="Arial, sans-serif" font-size="10.5" fill="#475569">A uricosúria final de 24 horas representa apenas 8% a 10% da carga filtrada inicial.</text>
+    <text x="80" y="350" font-family="Arial, sans-serif" font-size="10.5" fill="#475569">Qualquer alteração na avidez de reabsorção desencadeia hiperuricemia clínica.</text>
+  </g>
+</svg>

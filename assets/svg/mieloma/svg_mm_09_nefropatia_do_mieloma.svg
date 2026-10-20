@@ -1,0 +1,115 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 480" width="900" height="480">
+  <defs>
+    <linearGradient id="bgGrad9" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f8fafc"/>
+      <stop offset="100%" stop-color="#edf2f7"/>
+    </linearGradient>
+    <filter id="shadow9" x="-5%" y="-5%" width="110%" height="115%">
+      <feDropShadow dx="0" dy="4" stdDeviation="5" flood-color="#0f172a" flood-opacity="0.08"/>
+    </filter>
+  </defs>
+
+  <rect width="900" height="480" rx="16" fill="url(#bgGrad9)"/>
+  <rect x="1" y="1" width="898" height="478" rx="15" fill="none" stroke="#cbd5e1" stroke-width="1.5"/>
+
+  <!-- Cabeçalho -->
+  <rect width="900" height="60" rx="16" fill="#1e3a8a"/>
+  <rect y="44" width="900" height="16" fill="#dc2626"/>
+  <text x="30" y="38" font-family="Arial, sans-serif" font-size="19" font-weight="bold" fill="#ffffff">
+    O "RIM DO MIELOMA": NEFROPATIA POR CILINDROS DE CADEIAS LEVES
+  </text>
+
+  <!-- 3 Etapas Tubulares da Doença Renal -->
+  <!-- Etapa 1: Glomérulo e Túbulo Proximal -->
+  <g transform="translate(30, 80)">
+    <rect width="265" height="310" rx="12" fill="#ffffff" stroke="#3b82f6" stroke-width="1.5" filter="url(#shadow9)"/>
+    <rect width="265" height="36" rx="12" fill="#3b82f6"/>
+    <rect y="24" width="265" height="12" fill="#3b82f6"/>
+    <text x="132" y="24" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#ffffff" text-anchor="middle">
+      1. TÚBULO PROXIMAL
+    </text>
+
+    <text x="15" y="60" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#1d4ed8">Filtração e Sobrecarga:</text>
+    <text x="15" y="80" font-family="Arial, sans-serif" font-size="10.5" fill="#334155">• Cadeias leves livres (κ/λ) passam</text>
+    <text x="15" y="96" font-family="Arial, sans-serif" font-size="10.5" fill="#334155">  livremente pelo glomérulo.</text>
+    <text x="15" y="116" font-family="Arial, sans-serif" font-size="10.5" fill="#334155">• No túbulo proximal, são captadas</text>
+    <text x="15" y="132" font-family="Arial, sans-serif" font-size="10.5" fill="#334155">  via receptores <tspan font-weight="bold">megalina/cubilina</tspan>.</text>
+
+    <rect x="15" y="150" width="235" height="140" rx="8" fill="#eff6ff" stroke="#bfdbfe"/>
+    <text x="25" y="172" font-family="Arial, sans-serif" font-size="10.5" font-weight="bold" fill="#1e40af">Toxicidade Tubular Direta:</text>
+    <text x="25" y="192" font-family="Arial, sans-serif" font-size="10" fill="#334155">• Sobrecarga dos lisossomos celulares.</text>
+    <text x="25" y="210" font-family="Arial, sans-serif" font-size="10" fill="#334155">• Estresse oxidativo e apoptose epitelial.</text>
+    <text x="25" y="228" font-family="Arial, sans-serif" font-size="10" fill="#334155">• Pode causar disfunção tubular:</text>
+    <text x="25" y="248" font-family="Arial, sans-serif" font-size="10.5" font-weight="bold" fill="#2563eb">Síndrome de Fanconi do Adulto</text>
+    <text x="25" y="266" font-family="Arial, sans-serif" font-size="9.5" fill="#475569">(glicosúria, fosfatúria, acidose tipo II).</text>
+  </g>
+
+  <!-- Seta 1 para 2 -->
+  <g transform="translate(300, 220)">
+    <path d="M 0 0 L 20 0" stroke="#dc2626" stroke-width="3"/>
+    <polygon points="18,-5 28,0 18,5" fill="#dc2626"/>
+  </g>
+
+  <!-- Etapa 2: Túbulo Distal / Coletor (Precipitação) -->
+  <g transform="translate(330, 80)">
+    <rect width="265" height="310" rx="12" fill="#ffffff" stroke="#ef4444" stroke-width="1.5" filter="url(#shadow9)"/>
+    <rect width="265" height="36" rx="12" fill="#dc2626"/>
+    <rect y="24" width="265" height="12" fill="#dc2626"/>
+    <text x="132" y="24" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#ffffff" text-anchor="middle">
+      2. TÚBULO DISTAL &amp; COLETOR
+    </text>
+
+    <text x="15" y="60" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#991b1b">Gênese do Cilindro Eosinofílico:</text>
+    <text x="15" y="80" font-family="Arial, sans-serif" font-size="10.5" fill="#334155">• O excesso de cadeias leves escapa ao</text>
+    <text x="15" y="96" font-family="Arial, sans-serif" font-size="10.5" fill="#334155">  túbulo distal e liga-se à</text>
+    <text x="15" y="114" font-family="Arial, sans-serif" font-size="10.5" font-weight="bold" fill="#dc2626">Proteína de Tamm-Horsfall (uromodulina).</text>
+
+    <rect x="15" y="130" width="235" height="160" rx="8" fill="#fef2f2" stroke="#fca5a5"/>
+    <text x="25" y="152" font-family="Arial, sans-serif" font-size="10.5" font-weight="bold" fill="#b91c1c">Precipitação e Obstrução Intratubular:</text>
+    <text x="25" y="172" font-family="Arial, sans-serif" font-size="10" fill="#7f1d1d">• Formam-se cilindros gigantes duros e</text>
+    <text x="25" y="188" font-family="Arial, sans-serif" font-size="10" fill="#7f1d1d">  fraturados ("Cast Nephropathy").</text>
+    <text x="25" y="206" font-family="Arial, sans-serif" font-size="10" fill="#7f1d1d">• Reação inflamatória com células</text>
+    <text x="25" y="222" font-family="Arial, sans-serif" font-size="10" fill="#7f1d1d">  gigantes multinucleadas em volta.</text>
+    <text x="25" y="242" font-family="Arial, sans-serif" font-size="10.5" font-weight="bold" fill="#dc2626">Fatores que agravam precipitação:</text>
+    <text x="25" y="260" font-family="Arial, sans-serif" font-size="10" fill="#991b1b">Desidratação, AINEs, contraste iodado!</text>
+  </g>
+
+  <!-- Seta 2 para 3 -->
+  <g transform="translate(600, 220)">
+    <path d="M 0 0 L 20 0" stroke="#dc2626" stroke-width="3"/>
+    <polygon points="18,-5 28,0 18,5" fill="#dc2626"/>
+  </g>
+
+  <!-- Etapa 3: Outras Agressões Renais no Mieloma -->
+  <g transform="translate(630, 80)">
+    <rect width="240" height="310" rx="12" fill="#ffffff" stroke="#f59e0b" stroke-width="1.5" filter="url(#shadow9)"/>
+    <rect width="240" height="36" rx="12" fill="#d97706"/>
+    <rect y="24" width="240" height="12" fill="#d97706"/>
+    <text x="120" y="24" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#ffffff" text-anchor="middle">
+      3. OUTROS MECANISMOS
+    </text>
+
+    <text x="15" y="60" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#b45309">Danos Concomitantes:</text>
+
+    <rect x="15" y="75" width="210" height="65" rx="6" fill="#fffbeb" stroke="#fde68a"/>
+    <text x="25" y="95" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#92400e">• Nefrocalcinose:</text>
+    <text x="25" y="112" font-family="Arial, sans-serif" font-size="9.5" fill="#78350f">Hipercalcemia causa vasoconstrição</text>
+    <text x="25" y="126" font-family="Arial, sans-serif" font-size="9.5" fill="#78350f">renal e calcificação do parênquima.</text>
+
+    <rect x="15" y="148" width="210" height="65" rx="6" fill="#fffbeb" stroke="#fde68a"/>
+    <text x="25" y="168" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#92400e">• Amiloidose AL (~10%):</text>
+    <text x="25" y="185" font-family="Arial, sans-serif" font-size="9.5" fill="#78350f">Deposição de fibrilas de cadeia leve λ</text>
+    <text x="25" y="200" font-family="Arial, sans-serif" font-size="9.5" fill="#78350f">no glomérulo ➔ Síndrome Nefrótica.</text>
+
+    <rect x="15" y="220" width="210" height="60" rx="6" fill="#fffbeb" stroke="#fde68a"/>
+    <text x="25" y="240" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#92400e">• Nefropatia por Urato:</text>
+    <text x="25" y="257" font-family="Arial, sans-serif" font-size="9.5" fill="#78350f">Hiperuricemia pelo alto turnover tumoral.</text>
+  </g>
+
+  <!-- Rodapé -->
+  <rect x="30" y="405" width="840" height="58" rx="10" fill="#0f172a"/>
+  <text x="45" y="428" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#f87171">CONDUTA DE URGÊNCIA NA LESÃO RENAL:</text>
+  <text x="45" y="446" font-family="Arial, sans-serif" font-size="11" fill="#e2e8f0">
+    Hidratação salina vigorosa (para diluir cadeias leves e uromodulina), correção agressiva da hipercalcemia e suspensão imediata de AINEs e contrastes!
+  </text>
+</svg>

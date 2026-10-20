@@ -1,0 +1,107 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 480" width="900" height="480">
+  <defs>
+    <linearGradient id="bgGrad6" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f8fafc"/>
+      <stop offset="100%" stop-color="#f1f5f9"/>
+    </linearGradient>
+    <linearGradient id="haversGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#eff6ff"/>
+    </linearGradient>
+    <filter id="shadow6" x="-5%" y="-5%" width="110%" height="110%">
+      <feDropShadow dx="2" dy="4" stdDeviation="4" flood-color="#64748b" flood-opacity="0.15"/>
+    </filter>
+  </defs>
+
+  <rect width="900" height="480" rx="16" fill="url(#bgGrad6)" stroke="#cbd5e1" stroke-width="2"/>
+
+  <!-- Cabeçalho -->
+  <rect x="25" y="18" width="850" height="55" rx="10" fill="#1e3a8a" filter="url(#shadow6)"/>
+  <text x="450" y="48" font-family="'Segoe UI', Roboto, sans-serif" font-size="19" font-weight="bold" fill="#ffffff" text-anchor="middle">
+    ARQUITETURA DO OSSO LONGO &amp; VASCULARIZAÇÃO METAFISÁRIA
+  </text>
+  <text x="450" y="65" font-family="'Segoe UI', Roboto, sans-serif" font-size="11.5" fill="#bfdbfe" text-anchor="middle">
+    Sistemas de Havers, canais de Volkmann e o porquê da predileção pela metáfise na infância
+  </text>
+
+  <!-- Painel Esquerdo: Arquitetura Microscópica (Havers e Volkmann) -->
+  <g transform="translate(30, 92)" filter="url(#shadow6)">
+    <rect width="405" height="365" rx="12" fill="url(#haversGrad)" stroke="#3b82f6" stroke-width="1.5"/>
+    <rect x="0" y="0" width="405" height="42" rx="12" fill="#2563eb"/>
+    <text x="202" y="26" font-family="'Segoe UI', Roboto, sans-serif" font-size="13.5" font-weight="bold" fill="#ffffff" text-anchor="middle">
+      SISTEMAS DE HAVERS &amp; CANAIS DE VOLKMANN
+    </text>
+
+    <g transform="translate(15, 55)">
+      <rect width="375" height="75" rx="8" fill="#ffffff" stroke="#bfdbfe" stroke-width="1"/>
+      <text x="12" y="20" font-family="'Segoe UI', Roboto, sans-serif" font-size="11.5" font-weight="bold" fill="#1e40af">Os Canais Longitudinais de Havers</text>
+      <text x="12" y="38" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" fill="#334155">• Dispostos paralelamente ao longo eixo do osso cortical.</text>
+      <text x="12" y="52" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" fill="#334155">• Abrigam vasos sanguíneos capilares e fibras nervosas amielínicas.</text>
+      <text x="12" y="66" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" fill="#334155">• Circundados por lamelas ósseas concêntricas (ósteon).</text>
+    </g>
+
+    <g transform="translate(15, 140)">
+      <rect width="375" height="75" rx="8" fill="#ffffff" stroke="#bfdbfe" stroke-width="1"/>
+      <text x="12" y="20" font-family="'Segoe UI', Roboto, sans-serif" font-size="11.5" font-weight="bold" fill="#1e40af">Os Canais Transversais de Volkmann</text>
+      <text x="12" y="38" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" fill="#334155">• Perfuram o osso cortical em sentido oblíquo ou perpendicular.</text>
+      <text x="12" y="52" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" fill="#334155">• Conectam os canais de Havers entre si, com o periósteo e a medula.</text>
+      <text x="12" y="66" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" fill="#334155">• Não são envolvidos por lamelas concêntricas verdadeiras.</text>
+    </g>
+
+    <g transform="translate(15, 225)">
+      <rect width="375" height="120" rx="8" fill="#fef2f2" stroke="#fca5a5" stroke-width="1.5"/>
+      <text x="12" y="20" font-family="'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#991b1b">A ROTA DE FUGA DO PUS NA OSTEOMIELITE:</text>
+      <text x="12" y="38" font-family="'Segoe UI', Roboto, sans-serif" font-size="9.5" fill="#7f1d1d">1. O abscesso bacteriano inicia-se na cavidade medular.</text>
+      <text x="12" y="52" font-family="'Segoe UI', Roboto, sans-serif" font-size="9.5" fill="#7f1d1d">2. A alta pressão força o exsudato purulento através dos canais</text>
+      <text x="12" y="66" font-family="'Segoe UI', Roboto, sans-serif" font-size="9.5" fill="#7f1d1d">de Volkmann e Havers em direção à superfície externa.</text>
+      <text x="12" y="80" font-family="'Segoe UI', Roboto, sans-serif" font-size="9.5" fill="#7f1d1d">3. O pus atinge o espaço subperiosteal, dissecando o periósteo</text>
+      <text x="12" y="94" font-family="'Segoe UI', Roboto, sans-serif" font-size="9.5" fill="#7f1d1d">e estrangulando o suprimento sanguíneo cortical externo!</text>
+      <text x="12" y="108" font-family="'Segoe UI', Roboto, sans-serif" font-size="9.5" font-weight="bold" fill="#991b1b">→ Isquemia circunferencial = Geração do Sequestro Ósseo!</text>
+    </g>
+  </g>
+
+  <!-- Painel Direito: Por que a Metáfise da Criança? -->
+  <g transform="translate(465, 92)" filter="url(#shadow6)">
+    <rect width="405" height="365" rx="12" fill="#ffffff" stroke="#f59e0b" stroke-width="1.5"/>
+    <rect x="0" y="0" width="405" height="42" rx="12" fill="#d97706"/>
+    <text x="202" y="26" font-family="'Segoe UI', Roboto, sans-serif" font-size="13.5" font-weight="bold" fill="#ffffff" text-anchor="middle">
+      POR QUE A METÁFISE NA CRIANÇA &lt; 13 ANOS?
+    </text>
+
+    <!-- Fator 1: Alças capilares lentas -->
+    <g transform="translate(15, 52)">
+      <rect width="375" height="65" rx="8" fill="#fffbeb" stroke="#fde68a" stroke-width="1"/>
+      <text x="12" y="18" font-family="'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#92400e">1. Alças Capilares Sinusoidais em "U"</text>
+      <text x="12" y="34" font-family="'Segoe UI', Roboto, sans-serif" font-size="9.5" fill="#334155">• As artérias nutrientes metafisárias terminam em alças capilares cegas</text>
+      <text x="12" y="48" font-family="'Segoe UI', Roboto, sans-serif" font-size="9.5" fill="#334155">que fazem uma curva abrupta de 180° antes da placa de crescimento.</text>
+      <text x="12" y="60" font-family="'Segoe UI', Roboto, sans-serif" font-size="9.5" font-weight="bold" fill="#b45309">• Fluxo sanguíneo extremamente LENTO e turbilhonado (estase!).</text>
+    </g>
+
+    <!-- Fator 2: Ausência de macrófagos -->
+    <g transform="translate(15, 125)">
+      <rect width="375" height="55" rx="8" fill="#fffbeb" stroke="#fde68a" stroke-width="1"/>
+      <text x="12" y="18" font-family="'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#92400e">2. Pobreza do Sistema Fagocítico Local</text>
+      <text x="12" y="34" font-family="'Segoe UI', Roboto, sans-serif" font-size="9.5" fill="#334155">• Na junção metáfise-fise há escassez de macrófagos funcionais.</text>
+      <text x="12" y="48" font-family="'Segoe UI', Roboto, sans-serif" font-size="9.5" fill="#334155">• Bactérias aderem facilmente aos sinusoides sem resistência imune.</text>
+    </g>
+
+    <!-- Fator 3: Barreira da fise e vasos epifisários -->
+    <g transform="translate(15, 188)">
+      <rect width="375" height="75" rx="8" fill="#fffbeb" stroke="#fde68a" stroke-width="1"/>
+      <text x="12" y="18" font-family="'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#92400e">3. A Placa Epifisária como Barreira</text>
+      <text x="12" y="34" font-family="'Segoe UI', Roboto, sans-serif" font-size="9.5" fill="#334155">• A fise cartilaginosa é avascular e bloqueia a passagem para a epífise.</text>
+      <text x="12" y="48" font-family="'Segoe UI', Roboto, sans-serif" font-size="9.5" fill="#334155">• <tspan font-weight="bold">Exceção no Lactente (&lt; 18 meses):</tspan> vasos transfisários persistem,</text>
+      <text x="12" y="62" font-family="'Segoe UI', Roboto, sans-serif" font-size="9.5" fill="#dc2626">permitindo que a osteomielite se propague e cause artrite séptica!</text>
+      <text x="12" y="74" font-family="'Segoe UI', Roboto, sans-serif" font-size="9" fill="#475569">• No adulto (&gt; 18 anos): fise funde-se e a infecção atinge o osso subcondral.</text>
+    </g>
+
+    <!-- Fator 4: Topografia e ossos mais acometidos -->
+    <g transform="translate(15, 270)">
+      <rect width="375" height="75" rx="8" fill="#eff6ff" stroke="#3b82f6" stroke-width="1"/>
+      <text x="12" y="18" font-family="'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#1e40af">Topografia mais Frequente (Ossos Longos):</text>
+      <text x="12" y="34" font-family="'Segoe UI', Roboto, sans-serif" font-size="9.5" fill="#1e3a8a">• <tspan font-weight="bold">Fêmur distal e Tíbia proximal</tspan> (metáfises ao redor do joelho: ~50%)</text>
+      <text x="12" y="48" font-family="'Segoe UI', Roboto, sans-serif" font-size="9.5" fill="#1e3a8a">• <tspan font-weight="bold">Úmero proximal</tspan> e Fíbula</text>
+      <text x="12" y="64" font-family="'Segoe UI', Roboto, sans-serif" font-size="9.5" font-weight="bold" fill="#1d4ed8">• No adulto &gt; 50 anos: vértebras (Espondilodiscite hematogênica)!</text>
+    </g>
+  </g>
+</svg>

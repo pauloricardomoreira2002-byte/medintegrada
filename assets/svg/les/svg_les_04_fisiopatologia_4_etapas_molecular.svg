@@ -1,0 +1,155 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 480" width="900" height="480">
+
+  <defs>
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f8fafc"/>
+      <stop offset="100%" stop-color="#f1f5f9"/>
+    </linearGradient>
+    <linearGradient id="headerGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#1e3a8a"/>
+      <stop offset="100%" stop-color="#1e40af"/>
+    </linearGradient>
+    <linearGradient id="greenGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#ecfdf5"/>
+      <stop offset="100%" stop-color="#d1fae5"/>
+    </linearGradient>
+    <linearGradient id="redGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#fef2f2"/>
+      <stop offset="100%" stop-color="#fee2e2"/>
+    </linearGradient>
+    <linearGradient id="amberGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#fffbeb"/>
+      <stop offset="100%" stop-color="#fef3c7"/>
+    </linearGradient>
+    <linearGradient id="blueGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#eff6ff"/>
+      <stop offset="100%" stop-color="#dbeafe"/>
+    </linearGradient>
+    <linearGradient id="purpleGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#faf5ff"/>
+      <stop offset="100%" stop-color="#f3e8ff"/>
+    </linearGradient>
+    <filter id="dropShadow" x="-5%" y="-5%" width="110%" height="110%">
+      <feDropShadow dx="2" dy="4" stdDeviation="4" flood-color="#475569" flood-opacity="0.12"/>
+    </filter>
+  </defs>
+
+  <rect width="900" height="480" rx="16" fill="url(#bgGrad)" stroke="#cbd5e1" stroke-width="2"/>
+  
+  <rect x="25" y="20" width="850" height="58" rx="10" fill="url(#headerGrad)" filter="url(#dropShadow)"/>
+  <text x="450" y="47" font-family="'Segoe UI', Roboto, sans-serif" font-size="20" font-weight="bold" fill="#ffffff" text-anchor="middle">
+    A CASCATA FISIOPATOLÓGICA DO LES EM 4 ETAPAS
+  </text>
+  <text x="450" y="67" font-family="'Segoe UI', Roboto, sans-serif" font-size="12" fill="#bfdbfe" text-anchor="middle">
+    Da quebra da imunidade inata à formação de imunocomplexos e lesão de órgãos-alvo
+  </text>
+
+  <!-- Etapa 1 -->
+  <g transform="translate(35, 95)" filter="url(#dropShadow)">
+    <rect width="195" height="360" rx="10" fill="#ffffff" stroke="#3b82f6" stroke-width="1.5"/>
+    <rect x="0" y="0" width="195" height="42" rx="10" fill="#2563eb"/>
+    <text x="97" y="26" font-family="'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="bold" fill="#ffffff" text-anchor="middle">ETAPA 1: INATA &amp; IFN</text>
+    
+    <rect x="12" y="55" width="171" height="70" rx="6" fill="#eff6ff" stroke="#bfdbfe" stroke-width="1"/>
+    <text x="20" y="75" font-family="'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#1e3a8a">TLR7 e TLR9:</text>
+    <text x="20" y="93" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" fill="#334155">Reconhecem RNA e DNA</text>
+    <text x="20" y="108" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" fill="#334155">próprios como ameaça.</text>
+
+    <rect x="12" y="135" width="171" height="85" rx="6" fill="#eff6ff" stroke="#bfdbfe" stroke-width="1"/>
+    <text x="20" y="155" font-family="'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#1e3a8a">NETose &amp; pDCs:</text>
+    <text x="20" y="173" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" fill="#334155">Neutrófilos liberam NETs.</text>
+    <text x="20" y="190" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" fill="#334155">Células dendríticas liberam</text>
+    <text x="20" y="207" font-family="'Segoe UI', Roboto, sans-serif" font-size="10.5" font-weight="bold" fill="#1d4ed8">Interferon Tipo I (IFN-α).</text>
+
+    <rect x="12" y="230" width="171" height="110" rx="6" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1"/>
+    <text x="20" y="250" font-family="'Segoe UI', Roboto, sans-serif" font-size="10.5" font-weight="bold" fill="#475569">Consequência:</text>
+    <text x="20" y="270" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" fill="#475569">"Assinatura do Interferon":</text>
+    <text x="20" y="287" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" fill="#475569">amplificação do estado</text>
+    <text x="20" y="303" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" fill="#475569">inflamatório crônico e</text>
+    <text x="20" y="320" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" fill="#475569">ativação de apresentadoras.</text>
+  </g>
+
+  <!-- Seta 1 -> 2 -->
+  <polygon points="234,270 244,265 244,275" fill="#3b82f6"/>
+
+  <!-- Etapa 2 -->
+  <g transform="translate(250, 95)" filter="url(#dropShadow)">
+    <rect width="195" height="360" rx="10" fill="#ffffff" stroke="#8b5cf6" stroke-width="1.5"/>
+    <rect x="0" y="0" width="195" height="42" rx="10" fill="#7c3aed"/>
+    <text x="97" y="26" font-family="'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="bold" fill="#ffffff" text-anchor="middle">ETAPA 2: LINFÓCITOS T</text>
+
+    <rect x="12" y="55" width="171" height="70" rx="6" fill="#faf5ff" stroke="#ddd6fe" stroke-width="1"/>
+    <text x="20" y="75" font-family="'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#6d28d9">Apresentação MHC:</text>
+    <text x="20" y="93" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" fill="#334155">Autoantígenos celulares</text>
+    <text x="20" y="108" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" fill="#334155">são apresentados ao TCR.</text>
+
+    <rect x="12" y="135" width="171" height="85" rx="6" fill="#faf5ff" stroke="#ddd6fe" stroke-width="1"/>
+    <text x="20" y="155" font-family="'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#6d28d9">Desequilíbrio Th/Treg:</text>
+    <text x="20" y="173" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" fill="#334155">Diminuição de Tregs.</text>
+    <text x="20" y="190" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" fill="#334155">Expansão de Th17 e</text>
+    <text x="20" y="207" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" fill="#334155">T foliculares helpers (Tfh).</text>
+
+    <rect x="12" y="230" width="171" height="110" rx="6" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1"/>
+    <text x="20" y="250" font-family="'Segoe UI', Roboto, sans-serif" font-size="10.5" font-weight="bold" fill="#475569">Citocinas Chave:</text>
+    <text x="20" y="270" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" fill="#475569">• IL-6 e IL-17 (inflamação)</text>
+    <text x="20" y="287" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" fill="#475569">• IL-21 (estímulo folicular)</text>
+    <text x="20" y="303" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" fill="#475569">• IL-10 (dúplice: supressão</text>
+    <text x="20" y="320" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" fill="#475569">e ativação de clones B).</text>
+  </g>
+
+  <!-- Seta 2 -> 3 -->
+  <polygon points="449,270 459,265 459,275" fill="#8b5cf6"/>
+
+  <!-- Etapa 3 -->
+  <g transform="translate(465, 95)" filter="url(#dropShadow)">
+    <rect width="195" height="360" rx="10" fill="#ffffff" stroke="#f59e0b" stroke-width="1.5"/>
+    <rect x="0" y="0" width="195" height="42" rx="10" fill="#d97706"/>
+    <text x="97" y="26" font-family="'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="bold" fill="#ffffff" text-anchor="middle">ETAPA 3: LINFÓCITOS B</text>
+
+    <rect x="12" y="55" width="171" height="70" rx="6" fill="#fffbeb" stroke="#fde68a" stroke-width="1"/>
+    <text x="20" y="75" font-family="'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#b45309">Sinal T-Dependente:</text>
+    <text x="20" y="93" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" fill="#334155">Interação CD40-CD40L.</text>
+    <text x="20" y="108" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" fill="#334155">Estimulação por BAFF/BLyS.</text>
+
+    <rect x="12" y="135" width="171" height="85" rx="6" fill="#fffbeb" stroke="#fde68a" stroke-width="1"/>
+    <text x="20" y="155" font-family="'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#b45309">Diferenciação Plasmocitária:</text>
+    <text x="20" y="173" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" fill="#334155">Clones autorreativos viram</text>
+    <text x="20" y="190" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" fill="#334155">plasmócitos de vida longa.</text>
+    <text x="20" y="207" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" fill="#334155">Hipergamaglobulinemia.</text>
+
+    <rect x="12" y="230" width="171" height="110" rx="6" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1"/>
+    <text x="20" y="250" font-family="'Segoe UI', Roboto, sans-serif" font-size="10.5" font-weight="bold" fill="#475569">Hiperprodução de:</text>
+    <text x="20" y="270" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" fill="#475569">• Anti-dsDNA (patogênico)</text>
+    <text x="20" y="287" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" fill="#475569">• Anti-Sm (marcador fiel)</text>
+    <text x="20" y="303" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" fill="#475569">• Anti-Ro, La, Histona, P</text>
+    <text x="20" y="320" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" fill="#475569">• Anticorpos Antifosfolípides</text>
+  </g>
+
+  <!-- Seta 3 -> 4 -->
+  <polygon points="664,270 674,265 674,275" fill="#f59e0b"/>
+
+  <!-- Etapa 4 -->
+  <g transform="translate(680, 95)" filter="url(#dropShadow)">
+    <rect width="195" height="360" rx="10" fill="#ffffff" stroke="#ef4444" stroke-width="1.5"/>
+    <rect x="0" y="0" width="195" height="42" rx="10" fill="#dc2626"/>
+    <text x="97" y="26" font-family="'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="bold" fill="#ffffff" text-anchor="middle">ETAPA 4: IMUNOCOMPLEXOS</text>
+
+    <rect x="12" y="55" width="171" height="70" rx="6" fill="#fef2f2" stroke="#fca5a5" stroke-width="1"/>
+    <text x="20" y="75" font-family="'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#991b1b">União Ag-Ac:</text>
+    <text x="20" y="93" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" fill="#334155">Autoanticorpos ligam-se ao</text>
+    <text x="20" y="108" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" fill="#334155">DNA circulante ou in situ.</text>
+
+    <rect x="12" y="135" width="171" height="85" rx="6" fill="#fef2f2" stroke="#fca5a5" stroke-width="1"/>
+    <text x="20" y="155" font-family="'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#991b1b">Consumo do Complemento:</text>
+    <text x="20" y="173" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" fill="#334155">Ativação clássica:</text>
+    <text x="20" y="190" font-family="'Segoe UI', Roboto, sans-serif" font-size="10.5" font-weight="bold" fill="#dc2626">↓ C3, ↓ C4 e ↓ CH50.</text>
+    <text x="20" y="207" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" fill="#334155">Liberação de C3a e C5a.</text>
+
+    <rect x="12" y="230" width="171" height="110" rx="6" fill="#fef2f2" stroke="#fca5a5" stroke-width="1"/>
+    <text x="20" y="250" font-family="'Segoe UI', Roboto, sans-serif" font-size="10.5" font-weight="bold" fill="#991b1b">Lesão Tecidual Final:</text>
+    <text x="20" y="270" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" fill="#991b1b">• Nefrite Lúpica (glomérulo)</text>
+    <text x="20" y="287" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" fill="#991b1b">• Vasculite cutânea</text>
+    <text x="20" y="303" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" fill="#991b1b">• Serosite (pleura/pericárdio)</text>
+    <text x="20" y="320" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" fill="#991b1b">• Citopenias autoimunes</text>
+  </g>
+</svg>

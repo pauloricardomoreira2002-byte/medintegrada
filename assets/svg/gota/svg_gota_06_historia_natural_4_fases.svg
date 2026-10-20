@@ -1,0 +1,148 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 480" width="900" height="480">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f8fafc"/>
+      <stop offset="100%" stop-color="#edf2f7"/>
+    </linearGradient>
+    <filter id="dropShadow" x="-5%" y="-5%" width="110%" height="115%" filterUnits="userSpaceOnUse">
+      <feDropShadow dx="0" dy="4" stdDeviation="6" flood-color="#0f172a" flood-opacity="0.08"/>
+    </filter>
+    <linearGradient id="headerGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#1e3a8a"/>
+      <stop offset="100%" stop-color="#2563eb"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="900" height="480" rx="16" fill="url(#bgGrad)"/>
+  <rect x="1" y="1" width="898" height="478" rx="15" fill="none" stroke="#cbd5e1" stroke-width="1.5"/>
+
+  <!-- Cabeçalho -->
+  <rect x="0" y="0" width="900" height="60" rx="16" fill="url(#headerGrad)"/>
+  <rect x="0" y="44" width="900" height="16" fill="#2563eb"/>
+  <text x="30" y="38" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#ffffff">
+    HISTÓRIA NATURAL DA GOTA: AS 4 FASES EVOLUTIVAS CRONOLÓGICAS
+  </text>
+
+  <!-- 4 Fases Verticais Alinhadas -->
+  <g transform="translate(25, 80)">
+    <!-- Fase 1: Hiperuricemia Assintomática -->
+    <g transform="translate(0, 0)">
+      <rect width="200" height="375" rx="10" fill="#ffffff" stroke="#94a3b8" stroke-width="1.5" filter="url(#dropShadow)"/>
+      <rect width="200" height="34" rx="10" fill="#64748b"/>
+      <rect y="24" width="200" height="10" fill="#64748b"/>
+      <text x="100" y="22" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#ffffff" text-anchor="middle">
+        FASE 1: ASSINTOMÁTICA
+      </text>
+
+      <rect x="15" y="48" width="170" height="48" rx="6" fill="#f1f5f9"/>
+      <text x="100" y="68" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#334155" text-anchor="middle">Ácido Úrico &gt; 6,8 mg/dL</text>
+      <text x="100" y="84" font-family="Arial, sans-serif" font-size="9.5" fill="#64748b" text-anchor="middle">Sem sintomas articulares</text>
+
+      <text x="15" y="116" font-family="Arial, sans-serif" font-size="10.5" font-weight="bold" fill="#1e293b">Duração e Prevalência:</text>
+      <text x="15" y="134" font-family="Arial, sans-serif" font-size="10" fill="#475569">• Pode durar décadas.</text>
+      <text x="15" y="150" font-family="Arial, sans-serif" font-size="10" fill="#475569">• 10% da população adulta.</text>
+      <text x="15" y="166" font-family="Arial, sans-serif" font-size="10" fill="#475569">• Apenas 5% a 20% evoluem</text>
+      <text x="15" y="180" font-family="Arial, sans-serif" font-size="10" fill="#475569">para crise de gota clínica!</text>
+
+      <rect x="12" y="200" width="176" height="160" rx="8" fill="#eff6ff" stroke="#3b82f6" stroke-width="1"/>
+      <text x="100" y="220" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#1e3a8a" text-anchor="middle">CONDUTA CLÍNICA:</text>
+      <text x="20" y="242" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#dc2626">NÃO TRATAR COM DROGAS!</text>
+      <text x="20" y="260" font-family="Arial, sans-serif" font-size="9.5" fill="#1e40af">• Apenas acompanhamento e</text>
+      <text x="20" y="274" font-family="Arial, sans-serif" font-size="9.5" fill="#1e40af">mudança do estilo de vida.</text>
+      <text x="20" y="292" font-family="Arial, sans-serif" font-size="9.5" fill="#1e40af">• Risco cardiovascular em</text>
+      <text x="20" y="306" font-family="Arial, sans-serif" font-size="9.5" fill="#1e40af">debate na literatura.</text>
+      <text x="20" y="326" font-family="Arial, sans-serif" font-size="9.5" fill="#1e40af">• Exceção: Lise Tumoral e</text>
+      <text x="20" y="340" font-family="Arial, sans-serif" font-size="9.5" fill="#1e40af">ácido úrico &gt; 12 mg/dL.</text>
+    </g>
+
+    <!-- Fase 2: Artrite Gotosa Aguda -->
+    <g transform="translate(215, 0)">
+      <rect width="205" height="375" rx="10" fill="#ffffff" stroke="#ef4444" stroke-width="1.8" filter="url(#dropShadow)"/>
+      <rect width="205" height="34" rx="10" fill="#dc2626"/>
+      <rect y="24" width="205" height="10" fill="#dc2626"/>
+      <text x="102" y="22" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#ffffff" text-anchor="middle">
+        FASE 2: CRISE AGUDA (FLARE)
+      </text>
+
+      <rect x="15" y="48" width="175" height="48" rx="6" fill="#fee2e2"/>
+      <text x="102" y="68" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#991b1b" text-anchor="middle">Monoartrite Flogística</text>
+      <text x="102" y="84" font-family="Arial, sans-serif" font-size="9.5" fill="#b91c1c" text-anchor="middle">Início súbito &amp; noturno</text>
+
+      <text x="15" y="116" font-family="Arial, sans-serif" font-size="10.5" font-weight="bold" fill="#1e293b">Características Marcantes:</text>
+      <text x="15" y="134" font-family="Arial, sans-serif" font-size="10" fill="#475569">• Dor lancinante ("gotas de</text>
+      <text x="15" y="148" font-family="Arial, sans-serif" font-size="10" fill="#475569">veneno" de Sydenham).</text>
+      <text x="15" y="164" font-family="Arial, sans-serif" font-size="10" fill="#475569">• Pico de dor em &lt; 24h.</text>
+      <text x="15" y="180" font-family="Arial, sans-serif" font-size="10" fill="#475569">• Duração de 3 a 7 dias.</text>
+      <text x="15" y="196" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#dc2626">• Podagra (1ª MTF) &gt; 50%.</text>
+
+      <rect x="12" y="212" width="181" height="148" rx="8" fill="#fef2f2" stroke="#dc2626" stroke-width="1"/>
+      <text x="102" y="232" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#991b1b" text-anchor="middle">CONDUTA NA CRISE:</text>
+      <text x="20" y="252" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#1e3a8a">1ª Linha: Colchicina precoce</text>
+      <text x="20" y="268" font-family="Arial, sans-serif" font-size="9.5" fill="#334155">ou AINEs potentes.</text>
+      <text x="20" y="284" font-family="Arial, sans-serif" font-size="9.5" fill="#334155">Corticoides se DRC / idoso.</text>
+      <text x="20" y="304" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#b91c1c">⚠️ REGRA DE OURO:</text>
+      <text x="20" y="320" font-family="Arial, sans-serif" font-size="9.5" fill="#7f1d1d">NUNCA iniciar Alopurinol</text>
+      <text x="20" y="334" font-family="Arial, sans-serif" font-size="9.5" fill="#7f1d1d">durante a crise aguda!</text>
+    </g>
+
+    <!-- Fase 3: Gota Intercrítica -->
+    <g transform="translate(435, 0)">
+      <rect width="200" height="375" rx="10" fill="#ffffff" stroke="#3b82f6" stroke-width="1.5" filter="url(#dropShadow)"/>
+      <rect width="200" height="34" rx="10" fill="#2563eb"/>
+      <rect y="24" width="200" height="10" fill="#2563eb"/>
+      <text x="100" y="22" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#ffffff" text-anchor="middle">
+        FASE 3: PERÍODO INTERCRÍTICO
+      </text>
+
+      <rect x="15" y="48" width="170" height="48" rx="6" fill="#eff6ff"/>
+      <text x="100" y="68" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#1e3a8a" text-anchor="middle">Intervalo Silencioso</text>
+      <text x="100" y="84" font-family="Arial, sans-serif" font-size="9.5" fill="#3b82f6" text-anchor="middle">Entre os ataques agudos</text>
+
+      <text x="15" y="116" font-family="Arial, sans-serif" font-size="10.5" font-weight="bold" fill="#1e293b">Dinâmica Clínica:</text>
+      <text x="15" y="134" font-family="Arial, sans-serif" font-size="10" fill="#475569">• Articulações assintomáticas.</text>
+      <text x="15" y="150" font-family="Arial, sans-serif" font-size="10" fill="#475569">• Intervalos iniciais: meses</text>
+      <text x="15" y="164" font-family="Arial, sans-serif" font-size="10" fill="#475569">a anos (média 2 a 3 meses).</text>
+      <text x="15" y="182" font-family="Arial, sans-serif" font-size="10" fill="#475569">• Deposição contínua e</text>
+      <text x="15" y="196" font-family="Arial, sans-serif" font-size="10" fill="#475569">silenciosa de cristais sinoviais.</text>
+
+      <rect x="12" y="212" width="176" height="148" rx="8" fill="#f0fdf4" stroke="#10b981" stroke-width="1"/>
+      <text x="100" y="232" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#065f46" text-anchor="middle">MOMENTO IDEAL:</text>
+      <text x="20" y="252" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#047857">Iniciar Redutor de Urato</text>
+      <text x="20" y="268" font-family="Arial, sans-serif" font-size="9.5" fill="#334155">(Alopurinol) 2 a 4 sem após</text>
+      <text x="20" y="282" font-family="Arial, sans-serif" font-size="9.5" fill="#334155">a resolução da crise.</text>
+      <text x="20" y="302" font-family="Arial, sans-serif" font-size="9.5" font-weight="bold" fill="#059669">Associar Colchicina</text>
+      <text x="20" y="318" font-family="Arial, sans-serif" font-size="9" fill="#334155">profilática (0,5mg/dia) por</text>
+      <text x="20" y="332" font-family="Arial, sans-serif" font-size="9" fill="#334155">3 a 6 meses anti-flare.</text>
+    </g>
+
+    <!-- Fase 4: Gota Tofácea Crônica -->
+    <g transform="translate(650, 0)">
+      <rect width="200" height="375" rx="10" fill="#ffffff" stroke="#7c3aed" stroke-width="1.8" filter="url(#dropShadow)"/>
+      <rect width="200" height="34" rx="10" fill="#6d28d9"/>
+      <rect y="24" width="200" height="10" fill="#6d28d9"/>
+      <text x="100" y="22" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#ffffff" text-anchor="middle">
+        FASE 4: TOFÁCEA CRÔNICA
+      </text>
+
+      <rect x="15" y="48" width="170" height="48" rx="6" fill="#f5f3ff"/>
+      <text x="100" y="68" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#5b21b6" text-anchor="middle">Gota Crônica Grave</text>
+      <text x="100" y="84" font-family="Arial, sans-serif" font-size="9.5" fill="#7c3aed" text-anchor="middle">Após ~10 a 12 anos</text>
+
+      <text x="15" y="116" font-family="Arial, sans-serif" font-size="10.5" font-weight="bold" fill="#1e293b">Quadro Destrutivo:</text>
+      <text x="15" y="134" font-family="Arial, sans-serif" font-size="10" fill="#475569">• Tofos em partes moles</text>
+      <text x="15" y="148" font-family="Arial, sans-serif" font-size="10" fill="#475569">(orelhas, mãos, pés, cotovelo).</text>
+      <text x="15" y="164" font-family="Arial, sans-serif" font-size="10" fill="#475569">• Artrite poliarticular crônica.</text>
+      <text x="15" y="180" font-family="Arial, sans-serif" font-size="10" fill="#475569">• Deformidades articulares.</text>
+      <text x="15" y="196" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#6d28d9">• Erosões em saca-bocado.</text>
+
+      <rect x="12" y="212" width="176" height="148" rx="8" fill="#faf5ff" stroke="#a855f7" stroke-width="1"/>
+      <text x="100" y="232" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#5b21b6" text-anchor="middle">COMPLICAÇÕES:</text>
+      <text x="20" y="252" font-family="Arial, sans-serif" font-size="10" fill="#475569">• Nefropatia úrica por cristais.</text>
+      <text x="20" y="268" font-family="Arial, sans-serif" font-size="10" fill="#475569">• Urolitíase (cálculos de urato).</text>
+      <text x="20" y="286" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#6d28d9">Alvo Terapêutico Rigoroso:</text>
+      <text x="20" y="302" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#dc2626">Urato Sérico &lt; 5,0 mg/dL</text>
+      <text x="20" y="318" font-family="Arial, sans-serif" font-size="9" fill="#5b21b6">(promove dissolução rápida</text>
+      <text x="20" y="332" font-family="Arial, sans-serif" font-size="9" fill="#5b21b6">dos tofos já formados).</text>
+    </g>
+  </g>
+</svg>

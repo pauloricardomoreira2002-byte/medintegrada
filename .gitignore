@@ -1,0 +1,17 @@
+# Dependências e logs
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Arquivos pesados binários (hospedados no Cloudflare R2)
+assets/docx/*.docx
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Ambientes locais e chaves privadas
+.env
+.env.local

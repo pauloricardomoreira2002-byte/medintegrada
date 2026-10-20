@@ -1,0 +1,1091 @@
+{
+  "id": "simulado_mieloma_multiplo",
+  "title": "Simulado Comentado • Mieloma Múltiplo",
+  "subtitle": "40 Questões no Padrão ENAMED/INEP com Raio-X Cognitivo dos Distratores",
+  "badge": "ENAMED / Residência Médica • Nível Avançado",
+  "theme": "Mieloma Múltiplo e Gamopatias Monoclonais",
+  "area": "Clínica Médica • Hematologia e Nefrologia",
+  "total_questions": 40,
+  "questions": [
+    {
+      "tag": "Mieloma Múltiplo • Definição & Epidemiologia",
+      "stem": "Um homem de 68 anos, afrodescendente, comparece à consulta ambulatorial com história de astenia progressiva e dores ósseas vagas no tronco há 4 meses. Durante a discussão clínica com os estudantes, o preceptor debate a definição biológica e a representatividade epidemiológica do Mieloma Múltiplo (MM) entre as patologias onco-hematológicas. Com base nos dados consolidados sobre o Mieloma Múltiplo, qual assertiva define corretamente essa afecção?",
+      "correct": "Trata-se de uma neoplasia maligna de plasmócitos com proliferação clonal na medula óssea, responsável por cerca de 1% de todas as neoplasias gerais e aproximadamente 13% das neoplasias hematológicas.",
+      "distractors": [
+        [
+          "Trata-se de uma síndrome mieloproliferativa aguda caracterizada pela proliferação de mieloblastos indiferenciados, correspondendo a 13% de todas as neoplasias malignas gerais humanas.",
+          "Vetor 1 - Micro-Inversão Conceitual",
+          "O mieloma múltiplo é uma proliferação clonal de plasmócitos (células da linhagem linfoide B madura), respondendo por 1% de todos os cânceres e 13% dos hematológicos (as proporções de 1% e 13% foram sutilmente invertidas no distrator).",
+          "Inverter as proporções estatísticas entre neoplasias gerais e neoplasias hematológicas."
+        ],
+        [
+          "Trata-se de um tumor ósseo primário osteogênico de linhagem mesenquimal benigna, com pico de incidência em adultos jovens com menos de 30 anos.",
+          "Vetor 1 - Micro-Inversão Conceitual",
+          "O mieloma é uma neoplasia maligna de células plasmocitárias hematológicas, típica de idosos (mediana de 65 anos), sendo extremamente rara antes dos 40 anos (apenas 2%).",
+          "Classificar o mieloma como neoplasia mesenquimal benigna de pacientes jovens."
+        ],
+        [
+          "Trata-se de proliferação reacional policlonal de plasmócitos secundária a estímulo infeccioso crônico, apresentando evolução autolimitada e resolução espontânea.",
+          "Vetor 4 - Mimetismo Clínico / Síndrome Vizinha",
+          "O mieloma múltiplo é caracterizado por proliferação estritamente monoclonal de plasmócitos com secreção de proteína M, possuindo curso crônico, progressivo e maligno.",
+          "Confundir uma neoplasia clonal maligna com uma gamopatia policlonal inflamatória secundária."
+        ]
+      ],
+      "rationale": "O Mieloma Múltiplo é uma neoplasia maligna de plasmócitos caracterizada pela proliferação clonal anômala na medula óssea e pela produção de imunoglobulina monoclonal (proteína M). Representa cerca de 1% de todas as neoplasias gerais e aproximadamente 13% das neoplasias hematológicas, com mediana ao diagnóstico aos 65 anos (predomina amplamente após os 50 anos).",
+      "pearl": "Mieloma Múltiplo: 1% de todos os cânceres, 13% das neoplasias hematológicas; clonalidade plasmocitária medular com mediana aos 65 anos."
+    },
+    {
+      "tag": "Tumores Ósseos • Classificação e Metástases",
+      "stem": "Uma paciente de 62 anos, com histórico de mastectomia prévia por adenocarcinoma de mama há 3 anos, dá entrada na Unidade de Pronto Atendimento com dor lombar persistente e incapacitante. A radiografia de coluna demonstra lesão osteolítica em corpo vertebral de L2. Durante a avaliação, os médicos discutem os três grandes grupos de tumores que acometem o tecido ósseo. Em relação à classificação e epidemiologia dos tumores ósseos, qual assertiva está correta?",
+      "correct": "As metástases de carcinomas constituem o tipo mais comum de tumor ósseo, originando-se principalmente de sítios primários na mama (com predileção pela coluna), no pulmão e na próstata.",
+      "distractors": [
+        [
+          "Os tumores ósseos primários derivados do próprio tecido ósseo são os mais prevalentes no idoso, superando amplamente as metástases e as neoplasias plasmocitárias.",
+          "Vetor 1 - Micro-Inversão Conceitual",
+          "Os tumores ósseos primários são os menos frequentes; as metástases de carcinomas constituem, de longe, o grupo mais comum de tumor ósseo no adulto e idoso.",
+          "Inverter a prevalência entre neoplasias ósseas metastáticas e tumores ósseos primários."
+        ],
+        [
+          "O mieloma múltiplo é universalmente considerado por todos os autores como tumor ósseo primário osteoblástico derivado de condrócitos hiperplásicos.",
+          "Vetor 1 - Micro-Inversão Conceitual",
+          "O mieloma múltiplo é uma neoplasia maligna dos plasmócitos (células hematológicas); em razão disso, diversos autores inclusive não o consideram um tumor ósseo primário autêntico.",
+          "Descaracterizar a natureza hematológica e clonal do plasmócito no mieloma."
+        ],
+        [
+          "As neoplasias metastáticas mamárias apresentam tropismo ósseo seletivo e quase exclusivo para as falanges distais das mãos, poupando a coluna vertebral.",
+          "Vetor 1 - Micro-Inversão Conceitual",
+          "O carcinoma de mama metastatiza com alta predileção para o esqueleto axial, acometendo tipicamente os corpos vertebrais da coluna, além de arcos costais e pelve.",
+          "Afirmar que metástases carcinomatosas mamárias acometem mãos e poupam a coluna vertebral."
+        ]
+      ],
+      "rationale": "Os tumores ósseos são didaticamente divididos em três grandes grupos: (1) Metástases de carcinomas, que representam o tipo mais comum de tumor ósseo (origem típica em mama — com predileção pela coluna —, pulmão e próstata); (2) Mieloma Múltiplo (tumor maligno de plasmócitos, que muitos autores não consideram tumor ósseo primário em razão de sua origem hematopoietica); e (3) Tumores ósseos primários (originados no próprio tecido ósseo, sendo os menos frequentes).",
+      "pearl": "Metástases de carcinomas (mama -> coluna, pulmão, próstata) são os tumores ósseos mais frequentes; tumores primários são os mais raros."
+    },
+    {
+      "tag": "Mieloma Múltiplo • Etiologia e Fatores de Risco",
+      "stem": "Um trabalhador rural de 64 anos, exposto cronicamente a pesticidas organofosforados e solventes à base de benzeno por mais de 25 anos, é admitido com diagnóstico recém-estabelecido de Mieloma Múltiplo. Seu filho de 38 anos procura o ambulatório apreensivo, indagando sobre causas ambientais, riscos ocupacionais e a probabilidade de desenvolver a mesma neoplasia. Qual informação baseada nas evidências consolidadas sobre o Mieloma Múltiplo deve ser prestada?",
+      "correct": "A etiologia definitiva permanece desconhecida, porém associa-se a radiação ionizante e agentes químicos como pesticidas e benzeno, conferindo aos parentes de primeiro grau um risco cerca de 4 vezes maior.",
+      "distractors": [
+        [
+          "A doença exibe padrão de herança monogênica autossômica dominante pura, transmitindo mutações estruturais germinativas com 100% de penetrância para todos os descendentes.",
+          "Vetor 1 - Micro-Inversão Conceitual",
+          "O mieloma não tem herança mendeliana simples; sua etiologia é desconhecida e multifatorial, havendo um risco relativo aumentado em cerca de 4 vezes para parentes de primeiro grau.",
+          "Superestimar o risco familiar transformando um aumento relativo de 4 vezes em herança monogênica determinística."
+        ],
+        [
+          "A exposição contínua a pesticidas e derivados aromáticos de benzeno exerce efeito supressor protetor sobre a taxa proliferativa dos plasmócitos medulares.",
+          "Vetor 1 - Micro-Inversão Conceitual",
+          "A exposição a radiação e agentes químicos como pesticidas e benzeno atua como fator de risco e instabilidade genômica, e não como mecanismo de proteção biológica.",
+          "Inverter o papel toxicológico de carcinógenos conhecidos para supostos agentes protetores."
+        ],
+        [
+          "A afecção manifesta-se com frequência três vezes mais elevada em indivíduos caucasianos de sexo feminino, com mais de 50% dos casos ocorrendo abaixo dos 40 anos.",
+          "Vetor 1 - Micro-Inversão Conceitual",
+          "O mieloma possui maior incidência em afrodescendentes e discreta predominância masculina; é raro em jovens (apenas 2% têm menos de 40 anos e 10% têm menos de 50 anos).",
+          "Trocar completamente o perfil demográfico, etário e étnico da epidemiologia do mieloma."
+        ]
+      ],
+      "rationale": "A etiologia do Mieloma Múltiplo é desconhecida, porém múltiplos fatores predisponentes estão descritos: fatores genéticos e alterações cromossômicas, radiação e exposição a compostos químicos (como pesticidas e benzeno). Epidemiologicamente, parentes de primeiro grau têm risco 4 vezes maior de apresentar a doença, que predomina no sexo masculino, em afrodescendentes e em indivíduos acima de 50 anos.",
+      "pearl": "Etiologia do MM: fatores genéticos, radiação, pesticidas e benzeno. Parentes de 1º grau têm risco 4 vezes maior."
+    },
+    {
+      "tag": "Mieloma Múltiplo • Topografia Anatômica das Lesões",
+      "stem": "Um homem de 67 anos queixa-se de dores ósseas mecânicas no esqueleto axial que pioram ao movimento e com a tosse. O médico suspeita de Mieloma Múltiplo e solicita um inventário radiológico inicial direcionado aos sítios anatômicos preferenciais de proliferação clonal plasmocitária e destruição óssea. De acordo com a topografia clássica do Mieloma Múltiplo, quais são os locais mais frequentemente acometidos?",
+      "correct": "Coluna vertebral, pelve, crânio e arcos costais.",
+      "distractors": [
+        [
+          "Ossos do tarso, metatarsos, falanges dos pododáctilos e patela.",
+          "Vetor 1 - Micro-Inversão Conceitual",
+          "O mieloma acomete prioritariamente o esqueleto axial rico em medula óssea hematopoiética (coluna, pelve, crânio, arcos costais); ossos periféricos e acrais raramente abrigam lesões primárias.",
+          "Apontar estruturas ósseas periféricas e distais que não possuem medula hematopoiética no adulto."
+        ],
+        [
+          "Epífises distais do rádio e da ulna, carpo e falanges proximais bilateralmente.",
+          "Vetor 4 - Mimetismo Clínico / Síndrome Vizinha",
+          "Pequenas articulações das mãos são alvo clássico da artrite reumatoide crônica, e não da osteólise axial característica do mieloma múltiplo.",
+          "Confundir a localização do acometimento do mieloma com o acometimento articular periférico da artrite reumatoide."
+        ],
+        [
+          "Mandíbula exclusivamente isolada, côndilos mandibulares e ossos nasais.",
+          "Vetor 4 - Mimetismo Clínico / Síndrome Vizinha",
+          "Acometimento isolado mandibular ocorre em ameloblastomas ou lesões odontogênicas focais; no mieloma a afecção é tipicamente multifocal e centrada no esqueleto axial.",
+          "Restringir o dano a ossos faciais isolados e ignorar a destruição do esqueleto axial."
+        ]
+      ],
+      "rationale": "Os plasmócitos neoplásicos alojam-se preferencialmente nos nichos de medula óssea hematopoiética ativa no adulto. Por esse motivo, os locais típicos de acometimento ósseo no Mieloma Múltiplo são a coluna vertebral, a pelve, o crânio e os arcos costais, além das porções proximais de fêmur e úmero.",
+      "pearl": "Sítios clássicos do Mieloma Múltiplo: Coluna vertebral, Pelve, Crânio e Arcos costais."
+    },
+    {
+      "tag": "Mieloma Múltiplo • Patogênese em Duas Etapas",
+      "stem": "Em uma aula sobre patologia onco-hematológica, é apresentado o modelo de evolução em duas etapas do Mieloma Múltiplo, que descreve a transição biológica desde um clone assintomático até a neoplasia francamente invasiva. Qual evento celular e citogenético é característico da primeira etapa (formação da gamopatia monoclonal de significado indeterminado - MGUS)?",
+      "correct": "Surgimento de um clone plasmocitário desencadeado por estímulo antigênico excessivo, associado a alterações primárias como a translocação t(IgH 14q32) e hiperdiploidia.",
+      "distractors": [
+        [
+          "Rearranjo oncogênico do cromossomo Philadelphia t(9;22) gerando transcrição desregulada do gene de fusão BCR-ABL1.",
+          "Vetor 4 - Mimetismo Clínico / Síndrome Vizinha",
+          "A translocação t(9;22) ou cromossomo Philadelphia é o evento genético definidor da leucemia mieloide crônica (LMC), não tendo relação com a gênese plasmocitária do MGUS/mieloma.",
+          "Confundir a citogenética do mieloma múltiplo com a marca registrada da Leucemia Mieloide Crônica."
+        ],
+        [
+          "Ativação maciça de osteoclastos teciduais sem participação de qualquer mutação ou translocação cromossômica clonal.",
+          "Vetor 1 - Micro-Inversão Conceitual",
+          "A primeira etapa patogênica é definida pelo surgimento de um clone plasmocitário com alterações genéticas primárias [t(14q32) e hiperdiploidia]; a lesão osteoclástica ocorre na fase sintomática subsequente.",
+          "Desconsiderar o primado da alteração cromossômica clonal na patogênese primária do mieloma."
+        ],
+        [
+          "Mutações inativadoras de transcrição nas quatro cadeias polipeptídicas que resultam na abolição total da síntese de imunoglobulinas.",
+          "Vetor 1 - Micro-Inversão Conceitual",
+          "Ao contrário da abolição, o clone plasmocitário caracteriza-se pela produção sustentada e anormal de imunoglobulina monoclonal homogênea (proteína M).",
+          "Supor erradamente supressão na síntese de anticorpos em vez de produção clonal de paraproteína."
+        ]
+      ],
+      "rationale": "A patogênese do Mieloma Múltiplo compreende um modelo em duas etapas: na Etapa 1, ocorre a formação do clone plasmocitário na medula (MGUS) a partir de estímulo antigênico excessivo, tendo como alterações genéticas primárias a hiperdiploidia e translocações envolvendo o locus da cadeia pesada das imunoglobulinas no cromossomo 14 [t(IgH 14q32)]. Na Etapa 2, mutações secundárias promovem a progressão para MM.",
+      "pearl": "Etapa 1 da patogênese do MM: Clone plasmocitário após estímulo antigênico com translocação t(IgH 14q32) e hiperdiploidia (MGUS)."
+    },
+    {
+      "tag": "Mieloma Múltiplo • Critérios de MGUS & Progressão",
+      "stem": "Uma paciente de 65 anos realiza exames admissionais de rotina. A eletroforese de proteínas séricas revela um pico monoclonal discreto de 1,2 g/dL. O mielograma demonstra 7% de plasmócitos na medula óssea. Exames complementares mostram: cálcio sérico de 9,3 mg/dL, creatinina de 0,8 mg/dL, hemoglobina de 13,0 g/dL e radiografias de esqueleto sem lesões osteolíticas. Quais são os critérios definidores dessa condição e qual é o risco anual de progressão para Mieloma Múltiplo?",
+      "correct": "Plasmócitos na medula óssea inferiores a 10%, proteína M sérica em níveis baixos, ausência total de critérios CRAB e risco de progressão de aproximadamente 1% ao ano.",
+      "distractors": [
+        [
+          "Plasmócitos medulares superiores a 20%, proteína M livre na urina e taxa de progressão anual acelerada de cerca de 15% ao ano.",
+          "Vetor 1 - Micro-Inversão Conceitual",
+          "Na MGUS os plasmócitos devem ser obrigatoriamente < 10% e o risco de progressão é de cerca de 1% ao ano (10% em 10 anos e 20% em 20 anos), não de 15% ao ano.",
+          "Superestimar o percentual de plasmócitos medulares e inflacionar a velocidade de progressão anual."
+        ],
+        [
+          "Plasmócitos medulares entre 10% e 15%, presença isolada de anemia normocítica crônica e risco fixo de transformação maligna de 50% em 2 anos.",
+          "Vetor 1 - Micro-Inversão Conceitual",
+          "A presença de plasmócitos ≥ 10% ou qualquer critério CRAB (como anemia atribuível à doença) descaracteriza a MGUS e define mieloma múltiplo.",
+          "Inserir critérios de lesão de órgão-alvo (CRAB) em uma condição que é estritamente assintomática."
+        ],
+        [
+          "Plasmócitos medulares de até 5%, presença mandatória de lesão lítica isolada no crânio e risco absolutamente nulo de progressão ao longo da vida.",
+          "Vetor 1 - Micro-Inversão Conceitual",
+          "Se houver lesão lítica (critério 'Bone' do CRAB), trata-se de mieloma múltiplo sintomático ou plasmocitoma ósseo; ademais, o risco na MGUS não é nulo, sendo de ~1% ao ano.",
+          "Ignorar a gravidade de uma lesão lítica óssea e presumir curso perfeitamente inofensivo."
+        ]
+      ],
+      "rationale": "A Gamopatia Monoclonal de Significado Indeterminado (MGUS) é uma condição pré-maligna definida por: (1) Plasmócitos na medula óssea < 10%; (2) Proteína M sérica baixa (< 3 g/dL); e (3) Ausência completa de critérios CRAB (sem hipercalcemia, disfunção renal, anemia ou lesões ósseas). O risco de progressão para Mieloma Múltiplo é de aproximadamente 1% ao ano (~10% em 10 anos e ~20% em 20 anos).",
+      "pearl": "Critérios de MGUS: Plasmócitos medulares < 10% + Proteína M baixa + SEM critérios CRAB. Risco de progressão: ~1% ao ano."
+    },
+    {
+      "tag": "Mieloma Múltiplo • Fisiopatologia da Lesão Óssea",
+      "stem": "Um homem de 70 anos é internado com fratura patológica de fêmur proximal direito após trauma de baixíssima energia. A biópsia revela infiltração maciça por plasmócitos monoclonais. O laudo radiológico salienta que a fratura ocorreu sobre uma lesão puramente osteolítica, sem qualquer evidência de esclerose óssea ou neoformação periosteal reparadora. Qual mecanismo citocínico e celular justifica a formação dessas lesões líticas características do Mieloma Múltiplo?",
+      "correct": "A secreção de citocinas inflamatórias pelos plasmócitos malignos, com destaque para o TNF-α e a IL-6, que ativam os osteoclastos induzindo reabsorção óssea e inibem simultaneamente os osteoblastos impedindo o reparo.",
+      "distractors": [
+        [
+          "A produção desregulada de fator transformador de crescimento beta (TGF-β), que inibe os osteoclastos e promove hiperestimulação desorganizada de osteoblastos.",
+          "Vetor 1 - Micro-Inversão Conceitual",
+          "No mieloma, ocorre o inverso: os osteoblastos são inibidos e os osteoclastos são superativados por TNF-α e IL-6, o que explica a perda óssea lítica sem formação de osso novo reparador.",
+          "Inverter as ações das citocinas sobre a atividade de osteoblastos e osteoclastos."
+        ],
+        [
+          "A precipitação mecânica direta de imunocomplexos insolúveis de alta densidade no interior dos canais de Havers, gerando microenfartes ósseos estéreis assépticos.",
+          "Vetor 4 - Mimetismo Clínico / Síndrome Vizinha",
+          "As lesões ósseas do MM não são osteonecrose isquêmica por oclusão de canais de Havers, mas osteólise ativa gerada pelo desacoplamento funcional entre osteoclastos ativados e osteoblastos suprimidos.",
+          "Atribuir o dano ósseo a um mecanismo puramente vascular obstrutivo microtrombótico."
+        ],
+        [
+          "A conversão enzimática intramedular de colágeno tipo I em cristais amorfos de hidroxiapatita catalisada diretamente pela proteína de Bence Jones.",
+          "Vetor 1 - Micro-Inversão Conceitual",
+          "A cadeia leve (Bence Jones) não mineraliza colágeno em osso; o dano ósseo é puramente lítico e mediado pela ativação osteoclástica via TNF-α e IL-6 secretadas pelo clone.",
+          "Criar um mecanismo bioquímico fictício de mineralização óssea pela paraproteína."
+        ]
+      ],
+      "rationale": "A fisiopatologia da lesão óssea no Mieloma Múltiplo reside no desequilíbrio profundo da homeostase óssea causado pelas citocinas produzidas pelos plasmócitos malignos (como TNF-α e IL-6). Essas citocinas: (1) estimulam e ativam diretamente os osteoclastos, promovendo reabsorção óssea maciça e liberação de cálcio; e (2) inibem os osteoblastos, bloqueando qualquer síntese ou reparo ósseo. Por essa razão, as lesões são puramente líticas ('furadas') e não mostram reação osteoblástica.",
+      "pearl": "Fisiopatologia óssea no MM: TNF-α e IL-6 -> Ativam osteoclastos (reabsorção) + Inibem osteoblastos (sem reparo) -> Lesões puramente líticas e hipercalcemia."
+    },
+    {
+      "tag": "Mieloma Múltiplo • Achados Radiográficos Clássicos",
+      "stem": "Um idoso de 72 anos apresenta dor lombar crônica de piora progressiva e astenia. A investigação laboratorial revela anemia e velocidade de hemossedimentação (VHS) de 115 mm/h. Radiografias simples da bacia, coluna lombar e calota craniana são obtidas na propedêutica. Diante da principal suspeita diagnóstica de Mieloma Múltiplo, quais achados radiográficos característicos confirmam o acometimento ósseo típico dessa doença?",
+      "correct": "Lesões osteolíticas bem circunscritas com contornos nítidos em saca-bocado, perda difusa de mineralização óssea e crânio com aspecto em sal e pimenta.",
+      "distractors": [
+        [
+          "Lesões osteoblásticas intensamente escleróticas hiperdensas acompanhadas de proliferação óssea exuberantemente cortical.",
+          "Vetor 1 - Micro-Inversão Conceitual",
+          "Lesões blásticas ou escleróticas são típicas de metástases de câncer de próstata; o mieloma cursa com lesões puramente osteolíticas decorrentes da ausência de função osteoblástica.",
+          "Confundir as lesões líticas clássicas do mieloma com as metástases blásticas escleróticas da próstata."
+        ],
+        [
+          "Reação periosteal em casca de cebola com descolamento cortical exuberante formando o sinal do triângulo de Codman.",
+          "Vetor 4 - Mimetismo Clínico / Síndrome Vizinha",
+          "O sinal de Codman e a reação em casca de cebola são marcas do osteossarcoma e do sarcoma de Ewing; no mieloma não há reação osteogênica reparadora periosteal.",
+          "Mimetizar sinais semiológicos radiológicos característicos de sarcomas ósseos primários."
+        ],
+        [
+          "Erosões ósseas marginais periarticulares associadas a anquilose simétrica e preservação completa da densidade óssea trabecular central.",
+          "Vetor 4 - Mimetismo Clínico / Síndrome Vizinha",
+          "Erosões marginais e anquilose ocorrem em espondiloartrites e artrite reumatoide; o mieloma causa perda difusa de mineralização e lesões em saca-bocado no esqueleto axial.",
+          "Confundir a destruição óssea do mieloma com alterações articulares inflamatórias da artrite."
+        ]
+      ],
+      "rationale": "No Mieloma Múltiplo, os achados radiológicos patognomônicos compreendem lesões osteolíticas circunscritas, com aspecto clássico de defeitos perfurados 'em saca-bocado' (punched-out lesions), desmineralização difusa (osteopenia/osteoporose acentuada) e aspecto rendilhado na calota craniana conhecido como crânio em 'sal e pimenta'. Sítios prioritários incluem crânio, arcos costais, coluna vertebral, pelve, fêmur e úmero.",
+      "pearl": "Radiografia no MM: Lesões osteolíticas circunscritas em 'saca-bocado', osteopenia difusa e crânio em 'sal e pimenta'."
+    },
+    {
+      "tag": "Mieloma Múltiplo • Emergências Neurológicas",
+      "stem": "Uma paciente de 58 anos com mieloma múltiplo recém-diagnosticado é admitida na emergência com dor lombar de forte intensidade que se instalou subitamente há 8 horas, acompanhada de fraqueza motora rapidamente progressiva nos membros inferiores, hipoestesia em sela e retenção urinária aguda com bexigoma palpável. O exame neurológico confirma paraplegia flácida e nível sensitivo em T11. Diante dessa grave complicação, qual é o evento patogênico causador e o risco imediato?",
+      "correct": "Colapso de corpo vertebral secundário à lesão osteolítica avançada com compressão mecânica aguda da medula espinal, acarretando risco iminente de paraplegia permanente e irreversível.",
+      "distractors": [
+        [
+          "Desmielinização aguda autoimune do nervo ciático por polineuropatia inflamatória ascendente com cura espontânea.",
+          "Vetor 4 - Mimetismo Clínico / Síndrome Vizinha",
+          "O quadro agudo com nível sensitivo medular e retenção urinária decorre de compressão da medula torácica, e não de polineuropatia inflamatória periférica.",
+          "Atribuir um quadro agudo de compressão medular central com nível sensitivo a uma neuropatia periférica benigna."
+        ],
+        [
+          "Isquemia do lobo frontal direito provocada por fenômeno transitório de vasculite secundária a depósitos de cadeia leve.",
+          "Vetor 4 - Mimetismo Clínico / Síndrome Vizinha",
+          "Lesões do lobo frontal não causam paraplegia crural bilateral com nível sensitivo torácico T11 e retenção urinária; trata-se de síndrome de compressão medular raquidiana.",
+          "Confundir sinais de lesão medular transversa com acidente vascular encefálico cerebral."
+        ],
+        [
+          "Trombose de veia renal bilateral decorrente da precipitação intraluminal de cadeias leves com choque hipovolêmico.",
+          "Vetor 1 - Micro-Inversão Conceitual",
+          "Trombose de veia renal produz dor em flanco, hematúria e piora da função renal, sem causar paraplegia flácida com nível sensitivo torácico.",
+          "Confundir trombose vascular renal com compressão mecânica da medula espinal por colapso ósseo."
+        ]
+      ],
+      "rationale": "O colapso de corpo vertebral por destruição osteolítica acentuada no Mieloma Múltiplo constitui uma emergência oncológica/ortopédica clássica. A perda estrutural da vértebra projeta fragmentos ósseos ou massa tumoral plasmocitária para o canal raquidiano, comprimindo a medula espinal e provocando síndrome de compressão medular aguda (dor em faixa, paraplegia e disfunção esfincteriana), cujo retardo terapêutico acarreta dano neurológico irreversível (paraplegia definitiva).",
+      "pearl": "Emergência no MM: Colapso vertebral -> Compressão da medula espinal -> Risco iminente de paraplegia permanente!"
+    },
+    {
+      "tag": "Mieloma Múltiplo • Estrutura da Imunoglobulina",
+      "stem": "Em uma aula prática sobre imunologia médica das gamopatias, os alunos analisam um modelo esquemático tridimensional da molécula de imunoglobulina padrão (IgG). O professor aponta as diferentes porções da cadeia pesada e leve e solicita que a turma correlacione cada domínio proteico com sua função biológica fundamental. De acordo com a estrutura da molécula de imunoglobulina, qual correlação funcional está correta?",
+      "correct": "As regiões variáveis (da cadeia pesada e da cadeia leve) são responsáveis pela ligação específica ao antígeno, o domínio CH2 pela ativação da cascata do complemento e o domínio CH3 pela ligação a receptores de macrófagos e neutrófilos.",
+      "distractors": [
+        [
+          "As regiões variáveis ativam exclusivamente o sistema complemento tecidual, enquanto o domínio CH2 liga-se avidamente ao antígeno estranho.",
+          "Vetor 1 - Micro-Inversão Conceitual",
+          "Houve inversão completa: o sítio de ligação ao antígeno reside nas regiões variáveis Fab (cadeias pesada e leve), enquanto o domínio CH2 na porção constante medeia a ativação do complemento.",
+          "Inverter as atribuições das porções variáveis (Fab) com as constantes (Fc) da imunoglobulina."
+        ],
+        [
+          "O domínio CH3 atua na ligação direta a epitopos bacterianos, enquanto os domínios variáveis ligam-se aos receptores Fc de neutrófilos.",
+          "Vetor 1 - Micro-Inversão Conceitual",
+          "A ligação a receptores de superfície celular (FcγR em macrófagos e neutrófilos) é mediada pelo domínio CH3 da porção constante Fc, cabendo às regiões variáveis o reconhecimento antigênico.",
+          "Trocar as funções do domínio constante CH3 com as das regiões variáveis de ligação antigênica."
+        ],
+        [
+          "As cadeias pesadas intactas são livremente filtradas na urina constituindo o elemento denominado biologicamente como proteína de Bence Jones.",
+          "Vetor 1 - Micro-Inversão Conceitual",
+          "As cadeias pesadas são moléculas intactas grandes que não ultrapassam a barreira glomerular; a proteína de Bence Jones é composta estritamente por cadeias leves livres (kappa ou lambda) filtradas.",
+          "Afirmar que a proteína de Bence Jones urinária é formada por cadeias pesadas intactas."
+        ]
+      ],
+      "rationale": "A molécula de imunoglobulina é formada por duas cadeias pesadas e duas leves. Suas regiões funcionais compreendem: (1) Regiões variáveis (Fab, compostas por terminais de cadeias pesada e leve), responsáveis pelo reconhecimento e ligação ao antígeno; (2) Domínio constante CH2 da cadeia pesada, que medeia a fixação e ativação do sistema complemento; e (3) Domínio constante CH3, responsável pela interação com receptores de superfície (receptores Fc) de fagócitos como macrófagos e neutrófilos.",
+      "pearl": "Estrutura da Ig: Regiões variáveis = ligação ao antígeno; CH2 = ativação do complemento; CH3 = ligação a macrófagos e neutrófilos."
+    },
+    {
+      "tag": "Mieloma Múltiplo • Componente M & Sensibilidade",
+      "stem": "Durante uma discussão sobre propedêutica laboratorial em hematologia, avalia-se o valor diagnóstico do Componente Monoclonal (proteína M). O preceptor indaga aos internos qual é o significado biológico da proteína M, sua sensibilidade diagnóstica quando avaliada isoladamente por eletroforese em comparação ao uso associado da imunofixação, e se sua presença é suficiente, por si só, para o diagnóstico de Mieloma Múltiplo. Qual é a resposta correta?",
+      "correct": "A proteína M é uma imunoglobulina monoclonal produzida por plasmócitos neoplásicos que isoladamente não confirma o diagnóstico de mieloma; é detectada em 82% das eletroforeses, alcançando 92% de sensibilidade quando associada à imunofixação.",
+      "distractors": [
+        [
+          "A proteína M consiste em uma albumina modificada pós-traducionalmente que confirma isoladamente o diagnóstico definitivo de mieloma múltiplo em 100% dos pacientes.",
+          "Vetor 1 - Micro-Inversão Conceitual",
+          "A proteína M é uma imunoglobulina monoclonal (e não albumina modificada); sua presença isolada não fecha diagnóstico de mieloma, pois pode ocorrer na MGUS e em outras desordens.",
+          "Confundir paraproteína monoclonal com albumina e considerá-la patognomônica isoladamente."
+        ],
+        [
+          "A eletroforese de proteínas sérica detecta a proteína M em apenas 10% dos casos de mieloma, sendo a imunofixação urinária completamente ineficaz para identificação clonal.",
+          "Vetor 1 - Micro-Inversão Conceitual",
+          "A sensibilidade da eletroforese já é elevada (82%), subindo para 92% quando somada à imunofixação sérica e urinária.",
+          "Subestimar drasticamente a sensibilidade dos métodos eletroforéticos padrão."
+        ],
+        [
+          "A proteína M caracteriza-se por uma produção mista policlonal de todas as classes de anticorpos que atinge sensibilidade máxima de apenas 50% nos estágios sintomáticos.",
+          "Vetor 1 - Micro-Inversão Conceitual",
+          "A proteína M é estritamente monoclonal (derivada de um único clone neoplásico de plasmócitos) e sua detecção associada à imunofixação excede 90%.",
+          "Trocar o caráter monoclonal da proteína M por produção policlonal mista."
+        ]
+      ],
+      "rationale": "O Componente M (proteína M) é uma imunoglobulina monoclonal intacta ou cadeia leve livre produzida em excesso pelo clone de plasmócitos neoplásicos. Isoladamente, a presença da proteína M não é critério diagnóstico de Mieloma Múltiplo (já que ocorre em MGUS e macroglobulinemia de Waldenström, por exemplo). A eletroforese de proteínas convencional detecta a proteína M em 82% dos pacientes; quando associada ao exame de imunofixação, a sensibilidade combinada atinge 92%.",
+      "pearl": "Proteína M: Imunoglobulina monoclonal de plasmócitos neoplásicos. Isolada NÃO fecha diagnóstico! Detectada em 82% na eletroforese e 92% com imunofixação."
+    },
+    {
+      "tag": "Mieloma Múltiplo • Subtipos de Imunoglobulina",
+      "stem": "Um hematologista revisa os laudos de imunofixação de uma coorte de pacientes com diagnóstico confirmado de Mieloma Múltiplo. Ao correlacionar as classes de cadeias pesadas encontradas com os perfis epidemiológicos e as particularidades de apresentação clínica descritas na literatura médica especializada, qual associação entre o tipo de imunoglobulina monoclonal, sua frequência percentual e seu destaque clínico está correta?",
+      "correct": "IgG em 55% dos casos (mais frequente e de melhor prognóstico), IgA em 20% (associada a envolvimento extraósseo), cadeias leves isoladas em 16% e IgD em cerca de 2% (frequentemente associada a lesão renal grave).",
+      "distractors": [
+        [
+          "IgD em 55% dos casos (subtipo mais comum e benigno), IgG em 20% e IgA em apenas 2% com sobrevida global superior a vinte anos.",
+          "Vetor 1 - Micro-Inversão Conceitual",
+          "A IgG é o tipo mais frequente (55%), enquanto a IgD é extremamente rara (~2%) e cursa com doença agressiva e lesão renal grave.",
+          "Inverter as prevalências de IgG e IgD e minimizar a gravidade do subtipo IgD."
+        ],
+        [
+          "IgM em 70% dos casos caracterizando o mieloma mieloproliferativo típico, enquanto a IgG responde por menos de 5% de todas as gamopatias plasmocitárias.",
+          "Vetor 4 - Mimetismo Clínico / Síndrome Vizinha",
+          "Mieloma secretor de IgM é raríssimo; pico monoclonal de IgM é a marca da Macroglobulinemia de Waldenström (linfoma linfoplasmocítico), não do mieloma clássico.",
+          "Confundir o perfil imunológico do Mieloma Múltiplo com a Macroglobulinemia de Waldenström."
+        ],
+        [
+          "Cadeias leves puras em 85% dos pacientes com lesão exclusivamente cutânea, com a forma IgG restrita a casos pediátricos excepcionais.",
+          "Vetor 1 - Micro-Inversão Conceitual",
+          "Mieloma de cadeias leves puras ocorre em cerca de 16% dos pacientes; a forma IgG representa mais da metade dos casos (55%) e afeta prioritariamente adultos e idosos.",
+          "Inflacionar a forma de cadeias leves e sugerir acometimento em faixa etária pediátrica."
+        ]
+      ],
+      "rationale": "A distribuição das classes de imunoglobulinas no Mieloma Múltiplo é consolidada: (1) IgG: 55% dos casos, sendo a mais frequente e a que apresenta o curso evolutivo comparativamente mais favorável; (2) IgA: 20% dos casos, destacando-se pelo maior índice de envolvimento e infiltração extraóssea; (3) Apenas cadeias leves (proteína de Bence Jones pura): 16% dos casos; e (4) IgD: aproximadamente 2% dos casos, associando-se a lesão renal precoce e grave. IgM e IgE são raríssimos.",
+      "pearl": "Subtipos no MM: IgG 55% (mais comum, melhor prognóstico) > IgA 20% (envolvimento extraósseo) > Cadeias leves 16% > IgD ~2% (lesão renal grave)."
+    },
+    {
+      "tag": "Mieloma Múltiplo • Proteinúria de Bence Jones",
+      "stem": "Um nefrologista investiga um paciente de 60 anos com síndrome nefrótica e insuficiência renal aguda inexplicada. A fita reagente de urina (dipstick) convencional é persistentemente negativa para proteínas, porém a dosagem bioquímica de proteínas na urina de 24 horas revela proteinúria maciça de 4,5 g/dia. Em relação às propriedades de filtração glomerular e à proteína de Bence Jones no Mieloma Múltiplo, qual explicação justifica esse achado?",
+      "correct": "Imunoglobulinas intactas são grandes e não atravessam a barreira glomerular normal, enquanto cadeias leves livres são pequenas, sendo prontamente filtradas e excretadas na urina como proteína de Bence Jones, presente em 40% dos pacientes com mieloma.",
+      "distractors": [
+        [
+          "A fita de urina é seletiva para imunoglobulinas poliméricas intactas de alto peso molecular, não detectando albumina plasmática comum.",
+          "Vetor 1 - Micro-Inversão Conceitual",
+          "A fita reagente urinária (dipstick) é sensível quase que exclusivamente à albumina; as cadeias leves livres (Bence Jones) não são detectadas pela fita, gerando falso-negativo na urina tipo 1.",
+          "Inverter a afinidade bioquímica do teste de fita reagente urinária de rotina."
+        ],
+        [
+          "As cadeias leves livres são macromoléculas poliméricas gigantes incapazes de sofrer filtração glomerular, aparecendo na urina apenas em casos de ruptura vesical traumática.",
+          "Vetor 1 - Micro-Inversão Conceitual",
+          "Cadeias leves livres (kappa ou lambda) possuem baixo peso molecular (~22-25 kDa) e são livremente filtradas pelo glomérulo, acumulando-se no túbulo renal.",
+          "Caracterizar erroneamente as cadeias leves livres como macromoléculas de alto peso molecular."
+        ],
+        [
+          "A presença de proteinúria de Bence Jones ocorre em 100% dos pacientes com mieloma e traduz invariavelmente uma glomerulonefrite pós-estreptocócica curável.",
+          "Vetor 1 - Micro-Inversão Conceitual",
+          "A proteinúria de Bence Jones ocorre em cerca de 40% dos pacientes com mieloma múltiplo (em 15-20% o clone secreta apenas Bence Jones) e nada tem a ver com sequela estreptocócica.",
+          "Generalizar a frequência para 100% e atribuir etiologia infecciosa pós-estreptocócica."
+        ]
+      ],
+      "rationale": "As imunoglobulinas completas intactas (peso molecular ~150-160 kDa) são grandes demais para ultrapassar os podócitos e a membrana basal glomerular sadia. Em contraste, as cadeias leves livres (kappa ou lambda) possuem peso de apenas 22 a 25 kDa, sendo facilmente filtradas na luz tubular. Quando excedem a capacidade de reabsorção do túbulo proximal, aparecem na urina como proteína de Bence Jones, fenômeno presente em 40% dos pacientes com MM (sendo que 15-20% dos clones secretam exclusivamente cadeias leves). As tiras de dipstick detectam albumina, não cadeias leves.",
+      "pearl": "Cadeias leves livres são pequenas e passam no glomérulo (Bence Jones); presentes em 40% dos pacientes com MM. Em 15-20% dos casos, o clone secreta apenas Bence Jones."
+    },
+    {
+      "tag": "Mieloma Múltiplo • Nomenclatura e Tipos de Cadeia",
+      "stem": "Um residente de primeiro ano analisa quatro laudos de imunofixação sérica e urinária de diferentes pacientes encaminhados ao serviço de hematologia. Para preencher adequadamente o prontuário eletrônico com a correta classificação molecular da gamopatia monoclonal, qual das seguintes descrições ilustra de forma correta a composição e nomenclatura estrutural dessas imunoglobulinas monoclonais?",
+      "correct": "IgG kappa é formada pela cadeia pesada IgG combinada à cadeia leve kappa (κ); a forma só cadeias leves possui apenas cadeias leves livres kappa ou lambda, desprovidas de cadeia pesada.",
+      "distractors": [
+        [
+          "IgG kappa é composta estritamente por duas cadeias leves do tipo kappa unidas entre si sem qualquer domínio proteico constante pesado.",
+          "Vetor 1 - Micro-Inversão Conceitual",
+          "Uma IgG kappa é uma imunoglobulina completa formada por cadeia pesada do tipo gama (IgG) e cadeia leve kappa (κ).",
+          "Omitir a presença da cadeia pesada correspondente na estrutura molecular da IgG kappa."
+        ],
+        [
+          "Mieloma de cadeias leves puras expressa simultaneamente cadeias pesadas intactas IgM e IgA ligadas covalentemente no sangue.",
+          "Vetor 1 - Micro-Inversão Conceitual",
+          "No mieloma de cadeias leves puras ('só cadeias leves'), o clone não produz cadeias pesadas intactas, produzindo e secretando exclusivamente cadeias leves kappa ou lambda.",
+          "Afirmar a existência de cadeias pesadas em um subtipo conceituado como livre de cadeias pesadas."
+        ],
+        [
+          "IgM lambda é composta unicamente por cadeias leves lambda livres sem qualquer síntese de cadeia pesada de superfície.",
+          "Vetor 1 - Micro-Inversão Conceitual",
+          "A IgM lambda contém necessariamente a cadeia pesada mu (IgM) ligada à cadeia leve lambda (λ).",
+          "Excluir a cadeia pesada mu na composição de uma imunoglobulina da classe IgM."
+        ]
+      ],
+      "rationale": "A classificação da proteína monoclonal baseia-se na identificação isotípica de seus componentes: uma imunoglobulina monoclonal intacta é constituída por uma cadeia pesada (IgG, IgA, IgM, IgD ou IgE) associada a uma única classe de cadeia leve restrita, kappa (κ) ou lambda (λ) — por exemplo, IgG kappa ou IgM lambda. Quando a mutação afeta a síntese ou montagem da cadeia pesada, o clone pode produzir 'só cadeias leves' (apenas κ ou λ livres, sem cadeia pesada).",
+      "pearl": "Nomenclatura: Cadeia pesada (IgG/IgA/IgM) + Cadeia leve (κ ou λ). Em 'só cadeias leves', há produção exclusiva de kappa ou lambda sem cadeia pesada."
+    },
+    {
+      "tag": "Mieloma Múltiplo • Eletroforese de Proteínas Normal",
+      "stem": "Durante uma discussão sobre interpretação da Eletroforese de Proteínas Séricas (EPS) normal, o professor apresenta os valores de referência das cinco principais frações proteicas obtidas em um indivíduo adulto saudável. Em relação aos valores padrão de referência e ao comportamento de migração das imunoglobulinas nas diferentes frações eletroforéticas, qual informação está correta?",
+      "correct": "A fração albumina tem referência de 3,5 a 5,5 g/dL e a fração gama de 0,8 a 1,6 g/dL; as imunoglobulinas IgG, IgM e cadeias leves migram predominantemente na região gama, enquanto a IgA pode migrar na região beta.",
+      "distractors": [
+        [
+          "A fração albumina normal situa-se entre 0,2 e 0,4 g/dL e representa a menor fração proteica circulante do soro humano.",
+          "Vetor 1 - Micro-Inversão Conceitual",
+          "A albumina é a fração mais abundante (3,5 a 5,5 g/dL); a faixa de 0,2 a 0,4 g/dL corresponde à alfa-1 globulina.",
+          "Confundir os valores de referência da albumina com os da fração alfa-1 globulina."
+        ],
+        [
+          "Todas as classes de imunoglobulinas normais do organismo migram exclusivamente na fração alfa-1 globulina, deixando a zona gama anérgica.",
+          "Vetor 1 - Micro-Inversão Conceitual",
+          "A fração alfa-1 contém alfa-1-antitripsina; os anticorpos migram na zona gama (IgG, IgM) e na transição beta-gama ou beta (IgA).",
+          "Deslocar a migração das imunoglobulinas da região gama/beta para a fração alfa-1."
+        ],
+        [
+          "As proteínas totais normais variam de 1,0 a 2,0 g/dL, sendo a fração beta a principal responsável pela pressão oncótica intravascular.",
+          "Vetor 1 - Micro-Inversão Conceitual",
+          "O valor normal de proteínas totais é de 6,0 a 8,0 g/dL, e a albumina é a principal responsável pela pressão coloidosmótica/oncótica do plasma.",
+          "Subestimar em mais de 70% o valor de referência das proteínas totais plasmáticas."
+        ]
+      ],
+      "rationale": "Na Eletroforese de Proteínas Séricas (EPS) normal, os valores de referência consolidados são: Albumina: 3,5 a 5,5 g/dL; Alfa-1: 0,2 a 0,4 g/dL; Alfa-2: 0,4 a 0,7 g/dL; Beta: 0,7 a 1,0 g/dL; Gama: 0,8 a 1,6 g/dL; Proteínas Totais: 6,0 a 8,0 g/dL. No traçado, IgG, IgM e cadeias leves livres migram preferencialmente na zona gama, enquanto a IgA frequentemente migra na fração beta ou na junção beta-gama.",
+      "pearl": "EPS normal: Albumina 3,5–5,5 | Gama 0,8–1,6 | PT 6,0–8,0 g/dL. IgG e IgM migram na gama; IgA costuma migrar na beta."
+    },
+    {
+      "tag": "Mieloma Múltiplo • Pico Monoclonal vs Policlonal",
+      "stem": "Um clínico geral recebe os traçados gráficos de eletroforese de proteínas de dois pacientes: o Paciente 1 apresenta um pico hiperdenso, pontiagudo e com base estreita na região gama; o Paciente 2 apresenta uma elevação difusa, homogênea e de base larga distribuída por toda a extensão da zona gama. Qual é a interpretação fisiopatológica e o significado clínico correto desses dois padrões gráficos?",
+      "correct": "O pico de base estreita do Paciente 1 traduz uma gamopatia monoclonal típica da proliferação de um único clone plasmocitário (como no mieloma), enquanto a elevação de base larga do Paciente 2 traduz uma gamopatia policlonal característica de doenças inflamatórias ou infecciosas crônicas.",
+      "distractors": [
+        [
+          "O pico estreito do Paciente 1 representa reação inflamatória inespecífica autolimitada, enquanto a base larga do Paciente 2 confirma mieloma múltiplo anaplásico.",
+          "Vetor 1 - Micro-Inversão Conceitual",
+          "Houve inversão dos conceitos: o pico estreito e pontiagudo reflete produção monoclonal neoplásica (um único clone de MM), enquanto a base larga reflete anticorpos de múltiplos clones ativados por inflamação crônica.",
+          "Inverter o significado de pico monoclonal (base estreita) e gamopatia policlonal (base larga)."
+        ],
+        [
+          "Ambos os padrões são idênticos em significado patológico e decorrem exclusivamente de hiper-hidratação volêmica com diluição proteica.",
+          "Vetor 1 - Micro-Inversão Conceitual",
+          "Os dois padrões são morfologicamente e clinicamente distintos: um reflete clonalidade (monoclonal) e o outro reflete estimulação de múltiplos linfócitos B por citocinas inflamatórias.",
+          "Considerar idênticos dois padrões eletroforéticos opostos e atribuí-los a erro pré-analítico volêmico."
+        ],
+        [
+          "O pico estreito é patognomônico de cirrose hepática em estágio terminal, enquanto a base larga diagnostica precocemente a nefropatia por amiloidose primária.",
+          "Vetor 4 - Mimetismo Clínico / Síndrome Vizinha",
+          "A cirrose hepática cursa com hipergamaglobulinemia policlonal (base larga com fusão beta-gama), não com pico monoclonal estreito.",
+          "Associar o pico monoclonal pontiagudo à insuficiência hepática crônica cirrótica."
+        ]
+      ],
+      "rationale": "A morfologia da curva eletroforética é determinante: (1) Gamopatia monoclonal (Pico M): caracteriza-se por um pico alto, delgado, estreito e pontiagudo, denotando a produção uniforme de uma única imunoglobulina por um clone plasmocitário neoplásico (típico do Mieloma Múltiplo e MGUS); (2) Gamopatia policlonal: exibe base larga e cúpula arredondada na região gama, refletindo a síntese de imunoglobulinas heterogêneas por múltiplos clones de linfócitos B ativados em resposta a estímulos inflamatórios, autoimunes ou infecciosos crônicos.",
+      "pearl": "Pico estreito = Monoclonal (1 clone -> MM / MGUS). Base larga = Policlonal (múltiplos clones -> infecções / doenças crônicas)."
+    },
+    {
+      "tag": "Mieloma Múltiplo • Papel da Imunofixação",
+      "stem": "Um homem de 63 anos apresenta anemia normocítica sem causa evidente e dores ósseas. A eletroforese sérica evidenciou uma banda assimétrica tênue, suspeita para proteína monoclonal. O médico solicita imunofixação sérica e urinária de 24 horas. Qual é o papel técnico e diagnóstico específico da imunofixação e qual a sua contribuição na avaliação das cadeias leves?",
+      "correct": "A imunofixação define a classe exata da cadeia pesada da proteína M (IgG, IgA, IgD, IgM ou IgE) e identifica a restrição clonal da cadeia leve (kappa ou lambda), permitindo a detecção de cadeias leves livres na urina de 24 horas (proteinúria de Bence Jones).",
+      "distractors": [
+        [
+          "A imunofixação é um teste enzimático que quantifica a atividade da fosfatase alcalina óssea sem capacidade de distinguir classes de imunoglobulinas.",
+          "Vetor 1 - Micro-Inversão Conceitual",
+          "A imunofixação combina eletroforese com imunoprecipitação com antissoros específicos para identificar os tipos de cadeia pesada e leve da proteína monoclonal.",
+          "Confundir o teste imunológico de imunofixação com a dosagem de enzimas ósseas osteoblásticas."
+        ],
+        [
+          "O exame tem utilidade restrita a quantificar a perda urinária de albumina em pacientes diabéticos, sendo inútil para avaliar cadeias kappa e lambda.",
+          "Vetor 1 - Micro-Inversão Conceitual",
+          "A imunofixação urinária não se destina à microalbuminúria do diabetes; sua finalidade primária é detectar cadeias leves livres monoclonais filtradas na urina.",
+          "Reduzir a imunofixação a um teste rotineiro de microalbuminúria diabética."
+        ],
+        [
+          "A imunofixação foi formalmente descontinuada na prática clínica por apresentar sensibilidade inferior a 15% na detecção de proteínas anômalas.",
+          "Vetor 1 - Micro-Inversão Conceitual",
+          "A imunofixação eleva a sensibilidade diagnóstica de 82% (apenas eletroforese) para 92%, sendo exame obrigatório na propedêutica de gamopatias monoclonais.",
+          "Declarar falsamente a descontinuação e baixa sensibilidade de um exame padrão-ouro."
+        ]
+      ],
+      "rationale": "A imunofixação (sérica e de urina de 24h) é indispensável para: (1) definir a classe da cadeia pesada da imunoglobulina monoclonal (IgG, IgA, IgD, IgM ou IgE); (2) caracterizar o tipo de cadeia leve envolvida (kappa ou lambda); e (3) detectar cadeias leves livres que escapam à filtração glomerular na urina de 24 horas (proteinúria de Bence Jones). Sua realização conjunta com a eletroforese eleva a sensibilidade de 82% para 92%.",
+      "pearl": "Imunofixação: Identifica o isotipo da cadeia pesada (IgG, IgA...) e leve (κ ou λ). Na urina de 24h, detecta a proteína de Bence Jones."
+    },
+    {
+      "tag": "Mieloma Múltiplo • Caso Clínico 1 (Pico em Beta)",
+      "stem": "Uma paciente de 55 anos, em acompanhamento por artrite reumatoide em uso de anti-TNFα e metotrexato, evolui com piora de poliartralgia, lesões osteolíticas e creatinina de 1,9 mg/dL. A eletroforese de proteínas séricas revela: Proteínas totais: 8,88 g/dL (ref. 6,6–8,3); Beta-2-globulina: 3,58 g/dL (ref. 0,17–0,48); Componente M: 2,72 g/dL (ref. 0,56–1,29); e Gamaglobulina: 0,33 g/dL (ref. 0,70–1,68). Diante desse perfil, qual é a interpretação do pico e a hipótese do subtipo de imunoglobulina monoclonal envolvido?",
+      "correct": "Presença de pico monoclonal proeminente na região beta com hipogamaglobulinemia concomitante, achado altamente característico de Mieloma Múltiplo secretor de IgA, demandando imunofixação sérica para confirmação definitiva da cadeia pesada e leve.",
+      "distractors": [
+        [
+          "Traçado eletroforético estritamente normal com elevação reacional de gamaglobulinas típica de crise aguda inflamatória de artrite reumatoide.",
+          "Vetor 1 - Micro-Inversão Conceitual",
+          "O traçado é profundamente patológico: há componente M elevado a 2,72 g/dL na fração beta-2 e hipogamaglobulinemia (gama 0,33 g/dL), excluindo reação inflamatória policlonal.",
+          "Classificar como normal e reacional um traçado com pico monoclonal evidente e hipogamaglobulinemia."
+        ],
+        [
+          "Pico na fração beta exclusivo de gamopatia monoclonal IgM pura que afasta completamente o diagnóstico de mieloma e sela lupus sistêmico.",
+          "Vetor 4 - Mimetismo Clínico / Síndrome Vizinha",
+          "A imunoglobulina que frequentemente migra na região beta ou beta-2 é a IgA (devido às suas propriedades de carga e peso); a IgM costuma migrar na zona gama.",
+          "Atribuir o pico na região beta à IgM e desviar o diagnóstico para lúpus eritematoso."
+        ],
+        [
+          "Elevação pura e isolada de alfa-fetoproteína secundária a carcinoma hepatocelular primário em estágio cirúrgico avançado.",
+          "Vetor 4 - Mimetismo Clínico / Síndrome Vizinha",
+          "O exame em questão é a eletroforese de proteínas séricas demonstrando componente monoclonal (proteína M) em beta-2, quadro clássico do Caso 1 (mieloma IgA).",
+          "Desviar um caso clínico onco-hematológico clássico para neoplasia hepática primária."
+        ]
+      ],
+      "rationale": "No Caso Clínico 1, a paciente apresenta hiperproteinemia (8,88 g/dL) às custas de um componente M de 2,72 g/dL localizado na fração beta-2-globulina (elevada para 3,58 g/dL), associada a acentuada supressão da fração gama (0,33 g/dL - hipogamaglobulinemia de anticorpos normais). Como a imunoglobulina monoclonal da classe IgA migra frequentemente na região beta (ou junção beta-gama), esse padrão aponta fortemente para Mieloma Múltiplo do subtipo IgA, cuja confirmação é feita por imunofixação.",
+      "pearl": "Pico monoclonal na região BETA com hipogamaglobulinemia = forte suspeita de Mieloma secretor de IgA."
+    },
+    {
+      "tag": "Mieloma Múltiplo • Caso Clínico 1 (Biópsia de Medula)",
+      "stem": "Em continuidade à investigação da paciente de 55 anos (Caso Clínico 1), procede-se à biópsia de medula óssea e imuno-histoquímica. O laudo revela: série eritroide hipocelular, granulocítica hipercelular, megacariócitos com atipia e plasmócitos correspondendo a 30% da celularidade total da medula. O painel imuno-histoquímico evidencia positividade para CD138+, CD45+ e restrição para cadeia leve lambda (λ+). Qual é a interpretação citológica e imunofenotípica desses resultados?",
+      "correct": "Confirmação de neoplasia plasmocitária clonal medular, na qual a celularidade de 30% preenche o critério maior (≥ 10%), o marcador CD138+ identifica a linhagem de plasmócitos e a positividade lambda+ comprova a clonalidade.",
+      "distractors": [
+        [
+          "Ausência de malignidade hematológica, pois a taxa de plasmócitos de 30% encontra-se dentro dos limites fisiológicos da medula óssea normal (até 45%).",
+          "Vetor 1 - Micro-Inversão Conceitual",
+          "Na medula óssea normal os plasmócitos representam menos de 5% da celularidade; níveis ≥ 10% definem infiltração neoplásica plasmocitária clonal no mieloma.",
+          "Tratar 30% de plasmócitos na medula como um achado fisiológico normal."
+        ],
+        [
+          "Diagnóstico de leucemia mieloide aguda indiferenciada primária, visto que o CD138 é marcador exclusivo de blastos eritroides imaturos.",
+          "Vetor 1 - Micro-Inversão Conceitual",
+          "O CD138 (sindecan-1) é o principal marcador fenotípico de plasmócitos, não tendo relação com blastos eritroides ou leucemia mieloide aguda.",
+          "Atribuir a especificidade do marcador CD138 à linhagem mieloide e não a plasmócitos."
+        ],
+        [
+          "Gamopatia policlonal reacional secundária, demonstrada pela expressão mista equilibrada e desordenada das cadeias leves kappa e lambda.",
+          "Vetor 1 - Micro-Inversão Conceitual",
+          "A imuno-histoquímica demonstrou restrição pura para cadeia leve lambda (lambda+), o que constitui a comprovação definitiva de proliferação clonal (e não policlonal).",
+          "Ignorar a restrição de cadeia leve lambda que comprova a monoclonalidade do tumor."
+        ]
+      ],
+      "rationale": "Os achados da biópsia e imuno-histoquímica do Caso Clínico 1 selam o diagnóstico de Mieloma Múltiplo: (1) Infiltração por plasmócitos de 30% (o critério morfológico maior exige ≥ 10%); (2) Expressão de CD138+, o marcador patognomônico de superfície de plasmócitos; (3) Positividade isolada para cadeia leve lambda (Lambda+), comprovando a restrição isotípica e clonalidade tumoral; e (4) CD45+, confirmando a linhagem hematológica.",
+      "pearl": "Biópsia de medula no MM: Plasmócitos ≥ 10% + CD138+ (identifica plasmócito) + restrição de cadeia leve (κ+ ou λ+ comprovando clonalidade)."
+    },
+    {
+      "tag": "Mieloma Múltiplo • Suspeita Clínica e Sinais de Alerta",
+      "stem": "Um médico de família atende em uma Unidade Básica de Saúde um homem de 52 anos que relata dores ósseas persistentes na região lombar e nas costelas com mais de 3 meses de duração. O paciente refere que a dor não melhora com anti-inflamatórios comuns e o acorda durante a noite. Quais sinais de alerta clínicos e alterações laboratoriais preliminares devem levantar imediatamente a suspeita de Mieloma Múltiplo nesse contexto?",
+      "correct": "Dor óssea persistente em paciente com mais de 40 anos sem causa aparente (principalmente noturna ou em repouso), associada a aumento de proteínas no sangue ou na urina, hipercalcemia, insuficiência renal ou anemia sem causa explicável.",
+      "distractors": [
+        [
+          "Dor lombar que cessa instantaneamente à hiperextensão do tronco em paciente abaixo dos 20 anos, associada a microcitose extrema e plaquetocitose acima de um milhão.",
+          "Vetor 1 - Micro-Inversão Conceitual",
+          "A dor do mieloma ocorre em maiores de 40 anos, piora ao repouso/noturna e associa-se a anemia normocítica, aumento de proteínas, insuficiência renal e hipercalcemia.",
+          "Trocar a faixa etária para jovens e descrever parâmetros laboratoriais incompatíveis com o MM."
+        ],
+        [
+          "Poliúria osmótica e polidipsia associadas exclusivamente a hipocalcemia severa e retração da fração de gamaglobulinas abaixo de zero.",
+          "Vetor 1 - Micro-Inversão Conceitual",
+          "O mieloma cursa tipicamente com hipercalcemia (e não hipocalcemia), decorrente da destruição óssea osteoclástica.",
+          "Trocar a hipercalcemia marcante do mieloma por hipocalcemia."
+        ],
+        [
+          "Febre alta remitente com calafrios diários em paciente sem queixas ósseas e com eletroforese de proteínas revelando hipoproteinemia pura com albumina de 6,5 g/dL.",
+          "Vetor 1 - Micro-Inversão Conceitual",
+          "O mieloma é marcado por dor óssea persistente e hiperproteinemia decorrente do pico monoclonal; além disso, albumina de 6,5 g/dL é acima do normal, não hipoproteinemia.",
+          "Descrever um quadro infeccioso febril puro desvinculado dos sintomas esqueléticos típicos."
+        ]
+      ],
+      "rationale": "Deve-se suspeitar ativamente de Mieloma Múltiplo diante de: (1) Dor óssea persistente em pacientes com idade superior a 40 anos, sem etiologia aparente, particularmente noturna ou presente ao repouso; (2) Alterações laboratoriais sugestivas: hiperproteinemia no sangue, proteinúria, hipercalcemia, elevação de creatinina / insuficiência renal ou anemia normocítica sem causa óbvia; e (3) Outros comemorativos: fadiga intensa, perda ponderal e infecções recorrentes.",
+      "pearl": "Quando suspeitar de MM: Dor óssea persistente em > 40 anos (noturna/repouso) + Anemia inexplicada + Creatinina/Cálcio/Proteínas elevados."
+    },
+    {
+      "tag": "Mieloma Múltiplo • Sinais de Alerta Sistêmicos",
+      "stem": "Durante uma discussão sobre sinais de alerta para neoplasias hematológicas na atenção primária, revisam-se os critérios objetivos que definem síndrome consumptiva, febre de origem indeterminada e hipercalcemia de alerta no Mieloma Múltiplo. Quais parâmetros clínicos e laboratoriais representam sinais de alerta objetivos consolidados para essa investigação?",
+      "correct": "Perda de peso superior a 5% em 3 meses ou 10% em 6 meses (síndrome consumptiva), febre superior a 37,8 °C por mais de 3 semanas sem diagnóstico e cálcio sérico superior a 10,5 mg/dL.",
+      "distractors": [
+        [
+          "Perda ponderal menor que 1% em um ano, temperatura axilar axilar aferida de 36,8 °C e cálcio sérico inferior a 7,0 mg/dL.",
+          "Vetor 1 - Micro-Inversão Conceitual",
+          "A síndrome consumptiva exige perda relevante (> 5% em 3 meses ou > 10% em 6 meses), a febre de alerta exige > 37,8 °C por > 3 semanas e a hipercalcemia de alerta é cálcio > 10,5 mg/dL.",
+          "Minimizar os pontos de corte objetivos para valores normais ou de hipocalcemia."
+        ],
+        [
+          "Ganho súbito de peso superior a 15% em 2 semanas com febre vespertina de 40 °C por no máximo 24 horas e cálcio normal de 8,5 mg/dL.",
+          "Vetor 1 - Micro-Inversão Conceitual",
+          "No mieloma ocorre perda ponderal progressiva (síndrome consumptiva), e a hipercalcemia (> 10,5 mg/dL) é um dos principais sinais de alarme.",
+          "Substituir a síndrome consumptiva por ganho ponderal agudo e normalizar os níveis de cálcio."
+        ],
+        [
+          "Perda ponderal restrita a crianças desnutridas e febre mantida por mais de 6 meses acompanhada de hipocalcemia de 4,0 mg/dL.",
+          "Vetor 1 - Micro-Inversão Conceitual",
+          "O mieloma predomina em adultos maduros e idosos (> 50 anos) e cursa com risco de hipercalcemia decorrente de osteólise, nunca hipocalcemia crônica infantil.",
+          "Transferir o contexto do mieloma para a pediatria e alegar hipocalcemia grave."
+        ]
+      ],
+      "rationale": "Os sinais de alerta formais no contexto de suspeita de Mieloma Múltiplo incluem: (1) Síndrome consumptiva: perda involuntária de peso > 5% em 3 meses ou > 10% em 6 meses; (2) Febre de origem indeterminada: temperatura > 37,8 °C por mais de 3 semanas sem foco definido; (3) Hipercalcemia de alarme: cálcio sérico > 10,5 mg/dL; além de dor óssea persistente refratária a analgésicos e manifestações hemorrágicas mucosas.",
+      "pearl": "Sinais de alerta no MM: Perda de peso > 5% em 3 meses ou > 10% em 6 meses | Febre > 37,8 °C por > 3 semanas | Cálcio sérico > 10,5 mg/dL."
+    },
+    {
+      "tag": "Mieloma Múltiplo • Critérios CRAB (Hipercalcemia)",
+      "stem": "Um homem de 66 anos comparece à consulta com astenia intensa, constipação intestinal nova e sonolência. A investigação diagnóstica confirma a presença de pico monoclonal sérico e infiltração plasmocitária na medula óssea. Ao avaliar a presença de lesão de órgão-alvo para diferenciar mieloma múltiplo sintomático de gamopatia monoclonal indolente, qual é o ponto de corte do cálcio sérico que preenche formalmente o critério 'C' do mnemônico CRAB?",
+      "correct": "Cálcio sérico superior a 11 mg/dL (ou mais de 1 mg/dL acima do limite superior da normalidade).",
+      "distractors": [
+        [
+          "Cálcio sérico superior a 8,5 mg/dL, independentemente de valores laboratoriais basais prévios do paciente.",
+          "Vetor 1 - Micro-Inversão Conceitual",
+          "A faixa de 8,5 a 10,5 mg/dL é o intervalo de referência da normalidade; o critério CRAB para hipercalcemia exige cálcio > 11,0 mg/dL.",
+          "Definir o critério CRAB de hipercalcemia utilizando o limite inferior da faixa normal de cálcio."
+        ],
+        [
+          "Cálcio sérico inferior a 7,5 mg/dL acompanhado de tetania muscular involuntária e sinal de Trousseau positivo.",
+          "Vetor 1 - Micro-Inversão Conceitual",
+          "O mieloma causa hipercalcemia por destruição óssea; hipocalcemia (< 7,5 mg/dL) com tetania é incompatível com o critério CRAB do mieloma.",
+          "Trocar a hipercalcemia do critério CRAB por hipocalcemia e manifestações de tetania."
+        ],
+        [
+          "Cálcio sérico superior a 25 mg/dL exclusivamente documentado na urina de 24 horas em repouso estrito.",
+          "Vetor 1 - Micro-Inversão Conceitual",
+          "O critério 'C' do CRAB baseia-se na dosagem de cálcio no sangue (cálcio sérico > 11 mg/dL), não em calciúria superior a 25.",
+          "Mudar o compartimento biológico avaliado de sérico para urinário e elevar absurdamente o corte."
+        ]
+      ],
+      "rationale": "No mnemônico CRAB, a letra 'C' refere-se à Hipercalcemia (Hypercalcemia), definida pelo International Myeloma Working Group e pela literatura consagrada como: cálcio sérico > 11 mg/dL (ou elevação > 1 mg/dL acima do limite superior da normalidade do laboratório). Decorre da ativação desregulada de osteoclastos e reabsorção óssea maciça.",
+      "pearl": "CRAB - 'C' (Cálcio): Cálcio sérico > 11 mg/dL (ou > 1 mg/dL acima do limite superior normal)."
+    },
+    {
+      "tag": "Mieloma Múltiplo • Critérios CRAB (Dano Renal)",
+      "stem": "Uma paciente de 69 anos, com dores em arcos costais e diagnóstico de neoplasia plasmocitária, realiza avaliação de função renal. Ao revisar os critérios diagnósticos de lesão de órgão-alvo do Mieloma Múltiplo, a equipe médica analisa os valores laboratoriais renais. Qual ponto de corte de creatinina sérica ou de clearance de creatinina preenche os critérios objetivos da letra 'R' do CRAB?",
+      "correct": "Creatinina sérica superior a 2,0 mg/dL ou clearance de creatinina estimado inferior a 40 mL/min.",
+      "distractors": [
+        [
+          "Creatinina sérica superior a 0,6 mg/dL ou clearance de creatinina superior a 120 mL/min.",
+          "Vetor 1 - Micro-Inversão Conceitual",
+          "Creatinina de 0,6 mg/dL e clearance de 120 mL/min representam função renal excelente e preservada; o critério CRAB exige disfunção renal com Cr > 2,0 mg/dL ou ClCr < 40 mL/min.",
+          "Utilizar parâmetros de função renal normal e hiperfiltração como critério de dano de órgão-alvo."
+        ],
+        [
+          "Creatinina sérica mantida entre 0,8 e 1,2 mg/dL com presença obrigatória de hematúria macroscópica em três amostras.",
+          "Vetor 1 - Micro-Inversão Conceitual",
+          "Valores entre 0,8 e 1,2 mg/dL são normais; o critério de disfunção renal do CRAB exige creatinina sérica francamente elevada (> 2,0 mg/dL).",
+          "Tomar a faixa normal de creatinina e exigir hematúria como critério diagnóstico."
+        ],
+        [
+          "Clearance de creatinina inferior a 85 mL/min acompanhado de proteinúria isolada menor que 50 mg em 24 horas.",
+          "Vetor 1 - Micro-Inversão Conceitual",
+          "O ponto de corte no CRAB para o clearance de creatinina é estritamente < 40 mL/min (insuficiência renal moderada a grave).",
+          "Adotar um ponto de corte excessivamente brando de depuração renal."
+        ]
+      ],
+      "rationale": "No mnemônico CRAB, a letra 'R' define o acometimento Renal (Renal failure), estabelecido formalmente como: Creatinina sérica > 2,0 mg/dL ou Clearance de creatinina estimado < 40 mL/min. Essa lesão decorre principalmente da nefropatia por cilindros de cadeias leves (rim do mieloma).",
+      "pearl": "CRAB - 'R' (Renal): Creatinina sérica > 2,0 mg/dL ou Clearance de creatinina < 40 mL/min."
+    },
+    {
+      "tag": "Mieloma Múltiplo • Critérios CRAB (Anemia)",
+      "stem": "Um homem de 61 anos com gamopatia monoclonal sob investigação realiza hemograma que evidencia hemoglobina de 9,2 g/dL. O paciente desconhecia valores basais prévios de hemoglobina. Ao avaliar se essa alteração hematimétrica satisfaz os critérios de lesão de órgão-alvo atribuíveis ao Mieloma Múltiplo, qual é a definição quantitativa exata da letra 'A' do CRAB?",
+      "correct": "Concentração de hemoglobina inferior a 10 g/dL ou queda superior a 2 g/dL em relação ao valor basal de referência do paciente.",
+      "distractors": [
+        [
+          "Hemoglobina inferior a 13,5 g/dL exclusivamente em homens assintomáticos sem qualquer queda relativa prévia.",
+          "Vetor 1 - Micro-Inversão Conceitual",
+          "Hemoglobina de 13,5 g/dL é normal ou ligeiramente limítrofe no homem; o critério 'A' do CRAB define anemia significativa com Hb < 10,0 g/dL ou redução > 2,0 g/dL do basal.",
+          "Confundir o corte de anemia leve populacional com o limiar estrito do critério CRAB (Hb < 10)."
+        ],
+        [
+          "Queda isolada de hemoglobina maior que 0,5 g/dL acompanhada de contagem de reticulócitos superior a 15%.",
+          "Vetor 1 - Micro-Inversão Conceitual",
+          "A queda requerida no CRAB é de mais de 2 g/dL abaixo do normal, e a anemia do mieloma é hipoproliferativa (ocupação medular e baixa EPO), não hiper-reticulocitária.",
+          "Minimizar a queda de hemoglobina necessária e sugerir anemia hemolítica reticulocítica."
+        ],
+        [
+          "Hemoglobina inferior a 5 g/dL associada obrigatoriamente a choque hemorrágico com necessidade de transfusão imediata.",
+          "Vetor 1 - Micro-Inversão Conceitual",
+          "O ponto de corte formal é Hb < 10 g/dL; aguardar níveis extremos como 5 g/dL causaria retardo diagnóstico inaceitável.",
+          "Superestimar a gravidade da anemia fixando um corte excessivamente baixo e tardio."
+        ]
+      ],
+      "rationale": "No mnemônico CRAB, a letra 'A' representa a Anemia, definida pelo International Myeloma Working Group como: dosagem de hemoglobina < 10 g/dL (ou redução > 2 g/dL abaixo do limite inferior da normalidade do indivíduo). A anemia no mieloma decorre primariamente da infiltração da medula pelos plasmócitos, deficiência relativa de EPO e inflamação crônica.",
+      "pearl": "CRAB - 'A' (Anemia): Hemoglobina < 10 g/dL ou queda > 2 g/dL abaixo do valor normal."
+    },
+    {
+      "tag": "Mieloma Múltiplo • Critérios CRAB (Lesões Ósseas)",
+      "stem": "Uma paciente de 71 anos com diagnóstico de proliferação clonal de plasmócitos é submetida a tomografia computadorizada de baixa dose de corpo inteiro, que demonstra uma única lesão osteolítica típica de 1,5 cm na asa do ilíaco direito. A paciente é assintomática do ponto de vista álgico nesse local. Em relação à avaliação de dano ósseo para caracterização de Mieloma Múltiplo ativo, qual é o critério definidor da letra 'B' do CRAB?",
+      "correct": "Presença de pelo menos uma ou mais lesões osteolíticas evidentes no esqueleto documentadas por radiografia convencional, tomografia computadorizada ou PET-TC.",
+      "distractors": [
+        [
+          "Necessidade obrigatória de pelo menos cinco fraturas patológicas cominutivas simultâneas em ossos longos periféricos.",
+          "Vetor 1 - Micro-Inversão Conceitual",
+          "Basta uma única lesão osteolítica (≥ 1 lesão lítica) detectada por método de imagem para preencher o critério 'B' do CRAB; não se exige fratura múltipla cominutiva.",
+          "Exigir número exagerado de fraturas ósseas cominutivas para pontuar no critério ósseo."
+        ],
+        [
+          "Presença de nódulos osteoblásticos densos hipercaptantes exclusivamente visualizados por cintilografia com tecnécio-99m.",
+          "Vetor 1 - Micro-Inversão Conceitual",
+          "O mieloma produz lesões osteolíticas ('furadas') e a cintilografia óssea é notoriamente insensível (falso-negativa) por não haver osteoblastogênese reparadora captante de tecnécio.",
+          "Confundir lesões osteolíticas com nódulos osteoblásticos e priorizar a cintilografia tradicional."
+        ],
+        [
+          "Espessamento generalizado do periósteo em crânio sem qualquer evidência de falha lítica trabecular.",
+          "Vetor 1 - Micro-Inversão Conceitual",
+          "No mieloma ocorre osteólise trabecular e cortical bem circunscrita ('em saca-bocado'), sem espessamento ou proliferação periosteal.",
+          "Trocar a perda de substância óssea por espessamento periosteal."
+        ]
+      ],
+      "rationale": "No mnemônico CRAB, a letra 'B' refere-se ao dano ósseo (Bone lesions), caracterizado pela presença de uma ou mais lesões osteolíticas (≥ 1 lesão lítica) identificadas em radiografia convencional de esqueleto, tomografia computadorizada ou PET-TC. A detecção de ao menos uma lesão lítica define dano de órgão-alvo atribuível ao mieloma.",
+      "pearl": "CRAB - 'B' (Bone): ≥ 1 lesão osteolítica detectada em Radiografia, TC ou PET-TC."
+    },
+    {
+      "tag": "Mieloma Múltiplo • Frequência das Manifestações",
+      "stem": "Durante uma discussão sobre o quadro clínico do Mieloma Múltiplo na enfermaria de hematologia, os residentes revisam a frequência percentual relativa com que as diferentes manifestações clínicas clássicas se apresentam ao diagnóstico ou durante o curso da doença. Qual das alternativas apresenta a correta correlação percentual dessas manifestações conforme a literatura consagrada?",
+      "correct": "Doença óssea em cerca de 70%, anemia em 60%, hipercalcemia em 25%, insuficiência renal em 20% e infecção documentada em 15% dos pacientes.",
+      "distractors": [
+        [
+          "Insuficiência renal em 90%, doença óssea em apenas 10%, infecção em 85% e ausência total de anemia em 99% dos casos.",
+          "Vetor 1 - Micro-Inversão Conceitual",
+          "A doença óssea é a manifestação mais comum (70%), seguida de perto por anemia (60%), hipercalcemia (25%), insuficiência renal (20%) e infecção (15%).",
+          "Inverter a ordem de frequência das manifestações clínicas, subestimando as lesões ósseas."
+        ],
+        [
+          "Hipercalcemia grave em 80%, infecção em 75%, doença óssea em 20% e insuficiência renal em menos de 1%.",
+          "Vetor 1 - Micro-Inversão Conceitual",
+          "A doença óssea lidera com 70% e a anemia atinge 60%; a hipercalcemia acomete cerca de 25% e a insuficiência renal 20% dos pacientes.",
+          "Inflacionar as taxas de hipercalcemia e infecção em detrimento das alterações ósseas e anemia."
+        ],
+        [
+          "Anemia em 10% e manifestações articulares periféricas com sinovite purulenta em 90% de todos os pacientes avaliados.",
+          "Vetor 1 - Micro-Inversão Conceitual",
+          "Anemia é extremamente frequente (60% na apresentação e até 80% na evolução); o MM não causa sinovite articular purulenta de repetição como evento primário.",
+          "Minimizar a prevalência da anemia e inventar manifestação articular purulenta difusa."
+        ]
+      ],
+      "rationale": "A distribuição das manifestações clínicas no Mieloma Múltiplo é bem delimitada: Doença óssea (dores e fraturas) em 70%; Anemia em 60%; Hipercalcemia em 25%; Insuficiência renal em 20%; e Infecção em 15%. A doença óssea e a anemia compõem as queixas e achados mais prevalentes.",
+      "pearl": "Frequência no MM: Doença óssea (70%) > Anemia (60%) > Hipercalcemia (25%) > Insuficiência renal (20%) > Infecção (15%)."
+    },
+    {
+      "tag": "Mieloma Múltiplo • Mortalidade e Complicações Fatais",
+      "stem": "Um paciente de 67 anos com mieloma múltiplo avançado é admitido na Unidade de Terapia Intensiva com quadro de sepse grave de foco pulmonar por Streptococcus pneumoniae e choque refratário, evoluindo a óbito. Em discussão pedagógica sobre a sobrevida e as principais causas de letalidade nos pacientes portadores dessa neoplasia plasmocitária, qual complicação se consolida como a principal causa de morte no Mieloma Múltiplo?",
+      "correct": "Infecção, constituindo a complicação fatal mais comum decorrente da profunda imunodeficiência humoral e celular associada à neoplasia plasmocitária.",
+      "distractors": [
+        [
+          "Hemorragia digestiva alta varicosa decorrente de hipertensão porta pré-sinusoidal isolada sem relação com imunodeficiência.",
+          "Vetor 4 - Mimetismo Clínico / Síndrome Vizinha",
+          "A principal causa de mortalidade é infecciosa (pneumonias, sepse); hemorragia varicosa é complicação de cirrose e hipertensão portal, não a causa primária de morte no MM.",
+          "Atribuir a mortalidade a complicações de hipertensão portal cirrótica desvinculadas do mieloma."
+        ],
+        [
+          "Fratura traumática da epífise proximal do rádio esquerdo sem repercussão hemodinâmica ou sistêmica.",
+          "Vetor 1 - Micro-Inversão Conceitual",
+          "Embora as fraturas patológicas causem grande morbidade e dor óssea, a complicação responsável pela maior parte dos óbitos no mieloma é a infecção grave.",
+          "Confundir morbidade esquelética com a principal etiologia de óbito clínico."
+        ],
+        [
+          "Hiperparatireoidismo primário por adenoma secretor autônomo com crise de tetania hipocalcêmica terminal.",
+          "Vetor 4 - Mimetismo Clínico / Síndrome Vizinha",
+          "A hipercalcemia no MM decorre de ativação osteoclástica por citocinas dos plasmócitos (PTH suprimido); a principal causa de mortalidade comprovada é a infecção.",
+          "Mimetizar distúrbio da paratireoide e sugerir óbito por hipocalcemia."
+        ]
+      ],
+      "rationale": "Embora a destruição óssea e o dano renal sejam marcas características do Mieloma Múltiplo, a INFECÇÃO é incontestavelmente a principal causa de morte nesses pacientes. A falência da imunidade humoral (hipogamaglobulinemia funcional por supressão de clones B normais), associada ao comprometimento da imunidade celular (queda de linfócitos CD4+) e neutropenia, predispõe a infecções bacterianas e virais fatais.",
+      "pearl": "A principal causa de morte no paciente com Mieloma Múltiplo é a INFECÇÃO (pneumonias e pielonefrites bacterianas graves)."
+    },
+    {
+      "tag": "Mieloma Múltiplo • Padrão da Anemia & Rouleaux",
+      "stem": "Um homem de 68 anos em investigação hematológica apresenta hemoglobina de 8,4 g/dL, VCM de 88 fL (ref. 80-100 fL) e CHCM de 33 g/dL (ref. 32-36 g/dL). A análise do esfregaço de sangue periférico revela eritrócitos alinhados linearmente em pilhas compactas de 3 a 12 hemácias. Qual é a classificação morfológica dessa anemia e qual é o fenômeno eritrocitário microscópico observado?",
+      "correct": "Anemia normocítica e normocrômica acompanhada do fenômeno de Rouleaux eritrocitário (hemácias em rolo de moedas), induzido pela elevada concentração sérica de imunoglobulinas monoclonais.",
+      "distractors": [
+        [
+          "Anemia microcítica e hipocrômica acompanhada do fenômeno de corpúsculos de Howell-Jolly secundários a asplenia congênita anatômica.",
+          "Vetor 1 - Micro-Inversão Conceitual",
+          "A anemia clássica do mieloma é normocítica e normocrômica (VCM e CHCM normais); o empilhamento linear de eritrócitos é o fenômeno de Rouleaux, não Howell-Jolly.",
+          "Classificar erroneamente a anemia como microcítica e confundir Rouleaux com inclusões nucleares."
+        ],
+        [
+          "Anemia macrocítica megaloblástica decorrente de deficiência pura de vitamina B12 acompanhada de drepanócitos em foice.",
+          "Vetor 4 - Mimetismo Clínico / Síndrome Vizinha",
+          "A anemia é tipicamente normocítica/normocrômica com Rouleaux; drepanócitos caracterizam a anemia falciforme e anemia megaloblástica cursa com VCM > 100 fL.",
+          "Confundir Rouleaux com falcização e classificar a anemia como megaloblástica."
+        ],
+        [
+          "Policitemia absoluta vera primária com presença patognomônica de dacriócitos em lágrima exclusivamente intracelulares.",
+          "Vetor 1 - Micro-Inversão Conceitual",
+          "O paciente tem anemia (Hb 8,4 g/dL), e não policitemia; o achado de 3 a 12 hemácias em pilhas é o clássico fenômeno de Rouleaux do mieloma.",
+          "Inverter anemia profunda para policitemia vera e errar o achado do esfregaço."
+        ]
+      ],
+      "rationale": "A anemia no Mieloma Múltiplo é caracteristicamente normocítica e normocrômica, presente em até 80% dos pacientes ao longo da evolução. No esfregaço de sangue periférico, observa-se o clássico fenômeno de Rouleaux (hemácias empilhadas como 'rolos de moedas', formando grupos de 3 a 12 células). Esse fenômeno decorre da perda das cargas eletrostáticas negativas superficiais dos eritrócitos (potencial zeta) pela alta concentração plasmática de proteínas monoclonais positivas.",
+      "pearl": "Anemia no MM: Normocítica e Normocrômica + Fenômeno de Rouleaux (hemácias em rolos de moedas de 3 a 12 células) no sangue periférico."
+    },
+    {
+      "tag": "Mieloma Múltiplo • Mecanismos da Anemia e VHS",
+      "stem": "Em uma enfermaria de clínica médica, discute-se o caso de uma paciente com mieloma múltiplo apresentando anemia moderada e velocidade de hemossedimentação (VHS) de 125 mm/h. O interno indaga por que as hemácias têm morfologia normal apesar da anemia, quais os mecanismos envolvidos nessa citopenia e por que o VHS atinge valores tão elevados. Qual é a resposta fisiopatológica correta?",
+      "correct": "Trata-se de um problema primariamente quantitativo no qual a medula produz eritrócitos normais em menor quantidade devido à ocupação do espaço medular por plasmócitos neoplásicos, redução de EPO e inflamação, enquanto o excesso de proteína M dissipa a repulsão eritrocitária elevando o VHS acima de 100 mm/h.",
+      "distractors": [
+        [
+          "A anemia é um distúrbio qualitativo com síntese defeituosa de hemoglobinas instáveis que precipitam e reduzem o VHS para valores próximos a zero.",
+          "Vetor 1 - Micro-Inversão Conceitual",
+          "A anemia é quantitativa (as hemácias produzidas são normais, porém em menor número) e o VHS é caracteristicamente muito alto (> 100 mm/h), não reduzido a zero.",
+          "Definir a anemia como qualitativa e alegar supressão do VHS para zero."
+        ],
+        [
+          "O mecanismo exclusivo é a perda hemática gastrointestinal crônica maciça por úlceras duodenais, sem qualquer participação da infiltração medular.",
+          "Vetor 1 - Micro-Inversão Conceitual",
+          "A anemia do MM é multifatorial central (ocupação da medula por plasmócitos, queda de eritropoetina pela lesão renal e anemia de doença crônica).",
+          "Restringir a etiologia da anemia a sangramento digestivo e negar o mecanismo central medular."
+        ],
+        [
+          "O VHS elevado decorre unicamente de hiperglicemia osmótica que impede a sedimentação das hemácias nos primeiros cinco minutos do teste.",
+          "Vetor 1 - Micro-Inversão Conceitual",
+          "A elevação dramática do VHS (> 100 mm/h) decorre da hipergamaglobulinemia monoclonal, que neutraliza o potencial zeta negativo das hemácias, permitindo que elas se empilhem (Rouleaux) e sedimentem rapidamente.",
+          "Atribuir a elevação do VHS à glicose e errar o mecanismo físico-químico da paraproteína."
+        ]
+      ],
+      "rationale": "A anemia do Mieloma Múltiplo é essencialmente um problema quantitativo: a medula óssea produz menos hemácias, mas as células produzidas são morfologicamente normais. As causas compreendem: (1) ocupação física da medula pelo clone neoplásico de plasmócitos; (2) diminuição na produção de eritropoetina (EPO) pela agressão renal associada; e (3) inflamação crônica. A presença maciça de proteína M anula a repulsão eletrostática entre hemácias, acelerando sua sedimentação e resultando em VHS habitualmente > 100 mm/h.",
+      "pearl": "Anemia no MM: Problema quantitativo (ocupação medular + ↓ EPO + inflamação crônica). VHS frequentemente > 100 mm/h."
+    },
+    {
+      "tag": "Mieloma Múltiplo • Eixo Hepcidina-Ferro",
+      "stem": "Durante a investigação da anemia em um paciente com mieloma múltiplo sintomático, o perfil de ferro revela: ferritina sérica de 850 ng/mL (marcadamente elevada), ferro sérico baixo e capacidade total de ligação do ferro (TIBC) reduzida. O médico explica que o componente de anemia de doença crônica é modulado pelo eixo hepcidina-ferro. Qual é a sequência fisiopatológica exata desse mecanismo no Mieloma Múltiplo?",
+      "correct": "Ocorre aumento da ferritina (mais ferro em estoque) e elevação da hepcidina que inibe a ferroportina, impedindo a saída do ferro das células e retendo-o preso nos macrófagos, indisponível para a eritropoiese.",
+      "distractors": [
+        [
+          "Ocorre redução drástica da hepcidina que hiperativa a ferroportina, promovendo espoliação urinária imediata de todo o ferro corporal.",
+          "Vetor 1 - Micro-Inversão Conceitual",
+          "Na inflamação e no MM a hepcidina está aumentada (não diminuída), inibindo a ferroportina e bloqueando a liberação do ferro dos macrófagos para a transferrina.",
+          "Inverter os níveis de hepcidina e sugerir eliminação urinária do ferro."
+        ],
+        [
+          "A ferritina é degradada completamente nos rins, forçando os macrófagos a liberarem ferro livre tóxico diretamente na corrente circulatória.",
+          "Vetor 1 - Micro-Inversão Conceitual",
+          "A ferritina encontra-se elevada (estoque cheio), mas a hepcidina bloqueia a ferroportina, mantendo o ferro 'trancado' nos macrófagos e enterócitos.",
+          "Afirmar degradação da ferritina e liberação de ferro tóxico na circulação."
+        ],
+        [
+          "Os plasmócitos neoplásicos fagocitam hemácias maduras e as utilizam como substrato energético exclusivo para a síntese da proteína M.",
+          "Vetor 1 - Micro-Inversão Conceitual",
+          "Os plasmócitos não exercem eritrofagocitose nutritiva; a anemia de doença crônica decorre da modulação inflamatória mediada pela hepcidina sobre a ferroportina.",
+          "Criar um mecanismo aberrante de autofagia e fagocitose eritrocitária por plasmócitos."
+        ]
+      ],
+      "rationale": "A anemia de doença crônica no Mieloma Múltiplo é governada pelo eixo hepcidina-ferro: (1) As citocinas inflamatórias elevam a ferritina, mantendo reservas aumentadas de ferro; (2) O estímulo inflamatório induz superprodução hepática de hepcidina; (3) A hepcidina liga-se à ferroportina e induz sua internalização/degradação, bloqueando a saída de ferro dos macrófagos e enterócitos. O ferro fica sequestrado nas reservas e torna-se indisponível para a eritropoiese medular.",
+      "pearl": "Eixo Hepcidina-Ferro no MM: ↑ Ferritina + ↑ Hepcidina -> inibe a ferroportina -> Ferro preso nos macrófagos (indisponível para a eritropoiese)."
+    },
+    {
+      "tag": "Mieloma Múltiplo • Nefropatia por Cilindros",
+      "stem": "Um homem de 63 anos com Mieloma Múltiplo evolui com elevação progressiva de escórias nitrogenadas (creatinina de 3,8 mg/dL e ureia de 118 mg/dL) sem história de hipotensão ou uso de nefrotóxicos. O nefrologista explica que a principal causa de acometimento renal no mieloma possui mecanismo tubular intrínseco bem definido. Qual é a principal causa de doença renal no Mieloma Múltiplo e qual o seu mecanismo fisiopatológico?",
+      "correct": "Nefropatia por cadeias leves (rim do mieloma), causada pela precipitação intratubular de cadeias leves livres com a mucoproteína de Tamm-Horsfall, formando cilindros que obstruem os túbulos renais.",
+      "distractors": [
+        [
+          "Glomerulopatia membranosa primária desencadeada pela fixação de anticorpos anti-PLA2R na membrana podocitária glomerular.",
+          "Vetor 4 - Mimetismo Clínico / Síndrome Vizinha",
+          "Nefropatia por anti-PLA2R é a causa clássica da nefropatia membranosa primária idiopática; no MM o dano central é tubular pela precipitação de cilindros de cadeias leves com Tamm-Horsfall.",
+          "Confundir o 'rim do mieloma' com a nefropatia membranosa primária por anti-PLA2R."
+        ],
+        [
+          "Necrose cortical renal bilateral decorrente exclusivamente de embolia séptica originada em endocardite da valva aórtica.",
+          "Vetor 4 - Mimetismo Clínico / Síndrome Vizinha",
+          "A lesão renal típica do mieloma decorre do acúmulo de cadeias leves e cilindros obstrutivos com Tamm-Horsfall, e não de fenômenos embólicos infecciosos aórticos.",
+          "Desviar o acometimento renal para embolia séptica de endocardite bacteriana."
+        ],
+        [
+          "Pielonefrite enfisematosa fulminante induzida pela síntese primária de gás carbônico pelos plasmócitos medulares glomerulares.",
+          "Vetor 1 - Micro-Inversão Conceitual",
+          "A principal causa de perda da função renal no MM é a nefropatia por cilindros de cadeias leves (rim do mieloma), mediada pela interação química com a proteína de Tamm-Horsfall.",
+          "Formular um processo infeccioso enfisematoso inexistente na patogênese renal intrínseca."
+        ]
+      ],
+      "rationale": "A nefropatia por cilindros de cadeias leves ('Rim do Mieloma') é a principal e mais frequente causa de insuficiência renal no Mieloma Múltiplo. Ocorre quando as cadeias leves livres (kappa ou lambda), filtradas em quantidade superior à capacidade reabsortiva do túbulo proximal, atingem a alça de Henle e os túbulos distais, coprecipitando com a mucoproteína de Tamm-Horsfall secretada pelas células tubulares. Isso gera cilindros densos e fraturados que provocam obstrução luminal, reação de células gigantes e nefrite tubulointersticial.",
+      "pearl": "Principal causa de doença renal no MM: Nefropatia por cadeias leves (Rim do Mieloma) -> Cilindros de cadeias leves + Proteína de Tamm-Horsfall obstruem os túbulos."
+    },
+    {
+      "tag": "Mieloma Múltiplo • Nefrocalcinose e Nefropatia por Urato",
+      "stem": "Além da clássica nefropatia por cilindros de cadeias leves, o Mieloma Múltiplo pode lesar o parênquima renal através de distúrbios metabólicos e eletrolíticos secundários à destruição tecidual e óssea acelerada. Quais são outros dois importantes mecanismos de comprometimento renal descritos na fisiopatologia do Mieloma Múltiplo associados ao cálcio e ao ácido úrico?",
+      "correct": "Nefrocalcinose decorrente da hipercalcemia persistente e nefropatia por urato provocada pela hiperuricemia secundária ao alto turnover celular.",
+      "distractors": [
+        [
+          "Glomerulonefrite crescêntica rapidamente progressiva pauci-imune associada à presença sérica de autoanticorpos c-ANCA anti-proteinase 3.",
+          "Vetor 4 - Mimetismo Clínico / Síndrome Vizinha",
+          "C-ANCA e crescentes glomerulares definem a granulomatose com poliangiite (vasculite sistêmica); as lesões metabólicas renais do MM envolvem deposição de cálcio (nefrocalcinose) e urato.",
+          "Confundir as causas metabólicas renais do mieloma com vasculites ANCA-associadas."
+        ],
+        [
+          "Perda maciça de glicose por nefropatia diabética com espessamento nodular de Kimmelstiel-Wilson.",
+          "Vetor 4 - Mimetismo Clínico / Síndrome Vizinha",
+          "Kimmelstiel-Wilson é a lesão nodular glomerular patognomônica da nefropatia diabética crônica, sem relação com as alterações agudas de urato e cálcio do MM.",
+          "Mimetizar a histologia clássica da nefropatia diabética avançada."
+        ],
+        [
+          "Trombose primária da artéria renal decorrente exclusivamente de hipocalcemia refratária com consumo total de urato sérico.",
+          "Vetor 1 - Micro-Inversão Conceitual",
+          "No mieloma ocorre hipercalcemia (e não hipocalcemia) gerando nefrocalcinose, e hiperuricemia (ácido úrico elevado pelo turnover de plasmócitos clonais).",
+          "Inverter os distúrbios metabólicos para hipocalcemia e hipouricemia."
+        ]
+      ],
+      "rationale": "No Mieloma Múltiplo, além da agressão direta das cadeias leves, o rim é alvo de dois mecanismos metabólicos fundamentais: (1) Nefrocalcinose: deposição de sais de fosfato de cálcio no interstício e túbulos renais induzida pela hipercalcemia crônica resultante da osteólise acelerada; e (2) Nefropatia por urato: precipitação tubular de cristais de ácido úrico decorrente da hiperuricemia pelo intenso turnover e apoptose dos plasmócitos neoplásicos.",
+      "pearl": "Outras causas de lesão renal no MM: Nefrocalcinose (por hipercalcemia) e Nefropatia por urato (por hiperuricemia e alto turnover celular)."
+    },
+    {
+      "tag": "Mieloma Múltiplo • Amiloidose AL e Órgãos-Alvo",
+      "stem": "Uma paciente de 64 anos com Mieloma Múltiplo evolui com insuficiência cardíaca com fração de ejeção preservada e padrão restritivo, macroglossia, hepatomegalia e proteinúria nefrótica. O médico assistente suspeita de amiloidose secundária à deposição de fibrilas de cadeias leves. De acordo com as características da amiloidose no Mieloma Múltiplo, qual a sua frequência relativa, os órgãos-alvo mais acometidos e a cadeia leve mais frequentemente associada?",
+      "correct": "Acomete cerca de 10% dos pacientes, caracteriza-se pela deposição de fibrilas insolúveis de proteína mal dobrada no coração, rins e fígado, e é mais comum com cadeias leves do tipo lambda (λ).",
+      "distractors": [
+        [
+          "Acomete 85% dos pacientes ao diagnóstico, afeta exclusivamente o baço e associa-se universalmente a cadeias pesadas intactas do tipo IgE.",
+          "Vetor 1 - Micro-Inversão Conceitual",
+          "A amiloidose ocorre em aproximadamente 10% dos pacientes com MM, tem acometimento multissistêmico (coração, rins, fígado) e associa-se predominantemente a cadeias leves lambda.",
+          "Inflacionar a prevalência da amiloidose e atribuí-la a cadeias pesadas intactas IgE."
+        ],
+        [
+          "Consiste em depósito reacional de amilase pancreática nas adrenais com resolução expontânea em 48 horas.",
+          "Vetor 1 - Micro-Inversão Conceitual",
+          "Amiloidose AL consiste na polimerização patológica de cadeias leves de imunoglobulinas formando fibrilas com conformação em folha beta-pregueada, sem relação com amilase.",
+          "Confundir as fibrilas amiloides de imunoglobulina com a enzima pancreática amilase."
+        ],
+        [
+          "Trata-se de complicação benigna que atinge 1% dos pacientes, acometendo somente a tireoide e ligada com exclusividade a cadeias kappa.",
+          "Vetor 1 - Micro-Inversão Conceitual",
+          "A amiloidose atinge cerca de 10%, é uma complicação grave e infiltrativa que atinge órgãos vitais (coração, rins, fígado) e é mais prevalente com cadeias leves lambda (λ).",
+          "Minimizar o impacto clínico da amiloidose e trocar a cadeia lambda por kappa."
+        ]
+      ],
+      "rationale": "A Amiloidose primária associada ao Mieloma Múltiplo (Amiloidose AL) desenvolve-se em aproximadamente 10% dos pacientes. Decorre da clivagem e enovelamento anômalo de cadeias leves monoclonais livres formando fibrilas insolúveis rígidas com arranjo beta-pregueado, que se depositam na matriz extracelular de órgãos nobres como coração (cardiomiopatia restritiva), rins (síndrome nefrótica) e fígado. É consideravelmente mais frequente quando a restrição clonal é da cadeia leve lambda (λ).",
+      "pearl": "Amiloidose no MM (~10%): Deposição de fibrilas de proteína mal dobrada em coração, rins e fígado. Mais comum com cadeia LAMBDA (λ)."
+    },
+    {
+      "tag": "Mieloma Múltiplo • Hiperviscosidade Sérica",
+      "stem": "Um homem de 71 anos dá entrada no pronto-socorro com cefaleia holocraniana intensa, visão turva, vertigem, sonolência e sangramento espontâneo em gengivas e fossas nasais. A fundoscopia revela veias retinianas ingurgitadas com aspecto em linguiça e hemorragias em chama de vela. O laboratório revela proteínas totais de 13,2 g/dL e componente monoclonal maciço. Qual nível de proteína M precipita essa emergência clínica de hiperviscosidade?",
+      "correct": "Concentração sérica da proteína monoclonal (proteína M) muito elevada, tipicamente superior a 5 g/dL.",
+      "distractors": [
+        [
+          "Concentração de proteína M mantida estritamente abaixo de 0,5 g/dL com pico em alfa-1 globulina.",
+          "Vetor 1 - Micro-Inversão Conceitual",
+          "A síndrome de hiperviscosidade sérica ocorre exatamente pelo oposto: níveis extremamente elevados de paraproteína monoclonal no plasma, tipicamente com proteína M > 5 g/dL.",
+          "Definir hiperviscosidade plasmática com valores indetectáveis ou basais de proteína M."
+        ],
+        [
+          "Níveis normais de proteína M acompanhados exclusivamente de hematócrito superior a 75% induzido por fístula liquórica.",
+          "Vetor 4 - Mimetismo Clínico / Síndrome Vizinha",
+          "A hiperviscosidade no MM decorre da sobrecarga coloidal de paraproteínas plasmáticas (> 5 g/dL), e não de policitemia com fístula liquórica.",
+          "Desviar o mecanismo de hiperviscosidade para policitemia hiper-hematocítica pura."
+        ],
+        [
+          "Proteína M de 1,0 g/dL associada obrigatoriamente a trombocitose superior a 2.000.000/mm³ em vigência de anemia ferropriva.",
+          "Vetor 1 - Micro-Inversão Conceitual",
+          "O corte crítico consolidado na literatura para emergência por hiperviscosidade no mieloma é a presença de proteína M muito alta (> 5 g/dL).",
+          "Subestimar o corte da proteína M para desencadear hiperviscosidade clínica grave."
+        ]
+      ],
+      "rationale": "A Síndrome de Hiperviscosidade sérica é uma emergência hematológica que se manifesta quando a concentração do componente monoclonal (proteína M) atinge patamares muito elevados, tipicamente superiores a 5 g/dL (ou em níveis menores no caso de IgM ou IgA polimérica). O excesso de macromoléculas eleva a resistência ao fluxo vascular capilar, provocando a tríade de: alterações neurológicas (cefaleia, confusão), distúrbios visuais (hemorragias retinianas e dilatação venosa) e sangramento de mucosas.",
+      "pearl": "Hiperviscosidade: Emergência clínica! Ocorre tipicamente com proteína M muito elevada (> 5 g/dL)."
+    },
+    {
+      "tag": "Mieloma Múltiplo • Hipercalcemia de Emergência",
+      "stem": "Uma paciente de 73 anos com mieloma múltiplo é trazida à sala de emergência desidratada, letárgica e confusa. Familiares relatam poliúria e polidipsia intensas nas últimas 2 semanas, com rápida deterioração do sensório. Os exames de urgência revelam cálcio sérico de 19,5 mg/dL. Qual é o mecanismo fisiopatológico primário da elevação do cálcio e quais manifestações neurológicas e renais decorrem desse nível extremo?",
+      "correct": "A hipercalcemia decorre da intensa ativação osteoclástica pelas citocinas plasmocitárias liberando cálcio do osso, gerando poliúria, desidratação e nefrocalcinose, culminando em confusão mental, delírio e coma em níveis extremos (> 19 mg/dL).",
+      "distractors": [
+        [
+          "A hipercalcemia é induzida por hipoabsorção intestinal de vitamina D, promovendo retenção intracelular de potássio sem qualquer alteração do nível de consciência.",
+          "Vetor 1 - Micro-Inversão Conceitual",
+          "O cálcio elevado decorre da destruição óssea osteoclástica (TNF-α e IL-6); a nível renal induz diabetes insipidus nefrogênico com poliúria e desidratação, e em níveis > 19 mg/dL causa delírio e coma.",
+          "Inverter o mecanismo do cálcio para hipoabsorção e negar repercussão neurológica central."
+        ],
+        [
+          "O aumento do cálcio resulta da transformação neoplásica dos osteoblastos em células secretoras de PTH endógeno hiperativo.",
+          "Vetor 1 - Micro-Inversão Conceitual",
+          "No mieloma o PTH encontra-se suprimido devido à hipercalcemia osteolítica; os osteoblastos não sofrem transformação neoplásica e são inibidos na doença.",
+          "Supor secreção autônoma de PTH por osteoblastos neoplásicos."
+        ],
+        [
+          "Trata-se de uma elevação assintomática inofensiva que só requer hidratação com soluções hiperosmolares de bicarbonato de cálcio a 20%.",
+          "Vetor 5 - Protocolo Oficial SUS/PCDT vs Prática Informal",
+          "Cálcio sérico de 19,5 mg/dL é uma emergência crítica de risco iminente de parada cardíaca em assistolia e coma, exigindo hidratação venosa vigorosa com salina e bisfosfonatos/calcitonina.",
+          "Minimizar uma emergência médica letal e propor infusão errônea de cálcio."
+        ]
+      ],
+      "rationale": "A hipercalcemia no Mieloma Múltiplo é uma emergência decorrente da reabsorção óssea descontrolada mediada pela ativação osteoclástica (TNF-α e IL-6). A sobrecarga de cálcio filtrada lesa a capacidade de concentração tubular renal, gerando poliúria osmótica, polidipsia e desidratação grave, além de nefrocalcinose. No sistema nervoso central, níveis críticos de hipercalcemia (> 14 mg/dL e especialmente > 19 mg/dL) provocam encefalopatia metabólica fulminante com confusão mental, delírio, rebaixamento do nível de consciência e coma.",
+      "pearl": "Hipercalcemia no MM: Ativação osteoclástica -> poliúria, desidratação e nefrocalcinose. Se > 19 mg/dL: confusão, delírio e coma."
+    },
+    {
+      "tag": "Mieloma Múltiplo • Imunodeficiência & Bactérias Encapsuladas",
+      "stem": "Um homem de 66 anos com Mieloma Múltiplo é internado pela terceira vez em 6 meses com pneumonia bacteriana comunitária bacterêmica causada por Streptococcus pneumoniae. Os exames evidenciam supressão profunda das imunoglobulinas policlonais normais. Por que os pacientes com Mieloma Múltiplo apresentam suscetibilidade tão acentuada a infecções bacterianas graves, particularmente por bactérias encapsuladas (como pneumococo e Haemophilus influenzae)?",
+      "correct": "Porque apresentam hipogamaglobulinemia funcional com imunoglobulinas monoclonais não funcionais e supressão dos clones de linfócitos B normais, além de comprometimento de linfócitos CD4+ e fagócitos, falhando na opsonização por anticorpos e pelo sistema complemento.",
+      "distractors": [
+        [
+          "Porque desenvolvem imunidade humoral hiper-reativa com excesso de anticorpos neutralizantes funcionais que hiperativam o baço gerando asplenia traumática.",
+          "Vetor 1 - Micro-Inversão Conceitual",
+          "Embora haja grande quantidade de imunoglobulina monoclonal circulante, ela não tem função de defesa (é anômala e clonal) e há supressão severa dos linfócitos B normais (hipogamaglobulinemia funcional).",
+          "Tratar a proteína M anômala como se fosse uma defesa humoral hiperfuncional protetora."
+        ],
+        [
+          "Porque as bactérias encapsuladas possuem receptores que se ligam diretamente aos osteoblastos em proliferação, impedindo o tratamento antibiótico.",
+          "Vetor 4 - Mimetismo Clínico / Síndrome Vizinha",
+          "A suscetibilidade decorre do defeito imune do hospedeiro (falta de anticorpos funcionais opsonizantes e disfunção esplênica funcional/celular), não de ligação a osteoblastos.",
+          "Formular um tropismo bacteriano fictício por osteoblastos para explicar a sepse."
+        ],
+        [
+          "Porque a imunodeficiência do mieloma é estritamente restrita aos eritrócitos, poupando integralmente todas as funções de neutrófilos, complemento e macrófagos.",
+          "Vetor 1 - Micro-Inversão Conceitual",
+          "No MM há disfunção generalizada: hipogamaglobulinemia funcional, queda de CD4+, leucopenia e defeito na função de fagócitos (neutrófilos, monócitos e macrófagos).",
+          "Isolar o defeito nos eritrócitos e negar o comprometimento de fagócitos e linfócitos."
+        ]
+      ],
+      "rationale": "A defesa imune primária contra bactérias encapsuladas (Streptococcus pneumoniae, Haemophilus influenzae) depende criticamente da opsonização por anticorpos funcionais específicos e fixação de complemento, permitindo sua fagocitose pelo sistema mononuclear fagocitário no baço e tecidos. No Mieloma Múltiplo, coexistem: (1) Hipogamaglobulinemia funcional (a proteína monoclonal não tem utilidade imunológica e os clones normais estão inibidos); (2) Queda de linfócitos T CD4+; (3) Neutropenia/leucopenia; e (4) Disfunção de fagócitos e complemento. Sem anticorpos normais funcionais ou sem baço, o risco de bacteremia e morte por encapsulados é elevadíssimo.",
+      "pearl": "Infecções no MM: Falha na defesa contra bactérias encapsuladas (pneumococo, H. influenzae) por HIPOGAMAGLOBULINEMIA FUNCIONAL (anticorpos anômalos + supressão de B normais) e disfunção de CD4+ e fagócitos."
+    },
+    {
+      "tag": "Mieloma Múltiplo • Alterações de Coagulação e Sangramentos",
+      "stem": "Uma paciente de 59 anos com mieloma múltiplo e componente monoclonal elevado apresenta sangramentos gengivais espontâneos (gengivorragia) e epistaxe recorrente, associados a episódios prévios de trombose venosa profunda em membro inferior esquerdo. O coagulograma revela alargamento discreto dos tempos de coagulação. Qual é o mecanismo fisiopatológico pelo qual a proteína monoclonal (proteína M) interfere na hemostasia no Mieloma Múltiplo?",
+      "correct": "A proteína M liga-se diretamente a fatores da coagulação e à superfície plaquetária, predispondo tanto a sangramentos de mucosas quanto a fenômenos de hipercoagulabilidade, trombose e flebite.",
+      "distractors": [
+        [
+          "A proteína M converte todo o fibrinogênio plasmático em plasmina hiperativa, provocando fibrinólise pura sem risco de trombose venosa.",
+          "Vetor 1 - Micro-Inversão Conceitual",
+          "A proteína monoclonal recobre as plaquetas e interage com fatores de coagulação, podendo causar tanto sangramentos de mucosas quanto trombose/flebite (não apenas fibrinólise isolada).",
+          "Restringir o distúrbio a fibrinólise isolada e negar o risco trombótico vascular associado."
+        ],
+        [
+          "Os plasmócitos secretam heparina em altas doses na medula óssea, mimetizando uma sobredose iatrogênica de anticoagulantes parenterais.",
+          "Vetor 1 - Micro-Inversão Conceitual",
+          "Plasmócitos não produzem heparina; o defeito hemostático decorre da interferência físico-química da proteína M sobre as plaquetas e proteínas pró-coagulantes.",
+          "Atribuir os sangramentos a uma suposta secreção neoplásica de heparina pura."
+        ],
+        [
+          "O distúrbio decorre exclusivamente de vasculite necrosante por imunocomplexos mediada por IgE, com plaquetas perfeitamente normais e funcionais.",
+          "Vetor 4 - Mimetismo Clínico / Síndrome Vizinha",
+          "A agregação plaquetária é alterada pelo revestimento anômalo pelas paraproteínas monoclonais, gerando trombopatia adquirida no contexto da gamopatia monoclonal.",
+          "Desviar o mecanismo hemostático para vasculite necrotizante alérgica por IgE."
+        ]
+      ],
+      "rationale": "As complicações hemostáticas no Mieloma Múltiplo são peculiares e multifatoriais: a paraproteína monoclonal (proteína M) em excesso liga-se inespecificamente aos fatores de coagulação (como fibrinogênio, pró-trombina e fatores V, VII e VIII) e recobre a membrana das plaquetas, prejudicando a adesão e agregação plaquetária. Clinicamente, isso gera um estado de disfunção hemostática paradoxal que predispõe a sangramentos de mucosas (gengivorragia, epistaxe) e, simultaneamente, a eventos trombóticos venosos e flebites.",
+      "pearl": "Coagulação no MM: A proteína M liga-se a fatores de coagulação e plaquetas -> Sangramento de mucosas (gengivorragia) E risco de trombose/flebite."
+    },
+    {
+      "tag": "Mieloma Múltiplo • Propedêutica Diagnóstica Completa",
+      "stem": "Um homem de 65 anos com suspeita clínica de Mieloma Múltiplo é internado para investigação propedêutica completa. O preceptor orienta os alunos a estruturar a investigação diagnóstica em quatro pilares fundamentais, contemplando os exames laboratoriais gerais, imunoeletroforéticos, de imagem e anatomopatológicos. De acordo com os protocolos sistematizados, qual conjunto de exames contempla os quatro pilares diagnósticos do Mieloma Múltiplo?",
+      "correct": "1. Laboratório geral (hemograma, VHS, cálcio, creatinina, albumina, LDH, β2-microglobulina, PCR); 2. Eletroforese e imunofixação (soro e urina de 24h com cadeias leves); 3. Inventário radiográfico do esqueleto; 4. Avaliação de medula óssea (mielograma e biópsia com FISH e imuno-histoquímica).",
+      "distractors": [
+        [
+          "1. Dosagem de transaminases exclusivamente; 2. Eletrocardiograma de esforço; 3. Cintilografia óssea de corpo inteiro; 4. Lavado broncoalveolar com pesquisa de fungos.",
+          "Vetor 1 - Micro-Inversão Conceitual",
+          "Essa abordagem omite os quatro pilares essenciais do MM (avaliação de medula com biópsia, eletroforese/imunofixação de soro/urina, cálcio/função renal e inventário ósseo direcionado).",
+          "Trocar os exames diagnósticos mandatórios por exames cardiopulmonares inespecíficos."
+        ],
+        [
+          "1. Biópsia hepática por agulha grossa; 2. Imunofixação salivar isolada; 3. Angiotomografia coronariana com contraste iodado iônico; 4. Ressonância magnética de joelhos.",
+          "Vetor 3 - Salto de Etapa / Precipitação",
+          "O contraste iodado é fortemente desaconselhado pela nefropatia associada e os exames propostos não fazem parte dos pilares de diagnóstico do mieloma múltiplo.",
+          "Indicar procedimentos invasivos atípicos e contrastes nefrotóxicos perigosos no MM."
+        ],
+        [
+          "1. Sorologias virais gerais; 2. Teste de esforço respiratório; 3. Densitometria óssea lombar isolada; 4. Dosagem de ácido fólico intraeritrocitário.",
+          "Vetor 5 - Protocolo Oficial SUS/PCDT vs Prática Informal",
+          "A investigação do MM exige avaliação medular (plasmócitos ≥ 10%), caracterização da proteína M (eletroforese + imunofixação) e radiografias de esqueleto para lesões líticas.",
+          "Substituir o protocolo diagnóstico oficial por exames nutricionais e funcionais vagos."
+        ]
+      ],
+      "rationale": "A investigação diagnóstica sistematizada do Mieloma Múltiplo organiza-se em 4 pilares mandatórios: (1) Laboratório geral: Hemograma completo, VHS, Cálcio sérico, Creatinina, Albumina, LDH, β2-microglobulina e PCR; (2) Eletroforese de proteínas e imunofixação sérica e de urina de 24 horas, somadas à dosagem de cadeias leves livres séricas; (3) Imagem do esqueleto: inventário radiográfico convencional (crânio, tórax, coluna, pelve, fêmur e úmero) ou TC de baixa dose / PET-TC; e (4) Medula óssea: mielograma e biópsia com imuno-histoquímica (CD138+) e citogenética (FISH).",
+      "pearl": "Os 4 Pilares da Investigação do MM: 1. Laboratório geral (Ca, Cr, VHS, β2M, Alb) | 2. Eletroforese + Imunofixação (soro e urina) | 3. Imagem esqueleto (Rx/TC) | 4. Medula óssea (Biópsia + FISH)."
+    },
+    {
+      "tag": "Mieloma Múltiplo • Marcador β2M e Estadiamento ISS",
+      "stem": "Um hematologista avalia um paciente com diagnóstico recém-confirmado de Mieloma Múltiplo. Para estratificar a gravidade, orientar o tratamento e estimar a sobrevida mediana pelo sistema International Staging System (ISS), são solicitadas as dosagens de β2-microglobulina e albumina sérica. Qual é a base biológica da β2-microglobulina e quais são os critérios definidores e sobrevidas medianas dos estágios I e III do ISS?",
+      "correct": "A β2-microglobulina é uma proteína expressa na membrana de todas as células nucleadas associada ao MHC I que reflete a massa tumoral e a disfunção renal; o Estágio I (β2M < 3,5 e albumina ≥ 3,5) confere sobrevida de 62 meses, enquanto o Estágio III (β2M ≥ 5,5) confere sobrevida de 29 meses.",
+      "distractors": [
+        [
+          "A β2-microglobulina é uma enzima lisossomal osteoblástica exclusiva de hemácias anucleadas; o Estágio I exige β2M > 10,0 com sobrevida de 5 meses e o Estágio III β2M < 1,0 com sobrevida de 10 anos.",
+          "Vetor 1 - Micro-Inversão Conceitual",
+          "Houve inversão dos estágios e atribuição falsa à hemácia anucleada; a β2M associa-se ao MHC I de células nucleadas, sendo que no Estágio I ela é < 3,5 (62 meses) e no Estágio III é ≥ 5,5 (29 meses).",
+          "Inverter os pontos de corte e o prognóstico dos estágios do ISS e errar a biologia da β2M."
+        ],
+        [
+          "O sistema ISS baseia-se exclusivamente na contagem total de plaquetas e hemoglobina, sendo a β2-microglobulina irrelevante para o estadiamento e prognóstico.",
+          "Vetor 1 - Micro-Inversão Conceitual",
+          "O estadiamento ISS internacional baseia-se exclusivamente na combinação da β2-microglobulina sérica com a albumina sérica.",
+          "Descartar a β2-microglobulina como marcador do ISS e alegar critérios hematimétricos."
+        ],
+        [
+          "A β2-microglobulina varia unicamente com a ingestão alimentar de sódio e o Estágio II define cura completa em 100% dos pacientes submetidos a antibioticoterapia.",
+          "Vetor 1 - Micro-Inversão Conceitual",
+          "A β2-microglobulina varia com a massa tumoral clonal e a função renal; o mieloma é uma doença crônica e progressiva com ciclos de remissão e recidiva, sem cura bacteriana.",
+          "Atribuir variação dietética à β2-microglobulina e alegar cura infecciosa no Estágio II."
+        ]
+      ],
+      "rationale": "A β2-microglobulina é uma cadeia polipeptídica leve associada à cadeia pesada dos complexos de histocompatibilidade classe I (MHC I) na superfície de todas as células nucleadas, dosada no soro, urina ou líquor. Seus níveis séricos correlacionam-se diretamente com a massa tumoral plasmocitária e com o grau de disfunção renal. No International Staging System (ISS): Estágio I: β2-microglobulina < 3,5 mg/L E albumina ≥ 3,5 g/dL (sobrevida mediana de 62 meses); Estágio II: nem I nem III (sobrevida mediana de 44 meses); e Estágio III: β2-microglobulina ≥ 5,5 mg/L (sobrevida mediana de 29 meses).",
+      "pearl": "Estadiamento ISS do MM: Estágio I = β2M < 3,5 + Alb ≥ 3,5 (62 meses) | Estágio II = intermediário (44 meses) | Estágio III = β2M ≥ 5,5 (29 meses)."
+    },
+    {
+      "tag": "Mieloma Múltiplo • Citogenética (FISH) & Tratamento",
+      "stem": "Um paciente de 56 anos com Mieloma Múltiplo sintomático recém-diagnosticado é submetido à análise citogenética por hibridização in situ por fluorescência (FISH) em células plasmocitárias purificadas da medula óssea. O hematologista discute a estratificação de risco citogenético e o planejamento terapêutico contemporâneo. Quais alterações citogenéticas definem alto risco prognóstico no Mieloma Múltiplo e quais são as modalidades centrais do tratamento atual?",
+      "correct": "São anomalias de alto risco a deleção del(17p13) e as translocações t(4;14) e t(14;16) (sobrevida média ~25 meses); o tratamento apoia-se em quimioterapia, imunomoduladores e anticorpos monoclonais, além de transplante de medula óssea autólogo para pacientes elegíveis.",
+      "distractors": [
+        [
+          "Apenas a hiperdiploidia padrão define alto risco citogenético com sobrevida de 2 meses, sendo o tratamento exclusivamente paliativo com radioterapia corporal total.",
+          "Vetor 1 - Micro-Inversão Conceitual",
+          "Hiperdiploidia é citogenética de risco padrão (sobrevida ~50 meses); as alterações de alto risco clássicas são del(17p13), t(4;14) e t(14;16), com novas terapias promovendo sobrevidas > 5 anos.",
+          "Classificar hiperdiploidia como alto risco e restringir a terapia a cuidados paliativos."
+        ],
+        [
+          "A presença de trissomia do cromossomo 21 constitui o marcador de alto risco do mieloma, e a conduta preconizada é a realização imediata de nefrectomia bilateral profilática.",
+          "Vetor 4 - Mimetismo Clínico / Síndrome Vizinha",
+          "Trissomia do 21 é a síndrome de Down; no mieloma as aberrações de alto risco do FISH são t(4;14), t(14;16) e del(17p13), e a nefrectomia não tem qualquer indicação.",
+          "Confundir citogenética do mieloma com trissomia do 21 e propor nefrectomia absurda."
+        ],
+        [
+          "A deleção del(13q14) confere sobrevida superior a 30 anos sem necessidade de tratamento quimioterápico ou transplante medular em nenhuma hipótese clínica.",
+          "Vetor 1 - Micro-Inversão Conceitual",
+          "A deleção del(13q14) é de risco intermediário (sobrevida mediana de cerca de 42 meses); quimioterapia associada a imunomoduladores/anticorpos monoclonais e TMO são a base terapêutica.",
+          "Superestimar a sobrevida para 30 anos e dispensar o tratamento hematológico essencial."
+        ]
+      ],
+      "rationale": "A citogenética por FISH na medula óssea estratifica o prognóstico no MM: (1) Alto risco (sobrevida mediana ~25 meses): deleção do braço curto do cromossomo 17 [del(17p13)], que afeta o gene supressor TP53, e as translocações t(4;14) e t(14;16); (2) Risco intermediário (sobrevida ~42 meses): del(13q14); (3) Risco padrão (sobrevida ~50 meses): demais padrões. O tratamento contemporâneo combina quimioterapia, imunomoduladores (ex.: talidomida/lenalidomida) e anticorpos monoclonais (para controle clonal e redução de lesões líticas), consolidado pelo Transplante de Medula Óssea (TMO autólogo) em pacientes elegíveis, elevando a sobrevida média global para mais de 5 anos.",
+      "pearl": "Citogenética de Alto Risco no MM: t(4;14), t(14;16) e del(17p13). Tratamento: Quimioterapia + Imunomoduladores / Anticorpos monoclonais + TMO autólogo em elegíveis."
+    }
+  ]
+}

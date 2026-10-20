@@ -1,0 +1,124 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 480" width="900" height="480">
+
+  <defs>
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f8fafc"/>
+      <stop offset="100%" stop-color="#f1f5f9"/>
+    </linearGradient>
+    <linearGradient id="headerGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#1e3a8a"/>
+      <stop offset="100%" stop-color="#1e40af"/>
+    </linearGradient>
+    <linearGradient id="greenGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#ecfdf5"/>
+      <stop offset="100%" stop-color="#d1fae5"/>
+    </linearGradient>
+    <linearGradient id="redGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#fef2f2"/>
+      <stop offset="100%" stop-color="#fee2e2"/>
+    </linearGradient>
+    <linearGradient id="amberGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#fffbeb"/>
+      <stop offset="100%" stop-color="#fef3c7"/>
+    </linearGradient>
+    <linearGradient id="blueGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#eff6ff"/>
+      <stop offset="100%" stop-color="#dbeafe"/>
+    </linearGradient>
+    <linearGradient id="purpleGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#faf5ff"/>
+      <stop offset="100%" stop-color="#f3e8ff"/>
+    </linearGradient>
+    <filter id="dropShadow" x="-5%" y="-5%" width="110%" height="110%">
+      <feDropShadow dx="2" dy="4" stdDeviation="4" flood-color="#475569" flood-opacity="0.12"/>
+    </filter>
+  </defs>
+
+  <rect width="900" height="480" rx="16" fill="url(#bgGrad)" stroke="#cbd5e1" stroke-width="2"/>
+  
+  <rect x="25" y="20" width="850" height="58" rx="10" fill="url(#headerGrad)" filter="url(#dropShadow)"/>
+  <text x="450" y="47" font-family="'Segoe UI', Roboto, sans-serif" font-size="20" font-weight="bold" fill="#ffffff" text-anchor="middle">
+    ESPECTRO CLÍNICO DAS MANIFESTAÇÕES CUTÂNEAS DO LES
+  </text>
+  <text x="450" y="67" font-family="'Segoe UI', Roboto, sans-serif" font-size="12" fill="#bfdbfe" text-anchor="middle">
+    Classificação de Gilliam: Lúpus Cutâneo Agudo, Subagudo e Crônico (Discoide)
+  </text>
+
+  <!-- 3 Colunas Cutâneas -->
+  <!-- Coluna 1: Lúpus Cutâneo Agudo -->
+  <g transform="translate(35, 95)" filter="url(#dropShadow)">
+    <rect width="265" height="255" rx="10" fill="#ffffff" stroke="#ef4444" stroke-width="2"/>
+    <rect x="0" y="0" width="265" height="40" rx="10" fill="#dc2626"/>
+    <text x="132" y="25" font-family="'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="bold" fill="#ffffff" text-anchor="middle">LÚPUS CUTÂNEO AGUDO (LCA)</text>
+
+    <rect x="15" y="52" width="235" height="80" rx="6" fill="#fef2f2" stroke="#fca5a5" stroke-width="1"/>
+    <text x="25" y="70" font-family="'Segoe UI', Roboto, sans-serif" font-size="11.5" font-weight="bold" fill="#991b1b">Eritema Malar ("Asa de Borboleta")</text>
+    <text x="25" y="87" font-family="'Segoe UI', Roboto, sans-serif" font-size="10.5" fill="#334155">• Eminências malares e dorso nasal</text>
+    <text x="25" y="104" font-family="'Segoe UI', Roboto, sans-serif" font-size="10.5" font-weight="bold" fill="#dc2626">★ POUPA O SULCO NASOLABIAL!</text>
+    <text x="25" y="120" font-family="'Segoe UI', Roboto, sans-serif" font-size="9.5" fill="#475569">(Diferencia de rosácea e derm. seb.)</text>
+
+    <text x="15" y="150" font-family="'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#1e293b">Características Clínicas:</text>
+    <text x="15" y="168" font-family="'Segoe UI', Roboto, sans-serif" font-size="10.5" fill="#475569">• Altamente fotossensível (&gt;90%)</text>
+    <text x="15" y="185" font-family="'Segoe UI', Roboto, sans-serif" font-size="10.5" fill="#475569">• Erupção maculopapular difusa</text>
+    <text x="15" y="202" font-family="'Segoe UI', Roboto, sans-serif" font-size="10.5" font-weight="bold" fill="#059669">• Cura SEM cicatriz atrófica residual</text>
+    <text x="15" y="222" font-family="'Segoe UI', Roboto, sans-serif" font-size="10.5" fill="#b91c1c">• Forte correlação com surto sistêmico</text>
+    <text x="15" y="240" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" font-style="italic" fill="#64748b">Histologia: dermatite de interface basal</text>
+  </g>
+
+  <!-- Coluna 2: Lúpus Cutâneo Subagudo -->
+  <g transform="translate(318, 95)" filter="url(#dropShadow)">
+    <rect width="265" height="255" rx="10" fill="#ffffff" stroke="#f59e0b" stroke-width="2"/>
+    <rect x="0" y="0" width="265" height="40" rx="10" fill="#d97706"/>
+    <text x="132" y="25" font-family="'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="bold" fill="#ffffff" text-anchor="middle">CUTÂNEO SUBAGUDO (LCSA)</text>
+
+    <rect x="15" y="52" width="235" height="80" rx="6" fill="#fffbeb" stroke="#fde68a" stroke-width="1"/>
+    <text x="25" y="70" font-family="'Segoe UI', Roboto, sans-serif" font-size="11.5" font-weight="bold" fill="#b45309">Dois Padrões Morfológicos:</text>
+    <text x="25" y="87" font-family="'Segoe UI', Roboto, sans-serif" font-size="10.5" fill="#334155">1. <tspan font-weight="bold">Anular / Policíclico:</tspan> bordas ativas</text>
+    <text x="25" y="104" font-family="'Segoe UI', Roboto, sans-serif" font-size="10.5" fill="#334155">2. <tspan font-weight="bold">Papuloescamoso / Psoriasiforme</tspan></text>
+    <text x="25" y="120" font-family="'Segoe UI', Roboto, sans-serif" font-size="9.5" fill="#475569">Áreas fotoexpostas: tronco, decote, braços</text>
+
+    <text x="15" y="150" font-family="'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#1e293b">Associação Sorológica:</text>
+    <text x="15" y="168" font-family="'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#b45309">★ Anti-Ro (SSA) positivo em &gt;80%!</text>
+    <text x="15" y="185" font-family="'Segoe UI', Roboto, sans-serif" font-size="10.5" fill="#475569">• Anti-La (SSB) associado</text>
+    <text x="15" y="202" font-family="'Segoe UI', Roboto, sans-serif" font-size="10.5" font-weight="bold" fill="#059669">• NÃO gera cicatriz permanente</text>
+    <text x="15" y="222" font-family="'Segoe UI', Roboto, sans-serif" font-size="10.5" fill="#475569">• Pode deixar hipocromia transitória</text>
+    <text x="15" y="240" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" font-style="italic" fill="#64748b">Cerca de 50% não têm nefrite severa</text>
+  </g>
+
+  <!-- Coluna 3: Lúpus Cutâneo Crônico / Discoide -->
+  <g transform="translate(600, 95)" filter="url(#dropShadow)">
+    <rect width="265" height="255" rx="10" fill="#ffffff" stroke="#6b7280" stroke-width="2"/>
+    <rect x="0" y="0" width="265" height="40" rx="10" fill="#4b5563"/>
+    <text x="132" y="25" font-family="'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="bold" fill="#ffffff" text-anchor="middle">LÚPUS DISCOIDE (LCC)</text>
+
+    <rect x="15" y="52" width="235" height="80" rx="6" fill="#f3f4f6" stroke="#d1d5db" stroke-width="1"/>
+    <text x="25" y="70" font-family="'Segoe UI', Roboto, sans-serif" font-size="11.5" font-weight="bold" fill="#374151">Tríade Clássica da Placa:</text>
+    <text x="25" y="87" font-family="'Segoe UI', Roboto, sans-serif" font-size="10.5" fill="#1f2937">1. Eritema periférico elevado</text>
+    <text x="25" y="104" font-family="'Segoe UI', Roboto, sans-serif" font-size="10.5" fill="#1f2937">2. Hiperceratose folicular (rolhões)</text>
+    <text x="25" y="120" font-family="'Segoe UI', Roboto, sans-serif" font-size="10.5" font-weight="bold" fill="#991b1b">3. Atrofia central com cicatriz</text>
+
+    <text x="15" y="150" font-family="'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#1e293b">Evolução &amp; Prognóstico:</text>
+    <text x="15" y="168" font-family="'Segoe UI', Roboto, sans-serif" font-size="10.5" font-weight="bold" fill="#dc2626">★ DEIXA CICATRIZ PERMANENTE!</text>
+    <text x="15" y="185" font-family="'Segoe UI', Roboto, sans-serif" font-size="10.5" font-weight="bold" fill="#dc2626">• No couro cabeludo: ALOPECIA CICATRICIAL</text>
+    <text x="15" y="202" font-family="'Segoe UI', Roboto, sans-serif" font-size="10.5" fill="#475569">• Discromia (centro branco, borda escura)</text>
+    <text x="15" y="222" font-family="'Segoe UI', Roboto, sans-serif" font-size="10.5" fill="#475569">• Só 5 a 10% evoluem para LES sistêmico</text>
+    <text x="15" y="240" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" font-style="italic" fill="#64748b">FAN pode ser negativo em até 50% dos casos</text>
+  </g>
+
+  <!-- Banner Inferior: Úlceras Orais e Fenômenos Vasculares -->
+  <g transform="translate(35, 365)" filter="url(#dropShadow)">
+    <rect width="830" height="95" rx="8" fill="#1e293b"/>
+    <text x="415" y="24" font-family="'Segoe UI', Roboto, sans-serif" font-size="12.5" font-weight="bold" fill="#fbbf24" text-anchor="middle">
+      OUTRAS MANIFESTAÇÕES MUCOCUTÂNEAS ESSENCIAIS EM PROVA
+    </text>
+    <text x="30" y="47" font-family="'Segoe UI', Roboto, sans-serif" font-size="11" fill="#ffffff">
+      • <tspan font-weight="bold" fill="#60a5fa">Úlceras Orais e Nasais:</tspan> Tipicamente <tspan font-weight="bold" fill="#f87171">INDOLORES</tspan> no palato duro e septo nasal (o médico deve inspecionar ativamente!).
+    </text>
+    <text x="30" y="65" font-family="'Segoe UI', Roboto, sans-serif" font-size="11" fill="#ffffff">
+      • <tspan font-weight="bold" fill="#60a5fa">Fenômeno de Raynaud:</tspan> Trifásico (palidez → cianose → rubor) desencadeado por frio ou estresse emocional (presente em 30-50%).
+    </text>
+    <text x="30" y="83" font-family="'Segoe UI', Roboto, sans-serif" font-size="11" fill="#ffffff">
+      • <tspan font-weight="bold" fill="#60a5fa">Lesões Vasculares:</tspan> Livedo reticular rendilhado (associado a antifosfolípides), infartos periungueais e vasculite de pequenos vasos.
+    </text>
+  </g>
+</svg>

@@ -1,0 +1,131 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 480" width="900" height="480">
+
+  <defs>
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f8fafc"/>
+      <stop offset="100%" stop-color="#f1f5f9"/>
+    </linearGradient>
+    <linearGradient id="headerGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#1e3a8a"/>
+      <stop offset="100%" stop-color="#1e40af"/>
+    </linearGradient>
+    <linearGradient id="greenGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#ecfdf5"/>
+      <stop offset="100%" stop-color="#d1fae5"/>
+    </linearGradient>
+    <linearGradient id="redGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#fef2f2"/>
+      <stop offset="100%" stop-color="#fee2e2"/>
+    </linearGradient>
+    <linearGradient id="amberGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#fffbeb"/>
+      <stop offset="100%" stop-color="#fef3c7"/>
+    </linearGradient>
+    <linearGradient id="blueGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#eff6ff"/>
+      <stop offset="100%" stop-color="#dbeafe"/>
+    </linearGradient>
+    <linearGradient id="purpleGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#faf5ff"/>
+      <stop offset="100%" stop-color="#f3e8ff"/>
+    </linearGradient>
+    <filter id="dropShadow" x="-5%" y="-5%" width="110%" height="110%">
+      <feDropShadow dx="2" dy="4" stdDeviation="4" flood-color="#475569" flood-opacity="0.12"/>
+    </filter>
+  </defs>
+
+  <rect width="900" height="480" rx="16" fill="url(#bgGrad)" stroke="#cbd5e1" stroke-width="2"/>
+  
+  <rect x="25" y="20" width="850" height="58" rx="10" fill="url(#headerGrad)" filter="url(#dropShadow)"/>
+  <text x="450" y="47" font-family="'Segoe UI', Roboto, sans-serif" font-size="20" font-weight="bold" fill="#ffffff" text-anchor="middle">
+    ETIOLOGIA MULTIFATORIAL &amp; GATILHOS DESENCADEANTES
+  </text>
+  <text x="450" y="67" font-family="'Segoe UI', Roboto, sans-serif" font-size="12" fill="#bfdbfe" text-anchor="middle">
+    A convergência de genes de susceptibilidade, ambiente, hormônios e quebra de imunorregulação
+  </text>
+
+  <!-- 4 Blocos de Fatores -->
+  <!-- Bloco 1: Genética -->
+  <g transform="translate(35, 95)" filter="url(#dropShadow)">
+    <rect width="195" height="235" rx="10" fill="#ffffff" stroke="#3b82f6" stroke-width="2"/>
+    <rect x="0" y="0" width="195" height="35" rx="10" fill="#2563eb"/>
+    <text x="97" y="23" font-family="'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="bold" fill="#ffffff" text-anchor="middle">GENÉTICA</text>
+    <text x="15" y="55" font-family="'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#1e3a8a">Moléculas HLA:</text>
+    <text x="15" y="73" font-family="'Segoe UI', Roboto, sans-serif" font-size="10.5" fill="#334155">• HLA-DR2 e HLA-DR3</text>
+    <text x="15" y="90" font-family="'Segoe UI', Roboto, sans-serif" font-size="10.5" fill="#334155">• HLA-B8, DQw1, DQw2</text>
+    <text x="15" y="112" font-family="'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#1e3a8a">Via do Complemento:</text>
+    <text x="15" y="130" font-family="'Segoe UI', Roboto, sans-serif" font-size="10.5" fill="#334155">• Mutação em C1q, C2, C4</text>
+    <text x="15" y="147" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" fill="#64748b">(Impede remoção de restos)</text>
+    <text x="15" y="170" font-family="'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#1e3a8a">Outros Polimorfismos:</text>
+    <text x="15" y="188" font-family="'Segoe UI', Roboto, sans-serif" font-size="10.5" fill="#334155">• STAT4, PTPN22, IRF5</text>
+    <text x="15" y="205" font-family="'Segoe UI', Roboto, sans-serif" font-size="10.5" fill="#334155">• Receptores FcγRIIa/IIIa</text>
+  </g>
+
+  <!-- Bloco 2: Hormônios -->
+  <g transform="translate(245, 95)" filter="url(#dropShadow)">
+    <rect width="195" height="235" rx="10" fill="#ffffff" stroke="#ec4899" stroke-width="2"/>
+    <rect x="0" y="0" width="195" height="35" rx="10" fill="#db2777"/>
+    <text x="97" y="23" font-family="'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="bold" fill="#ffffff" text-anchor="middle">HORMONAL</text>
+    <text x="15" y="55" font-family="'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#9d174d">Estrogênios:</text>
+    <text x="15" y="73" font-family="'Segoe UI', Roboto, sans-serif" font-size="10.5" fill="#334155">• Estimulam proliferação B</text>
+    <text x="15" y="90" font-family="'Segoe UI', Roboto, sans-serif" font-size="10.5" fill="#334155">• Inibem apoptose de clones B</text>
+    <text x="15" y="112" font-family="'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#9d174d">Prolactina:</text>
+    <text x="15" y="130" font-family="'Segoe UI', Roboto, sans-serif" font-size="10.5" fill="#334155">• Efeito imunoestimulatório</text>
+    <text x="15" y="152" font-family="'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#9d174d">Androgênios Baixos:</text>
+    <text x="15" y="170" font-family="'Segoe UI', Roboto, sans-serif" font-size="10.5" fill="#334155">• Perda do efeito protetor</text>
+    <text x="15" y="195" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" font-style="italic" fill="#be185d">Exacerbação pós-menarca e gestação</text>
+  </g>
+
+  <!-- Bloco 3: Ambiente & Radiação UV -->
+  <g transform="translate(455, 95)" filter="url(#dropShadow)">
+    <rect width="195" height="235" rx="10" fill="#ffffff" stroke="#f59e0b" stroke-width="2"/>
+    <rect x="0" y="0" width="195" height="35" rx="10" fill="#d97706"/>
+    <text x="97" y="23" font-family="'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="bold" fill="#ffffff" text-anchor="middle">RADIAÇÃO UV &amp; FÍSICO</text>
+    <text x="15" y="55" font-family="'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#92400e">Radiação Ultravioleta:</text>
+    <text x="15" y="73" font-family="'Segoe UI', Roboto, sans-serif" font-size="10.5" fill="#334155">• Lesão de ceratinócitos</text>
+    <text x="15" y="90" font-family="'Segoe UI', Roboto, sans-serif" font-size="10.5" fill="#334155">• Acentua a apoptose</text>
+    <text x="15" y="112" font-family="'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#92400e">Exteriorização Nuclear:</text>
+    <text x="15" y="130" font-family="'Segoe UI', Roboto, sans-serif" font-size="10.5" fill="#334155">• Antígenos Ro/La/DNA</text>
+    <text x="15" y="147" font-family="'Segoe UI', Roboto, sans-serif" font-size="10.5" fill="#334155">migram para a superfície</text>
+    <text x="15" y="170" font-family="'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#92400e">Tabagismo e Sílica:</text>
+    <text x="15" y="188" font-family="'Segoe UI', Roboto, sans-serif" font-size="10.5" fill="#334155">• Estresse oxidativo</text>
+    <text x="15" y="205" font-family="'Segoe UI', Roboto, sans-serif" font-size="10.5" fill="#334155">• Inibe ação do antimalárico</text>
+  </g>
+
+  <!-- Bloco 4: Infeccioso & Fármacos -->
+  <g transform="translate(665, 95)" filter="url(#dropShadow)">
+    <rect width="195" height="235" rx="10" fill="#ffffff" stroke="#10b981" stroke-width="2"/>
+    <rect x="0" y="0" width="195" height="35" rx="10" fill="#059669"/>
+    <text x="97" y="23" font-family="'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="bold" fill="#ffffff" text-anchor="middle">INFECÇÃO &amp; DROGAS</text>
+    <text x="15" y="55" font-family="'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#065f46">Mimetismo Molecular:</text>
+    <text x="15" y="73" font-family="'Segoe UI', Roboto, sans-serif" font-size="10.5" fill="#334155">• Vírus Epstein-Barr (EBV)</text>
+    <text x="15" y="90" font-family="'Segoe UI', Roboto, sans-serif" font-size="10.5" fill="#334155">• Parvovírus B19 e Mixovírus</text>
+    <text x="15" y="112" font-family="'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#065f46">Superativação B:</text>
+    <text x="15" y="130" font-family="'Segoe UI', Roboto, sans-serif" font-size="10.5" fill="#334155">• Células B infectadas por EBV</text>
+    <text x="15" y="147" font-family="'Segoe UI', Roboto, sans-serif" font-size="10.5" fill="#334155">escapam da regulação</text>
+    <text x="15" y="170" font-family="'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#065f46">Lúpus por Drogas:</text>
+    <text x="15" y="188" font-family="'Segoe UI', Roboto, sans-serif" font-size="10.5" fill="#334155">• Hidralazina, Procainamida</text>
+    <text x="15" y="205" font-family="'Segoe UI', Roboto, sans-serif" font-size="10.5" fill="#334155">• Anti-Histona positivo (&gt;95%)</text>
+  </g>
+
+  <!-- Painel de Confluência Inferior -->
+  <g transform="translate(35, 345)" filter="url(#dropShadow)">
+    <rect width="825" height="115" rx="10" fill="#f8fafc" stroke="#dc2626" stroke-width="2"/>
+    <rect x="0" y="0" width="825" height="28" rx="10" fill="#dc2626"/>
+    <text x="412" y="19" font-family="'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="bold" fill="#ffffff" text-anchor="middle">
+      RESULTADO FINAL DA INTERAÇÃO MULTIFATORIAL: O PONTO DE NÃO RETORNO
+    </text>
+    <text x="25" y="52" font-family="'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#991b1b">
+      Exposição Crônica de Autoantígenos Intracelulares + Hiperatividade Linfocítica B/T
+    </text>
+    <text x="25" y="70" font-family="'Segoe UI', Roboto, sans-serif" font-size="10.5" fill="#334155">
+      A apoptose exacerbada sem fagocitose imediata expõe DNA de fita dupla, histonas e ribonucleoproteínas ao sistema imune.
+    </text>
+    <text x="25" y="88" font-family="'Segoe UI', Roboto, sans-serif" font-size="10.5" fill="#334155">
+      Receptores TLR7 (RNA) e TLR9 (DNA) nas células dendríticas disparam a produção de altas doses de INTERFERON TIPO I (IFN-α).
+    </text>
+    <text x="25" y="104" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" font-style="italic" fill="#7f1d1d">
+      Instaura-se a produção sustentada de autoanticorpos patogênicos meses ou anos antes dos primeiros sintomas clínicos!
+    </text>
+  </g>
+</svg>
