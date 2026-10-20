@@ -4,9 +4,15 @@
    =================================================================== */
 
 .mapas-panoramicos-grid {
-  display: flex;
-  flex-direction: column;
-  gap: 32px;
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 24px;
+}
+
+@media (max-width: 860px) {
+  .mapas-panoramicos-grid {
+    grid-template-columns: 1fr;
+  }
 }
 
 .mapa-panoramico-card {
@@ -15,8 +21,8 @@
   border-radius: var(--radius-xl);
   overflow: hidden;
   box-shadow: var(--shadow-md);
-  display: grid;
-  grid-template-columns: 460px 1fr;
+  display: flex;
+  flex-direction: column;
   transition: all var(--transition-normal);
   position: relative;
 }
@@ -30,26 +36,27 @@
 /* Card Preview Area */
 .mapa-preview-pane {
   background: radial-gradient(circle at center, #0a1329 0%, #050812 100%);
-  padding: 24px;
+  padding: 16px;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   position: relative;
-  border-right: 1px solid var(--border-subtle);
+  border-bottom: 1px solid var(--border-subtle);
   cursor: pointer;
   overflow: hidden;
+  height: 220px;
 }
 
 .mapa-thumbnail-wrapper {
   width: 100%;
-  height: 340px;
+  height: 100%;
   overflow: hidden;
   border-radius: var(--radius-md);
-  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.6);
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.5);
   border: 1px solid var(--border-subtle);
   display: flex;
-  align-items: center;
+  align-items: flex-start;
   justify-content: center;
   background: #080d1a;
   transition: transform var(--transition-normal);
@@ -58,6 +65,14 @@
 .mapa-thumbnail-wrapper svg {
   width: 100%;
   height: auto;
+  pointer-events: none;
+}
+
+.mapa-thumbnail-wrapper img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: top center;
   pointer-events: none;
 }
 
@@ -74,12 +89,12 @@
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  gap: 10px;
+  gap: 8px;
   opacity: 0;
   transition: opacity var(--transition-fast);
   color: #ffffff;
   font-weight: 700;
-  font-size: 0.95rem;
+  font-size: 0.9rem;
 }
 
 .mapa-preview-pane:hover .mapa-preview-overlay-hint {
@@ -88,71 +103,76 @@
 
 /* Card Info Area */
 .mapa-info-pane {
-  padding: 36px;
+  padding: 22px 24px 20px;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  gap: 20px;
+  flex: 1;
+  gap: 16px;
 }
 
 .mapa-info-header {
   display: flex;
   flex-direction: column;
-  gap: 10px;
-}
-
-.mapa-badges-row {
-  display: flex;
-  align-items: center;
-  gap: 8px;
-  flex-wrap: wrap;
+  gap: 12px;
 }
 
 .mapa-title {
-  font-size: 1.5rem;
-  font-weight: 800;
+  font-size: 1.15rem;
+  font-weight: 700;
   color: var(--text-primary);
-  line-height: 1.25;
+  line-height: 1.35;
   letter-spacing: -0.01em;
 }
 
-.mapa-subtitle {
-  font-size: 0.95rem;
-  font-weight: 600;
-  color: var(--color-primary);
-}
-
-.mapa-desc {
-  font-size: 0.95rem;
-  color: var(--text-secondary);
-  line-height: 1.7;
-}
-
-.mapa-features-list {
+/* Pathology Pills / Badges */
+.mapa-pills-container {
   display: flex;
-  flex-direction: column;
+  flex-wrap: wrap;
   gap: 8px;
-  font-size: 0.85rem;
-  color: var(--text-muted);
-  background: rgba(0, 0, 0, 0.2);
-  padding: 14px 18px;
-  border-radius: var(--radius-md);
-  border: 1px solid var(--border-subtle);
 }
 
-.mapa-feature-item {
-  display: flex;
+.mapa-pill {
+  display: inline-flex;
   align-items: center;
-  gap: 8px;
+  gap: 6px;
+  padding: 4px 10px;
+  border-radius: 9999px;
+  background: rgba(14, 165, 233, 0.08);
+  border: 1px solid rgba(14, 165, 233, 0.22);
+  color: var(--text-secondary);
+  font-size: 0.8rem;
+  font-weight: 500;
+  letter-spacing: 0.01em;
+  transition: all var(--transition-fast);
+}
+
+.mapa-pill-dot {
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: var(--color-primary);
+  flex-shrink: 0;
+}
+
+.mapa-panoramico-card:hover .mapa-pill {
+  border-color: rgba(14, 165, 233, 0.35);
+  background: rgba(14, 165, 233, 0.12);
+  color: var(--text-primary);
 }
 
 .mapa-actions-row {
   display: flex;
   align-items: center;
-  gap: 12px;
-  padding-top: 18px;
+  gap: 8px;
+  padding-top: 14px;
   border-top: 1px solid var(--border-subtle);
   flex-wrap: wrap;
+}
+
+.mapa-actions-row .btn {
+  font-size: 0.825rem;
+  padding: 7px 13px;
 }
 
 /* Lightbox Modal for Full Panoramics */

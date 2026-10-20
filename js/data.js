@@ -102,6 +102,14 @@ window.MED_MAPAS = [
     "title": "Mapa Comparativo Panorâmico: Patologias do Aparelho Locomotor",
     "subtitle": "",
     "folder": "UCT20 CAB",
+    "pathologies": [
+      "Artrite Reumatoide",
+      "Gota Úrica",
+      "Lúpus Eritematoso Sistêmico",
+      "Mieloma Múltiplo",
+      "Osteomielite",
+      "Artrite Séptica"
+    ],
     "category": "panoramicos",
     "categoryLabel": "Mapa Panorâmico Integrado",
     "dimensions": "1920 × 2756 px",
@@ -116,6 +124,10 @@ window.MED_MAPAS = [
     "title": "Mapa Comparativo: Mieloma Múltiplo vs Lúpus Eritematoso Sistêmico",
     "subtitle": "",
     "folder": "UCT20 CAB",
+    "pathologies": [
+      "Mieloma Múltiplo",
+      "Lúpus Eritematoso Sistêmico"
+    ],
     "category": "panoramicos",
     "categoryLabel": "Confronto Discriminador Fino",
     "dimensions": "1920 × 2541 px",
