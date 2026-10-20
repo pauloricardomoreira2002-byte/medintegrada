@@ -169,25 +169,8 @@
               <!-- Info Pane -->
               <div class="mapa-info-pane">
                 <div class="mapa-info-header">
-                  <div class="mapa-badges-row">
-                    <span class="badge badge-primary">${m.categoryLabel || 'Mapa Panorâmico'}</span>
-                    <span class="badge badge-indigo">Vetor SVG 2x Retina</span>
-                    <span class="badge badge-success">${m.dimensions || '1920px HD'}</span>
-                  </div>
                   <h3 class="mapa-title">${m.title}</h3>
-                  <span class="mapa-subtitle">${m.subtitle || ''}</span>
                   <p class="mapa-desc">${m.desc}</p>
-                </div>
-
-                <div class="mapa-features-list">
-                  <div class="mapa-feature-item">
-                    <span>✨</span>
-                    <span><strong>Navegação Vetorial Fluida:</strong> Amplie até 400% sem pixelização para ler pequenos detalhes.</span>
-                  </div>
-                  <div class="mapa-feature-item">
-                    <span>🩺</span>
-                    <span><strong>Foco no Raciocínio Clínico:</strong> Criado especificamente para o confronto diagnóstico de prova.</span>
-                  </div>
                 </div>
 
                 <div class="mapa-actions-row">
@@ -232,7 +215,7 @@
       if (!modal || !canvasInner) return;
 
       titleEl.textContent = mapa.title;
-      catEl.textContent = `${mapa.categoryLabel} • Resolução: ${mapa.dimensions || '1920px'}`;
+      catEl.textContent = mapa.categoryLabel || 'Mapa Comparativo';
 
       if (mapa.svgContent) {
         canvasInner.innerHTML = mapa.svgContent;
