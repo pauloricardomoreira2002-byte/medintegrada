@@ -1,0 +1,213 @@
+{
+  "id": "mapa_comparativo_exemplo_4_patologias",
+  "title": "MAPA COMPARATIVO PANORÂMICO: 4 PATOLOGIAS CLÍNICAS",
+  "subtitle": "UCT20 • MEDICINA INTEGRADA • QUADRO SINÓPTICO DE DIAGNÓSTICO DIFERENCIAL",
+  "category": "panoramicos",
+  "categoryLabel": "Mapa Panorâmico Integrado",
+  "meta_chips": [
+    "4 PATOLOGIAS",
+    "8 EIXOS CLÍNICOS",
+    "PADRÃO ENAMED / REVALIDA"
+  ],
+  "desc": "Confronto sistemático e multidimensional entre 4 patologias clínicas correlatas, abordando etiopatogenia, demografia, apresentação semiológica, achados laboratoriais de punção, radiologia, autoanticorpos, tratamento e pegadinhas de banca examinadora.",
+  "pathologies": [
+    "Patologia 1",
+    "Patologia 2",
+    "Patologia 3",
+    "Patologia 4"
+  ],
+  "footer_left": "MEDINTEGRADA • MAPA PANORÂMICO DE DIAGNÓSTICO DIFERENCIAL",
+  "footer_right": "Fontes: UpToDate (2024-2026), Diretrizes Oficiais e Livros-Texto.",
+  "diseases": [
+    {
+      "name": "PATOLOGIA 1",
+      "subtitle": "Subtítulo descritivo 1",
+      "tag": "DOMÍNIO 1",
+      "primary": "#0d9488",
+      "dark": "#115e59",
+      "border": "#14b8a6",
+      "badge_bg": "#ccfbf1",
+      "badge_text": "#0f766e",
+      "icon_type": "bone"
+    },
+    {
+      "name": "PATOLOGIA 2",
+      "subtitle": "Subtítulo descritivo 2",
+      "tag": "DOMÍNIO 2",
+      "primary": "#e11d48",
+      "dark": "#9f1239",
+      "border": "#f43f5e",
+      "badge_bg": "#ffe4e6",
+      "badge_text": "#be123c",
+      "icon_type": "warning"
+    },
+    {
+      "name": "PATOLOGIA 3",
+      "subtitle": "Subtítulo descritivo 3",
+      "tag": "DOMÍNIO 3",
+      "primary": "#d97706",
+      "dark": "#92400e",
+      "border": "#f59e0b",
+      "badge_bg": "#fef3c7",
+      "badge_text": "#b45309",
+      "icon_type": "crystal"
+    },
+    {
+      "name": "PATOLOGIA 4",
+      "subtitle": "Subtítulo descritivo 4",
+      "tag": "DOMÍNIO 4",
+      "primary": "#6366f1",
+      "dark": "#4338ca",
+      "border": "#818cf8",
+      "badge_bg": "#e0e7ff",
+      "badge_text": "#3730a3",
+      "icon_type": "immune"
+    }
+  ],
+  "axes": [
+    {
+      "num": "1",
+      "title": "SÍTIO ANATÔMICO & MECANISMO ETIOPATOGÊNICO",
+      "theme": "Local da agressão primária e cascata celular de dano",
+      "height": 220,
+      "data": [
+        [["• Sítio:", "Tecido primário da doença 1."], ["• Mecanismo:", "Fisiopatologia da doença 1."]],
+        [["• Sítio:", "Tecido primário da doença 2."], ["• Mecanismo:", "Fisiopatologia da doença 2."]],
+        [["• Sítio:", "Tecido primário da doença 3."], ["• Mecanismo:", "Fisiopatologia da doença 3."]],
+        [["• Sítio:", "Tecido primário da doença 4."], ["• Mecanismo:", "Fisiopatologia da doença 4."]]
+      ],
+      "highlights": [
+        "Pérola etiopatogênica da doença 1",
+        "Pérola etiopatogênica da doença 2",
+        "Pérola etiopatogênica da doença 3",
+        "Pérola etiopatogênica da doença 4"
+      ]
+    },
+    {
+      "num": "2",
+      "title": "PERFIL EPIDEMIOLÓGICO, FAIXA ETÁRIA & GATILHOS",
+      "theme": "Demografia, faixa etária típica, razão sexual e fatores precipitantes",
+      "height": 210,
+      "data": [
+        [["• Epidemiologia:", "Faixa etária e perfil da doença 1."], ["• Gatilhos:", "Fatores de risco 1."]],
+        [["• Epidemiologia:", "Faixa etária e perfil da doença 2."], ["• Gatilhos:", "Fatores de risco 2."]],
+        [["• Epidemiologia:", "Faixa etária e perfil da doença 3."], ["• Gatilhos:", "Fatores de risco 3."]],
+        [["• Epidemiologia:", "Faixa etária e perfil da doença 4."], ["• Gatilhos:", "Fatores de risco 4."]]
+      ],
+      "highlights": [
+        "Pérola epidemiológica da doença 1",
+        "Pérola epidemiológica da doença 2",
+        "Pérola epidemiológica da doença 3",
+        "Pérola epidemiológica da doença 4"
+      ]
+    },
+    {
+      "num": "3",
+      "title": "APRESENTAÇÃO CLÍNICA, TOPOGRAFIA & PADRÃO DE RIGIDEZ",
+      "theme": "Semiótica da dor, articulações acometidas e padrão temporal da rigidez",
+      "height": 230,
+      "data": [
+        [["• Padrão da Dor:", "Quadro álgico da doença 1."], ["• Rigidez Matinal:", "Padrão de rigidez 1."]],
+        [["• Padrão da Dor:", "Quadro álgico da doença 2."], ["• Rigidez Matinal:", "Padrão de rigidez 2."]],
+        [["• Padrão da Dor:", "Quadro álgico da doença 3."], ["• Rigidez Matinal:", "Padrão de rigidez 3."]],
+        [["• Padrão da Dor:", "Quadro álgico da doença 4."], ["• Rigidez Matinal:", "Padrão de rigidez 4."]]
+      ],
+      "highlights": [
+        "Pérola clínica da doença 1",
+        "Pérola clínica da doença 2",
+        "Pérola clínica da doença 3",
+        "Pérola clínica da doença 4"
+      ]
+    },
+    {
+      "num": "4",
+      "title": "LÍQUIDO SINOVIAL / ÓRGÃO-ALVO / MICROBIOLOGIA / CRISTAIS",
+      "theme": "Padrão-ouro laboratorial, biópsia, celularidade e achados etiológicos",
+      "height": 220,
+      "data": [
+        [["• Fluido / Biópsia:", "Achados laboratoriais da doença 1."], ["• Celularidade:", "Leucócitos e PMN."]],
+        [["• Fluido / Biópsia:", "Achados laboratoriais da doença 2."], ["• Celularidade:", "Leucócitos e PMN."]],
+        [["• Fluido / Biópsia:", "Achados laboratoriais da doença 3."], ["• Celularidade:", "Leucócitos e PMN."]],
+        [["• Fluido / Biópsia:", "Achados laboratoriais da doença 4."], ["• Celularidade:", "Leucócitos e PMN."]]
+      ],
+      "highlights": [
+        "Pérola de fluido da doença 1",
+        "Pérola de fluido da doença 2",
+        "Pérola de fluido da doença 3",
+        "Pérola de fluido da doença 4"
+      ]
+    },
+    {
+      "num": "5",
+      "title": "RADIOLOGIA, MÉTODOS DE IMAGEM & JANELA DE SENSIBILIDADE",
+      "theme": "Janela radiográfica precoce vs tardia, sinais de alerta e exame de escolha",
+      "height": 220,
+      "data": [
+        [["• RX Simples:", "Alterações e janela na doença 1."], ["• RM / USG:", "Exame de escolha precoce."]],
+        [["• RX Simples:", "Alterações e janela na doença 2."], ["• RM / USG:", "Exame de escolha precoce."]],
+        [["• RX Simples:", "Alterações e janela na doença 3."], ["• RM / USG:", "Exame de escolha precoce."]],
+        [["• RX Simples:", "Alterações e janela na doença 4."], ["• RM / USG:", "Exame de escolha precoce."]]
+      ],
+      "highlights": [
+        "Pérola de imagem da doença 1",
+        "Pérola de imagem da doença 2",
+        "Pérola de imagem da doença 3",
+        "Pérola de imagem da doença 4"
+      ]
+    },
+    {
+      "num": "6",
+      "title": "MARCADORES LABORATORIAIS, CINÉTICA INFLAMATÓRIA & AUTOANTICORPOS",
+      "theme": "PCR vs VHS, hemograma, autoanticorpos específicos e biomarcadores",
+      "height": 220,
+      "data": [
+        [["• Provas Inflamatórias:", "Cinética na doença 1."], ["• Marcadores:", "Sorologias específicas."]],
+        [["• Provas Inflamatórias:", "Cinética na doença 2."], ["• Marcadores:", "Sorologias específicas."]],
+        [["• Provas Inflamatórias:", "Cinética na doença 3."], ["• Marcadores:", "Sorologias específicas."]],
+        [["• Provas Inflamatórias:", "Cinética na doença 4."], ["• Marcadores:", "Sorologias específicas."]]
+      ],
+      "highlights": [
+        "Pérola laboratorial da doença 1",
+        "Pérola laboratorial da doença 2",
+        "Pérola laboratorial da doença 3",
+        "Pérola laboratorial da doença 4"
+      ]
+    },
+    {
+      "num": "7",
+      "title": "CRITÉRIOS DIAGNÓSTICOS, ESTADIAMENTO & ESTRATÉGIA TERAPÊUTICA",
+      "theme": "Critérios de consenso internacional, conduta na crise e remissão",
+      "height": 230,
+      "data": [
+        [["• Consenso:", "Critérios diagnósticos 1."], ["• Conduta:", "Fármacos de escolha na crise."]],
+        [["• Consenso:", "Critérios diagnósticos 2."], ["• Conduta:", "Fármacos de escolha na crise."]],
+        [["• Consenso:", "Critérios diagnósticos 3."], ["• Conduta:", "Fármacos de escolha na crise."]],
+        [["• Consenso:", "Critérios diagnósticos 4."], ["• Conduta:", "Fármacos de escolha na crise."]]
+      ],
+      "highlights": [
+        "Pérola terapêutica da doença 1",
+        "Pérola terapêutica da doença 2",
+        "Pérola terapêutica da doença 3",
+        "Pérola terapêutica da doença 4"
+      ]
+    },
+    {
+      "num": "8",
+      "title": "PONTOS CRÍTICOS DE PROVA & PEGADINHAS DE ALTO RENDIMENTO (★)",
+      "theme": "Axiomas inegociáveis, pegadinhas de bancas examinadoras e falso-negativos",
+      "height": 230,
+      "data": [
+        [["• Axioma:", "Regra de ouro inegociável 1."], ["• Pegadinha:", "Distrator típico de prova."]],
+        [["• Axioma:", "Regra de ouro inegociável 2."], ["• Pegadinha:", "Distrator típico de prova."]],
+        [["• Axioma:", "Regra de ouro inegociável 3."], ["• Pegadinha:", "Distrator típico de prova."]],
+        [["• Axioma:", "Regra de ouro inegociável 4."], ["• Pegadinha:", "Distrator típico de prova."]]
+      ],
+      "highlights": [
+        "Pérola de concurso da doença 1",
+        "Pérola de concurso da doença 2",
+        "Pérola de concurso da doença 3",
+        "Pérola de concurso da doença 4"
+      ]
+    }
+  ]
+}

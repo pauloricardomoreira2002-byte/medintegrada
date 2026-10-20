@@ -1,0 +1,19 @@
+{
+  "id": "mapa_locomotor",
+  "title": "Mapa Comparativo Panorâmico: Patologias do Aparelho Locomotor",
+  "subtitle": "Quadro Sinóptico de Diagnóstico Diferencial Integrado",
+  "folder": "UCT20 CAB",
+  "category": "panoramicos",
+  "categoryLabel": "Mapa Panorâmico Integrado",
+  "dimensions": "1920 × 2756 px",
+  "htmlPath": "assets/mapas_html/mapa_comparativo_patologias_locomotor.html",
+  "svgPath": "assets/mapas_html/mapa_comparativo_patologias_locomotor.svg",
+  "type": "svg_map",
+  "desc": "Confronto sistemático e multidimensional entre Artrite Reumatoide, Gota Úrica, Lúpus Eritematoso Sistêmico, Mieloma Múltiplo e Infecções Osteoarticulares (Artrite Séptica e Osteomielite). Abrange fisiopatologia, clínica diferencial, raio-X e alvos terapêuticos.",
+  "pathologies": [
+    "Osteomielite",
+    "Artrite Séptica",
+    "Gota",
+    "Artrite Reumatoide"
+  ]
+}

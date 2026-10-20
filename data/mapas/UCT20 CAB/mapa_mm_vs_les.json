@@ -1,0 +1,17 @@
+{
+  "id": "mapa_mm_vs_les",
+  "title": "Mapa Comparativo: Mieloma Múltiplo vs Lúpus Eritematoso Sistêmico",
+  "subtitle": "Confronto Imunológico, Renal e Hematológico",
+  "folder": "UCT20 CAB",
+  "category": "panoramicos",
+  "categoryLabel": "Confronto Discriminador Fino",
+  "dimensions": "1920 × 2541 px",
+  "htmlPath": "assets/mapas_html/mapa_comparativo_mieloma_vs_lupus.html",
+  "svgPath": "assets/mapas_html/mapa_comparativo_mieloma_vs_lupus.svg",
+  "type": "svg_map",
+  "desc": "Matriz analítica confrontando proliferação plasmocitária clonal maligna com autoimunidade sistêmica por perda de tolerância. Comparação minuciosa entre lesão renal por cilindros vs glomerulonefrite mediada por imunocomplexos, critérios CRAB vs EULAR/ACR 2019 e condutas.",
+  "pathologies": [
+    "Mieloma Múltiplo",
+    "Lúpus Eritematoso Sistêmico"
+  ]
+}

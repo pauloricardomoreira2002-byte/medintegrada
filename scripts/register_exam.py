@@ -18,10 +18,41 @@ resumos_dir = os.path.join(base_dir, "data", "resumos")
 simulados_dir = os.path.join(base_dir, "data", "simulados")
 mapas_html_dir = os.path.join(base_dir, "assets", "mapas_html")
 docx_dir = os.path.join(base_dir, "assets", "docx")
+r2_json_path = os.path.join(base_dir, "scripts", "r2_uploaded_files.json")
+r2_mapping = {}
+if os.path.exists(r2_json_path):
+    try:
+        with open(r2_json_path, "r", encoding="utf-8") as r2f:
+            r2_mapping = json.load(r2f)
+        print(f"✓ Mapeamento Cloudflare R2 carregado: {len(r2_mapping)} links remotos")
+    except Exception as e:
+        print(f"Aviso: Não foi possível ler r2_uploaded_files.json ({e})")
 
 print("==================================================")
 print("  MEDINTEGRADA • REGISTRADOR & COMPILADOR DE DADOS")
 print("==================================================")
+
+def resolve_docx_link(clean_id, default_fallback):
+    """Localiza link do DOCX no Cloudflare R2 ou em assets/docx local."""
+    clean_lower = clean_id.lower()
+    
+    # 1. Procura no mapeamento do Cloudflare R2
+    for docx_name, r2_url in r2_mapping.items():
+        d_lower = docx_name.lower()
+        tokens = [t for t in clean_lower.split("_") if len(t) > 3]
+        if clean_lower in d_lower or (tokens and all(tok in d_lower for tok in tokens[:2])):
+            return r2_url
+            
+    # 2. Procura no diretório local assets/docx
+    if os.path.isdir(docx_dir):
+        for df in os.listdir(docx_dir):
+            df_lower = df.lower()
+            tokens = [t for t in clean_lower.split("_") if len(t) > 3]
+            if clean_lower in df_lower or (tokens and all(tok in df_lower for tok in tokens[:2])):
+                return f"assets/docx/{df}"
+                
+    # 3. Fallback
+    return default_fallback
 
 # 1. Carregar Resumos Detalhados (.md) por Pastas
 resumos_data = []
@@ -46,12 +77,7 @@ for folder_name, folder_path in folders_to_scan:
                 clean_id = f.replace(".md", "").replace("resumo_", "")
                 title = first_heading or clean_id.replace("_", " ").title()
 
-                docx_path = ""
-                if os.path.isdir(docx_dir):
-                    for df in os.listdir(docx_dir):
-                        if clean_id.split("_")[0] in df.lower():
-                            docx_path = f"assets/docx/{df}"
-                            break
+                docx_link = resolve_docx_link(clean_id, f"data/resumos/{folder_name}/{f}")
 
                 seen_ids.add(clean_id)
                 resumos_data.append({
@@ -64,7 +90,7 @@ for folder_name, folder_path in folders_to_scan:
                     "readingTime": f"{max(10, len(content)//2000)} min",
                     "tags": [clean_id.replace("_", " ").title(), folder_name, "Medicina", "Clínica Médica"],
                     "mdFile": f"data/resumos/{folder_name}/{f}",
-                    "docxFile": docx_path or f"data/resumos/{folder_name}/{f}",
+                    "docxFile": docx_link,
                     "content": content
                 })
 
@@ -83,12 +109,7 @@ if os.path.isdir(resumos_dir):
                         first_heading = line.replace("# ", "").strip()
                         break
                 title = first_heading or clean_id.replace("_", " ").title()
-                docx_path = ""
-                if os.path.isdir(docx_dir):
-                    for df in os.listdir(docx_dir):
-                        if clean_id.split("_")[0] in df.lower():
-                            docx_path = f"assets/docx/{df}"
-                            break
+                docx_link = resolve_docx_link(clean_id, f"data/resumos/{f}")
                 seen_ids.add(clean_id)
                 resumos_data.append({
                     "id": clean_id,
@@ -100,7 +121,7 @@ if os.path.isdir(resumos_dir):
                     "readingTime": f"{max(10, len(content)//2000)} min",
                     "tags": [clean_id.replace("_", " ").title(), "UCT20 CAB", "Medicina", "Clínica Médica"],
                     "mdFile": f"data/resumos/{f}",
-                    "docxFile": docx_path or f"data/resumos/{f}",
+                    "docxFile": docx_link,
                     "content": content
                 })
 

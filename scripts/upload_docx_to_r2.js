@@ -94,24 +94,41 @@ function uploadFile(key, filePath, contentType) {
 }
 
 async function run() {
+  const jsonPath = path.join(__dirname, 'r2_uploaded_files.json');
+  let results = {};
+  if (fs.existsSync(jsonPath)) {
+    try {
+      results = JSON.parse(fs.readFileSync(jsonPath, 'utf8'));
+    } catch (e) {
+      console.warn('Aviso: r2_uploaded_files.json não pôde ser lido, criando novo.');
+    }
+  }
+
   const docxDir = path.join(__dirname, '..', 'assets', 'docx');
-  const files = fs.readdirSync(docxDir).filter(f => f.endsWith('.docx'));
+  const targetArg = process.argv[2];
+  let filesToUpload = [];
+
+  if (targetArg && fs.existsSync(targetArg)) {
+    filesToUpload = [path.resolve(targetArg)];
+  } else if (fs.existsSync(docxDir)) {
+    filesToUpload = fs.readdirSync(docxDir)
+      .filter(f => f.endsWith('.docx'))
+      .map(f => path.join(docxDir, f));
+  }
 
   console.log(`=======================================================`);
   console.log(`  SINCRONIZADOR AUTOMÁTICO CLOUDFLARE R2`);
   console.log(`  Bucket: ${BUCKET}`);
-  console.log(`  Arquivos encontrados: ${files.length}`);
+  console.log(`  Arquivos para envio: ${filesToUpload.length}`);
   console.log(`=======================================================\n`);
 
-  const results = {};
-
-  for (let i = 0; i < files.length; i++) {
-    const file = files[i];
-    const fullPath = path.join(docxDir, file);
+  for (let i = 0; i < filesToUpload.length; i++) {
+    const fullPath = filesToUpload[i];
+    const file = path.basename(fullPath);
     const sizeMB = (fs.statSync(fullPath).size / (1024 * 1024)).toFixed(2);
     const r2Key = `docx/${file}`;
 
-    console.log(`[${i + 1}/${files.length}] Enviando: ${file} (${sizeMB} MB)...`);
+    console.log(`[${i + 1}/${filesToUpload.length}] Enviando: ${file} (${sizeMB} MB)...`);
     try {
       const res = await uploadFile(r2Key, fullPath, 'application/vnd.openxmlformats-officedocument.wordprocessingml.document');
       console.log(`   ✓ Sucesso! URL: ${res.url}`);
@@ -122,11 +139,11 @@ async function run() {
   }
 
   console.log(`\n=======================================================`);
-  console.log(`  Todos os uploads concluídos com sucesso!`);
+  console.log(`  Sincronização concluída! Total mapeado: ${Object.keys(results).length}`);
   console.log(`=======================================================`);
 
-  // Salva mapeamento em JSON para referência
-  fs.writeFileSync(path.join(__dirname, 'r2_uploaded_files.json'), JSON.stringify(results, null, 2));
+  // Salva mapeamento em JSON atualizado
+  fs.writeFileSync(jsonPath, JSON.stringify(results, null, 2));
 }
 
 run().catch(console.error);

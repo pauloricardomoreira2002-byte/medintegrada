@@ -1,0 +1,209 @@
+{
+  "id": "mapa_comparativo_exemplo_2_patologias",
+  "title": "MAPA COMPARATIVO: PATOLOGIA A vs. PATOLOGIA B",
+  "subtitle": "UCT20 • MEDICINA INTEGRADA • DIAGNÓSTICO DIFERENCIAL & RACIOCÍNIO CLÍNICO",
+  "category": "panoramicos",
+  "categoryLabel": "Confronto Discriminador Fino",
+  "meta_chips": [
+    "2 PATOLOGIAS",
+    "8 EIXOS CLÍNICOS",
+    "PADRÃO ENAMED / REVALIDA"
+  ],
+  "desc": "Confronto discriminador detalhado entre Patologia A e Patologia B, cobrindo sítio anatômico, epidemiologia, semiótica, achados laboratoriais, métodos de imagem, critérios diagnósticos e pérolas de prova.",
+  "pathologies": [
+    "Patologia A",
+    "Patologia B"
+  ],
+  "footer_left": "FACULDADE DE MEDICINA • GUIA COMPARATIVO DE ALTO RENDIMENTO",
+  "footer_right": "Fontes: UpToDate (2024-2026), Diretrizes Oficiais e Livros-Texto.",
+  "diseases": [
+    {
+      "name": "PATOLOGIA A",
+      "subtitle": "Subtítulo descritivo da patologia A",
+      "tag": "CATEGORIA A",
+      "primary": "#7c3aed",
+      "dark": "#5b21b6",
+      "border": "#8b5cf6",
+      "badge_bg": "#f3e8ff",
+      "badge_text": "#6b21a8",
+      "icon_type": "dna"
+    },
+    {
+      "name": "PATOLOGIA B",
+      "subtitle": "Subtítulo descritivo da patologia B",
+      "tag": "CATEGORIA B",
+      "primary": "#be185d",
+      "dark": "#831843",
+      "border": "#f43f5e",
+      "badge_bg": "#ffe4e6",
+      "badge_text": "#9f1239",
+      "icon_type": "butterfly"
+    }
+  ],
+  "axes": [
+    {
+      "num": "1",
+      "title": "SÍTIO ANATÔMICO & MECANISMO ETIOPATOGÊNICO",
+      "theme": "Local da agressão primária, barreiras teciduais e cascata molecular de destruição",
+      "height": 220,
+      "data": [
+        [
+          ["• Sítio Anatômico:", "Descrever o tecido ou cavidade primariamente acometida."],
+          ["• Mecanismo Molecular:", "Cascatas de citocinas, imunocomplexos ou dano celular direto."]
+        ],
+        [
+          ["• Sítio Anatômico:", "Descrever o sítio anatômico e compartimentos afetados."],
+          ["• Mecanismo Molecular:", "Fisiopatologia imunológica, infecciosa ou metabólica."]
+        ]
+      ],
+      "highlights": [
+        "Pérola de fisiopatologia da doença A",
+        "Pérola de fisiopatologia da doença B"
+      ]
+    },
+    {
+      "num": "2",
+      "title": "PERFIL EPIDEMIOLÓGICO, FAIXA ETÁRIA & GATILHOS",
+      "theme": "Demografia, razão homem:mulher, faixa etária de pico e fatores precipitantes",
+      "height": 210,
+      "data": [
+        [
+          ["• Faixa Etária e Sexo:", "Faixa etária típica e razão sexual (ex: H > M ou M > H)."],
+          ["• Fatores Precipitantes:", "Gatilhos ambientais, infecciosos, medicamentosos ou estresse."]
+        ],
+        [
+          ["• Faixa Etária e Sexo:", "Dados demográficos característicos de bancas de prova."],
+          ["• Fatores Precipitantes:", "Fatores desencadeantes e histórico de exposição."]
+        ]
+      ],
+      "highlights": [
+        "Pérola epidemiológica da doença A",
+        "Pérola epidemiológica da doença B"
+      ]
+    },
+    {
+      "num": "3",
+      "title": "APRESENTAÇÃO CLÍNICA, TOPOGRAFIA & PADRÃO DE RIGIDEZ",
+      "theme": "Semiótica da dor, articulações/órgãos acometidos, simetria e rigidez matinal",
+      "height": 230,
+      "data": [
+        [
+          ["• Semiótica da Dor:", "Padrão inflamatório vs mecânico, localização e intensidade."],
+          ["• Rigidez Matinal:", "Duração característica (ex: > 1 hora vs transitória/ausente)."],
+          ["• Sinais Sistêmicos:", "Presença de febre, astenia, emagrecimento ou sintomas B."]
+        ],
+        [
+          ["• Semiótica da Dor:", "Padrão da queixa principal e evolução cronológica."],
+          ["• Rigidez Matinal:", "Comportamento com o repouso e movimento."],
+          ["• Sinais Sistêmicos:", "Achados consumptivos ou acometimento cutâneo/visceral."]
+        ]
+      ],
+      "highlights": [
+        "Pérola semiológica da doença A",
+        "Pérola semiológica da doença B"
+      ]
+    },
+    {
+      "num": "4",
+      "title": "LÍQUIDO SINOVIAL / ÓRGÃO-ALVO / MICROBIOLOGIA / CRISTAIS",
+      "theme": "Exame confirmatório, biópsia tecidual, celularidade e achados etiológicos",
+      "height": 220,
+      "data": [
+        [
+          ["• Padrão-Ouro Laboratorial:", "Punção, biópsia ou análise de fluido biológico."],
+          ["• Celularidade / Cristais:", "Contagem leucocitária, predomínio celular e microscopia."]
+        ],
+        [
+          ["• Padrão-Ouro Laboratorial:", "Exame discriminador decisivo para confirmação."],
+          ["• Celularidade / Cristais:", "Achados microscópicos ou histopatológicos clássicos."]
+        ]
+      ],
+      "highlights": [
+        "Pérola laboratorial da doença A",
+        "Pérola laboratorial da doença B"
+      ]
+    },
+    {
+      "num": "5",
+      "title": "RADIOLOGIA, MÉTODOS DE IMAGEM & JANELA DE SENSIBILIDADE",
+      "theme": "Sinais radiográficos patognomônicos, janela evolutiva (precoce vs tardia) e RM/USG",
+      "height": 220,
+      "data": [
+        [
+          ["• Radiografia Simples (RX):", "Achados típicos (erosões, lesões líticas, osteopenia) e tempo."],
+          ["• Imagem Precoce (RM/USG):", "Método de escolha na fase inicial da doença."]
+        ],
+        [
+          ["• Radiografia Simples (RX):", "Achados radiológicos e armadilhas de fase aguda."],
+          ["• Imagem Precoce (RM/USG):", "Sensibilidade para edema ósseo ou sinovite subclínica."]
+        ]
+      ],
+      "highlights": [
+        "Pérola radiológica da doença A",
+        "Pérola radiológica da doença B"
+      ]
+    },
+    {
+      "num": "6",
+      "title": "MARCADORES LABORATORIAIS, CINÉTICA INFLAMATÓRIA & AUTOANTICORPOS",
+      "theme": "Hemograma, PCR vs VHS, anticorpos específicos, sensibilidade vs especificidade",
+      "height": 230,
+      "data": [
+        [
+          ["• Provas Inflamatórias:", "Cinética do PCR vs VHS e dissociações clínico-laboratoriais."],
+          ["• Autoanticorpos / Marcadores:", "Sensibilidade e especificidade dos testes de triagem e confirmatórios."]
+        ],
+        [
+          ["• Provas Inflamatórias:", "Comportamento da fase aguda e eletrólitos/função renal."],
+          ["• Autoanticorpos / Marcadores:", "Anticorpos patognomônicos e valor preditivo positivo."]
+        ]
+      ],
+      "highlights": [
+        "Pérola imunológica da doença A",
+        "Pérola imunológica da doença B"
+      ]
+    },
+    {
+      "num": "7",
+      "title": "CRITÉRIOS DIAGNÓSTICOS, ESTADIAMENTO & ESTRATÉGIA TERAPÊUTICA",
+      "theme": "Critérios de classificação vigentes, conduta na crise/urgência vs terapia de remissão",
+      "height": 240,
+      "data": [
+        [
+          ["• Critérios Oficiais:", "Consensos internacionais vigentes e pontuação de corte."],
+          ["• Conduta na Crise/Ataque:", "Manejo imediato, analgesia e suporte clínico."],
+          ["• Manutenção / Remissão:", "Terapia modificadora de doença e alvos terapêuticos."]
+        ],
+        [
+          ["• Critérios Oficiais:", "Critérios diagnósticos e de classificação validados."],
+          ["• Conduta na Crise/Ataque:", "Primeira linha farmacológica na emergência."],
+          ["• Manutenção / Remissão:", "Imunossupressão, quimioterapia ou profilaxia secundária."]
+        ]
+      ],
+      "highlights": [
+        "Pérola terapêutica da doença A",
+        "Pérola terapêutica da doença B"
+      ]
+    },
+    {
+      "num": "8",
+      "title": "PONTOS CRÍTICOS DE PROVA & PEGADINHAS DE ALTO RENDIMENTO (★)",
+      "theme": "Axiomas inegociáveis, pegadinhas de bancas examinadoras e falso-negativos",
+      "height": 230,
+      "data": [
+        [
+          ["• Axioma Inegociável:", "Regra de ouro que nunca deve ser esquecida em prova."],
+          ["• Pegadinha Frequente:", "Distrator clássico explorado pelo INEP/ENAMED/Revalida."]
+        ],
+        [
+          ["• Axioma Inegociável:", "Fato clínico fundamental que fecha o diagnóstico diferencial."],
+          ["• Pegadinha Frequente:", "Erro habitual de raciocínio médico em questões de concurso."]
+        ]
+      ],
+      "highlights": [
+        "Destaque definitivo de prova da doença A",
+        "Destaque definitivo de prova da doença B"
+      ]
+    }
+  ]
+}

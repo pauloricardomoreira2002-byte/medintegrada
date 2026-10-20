@@ -1,0 +1,185 @@
+{
+  "id": "mapa_comparativo_exemplo_3_patologias",
+  "title": "MAPA COMPARATIVO: CONFRONTO TRIPLO DE PATOLOGIAS",
+  "subtitle": "UCT20 • MEDICINA INTEGRADA • MATRIZ CLÍNICA DE DIAGNÓSTICO DIFERENCIAL",
+  "category": "panoramicos",
+  "categoryLabel": "Confronto Diferencial Triplo",
+  "meta_chips": [
+    "3 PATOLOGIAS",
+    "8 EIXOS CLÍNICOS",
+    "PADRÃO ENAMED / REVALIDA"
+  ],
+  "desc": "Confronto analítico e estruturado entre 3 patologias médicas de diagnóstico diferencial desafiador, comparadas em 8 eixos clínicos rigorosos com destaques de alta retenção.",
+  "pathologies": [
+    "Patologia 1",
+    "Patologia 2",
+    "Patologia 3"
+  ],
+  "footer_left": "MEDINTEGRADA • MAPA DE DIAGNÓSTICO DIFERENCIAL",
+  "footer_right": "Fontes: UpToDate (2024-2026), Consensos Oficiais e Livros-Texto.",
+  "diseases": [
+    {
+      "name": "PATOLOGIA 1",
+      "subtitle": "Subtítulo da patologia 1",
+      "tag": "DOMÍNIO 1",
+      "primary": "#0284c7",
+      "dark": "#0369a1",
+      "border": "#38bdf8",
+      "badge_bg": "#e0f2fe",
+      "badge_text": "#0369a1",
+      "icon_type": "default"
+    },
+    {
+      "name": "PATOLOGIA 2",
+      "subtitle": "Subtítulo da patologia 2",
+      "tag": "DOMÍNIO 2",
+      "primary": "#d97706",
+      "dark": "#92400e",
+      "border": "#f59e0b",
+      "badge_bg": "#fef3c7",
+      "badge_text": "#b45309",
+      "icon_type": "crystal"
+    },
+    {
+      "name": "PATOLOGIA 3",
+      "subtitle": "Subtítulo da patologia 3",
+      "tag": "DOMÍNIO 3",
+      "primary": "#7c3aed",
+      "dark": "#5b21b6",
+      "border": "#8b5cf6",
+      "badge_bg": "#f3e8ff",
+      "badge_text": "#6b21a8",
+      "icon_type": "immune"
+    }
+  ],
+  "axes": [
+    {
+      "num": "1",
+      "title": "SÍTIO ANATÔMICO & MECANISMO ETIOPATOGÊNICO",
+      "theme": "Local da agressão primária e cascata celular de dano",
+      "height": 220,
+      "data": [
+        [["• Sítio:", "Tecido ou compartimento 1."], ["• Mecanismo:", "Fisiopatologia 1."]],
+        [["• Sítio:", "Tecido ou compartimento 2."], ["• Mecanismo:", "Fisiopatologia 2."]],
+        [["• Sítio:", "Tecido ou compartimento 3."], ["• Mecanismo:", "Fisiopatologia 3."]]
+      ],
+      "highlights": [
+        "Pérola etiopatogênica 1",
+        "Pérola etiopatogênica 2",
+        "Pérola etiopatogênica 3"
+      ]
+    },
+    {
+      "num": "2",
+      "title": "PERFIL EPIDEMIOLÓGICO, FAIXA ETÁRIA & GATILHOS",
+      "theme": "Demografia, faixa etária típica, razão sexual e fatores precipitantes",
+      "height": 210,
+      "data": [
+        [["• Epidemiologia:", "Perfil demográfico 1."], ["• Gatilhos:", "Fatores desencadeantes 1."]],
+        [["• Epidemiologia:", "Perfil demográfico 2."], ["• Gatilhos:", "Fatores desencadeantes 2."]],
+        [["• Epidemiologia:", "Perfil demográfico 3."], ["• Gatilhos:", "Fatores desencadeantes 3."]]
+      ],
+      "highlights": [
+        "Pérola epidemiológica 1",
+        "Pérola epidemiológica 2",
+        "Pérola epidemiológica 3"
+      ]
+    },
+    {
+      "num": "3",
+      "title": "APRESENTAÇÃO CLÍNICA, TOPOGRAFIA & PADRÃO DE RIGIDEZ",
+      "theme": "Semiótica da dor, articulações acometidas e padrão temporal da rigidez",
+      "height": 230,
+      "data": [
+        [["• Dor & Rigidez:", "Quadro semiológico 1."], ["• Topografia:", "Distribuição 1."]],
+        [["• Dor & Rigidez:", "Quadro semiológico 2."], ["• Topografia:", "Distribuição 2."]],
+        [["• Dor & Rigidez:", "Quadro semiológico 3."], ["• Topografia:", "Distribuição 3."]]
+      ],
+      "highlights": [
+        "Pérola clínica 1",
+        "Pérola clínica 2",
+        "Pérola clínica 3"
+      ]
+    },
+    {
+      "num": "4",
+      "title": "LÍQUIDO SINOVIAL / ÓRGÃO-ALVO / MICROBIOLOGIA / CRISTAIS",
+      "theme": "Padrão-ouro laboratorial, biópsia, celularidade e achados etiológicos",
+      "height": 220,
+      "data": [
+        [["• Padrão-Ouro:", "Exame discriminador 1."], ["• Achados:", "Morfologia e celularidade 1."]],
+        [["• Padrão-Ouro:", "Exame discriminador 2."], ["• Achados:", "Morfologia e celularidade 2."]],
+        [["• Padrão-Ouro:", "Exame discriminador 3."], ["• Achados:", "Morfologia e celularidade 3."]]
+      ],
+      "highlights": [
+        "Pérola de fluido 1",
+        "Pérola de fluido 2",
+        "Pérola de fluido 3"
+      ]
+    },
+    {
+      "num": "5",
+      "title": "RADIOLOGIA, MÉTODOS DE IMAGEM & JANELA DE SENSIBILIDADE",
+      "theme": "Janela radiográfica precoce vs tardia, sinais de alerta e exame de escolha",
+      "height": 220,
+      "data": [
+        [["• RX Simples:", "Achados e tempo 1."], ["• RM / USG:", "Método precoce 1."]],
+        [["• RX Simples:", "Achados e tempo 2."], ["• RM / USG:", "Método precoce 2."]],
+        [["• RX Simples:", "Achados e tempo 3."], ["• RM / USG:", "Método precoce 3."]]
+      ],
+      "highlights": [
+        "Pérola de imagem 1",
+        "Pérola de imagem 2",
+        "Pérola de imagem 3"
+      ]
+    },
+    {
+      "num": "6",
+      "title": "MARCADORES LABORATORIAIS, CINÉTICA INFLAMATÓRIA & AUTOANTICORPOS",
+      "theme": "PCR vs VHS, hemograma, autoanticorpos específicos e biomarcadores",
+      "height": 220,
+      "data": [
+        [["• Cinética:", "Provas de fase aguda 1."], ["• Autoanticorpos:", "Marcadores sorológicos 1."]],
+        [["• Cinética:", "Provas de fase aguda 2."], ["• Autoanticorpos:", "Marcadores sorológicos 2."]],
+        [["• Cinética:", "Provas de fase aguda 3."], ["• Autoanticorpos:", "Marcadores sorológicos 3."]]
+      ],
+      "highlights": [
+        "Pérola laboratorial 1",
+        "Pérola laboratorial 2",
+        "Pérola laboratorial 3"
+      ]
+    },
+    {
+      "num": "7",
+      "title": "CRITÉRIOS DIAGNÓSTICOS, ESTADIAMENTO & ESTRATÉGIA TERAPÊUTICA",
+      "theme": "Critérios de consenso internacional, conduta na crise e remissão",
+      "height": 230,
+      "data": [
+        [["• Critérios:", "Consensos vigentes 1."], ["• Tratamento:", "Manejo agudo e manutenção 1."]],
+        [["• Critérios:", "Consensos vigentes 2."], ["• Tratamento:", "Manejo agudo e manutenção 2."]],
+        [["• Critérios:", "Consensos vigentes 3."], ["• Tratamento:", "Manejo agudo e manutenção 3."]]
+      ],
+      "highlights": [
+        "Pérola terapêutica 1",
+        "Pérola terapêutica 2",
+        "Pérola terapêutica 3"
+      ]
+    },
+    {
+      "num": "8",
+      "title": "PONTOS CRÍTICOS DE PROVA & PEGADINHAS DE ALTO RENDIMENTO (★)",
+      "theme": "Axiomas inegociáveis, pegadinhas de bancas examinadoras e falso-negativos",
+      "height": 230,
+      "data": [
+        [["• Axioma:", "Regra de ouro 1."], ["• Pegadinha:", "Distrator típico 1."]],
+        [["• Axioma:", "Regra de ouro 2."], ["• Pegadinha:", "Distrator típico 2."]],
+        [["• Axioma:", "Regra de ouro 3."], ["• Pegadinha:", "Distrator típico 3."]]
+      ],
+      "highlights": [
+        "Pérola de prova 1",
+        "Pérola de prova 2",
+        "Pérola de prova 3"
+      ]
+    }
+  ]
+}
