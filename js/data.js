@@ -142,8 +142,8 @@ window.MED_MAPAS = [
 window.MED_SIMULADOS = [
   {
     "id": "simulado_artrite_reumatoide",
-    "title": "Simulado Comentado • Artrite Reumatoide",
-    "subtitle": "40 Questões no Padrão ENAMED/INEP com Raio-X Cognitivo dos Distratores",
+    "title": "Artrite Reumatoide",
+    "subtitle": "",
     "badge": "ENAMED / Residência Médica • Nível Avançado",
     "theme": "Artrite Reumatoide",
     "area": "Clínica Médica • Reumatologia",
@@ -1394,8 +1394,8 @@ window.MED_SIMULADOS = [
   },
   {
     "id": "simulado_artrite_septica_osteomielite",
-    "title": "Simulado Comentado • Artrite Séptica e Osteomielite",
-    "subtitle": "40 Questões no Padrão ENAMED/INEP com Raio-X Cognitivo dos Distratores",
+    "title": "Artrite Séptica e Osteomielite",
+    "subtitle": "",
     "badge": "ENAMED / Residência Médica • Nível Avançado",
     "theme": "Infecções Osteoarticulares",
     "area": "Clínica Médica • Infectologia e Ortopedia",
@@ -2646,8 +2646,8 @@ window.MED_SIMULADOS = [
   },
   {
     "id": "simulado_gota_hiperuricemia",
-    "title": "Simulado Comentado • Hiperuricemia e Gota",
-    "subtitle": "40 Questões no Padrão ENAMED/INEP com Raio-X Cognitivo dos Distratores",
+    "title": "Hiperuricemia e Gota",
+    "subtitle": "",
     "badge": "ENAMED / Residência Médica • Nível Avançado",
     "theme": "Hiperuricemia e Artrite Gotosa",
     "area": "Clínica Médica • Reumatologia",
@@ -3898,8 +3898,8 @@ window.MED_SIMULADOS = [
   },
   {
     "id": "simulado_lupus_eritematoso_sistemico",
-    "title": "Simulado Comentado • Lúpus Eritematoso Sistêmico",
-    "subtitle": "40 Questões no Padrão ENAMED/INEP com Raio-X Cognitivo dos Distratores",
+    "title": "Lúpus Eritematoso Sistêmico",
+    "subtitle": "",
     "badge": "ENAMED / Residência Médica • Nível Avançado",
     "theme": "Lúpus Eritematoso Sistêmico (LES)",
     "area": "Clínica Médica • Reumatologia",
@@ -5150,8 +5150,8 @@ window.MED_SIMULADOS = [
   },
   {
     "id": "simulado_mieloma_multiplo",
-    "title": "Simulado Comentado • Mieloma Múltiplo",
-    "subtitle": "40 Questões no Padrão ENAMED/INEP com Raio-X Cognitivo dos Distratores",
+    "title": "Mieloma Múltiplo",
+    "subtitle": "",
     "badge": "ENAMED / Residência Médica • Nível Avançado",
     "theme": "Mieloma Múltiplo e Gamopatias Monoclonais",
     "area": "Clínica Médica • Hematologia e Nefrologia",

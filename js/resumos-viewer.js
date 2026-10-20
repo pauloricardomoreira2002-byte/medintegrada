@@ -168,6 +168,26 @@
       .replace(/`([^`]+)`/g, '<code>$1</code>');
   }
 
+  function getCardIllustration(id, title) {
+    const t = ((id || '') + ' ' + (title || '')).toLowerCase();
+    if (t.includes('reumat') || t.includes('artrite_reumatoide') || t.includes('artrite reumatoide')) {
+      return { themeClass: 'theme-reumato', icon: '🦴', color: '#0ea5e9' };
+    }
+    if (t.includes('gota') || t.includes('uric') || t.includes('hiperuricemia')) {
+      return { themeClass: 'theme-gota', icon: '🦶', color: '#f59e0b' };
+    }
+    if (t.includes('lupus') || t.includes('lúpus') || t.includes('les')) {
+      return { themeClass: 'theme-lupus', icon: '🦋', color: '#f43f5e' };
+    }
+    if (t.includes('mieloma') || t.includes('gamopatia')) {
+      return { themeClass: 'theme-mieloma', icon: '🩸', color: '#a855f7' };
+    }
+    if (t.includes('septica') || t.includes('séptica') || t.includes('osteo') || t.includes('infecc')) {
+      return { themeClass: 'theme-infecciosa', icon: '🦠', color: '#10b981' };
+    }
+    return { themeClass: 'theme-default', icon: '📋', color: '#38bdf8' };
+  }
+
   const ResumosViewer = {
     currentResumo: null,
     scrollSpyListener: null,
@@ -344,18 +364,24 @@
           .replace(/\s*•\s*Guia Definitivo/gi, '')
           .replace(/\s*•\s*Infecções Osteoarticulares/gi, '')
           .trim();
+        const ill = getCardIllustration(r.id, cleanTitle);
 
         return `
         <div class="resumo-card" data-id="${r.id}">
-          <div class="resumo-card-header">
-            <span class="resumo-module-tag">${r.folder || 'UCT20 CAB'}</span>
+          <div class="card-illustration-header ${ill.themeClass}">
+            <div class="card-illustration-glow"></div>
+            <div class="card-illustration-circle">
+              <span class="card-illustration-emoji">${ill.icon}</span>
+            </div>
           </div>
-          <h3 class="resumo-card-title">${cleanTitle}</h3>
-          <div class="resumo-card-footer">
-            <button class="btn btn-primary btn-sm btn-open-reader" data-id="${r.id}">
-              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"/><path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"/></svg>
-              Ler Resumo
-            </button>
+          <div class="resumo-card-body">
+            <h3 class="resumo-card-title">${cleanTitle}</h3>
+            <div class="resumo-card-footer">
+              <button class="btn btn-primary btn-sm btn-open-reader" data-id="${r.id}">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"/><path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"/></svg>
+                Ler Resumo
+              </button>
+            </div>
           </div>
         </div>
       `;

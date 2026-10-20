@@ -11,6 +11,26 @@
   const STORAGE_HIGHLIGHTER_GLOBAL_KEY = 'med_highlighter_enabled_pref';
   const STORAGE_HIGHLIGHTER_COLOR_KEY = 'med_highlighter_color_pref';
 
+  function getCardIllustration(id, title) {
+    const t = ((id || '') + ' ' + (title || '')).toLowerCase();
+    if (t.includes('reumat') || t.includes('artrite_reumatoide') || t.includes('artrite reumatoide')) {
+      return { themeClass: 'theme-reumato', icon: '🦴', color: '#0ea5e9' };
+    }
+    if (t.includes('gota') || t.includes('uric') || t.includes('hiperuricemia')) {
+      return { themeClass: 'theme-gota', icon: '🦶', color: '#f59e0b' };
+    }
+    if (t.includes('lupus') || t.includes('lúpus') || t.includes('les')) {
+      return { themeClass: 'theme-lupus', icon: '🦋', color: '#f43f5e' };
+    }
+    if (t.includes('mieloma') || t.includes('gamopatia')) {
+      return { themeClass: 'theme-mieloma', icon: '🩸', color: '#a855f7' };
+    }
+    if (t.includes('septica') || t.includes('séptica') || t.includes('osteo') || t.includes('infecc')) {
+      return { themeClass: 'theme-infecciosa', icon: '🦠', color: '#10b981' };
+    }
+    return { themeClass: 'theme-default', icon: '📋', color: '#38bdf8' };
+  }
+
   const SimuladoEngine = {
     allExams: [],
     activeExam: null,
@@ -252,43 +272,49 @@
         const pct = answered > 0 ? Math.round((correct / answered) * 100) : 0;
         const progressPct = total > 0 ? Math.round((answered / total) * 100) : 0;
 
+        const cleanTitle = (exam.title || '')
+          .replace(/^Simulado\s+Comentado\s*[•:\-]?\s*/i, '')
+          .trim();
+        const ill = getCardIllustration(exam.id, cleanTitle);
+
         return `
           <div class="simulado-card" data-exam-id="${exam.id}">
-            <div class="simulado-card-top">
-              <div class="simulado-card-tags">
-                <span class="badge badge-primary">${exam.badge || 'ENAMED / INEP'}</span>
-                <span class="badge badge-indigo">${exam.theme || exam.area || 'Clínica Médica'}</span>
-                <span class="badge" style="background:rgba(255,255,255,0.06); color:var(--text-dim);">${exam.folder || 'UCT20 CAB'}</span>
-              </div>
-              <h3 class="simulado-card-title">${exam.title}</h3>
-              <p class="simulado-card-subtitle">${exam.subtitle || `${total} Questões Psicométricas`}</p>
-            </div>
-
-            <div class="simulado-card-stats">
-              <div class="simulado-stat-item">
-                <span class="stat-label">Progresso</span>
-                <span class="stat-value">${answered} / ${total}</span>
-              </div>
-              <div class="simulado-stat-item">
-                <span class="stat-label">Aproveitamento</span>
-                <span class="stat-value" style="color: ${pct >= 70 ? 'var(--color-success)' : pct > 0 ? 'var(--color-warning)' : 'inherit'};">${answered > 0 ? `${pct}%` : '--'}</span>
+            <div class="card-illustration-header ${ill.themeClass}">
+              <div class="card-illustration-glow"></div>
+              <div class="card-illustration-circle">
+                <span class="card-illustration-emoji">${ill.icon}</span>
               </div>
             </div>
 
-            <div>
-              <div style="display:flex; justify-content:space-between; font-size:0.75rem; color:var(--text-dim);">
-                <span>Conclusão</span>
-                <span>${progressPct}%</span>
-              </div>
-              <div class="simulado-progress-bar-bg">
-                <div class="simulado-progress-bar-fill" style="width: ${progressPct}%;"></div>
-              </div>
-            </div>
+            <div class="simulado-card-body">
+              <h3 class="simulado-card-title">${cleanTitle}</h3>
 
-            <button class="btn btn-primary btn-start-exam" data-exam-id="${exam.id}" style="width: 100%;">
-              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polygon points="5 3 19 12 5 21 5 3"/></svg>
-              ${answered === 0 ? 'Iniciar Simulado' : answered === total ? 'Revisar Simulado' : 'Continuar Simulado'}
-            </button>
+              <div class="simulado-card-stats">
+                <div class="simulado-stat-item">
+                  <span class="stat-label">Progresso</span>
+                  <span class="stat-value">${answered} / ${total}</span>
+                </div>
+                <div class="simulado-stat-item">
+                  <span class="stat-label">Aproveitamento</span>
+                  <span class="stat-value" style="color: ${pct >= 70 ? 'var(--color-success)' : pct > 0 ? 'var(--color-warning)' : 'inherit'};">${answered > 0 ? `${pct}%` : '--'}</span>
+                </div>
+              </div>
+
+              <div>
+                <div style="display:flex; justify-content:space-between; font-size:0.75rem; color:var(--text-dim); margin-bottom: 4px;">
+                  <span>Conclusão</span>
+                  <span>${progressPct}%</span>
+                </div>
+                <div class="simulado-progress-bar-bg">
+                  <div class="simulado-progress-bar-fill" style="width: ${progressPct}%;"></div>
+                </div>
+              </div>
+
+              <button class="btn btn-primary btn-start-exam" data-exam-id="${exam.id}" style="width: 100%;">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polygon points="5 3 19 12 5 21 5 3"/></svg>
+                ${answered === 0 ? 'Iniciar Simulado' : answered === total ? 'Revisar Simulado' : 'Continuar Simulado'}
+              </button>
+            </div>
           </div>
         `;
       }).join('');
