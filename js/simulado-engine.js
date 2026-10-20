@@ -254,10 +254,7 @@
           <div class="empty-folder-box" style="grid-column: 1 / -1;">
             <div class="empty-folder-icon">📝</div>
             <h3 class="empty-folder-title">Pasta ${this.activeFolder} Vazia</h3>
-            <p class="empty-folder-desc">Nenhum simulado cadastrado nesta pasta ainda. Ao adicionar arquivos de simulado ou importar via JSON, eles ficarão disponíveis para resolução imediata.</p>
-            <button class="btn btn-secondary btn-sm" onclick="document.getElementById('btn-open-exam-importer').click()">
-              📥 Importar Simulado para esta Pasta
-            </button>
+            <p class="empty-folder-desc">Nenhum simulado cadastrado nesta pasta ainda. Os simulados vinculados a ${this.activeFolder} aparecerão automaticamente aqui.</p>
             <span class="empty-folder-badge" style="margin-top:16px;">📂 Diretório: data/simulados/${this.activeFolder}</span>
           </div>
         `;

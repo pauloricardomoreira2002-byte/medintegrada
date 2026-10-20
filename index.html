@@ -238,12 +238,7 @@
             <div class="section-title-group">
               <span class="section-tag">Engenharia Psicométrica Avançada</span>
               <h2 class="section-title">Banco de Questões & Simulados Comentados</h2>
-              <p class="section-desc">Simulados completos com os 6 vetores de distratores de elite, gabarito balanceado anti-bias, grifo interativo persistente, eliminação de alternativas (riscar) e feedback imediato.</p>
             </div>
-            <button class="btn btn-secondary btn-sm" id="btn-open-exam-importer">
-              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="17 8 12 3 7 8"/><line x1="12" y1="3" x2="12" y2="15"/></svg>
-              📥 Importar Simulado (JSON)
-            </button>
           </div>
 
           <!-- Seletor de Pastas: Simulados -->
@@ -610,44 +605,7 @@
     </div>
   </div>
 
-  <!-- ================= MODAL 4: IMPORTADOR DE SIMULADOS JSON ================= -->
-  <div class="modal-overlay" id="modal-exam-importer">
-    <div class="modal-content" style="max-width: 650px;">
-      <div class="modal-header">
-        <h3 class="modal-title">📥 Importar Novo Simulado (JSON)</h3>
-        <button class="btn btn-ghost btn-sm btn-icon" id="btn-close-importer">✕</button>
-      </div>
-      <form id="form-exam-importer">
-        <div class="modal-body" style="display: flex; flex-direction: column; gap: 16px;">
-          <p style="font-size: 0.9rem; color: var(--text-muted);">
-            Cole abaixo a estrutura JSON de um novo simulado gerado pela IA ou faça upload do arquivo <code>.json</code>. O simulado será validado e adicionado imediatamente à sua biblioteca de provas.
-          </p>
 
-          <div class="form-group" style="margin-bottom: 0;">
-            <label class="form-label" for="importer-folder-select">Pasta de Destino do Simulado:</label>
-            <select id="importer-folder-select" class="form-control" style="font-weight: 600;">
-              <option value="UCT20 CAB">📁 UCT20 CAB (Casos Atuais da Disciplina)</option>
-              <option value="UCT20 Tutoria">📁 UCT20 Tutoria (Casos de Tutoria / PBL)</option>
-            </select>
-          </div>
-
-          <div class="form-group" style="margin-bottom: 0;">
-            <label class="form-label" for="importer-file-input">Carregar Arquivo .json</label>
-            <input type="file" id="importer-file-input" class="form-control" accept=".json">
-          </div>
-
-          <div class="form-group" style="margin-bottom: 0;">
-            <label class="form-label" for="importer-json-textarea">Ou cole o código JSON aqui:</label>
-            <textarea id="importer-json-textarea" class="form-control font-mono" style="height: 180px; font-size: 0.8rem;" placeholder='{"id": "simulado_exemplo", "title": "Simulado...", "questions": [...] }'></textarea>
-          </div>
-        </div>
-        <div class="modal-footer">
-          <button type="button" class="btn btn-secondary" onclick="document.getElementById('modal-exam-importer').classList.remove('active');">Cancelar</button>
-          <button type="submit" class="btn btn-primary">Salvar e Carregar Simulado</button>
-        </div>
-      </form>
-    </div>
-  </div>
 
   <!-- JAVASCRIPT BUNDLES & CONTROLLERS (Cache-Busting v2.3) -->
   <script src="js/data.js?v=2.3"></script>

@@ -90,7 +90,7 @@ assert(html.includes('id="simulados-folder-tabs"'), 'Seletor de pastas presente 
 assert(html.includes('id="badge-count-simulados-cab"'), 'Badge de contagem CAB presente na aba Simulados');
 assert(html.includes('id="badge-count-simulados-tutoria"'), 'Badge de contagem Tutoria presente na aba Simulados');
 
-assert(html.includes('id="importer-folder-select"'), 'Dropdown de seleção de pasta de destino presente no Importador de Simulados');
+assert(!html.includes('id="modal-exam-importer"'), 'Opção de importação de simulados via plataforma removida com sucesso');
 
 // 4. Testar Lógica de Troca de Pastas e Estado Vazio
 console.log('\n[4/4] Testando Lógica Interativa dos Módulos (Visualizadores & Motor):');
@@ -197,7 +197,7 @@ assert(String(domElements['badge-count-simulados-cab'].textContent) === '5', 'Co
 assert(String(domElements['badge-count-simulados-tutoria'].textContent) === '0', 'Contagem badge simulados Tutoria é 0');
 
 SE.setFolder('UCT20 Tutoria');
-assert(domElements['simulados-catalog-grid'].innerHTML.includes('Pasta UCT20 Tutoria Vazia'), 'Simulados Tutoria exibe estado vazio com botão de importação');
+assert(domElements['simulados-catalog-grid'].innerHTML.includes('Pasta UCT20 Tutoria Vazia'), 'Simulados Tutoria exibe estado vazio limpo');
 
 // Teste de importação de simulado para a pasta Tutoria
 const newExamTutoria = JSON.stringify({
