@@ -64,7 +64,7 @@ Para que um resumo funcione perfeitamente na plataforma, ele deve respeitar a es
    - **Tabelas de Critérios Oficiais:** Critérios diagnósticos e de classificação com seus escores e pontuações (ex.: ACR/EULAR, Jones, Duke, CRAB, etc.).
    - **Topografia e "O que a Doença Poupa":** Identifique minuciosamente articulações/regiões poupadas e exceções anatômicas (pegadinhas de avaliação médica).
    - **Cronologia Radiográfica & Histopatologia:** Sinais de imagem por tempo evolutivo e arquitetura microscópica concêntrica/zonas de necrose.
-3. **Plano de Esquemas Gráficos:** Liste entre 10 e 15 esquemas vetoriais (SVG) a serem criados para cobrir visualmente cada capítulo do resumo.
+3. **Plano de Esquemas Gráficos:** Liste entre 10 e 15 (ou mais de acordo com a complexidade do tema) esquemas vetoriais (SVG) a serem criados para cobrir visualmente cada capítulo do resumo.
 
 ---
 

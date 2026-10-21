@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 470" width="900" height="470">
+  <defs>
+    <linearGradient id="bg7" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#f8fafc"/><stop offset="100%" stop-color="#f1f5f9"/></linearGradient>
+    <filter id="sh7" x="-5%" y="-5%" width="110%" height="110%"><feDropShadow dx="2" dy="3" stdDeviation="3" flood-color="#475569" flood-opacity="0.15"/></filter>
+  </defs>
+  <rect width="900" height="470" rx="16" fill="url(#bg7)" stroke="#cbd5e1" stroke-width="2"/>
+  <rect x="30" y="20" width="840" height="55" rx="10" fill="#1e3a8a" filter="url(#sh7)"/>
+  <text x="450" y="46" font-family="'Segoe UI', Roboto, sans-serif" font-size="18" font-weight="bold" fill="#ffffff" text-anchor="middle">ENTORSES: GRADUAÇÃO LIGAMENTAR E REGRAS DE OTTAWA</text>
+  <text x="450" y="64" font-family="'Segoe UI', Roboto, sans-serif" font-size="12" fill="#bfdbfe" text-anchor="middle">A armadilha nociceptiva do Grau III e critérios de sensibilidade ~100% para solicitação de radiografia</text>
+
+  <!-- Painel Esquerdo: Graduação I, II e III -->
+  <g transform="translate(35, 95)" filter="url(#sh7)">
+    <rect width="400" height="350" rx="10" fill="#ffffff" stroke="#3b82f6" stroke-width="1.5"/>
+    <rect width="400" height="35" rx="10" fill="#2563eb"/>
+    <text x="200" y="23" font-family="'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="bold" fill="#ffffff" text-anchor="middle">GRADUAÇÃO DAS ENTORSES LIGAMENTARES</text>
+
+    <!-- Grau I -->
+    <rect x="15" y="45" width="370" height="68" rx="6" fill="#ecfdf5" stroke="#10b981" stroke-width="1"/>
+    <text x="25" y="65" font-family="'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#065f46">GRAU I (Leve): Estiramento Microscópico</text>
+    <text x="25" y="81" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" fill="#334155">• Ligamento macroscopicamente íntegro; SEM frouxidão articular.</text>
+    <text x="25" y="95" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" fill="#334155">• Dor leve, edema discreto, suporte de carga imediato; retorno: 1-2 semanas.</text>
+
+    <!-- Grau II -->
+    <rect x="15" y="120" width="370" height="74" rx="6" fill="#fffbeb" stroke="#f59e0b" stroke-width="1"/>
+    <text x="25" y="140" font-family="'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#92400e">GRAU II (Moderado): Ruptura PARCIAL das Fibras</text>
+    <text x="25" y="156" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" fill="#334155">• Frouxidão leve/moderada, PORÉM COM PONTO FINAL FIRME!</text>
+    <text x="25" y="170" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" fill="#334155">• Dor moderada a intensa, equimose local; imobilização funcional: 3-6 semanas.</text>
+
+    <!-- Grau III -->
+    <rect x="15" y="202" width="370" height="135" rx="6" fill="#fef2f2" stroke="#ef4444" stroke-width="1.5"/>
+    <text x="25" y="222" font-family="'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#b91c1c">GRAU III (Grave): Ruptura COMPLETA do Ligamento</text>
+    <text x="25" y="238" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" fill="#7f1d1d">• Frouxidão FRANCA, SEM ponto final definido ao estresse.</text>
+    <text x="25" y="254" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" fill="#334155">• Grande edema, equimose difusa e incapacidade de apoio plantar.</text>
+    <rect x="25" y="265" width="350" height="62" rx="4" fill="#ffffff" stroke="#b91c1c" stroke-width="1"/>
+    <text x="35" y="283" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="bold" fill="#b91c1c">⚠️ A ARMADILHA SEMIOLÓGICA DO GRAU III:</text>
+    <text x="35" y="299" font-family="'Segoe UI', Roboto, sans-serif" font-size="9.5" fill="#334155">Pode doer MENOS que o Grau II porque as terminações</text>
+    <text x="35" y="313" font-family="'Segoe UI', Roboto, sans-serif" font-size="9.5" fill="#b91c1c">nervosas nociceptivas foram completamente rompidas!</text>
+    <text x="35" y="323" font-family="'Segoe UI', Roboto, sans-serif" font-size="8.5" fill="#64748b">O que define a gravidade é o exame de estabilidade, NÃO a dor!</text>
+  </g>
+
+  <!-- Painel Direito: Regras de Ottawa -->
+  <g transform="translate(455, 95)" filter="url(#sh7)">
+    <rect width="410" height="350" rx="10" fill="#ffffff" stroke="#10b981" stroke-width="1.5"/>
+    <rect width="410" height="35" rx="10" fill="#059669"/>
+    <text x="205" y="23" font-family="'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="bold" fill="#ffffff" text-anchor="middle">REGRAS DE DECISÃO CLÍNICA DE OTTAWA</text>
+
+    <!-- Quando pedir RX de Tornozelo -->
+    <rect x="15" y="45" width="380" height="120" rx="6" fill="#ecfdf5" stroke="#a7f3d0" stroke-width="1"/>
+    <text x="25" y="65" font-family="'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#065f46">Pedir RADIOGRAFIA DO TORNOZELO se dor maleolar E:</text>
+    <text x="25" y="85" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" fill="#1f2937">• Dor à palpação da borda posterior ou ápice do</text>
+    <text x="35" y="99" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" fill="#0f766e"><tspan font-weight="bold">MALÉOLO LATERAL</tspan> (últimos 6 cm distais) OU</text>
+    <text x="25" y="117" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" fill="#1f2937">• Dor à palpação da borda posterior ou ápice do</text>
+    <text x="35" y="131" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" fill="#0f766e"><tspan font-weight="bold">MALÉOLO MEDIAL</tspan> (últimos 6 cm distais) OU</text>
+    <text x="25" y="149" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" fill="#b91c1c">• Incapacidade de apoiar o peso e dar 4 PASSOS!</text>
+
+    <!-- Quando pedir RX de Pé -->
+    <rect x="15" y="175" width="380" height="100" rx="6" fill="#eff6ff" stroke="#bfdbfe" stroke-width="1"/>
+    <text x="25" y="195" font-family="'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#1e40af">Pedir RADIOGRAFIA DO PÉ se dor no médio-pé E:</text>
+    <text x="25" y="213" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" fill="#1f2937">• Dor à palpação da <tspan font-weight="bold" fill="#1d4ed8">BASE DO 5º METATARSO</tspan> OU</text>
+    <text x="25" y="231" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" fill="#1f2937">• Dor à palpação do osso <tspan font-weight="bold" fill="#1d4ed8">NAVICULAR</tspan> OU</text>
+    <text x="25" y="249" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" fill="#b91c1c">• Incapacidade de apoiar peso e dar 4 PASSOS!</text>
+
+    <!-- Resumo Ottawa -->
+    <rect x="15" y="285" width="380" height="52" rx="6" fill="#1e293b"/>
+    <text x="205" y="305" font-family="'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#38bdf8" text-anchor="middle">SENSIBILIDADE DE QUASE 100% PARA EXCLUIR FRATURAS</text>
+    <text x="205" y="323" font-family="'Segoe UI', Roboto, sans-serif" font-size="9.5" fill="#cbd5e1" text-anchor="middle">Reduz em até 40% a solicitação desnecessária de exames de raios X!</text>
+  </g>
+</svg>

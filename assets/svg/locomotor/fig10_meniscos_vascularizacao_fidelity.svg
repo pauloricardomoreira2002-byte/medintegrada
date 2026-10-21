@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 460" width="900" height="460">
+  <defs>
+    <linearGradient id="bg10" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#f8fafc"/><stop offset="100%" stop-color="#f1f5f9"/></linearGradient>
+    <filter id="sh10" x="-5%" y="-5%" width="110%" height="110%"><feDropShadow dx="2" dy="3" stdDeviation="3" flood-color="#475569" flood-opacity="0.15"/></filter>
+  </defs>
+  <rect width="900" height="460" rx="16" fill="url(#bg10)" stroke="#cbd5e1" stroke-width="2"/>
+  <rect x="30" y="20" width="840" height="55" rx="10" fill="#1e3a8a" filter="url(#sh10)"/>
+  <text x="450" y="46" font-family="'Segoe UI', Roboto, sans-serif" font-size="18" font-weight="bold" fill="#ffffff" text-anchor="middle">MENISCOPATIAS: ZONAS VASCULARES E A REVOLUÇÃO CONSERVADORA</text>
+  <text x="450" y="64" font-family="'Segoe UI', Roboto, sans-serif" font-size="12" fill="#bfdbfe" text-anchor="middle">Zonas Vermelha/Branca, menisco medial vs lateral e por que o ensaio FIDELITY mudou a ortopedia</text>
+
+  <!-- Lado Esquerdo: Anatomia e Zonas de Vascularização -->
+  <g transform="translate(35, 95)" filter="url(#sh10)">
+    <rect width="400" height="340" rx="10" fill="#ffffff" stroke="#3b82f6" stroke-width="1.5"/>
+    <rect width="400" height="35" rx="10" fill="#2563eb"/>
+    <text x="200" y="23" font-family="'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="bold" fill="#ffffff" text-anchor="middle">ZONAS DE VASCULARIZAÇÃO MENISCAL</text>
+
+    <!-- Vermelha-Vermelha -->
+    <rect x="15" y="48" width="370" height="70" rx="6" fill="#fef2f2" stroke="#ef4444" stroke-width="1.5"/>
+    <text x="25" y="68" font-family="'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#b91c1c">1. Zona Vermelha-Vermelha (Terço Periférico):</text>
+    <text x="25" y="84" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" fill="#334155">• <tspan font-weight="bold">Ricamente vascularizada</tspan> pelas artérias geniculares.</text>
+    <text x="25" y="98" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" fill="#15803d">• Excelente potencial biológico de cicatrização.</text>
+    <text x="25" y="112" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" fill="#065f46">→ <tspan font-weight="bold">CONDUTA: SUTURA MENISCAL (Reparo)</tspan> obrigatório!</text>
+
+    <!-- Vermelha-Branca -->
+    <rect x="15" y="126" width="370" height="64" rx="6" fill="#fffbeb" stroke="#f59e0b" stroke-width="1"/>
+    <text x="25" y="146" font-family="'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#b45309">2. Zona Vermelha-Branca (Terço Médio):</text>
+    <text x="25" y="162" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" fill="#334155">• Vascularização limítrofe; cicatrização intermediária.</text>
+    <text x="25" y="176" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" fill="#475569">• Reparo tentado em pacientes jovens e lesões limpas.</text>
+
+    <!-- Branca-Branca -->
+    <rect x="15" y="198" width="370" height="74" rx="6" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"/>
+    <text x="25" y="218" font-family="'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#334155">3. Zona Branca-Branca (Terço Central / Borda Livre):</text>
+    <text x="25" y="234" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" fill="#b91c1c">• <tspan font-weight="bold">TOTALMENTE AVASCULAR</tspan> (nutrição só por difusão sinovial).</text>
+    <text x="25" y="248" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" fill="#b91c1c">• NÃO cicatriza jamais.</text>
+    <text x="25" y="262" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" fill="#334155">→ Se sintomas mecânicos: <tspan font-weight="bold">MENISCECTOMIA PARCIAL econômica</tspan>.</text>
+
+    <!-- Medial vs Lateral -->
+    <rect x="15" y="280" width="370" height="48" rx="6" fill="#eff6ff" stroke="#bfdbfe" stroke-width="1"/>
+    <text x="25" y="298" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="bold" fill="#1e40af">Medial vs Lateral:</text>
+    <text x="25" y="314" font-family="'Segoe UI', Roboto, sans-serif" font-size="9" fill="#334155">Medial (formato em "C", menos móvel, mais lesado) vs Lateral (formato em "O", menisco discoide).</text>
+  </g>
+
+  <!-- Lado Direito: A Virada Científica FIDELITY & METEOR -->
+  <g transform="translate(455, 95)" filter="url(#sh10)">
+    <rect width="410" height="340" rx="10" fill="#ffffff" stroke="#10b981" stroke-width="1.5"/>
+    <rect width="410" height="35" rx="10" fill="#059669"/>
+    <text x="205" y="23" font-family="'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="bold" fill="#ffffff" text-anchor="middle">A MUDANÇA DE PARADIGMA: FIDELITY &amp; METEOR</text>
+
+    <rect x="15" y="48" width="380" height="120" rx="6" fill="#ecfdf5" stroke="#a7f3d0" stroke-width="1"/>
+    <text x="25" y="68" font-family="'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#065f46">Os Grandes Ensaios Clínicos Randomizados:</text>
+    <text x="25" y="86" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" fill="#334155">• <tspan font-weight="bold">FIDELITY (NEJM):</tspan> Meniscectomia parcial vs CIRURGIA SIMULADA</text>
+    <text x="35" y="100" font-family="'Segoe UI', Roboto, sans-serif" font-size="9.5" fill="#047857">(placebo). Resultados idênticos em dor e função!</text>
+    <text x="25" y="118" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" fill="#334155">• <tspan font-weight="bold">METEOR:</tspan> Artroscopia vs FISIOTERAPIA motora com</text>
+    <text x="35" y="132" font-family="'Segoe UI', Roboto, sans-serif" font-size="9.5" fill="#047857">fortalecimento de quadríceps. Sem diferença clínica!</text>
+    <text x="25" y="150" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="bold" fill="#b91c1c">Conclusão: Em lesão degenerativa, a artroscopia NÃO é superior!</text>
+
+    <rect x="15" y="176" width="380" height="150" rx="6" fill="#1e293b"/>
+    <text x="205" y="196" font-family="'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="bold" fill="#38bdf8" text-anchor="middle">CONDUTA CONTEMPORÂNEA BASEADA EM EVIDÊNCIAS</text>
+    <text x="25" y="218" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" fill="#4ade80">• <tspan font-weight="bold">Tratamento Inicial:</tspan> 100% CONSERVADOR para lesões degenerativas.</text>
+    <text x="35" y="232" font-family="'Segoe UI', Roboto, sans-serif" font-size="9.5" fill="#cbd5e1">Fortalecimento muscular, perda de peso, controle analgésico.</text>
+    <text x="25" y="252" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" fill="#f87171">• <tspan font-weight="bold">Quando Operar Artroscopia?</tspan></text>
+    <text x="35" y="266" font-family="'Segoe UI', Roboto, sans-serif" font-size="9.5" fill="#cbd5e1">1. Bloqueio mecânico articular verdadeiro (lesão em alça de balde).</text>
+    <text x="35" y="280" font-family="'Segoe UI', Roboto, sans-serif" font-size="9.5" fill="#cbd5e1">2. Falha de tratamento conservador rigoroso por &gt; 3 a 6 meses.</text>
+    <text x="25" y="302" font-family="'Segoe UI', Roboto, sans-serif" font-size="9.5" fill="#fbbf24">• <tspan font-weight="bold">Meniscectomia Total:</tspan> Totalmente ABANDONADA (gera artrose grave).</text>
+    <text x="25" y="316" font-family="'Segoe UI', Roboto, sans-serif" font-size="9" fill="#94a3b8">• Lesão de Raiz Meniscal = Equivale funcionalmente à perda total do menisco.</text>
+  </g>
+</svg>
